@@ -24,6 +24,12 @@
       <file name="$USER_HOME$/source/repos/HelloRider47/.idea/.idea.HelloRider47/.idea/indexLayout.xml" timestamp="1527170874991">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/courseevaluations/src/components/notifyOnChangeInput.js" timestamp="1528384883303">
+        <mark key="[" line="23" column="3" />
+        <mark key="]" line="24" column="1" />
+        <mark key="." line="24" column="1" />
+        <mark key="^" line="24" column="1" />
+      </file>
       <file name="$USER_HOME$/source/repos/HelloRider47/HelloRider47/Program.cs" timestamp="1528204257602">
         <mark key="'" line="77" column="3" />
         <mark key="[" line="110" column="11" />
@@ -36,8 +42,20 @@
         <mark key="]" line="19" column="47" />
         <mark key="." line="19" column="47" />
       </file>
+      <file name="$USER_HOME$/source/repos/courseevaluations/src/components/deprecated/permissionsGroupFlow/groupInfo.js" timestamp="1528384835995">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="1" />
+      </file>
       <file name="$USER_HOME$/source/repos/HelloRider47/HelloRider47.sln" timestamp="1527170851537">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/courseevaluations/src/components/permissions/reportViews.js" timestamp="1528384902442">
+        <mark key="[" line="17" column="3" />
+        <mark key="]" line="18" column="1" />
+        <mark key="." line="18" column="1" />
+        <mark key="^" line="18" column="1" />
       </file>
       <file name="$USER_HOME$/source/repos/courseevaluations-reporting/CourseEvaluationReporting/Reporting/DataAccess/Idea/GetUnitSummaryReport.cs" timestamp="1527000641319">
         <mark key="[" line="207" column="16" />
@@ -72,6 +90,12 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="6" column="42" />
       </file>
+      <file name="$USER_HOME$/source/repos/courseevaluations/src/components/hover.js" timestamp="1528384861118">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="12" column="1" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/source/repos/HelloRider47/HelloRider47/HelloRider47.csproj" />
@@ -82,51 +106,60 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBFdmVudEhhbmRsZXIgRmFsbHNJbGwgeyBnZXQ7IHNldDsgfQo=</text>
+        <text encoding="base64">ICBzdGF0aWMgZ2V0RGVyaXZlZFN0YXRlRnJvbVByb3BzKG5leHRQcm9wcykgewogICAgcmV0dXJuIHsKICAgICAgc2hvd0hlbHBlcjogZmFsc2UsCiAgICAgIGFsbFZpZXdzQWxsb3dlZDogbmV4dFByb3BzLmNoaWxkcmVuLmxlbmd0aCA9PT0gMAogICAgfTsKICB9Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>getDerived</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBFdmVudEhhbmRsZXIgRmFsbHNJbGwgeyBnZXQ7IHNldDsgfQo=</text>
+        <text encoding="base64">ICBzdGF0aWMgZ2V0RGVyaXZlZFN0YXRlRnJvbVByb3BzKG5leHRQcm9wcykgewogICAgcmV0dXJuIHsKICAgICAgc2hvd0hlbHBlcjogZmFsc2UsCiAgICAgIGFsbFZpZXdzQWxsb3dlZDogbmV4dFByb3BzLmNoaWxkcmVuLmxlbmd0aCA9PT0gMAogICAgfTsKICB9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBQZXJzb24oaW50IGFnZSkgewogICAgICBBZ2UgPSBhZ2U7CiAgICB9Cg==</text>
+        <text encoding="base64">ICBzdGF0aWMgZ2V0RGVyaXZlZFN0YXRlRnJvbVByb3BzKG5leHRQcm9wcywgcHJldlN0YXRlKSB7CiAgICBjb25zdCBuZXh0U3RhdGUgPSB7CiAgICAgIHZhbHVlOiBuZXh0UHJvcHMudmFsdWUsCiAgICAgIG5vdGlmeWluZzogZmFsc2UsCiAgICAgIG5vdGlmaWVkOiBmYWxzZSwKICAgICAgc2tpcE5leHRVcGRhdGU6IGZhbHNlCiAgICB9OwoKICAgIGlmIChwcmV2U3RhdGUudmFsdWUgIT09IG5leHRQcm9wcy52YWx1ZSAmJiAhcHJldlN0YXRlLnNraXBOZXh0VXBkYXRlKSB7CiAgICAgIG5leHRTdGF0ZS5ub3RpZnlpbmcgPSB0cnVlOwogICAgICBuZXh0U3RhdGUubm90aWZpZWQgPSB0cnVlOwogICAgfQoKICAgIHJldHVybiBuZXh0U3RhdGU7CiAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc2V0IHsgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7IH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdWJsaWMgY2xhc3MgCg==</text>
+        <text encoding="base64">ICBzdGF0aWMgZ2V0RGVyaXZlZFN0YXRlRnJvbVByb3BzKCkgewogICAgcmV0dXJuIHsgaG92ZXI6IGZhbHNlIH07CiAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjbGFzcyBNeUNsYXNzIHsKICAgIAogIH0K</text>
+        <text encoding="base64">ICBzdGF0aWMgZ2V0RGVyaXZlZFN0YXRlRnJvbVByb3BzKG5leHRQcm9wcywgcHJldlN0YXRlKSB7CiAgICBpZiAocHJldlN0YXRlLmlzRGlydHkgfHwgIW5leHRQcm9wcy5zaG93VmFsaWRhdGlvbikgewogICAgICByZXR1cm4gbnVsbDsKICAgIH0KICAgIHJldHVybiB7CiAgICAgIGlzRGlydHk6IHRydWUKICAgIH07CiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBFdmVudEhhbmRsZXIgRmFsbHNJbGwgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLlNwZWNpYWxpemVkOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBQZXJzb24oaW50IGFnZSkgewogICAgICBBZ2UgPSBhZ2U7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGl0ZW1zID0gbmV3IExpc3Q8aW4K</text>
+        <text encoding="base64">ICAgICAgc2V0IHsgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7IH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGFyZ3MuTGVuZ3RoID4gMCkgewogICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGFyZ3NbMF0pOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgY2xhc3MgCg==</text>
       </register>
       <register name=":" type="4">
         <text>8</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>getDerived</last-search>
+      <last-offset />
+      <last-pattern>getDerived</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>getderived</entry>
+        <entry>getDerived</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
         <entry>8</entry>
