@@ -31,11 +31,15 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/HttpTrigger.cs" timestamp="1529072934329">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="99" column="48" />
-        <mark key="." line="191" column="17" />
-        <mark key="^" line="191" column="17" />
+      <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/HttpTrigger.cs" timestamp="1529075620627">
+        <mark key="[" line="17" column="197" />
+        <mark key="]" line="17" column="197" />
+        <mark key="." line="17" column="197" />
+        <mark key="^" line="17" column="196" />
+      </file>
+      <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Models/CourseDto.cs" timestamp="1529074818168">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="40" column="9" />
       </file>
       <file name="$USER_HOME$/source/repos/courseevaluations/src/components/hover.js" timestamp="1528384861118">
         <mark key="[" line="4" column="0" />
@@ -47,6 +51,12 @@
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Models/AnswerDto.cs" timestamp="1529075112854">
+        <mark key="[" line="53" column="9" />
+        <mark key="]" line="55" column="7" />
+        <mark key="^" line="55" column="7" />
+        <mark key="." line="55" column="7" />
       </file>
       <file name="$USER_HOME$/source/repos/ReportBlobber/ReportBlobber/HttpTrigger.cs" timestamp="1529004113224">
         <mark key="'" line="37" column="43" />
@@ -157,11 +167,11 @@
         <mark key="^" line="40" column="101" />
         <mark key="." line="40" column="106" />
       </file>
-      <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Models/ResponseDto.cs" timestamp="1529074350218">
-        <mark key="[" line="19" column="104" />
-        <mark key="]" line="19" column="104" />
-        <mark key="^" line="17" column="105" />
-        <mark key="." line="19" column="104" />
+      <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Models/ResponseDto.cs" timestamp="1529075089157">
+        <mark key="[" line="56" column="9" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="4" column="54" />
       </file>
       <file name="$USER_HOME$/source/repos/courseevaluations-configuration/Web/Web/Views/Reports/Index.cshtml" timestamp="1528809712867">
         <mark key="^" line="138" column="52" />
@@ -262,43 +272,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID8gbnVsbCAgICAgICA6IHNkci5HZXRTdHJpbmcoKGludCkgQ29yZURhdGFTcWxPcmRpYWxzLlNlY3Rpb25TdWJqZWN0KTs=</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID8gbnVsbCAgICAgICA6IHNkci5HZXRTdHJpbmcoKGludCkgQ29yZURhdGFTcWxPcmRpYWxzLlNlY3Rpb25TdWJqZWN0KTs=</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJbnN0aXR1dGlvbklkXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>CourseEvaluationSqlOrdinals.</text>
+        <text>Integrated Security=False;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENyb3NzTGlzdGluZ0lkZW50aWZpZXIgPSBjcm9zc0xpc3RpbmdJZGVudGlmaWVyLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRlcm1JZCA9IHRlcm1JZCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBCYWRSZXF1ZXN0T2JqZWN0UmVzdWx0KCJQbGVhc2UgcGFzcyBhIG5hbWUgb24gdGhlIHF1ZXJ5IHN0cmluZyBvciBpbiB0aGUgcmVxdWVzdCBib2R5Iik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9yZ1VuaXRJZCA9IG9yZ1VuaXRJZCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE51bWJlciA9IG51bWJlciwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlcS5RdWVyeS5UcnlHZXRWYWx1ZSgibmFtZSIsIG91dCBTdHJpbmdWYWx1ZXMgdmFsdWUpKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvdXJzZU51bWJlciA9IGNvdXJzZU51bWJlciwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgT2tPYmplY3RSZXN1bHQoJCJIZWxsbywge3ZhbHVlLkZpcnN0KCl9Iik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNyb3NzTGlzdGluZ0lkZW50aWZpZXIgPSBzZHIuSXNEQk51bGwoKGludCkgQ29yZURhdGFTcWxPcmRpYWxzLlNlY3Rpb25Dcm9zc0xpc3RpbmdJZGVudGlmaWVyKSA/IG51bGwgICAgICAgOiBzZHIuR2V0U3RyaW5nKChpbnQpIENvcmVEYXRhU3FsT3JkaWFscy5TZWN0aW9uQ3Jvc3NMaXN0aW5nSWRlbnRpZmllcik7Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLk5ldDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRlcm1JZCAgICAgICAgICAgICAgICAgPSBzZHIuR2V0R3VpZCggKGludCkgQ29yZURhdGFTcWxPcmRpYWxzLlNlY3Rpb25UZXJtSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN1YmplY3QgICAgICAgPSBzZHIuSXNEQk51bGwoKGludCkgQ29yZURhdGFTcWxPcmRpYWxzLkNvdXJzZVN1YmplY3QpICAgICAgID8gbnVsbCAgICAgICA6IHNkci5HZXRTdHJpbmcoIChpbnQpIENvcmVEYXRhU3FsT3JkaWFscy5Db3Vyc2VTdWJqZWN0KTsKICAgICAgICAgICAgdmFyIG51bWJlciAgICAgICAgPSBzZHIuSXNEQk51bGwoKGludCkgQ29yZURhdGFTcWxPcmRpYWxzLkNvdXJzZU51bWJlcikgICAgICAgID8gbnVsbCAgICAgICA6IHNkci5HZXRTdHJpbmcoIChpbnQpIENvcmVEYXRhU3FsT3JkaWFscy5Db3Vyc2VOdW1iZXIpOwogICAgICAgICAgICB2YXIgdGl0bGUgICAgICAgICA9IHNkci5Jc0RCTnVsbCgoaW50KSBDb3JlRGF0YVNxbE9yZGlhbHMuQ291cnNlVGl0bGUpICAgICAgICAgPyBudWxsICAgICAgIDogc2RyLkdldFN0cmluZyggKGludCkgQ29yZURhdGFTcWxPcmRpYWxzLkNvdXJzZVRpdGxlKTsKICAgICAgICAgICAgdmFyIGRlc2NyaXB0aW9uICAgPSBzZHIuSXNEQk51bGwoKGludCkgQ29yZURhdGFTcWxPcmRpYWxzLkNvdXJzZURlc2NyaXB0aW9uKSAgID8gbnVsbCAgICAgICA6IHNkci5HZXRTdHJpbmcoIChpbnQpIENvcmVEYXRhU3FsT3JkaWFscy5Db3Vyc2VEZXNjcmlwdGlvbik7CiAgICAgICAgICAgIHZhciBjcmVkaXRzICAgICAgID0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2RyLkdldERlY2ltYWwoKGludCkgQ29yZURhdGFTcWxPcmRpYWxzLkNvdXJzZUNyZWRpdHMpOwogICAgICAgICAgICB2YXIgdHlwZSAgICAgICAgICA9IHNkci5Jc0RCTnVsbCgoaW50KSBDb3JlRGF0YVNxbE9yZGlhbHMuQ291cnNlVHlwZSkgICAgICAgICAgPyBudWxsICAgICAgIDogc2RyLkdldFN0cmluZyggKGludCkgQ29yZURhdGFTcWxPcmRpYWxzLkNvdXJzZVR5cGUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG9yZ1VuaXRJZCAgICAgICAgICAgICAgPSBzZHIuSXNEQk51bGwoKGludCkgQ29yZURhdGFTcWxPcmRpYWxzLlNlY3Rpb25PcmdVbml0SWQpICAgICAgICAgICAgICA/IEd1aWQuRW1wdHkgOiBzZHIuR2V0R3VpZCggIChpbnQpIENvcmVEYXRhU3FsT3JkaWFscy5TZWN0aW9uT3JnVW5pdElkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE51bWJlciAgICAgICAgPSBudW1iZXIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG51bWJlciAgICAgICAgICAgICAgICAgPSBzZHIuSXNEQk51bGwoKGludCkgQ29yZURhdGFTcWxPcmRpYWxzLlNlY3Rpb25OdW1iZXIpICAgICAgICAgICAgICAgICA/IG51bGwgICAgICAgOiBzZHIuR2V0U3RyaW5nKChpbnQpIENvcmVEYXRhU3FsT3JkaWFscy5TZWN0aW9uTnVtYmVyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEluc3RpdHV0aW9uSWQgPSBpbnN0aXR1dGlvbklkLAo=</text>
       </register>
       <register name=":" type="4">
         <text>46</text>
