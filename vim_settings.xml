@@ -39,12 +39,12 @@
         <mark key="^" line="26" column="172" />
         <mark key="." line="42" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/evaluation-reporting-frontend/src/services/reportService.js" timestamp="1529607975617">
+      <file name="$USER_HOME$/Code/evaluation-reporting-frontend/src/services/reportService.js" timestamp="1529610876824">
         <mark key="'" line="73" column="35" />
-        <mark key="[" line="27" column="38" />
-        <mark key="]" line="27" column="38" />
-        <mark key="." line="27" column="38" />
-        <mark key="^" line="27" column="38" />
+        <mark key="[" line="82" column="19" />
+        <mark key="]" line="82" column="23" />
+        <mark key="." line="82" column="23" />
+        <mark key="^" line="82" column="23" />
       </file>
       <file name="$USER_HOME$/Code/evaluation-reporting-frontend/src/App.css" timestamp="1529606946040">
         <mark key="[" line="23" column="0" />
@@ -75,11 +75,11 @@
         <mark key="." line="18" column="1" />
         <mark key="^" line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/evaluation-reporting-frontend/src/App.js" timestamp="1529607405595">
-        <mark key="[" line="44" column="27" />
-        <mark key="]" line="44" column="27" />
-        <mark key="." line="44" column="27" />
-        <mark key="^" line="44" column="29" />
+      <file name="$USER_HOME$/Code/evaluation-reporting-frontend/src/App.js" timestamp="1529610579268">
+        <mark key="[" line="43" column="30" />
+        <mark key="]" line="43" column="30" />
+        <mark key="." line="43" column="30" />
+        <mark key="^" line="44" column="38" />
       </file>
       <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/DataRetievalService.cs" timestamp="1529332867716">
         <mark key="[" line="7" column="0" />
@@ -204,7 +204,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="59" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529595871066">
+      <file name="/Dummy.txt" timestamp="1529611103508">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -226,6 +226,12 @@
         <mark key="]" line="2" column="34" />
         <mark key="." line="2" column="34" />
         <mark key="^" line="2" column="34" />
+      </file>
+      <file name="$USER_HOME$/Code/evaluation-reporting-frontend/src/services/reportService.test.js" timestamp="1529609716369">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="46" />
+        <mark key="^" line="3" column="46" />
+        <mark key="." line="3" column="46" />
       </file>
       <file name="$USER_HOME$/source/repos/courseevaluations-collection/Collection.Web/Images/brokenpencil.svg" timestamp="1527258713415">
         <mark key="[" line="19" column="47" />
@@ -359,46 +365,66 @@
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>xxj$</text>
+        <keys>
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+        </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGhpZGU6IHRydWUK</text>
+      <register name="&quot;" type="4">
+        <text>ReportRow</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>ReportRow</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRVcGRhdGVkUmVzcG9uZGVudENvdW50XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>data</text>
+        <text>answerId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhpZGU6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgcm93R3JvdXBQYW5lbFNob3c6ICJhbHdheXMiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCB1bmlxdWUgPSBbLi4ubmV3IFNldChkYXRhKV07Cg==</text>
+        <text encoding="base64">Y29uc3QgbWFwRGF0YVRvUmVwb3J0Um93ID0gKGJsb2I6IEFycmF5KSA9PgogIGJsb2IubWFwKHJvdyA9PiAoewogICAgaW5zdHJ1Y3Rvck5hbWU6IHJvdy5pbnN0cnVjdG9yTmFtZSwKICAgIHRlcm06IHJvdy50ZXJtLAogICAgaW5zdGl0dXRpb25hbFVuaXQ6IHJvdy5pbnN0aXR1dGlvbmFsVW5pdCwKICAgIGNvdXJzZVRpdGxlOiByb3cuY291cnNlVGl0bGUsCiAgICBjb3Vyc2VTdWJqZWN0OiByb3cuY291cnNlU3ViamVjdCwKICAgIGNvdXJzZU51bWJlcjogcm93LmNvdXJzZU51bWJlciwKICAgIHNlY3Rpb25OdW1iZXI6IHJvdy5zZWN0aW9uTnVtYmVyLAogICAgZW5yb2xsbWVudENvdW50OiByb3cuZW5yb2xsbWVudENvdW50LAogICAgcmVzcG9uZGVudENvdW50OiByb3cucmVzcG9uZGVudENvdW50LAogICAgcmVzcG9uc2VSYXRlOiByb3cucmVzcG9uc2VSYXRlLAogICAgc2VjdGlvbkF0dHJpYnV0ZTogcm93LnNlY3Rpb25BdHRyaWJ1dGUsCiAgICBkZWxpdmVyeU1vZGU6IHJvdy5kZWxpdmVyeU1vZGUsCiAgICB0eXBlOiByb3cudHlwZSwKCiAgICBzZWN0aW9uSWQ6IHJvdy5zZWN0aW9uSWQsCiAgICBpbnN0cnVjdG9ySWQ6IHJvdy5pbnN0cnVjdG9ySWQsCiAgICBxdWVzdGlvbklkOiByb3cucXVlc3Rpb25JZCwKICAgIGFuc3dlcklkOiByb3cuYW5zd2VySWQKICB9KSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCB1bmlxdWUgPSBkYXRhOyAvL1suLi5uZXcgU2V0KGRhdGEpXTsK</text>
+        <text encoding="base64">ICAgIC8vZGF0YSA9IGRhdGEubWFwKG1hcERhdGFUb1JlcG9ydFJvdyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY29sdW1uczsK</text>
+        <text encoding="base64">ICAgICAgLgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBib3JkZXItY29sb3I6ICNlNTM5MzU7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">bnVtYmVyCiAgICA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbnN0aXR1dGlvbklkOiBudW1iZXIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT17IiJ9Cg==</text>
+        <text encoding="base64">ICByZXNwb25kZW50UGVyc29uSWQ6IHN0cmluZywK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2codGVzdCk7Cg==</text>
+        <text encoding="base64">Ii4vcmVwb3J0U2VydmljZSI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -446,6 +472,7 @@
         <entry>4</entry>
         <entry>W</entry>
         <entry>$</entry>
+        <entry>83</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
