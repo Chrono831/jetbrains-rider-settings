@@ -447,24 +447,15 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" timestamp="1530033543600">
-        <mark key="'" line="55" column="28" />
-        <mark key="[" line="28" column="12" />
-        <mark key="]" line="28" column="45" />
-        <mark key="^" line="28" column="45" />
-        <mark key="." line="28" column="45" />
+      <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" timestamp="1530036179183">
+        <mark key="'" line="145" column="28" />
+        <mark key="[" line="89" column="59" />
+        <mark key="]" line="89" column="63" />
+        <mark key="." line="89" column="63" />
+        <mark key="^" line="89" column="63" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="35" filename="$USER_HOME$/Code/evaluation-reporting-frontend/src/services/reportService.js" />
-      <jump line="35" column="2" filename="$USER_HOME$/Code/evaluation-reporting-frontend/src/App.js" />
-      <jump line="57" column="12" filename="$USER_HOME$/Code/evaluation-reporting-frontend/src/App.js" />
-      <jump line="17" column="2" filename="$USER_HOME$/Code/evaluation-reporting-frontend/src/GridOptions.js" />
-      <jump line="31" column="2" filename="$USER_HOME$/Code/evaluation-reporting-frontend/src/GridOptions.js" />
-      <jump line="51" column="13" filename="$USER_HOME$/Code/evaluation-reporting-frontend/src/GridOptions.js" />
-      <jump line="25" column="4" filename="$USER_HOME$/Code/magic-recollation-helper/src/SetBasics.js" />
-      <jump line="20" column="4" filename="$USER_HOME$/Code/magic-recollation-helper/src/SetBasics.js" />
-      <jump line="21" column="4" filename="$USER_HOME$/Code/magic-recollation-helper/src/SetBasics.js" />
       <jump line="22" column="4" filename="$USER_HOME$/Code/magic-recollation-helper/src/SetBasics.js" />
       <jump line="23" column="4" filename="$USER_HOME$/Code/magic-recollation-helper/src/SetBasics.js" />
       <jump line="24" column="4" filename="$USER_HOME$/Code/magic-recollation-helper/src/SetBasics.js" />
@@ -547,7 +538,6 @@
       <jump line="19" column="2" filename="$USER_HOME$/Code/React-QuizComponent/src/Quiz.js" />
       <jump line="27" column="41" filename="$USER_HOME$/Code/React-QuizComponent/src/Quiz.js" />
       <jump line="104" column="28" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
-      <jump line="31" column="21" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
       <jump line="30" column="22" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
       <jump line="24" column="17" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
       <jump line="16" column="17" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
@@ -556,6 +546,16 @@
       <jump line="116" column="28" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
       <jump line="60" column="28" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
       <jump line="52" column="28" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
+      <jump line="18" column="17" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
+      <jump line="135" column="28" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
+      <jump line="127" column="28" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
+      <jump line="31" column="21" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
+      <jump line="34" column="19" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
+      <jump line="41" column="21" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
+      <jump line="132" column="13" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
+      <jump line="128" column="35" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
+      <jump line="147" column="13" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
+      <jump line="143" column="28" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -582,52 +582,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQcm9jZXNzQ291cnNlRXZhbHVhdGlvbnNcPg==</text>
+        <text encoding="base64">XDxHZXRDb3JlRGF0YVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgc3RyaW5nIEdldENvdXJzZUV2YWx1YXRpb25EYXRhU3FsKEd1aWQgZ3VpZCwgR3VpZFR5cGUgdHlwZSkgewogICAgICB2YXIgc3RiID0gR2V0QmFzZUNvdXJzZUV2YWx1YXRpb25TcWxDb21tYW5kKCk7CgogICAgICBpZiAodHlwZSA9PSBHdWlkVHlwZS5TZWN0aW9uKSB7CiAgICAgICAgc3RiLkFwcGVuZCgkIiBhbmQgc2VjLltDb3Vyc2VTZWN0aW9uSWRdID0gJ3tndWlkLlRvU3RyaW5nKCl9JyAiKTsKICAgICAgfSBlbHNlIGlmICh0eXBlID09IEd1aWRUeXBlLkFkbWluaXN0cmF0aW9uKSB7CiAgICAgICAgc3RiLkFwcGVuZCgkIiBhbmQgc2VjLltBZG1pbmlzdHJhdGlvbklkXSA9ICd7Z3VpZC5Ub1N0cmluZygpfScgIik7CiAgICAgIH0gZWxzZSBpZiAodHlwZSA9PSBHdWlkVHlwZS5UZXJtKSB7CiAgICAgICAgc3RiLkFwcGVuZCgkIiBhbmQgc2VjLltUZXJtSWRdID0gJ3tndWlkLlRvU3RyaW5nKCl9JyAiKTsKICAgICAgfQoKICAgICAgcmV0dXJuIHN0Yi5Ub1N0cmluZygpOwogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>GetCoreData</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGVtcERhdGEgPSBQcm9jZXNzQ29yZURhdGEoaWQsIHRlbXBEYXRhLCBsb2cpOwo=</text>
+        <text encoding="base64">ICAgICAgbG9nLkluZm8oIkdldENvdXJzZUV2YWx1YXRpb25zRGF0YSIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGVtcERhdGEgPSBQcm9jZXNzQ29yZURhdGEoZ3VpZCwgdHlwZSwgdGVtcERhdGEsIGxvZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgLCBzZWMuW0FkbWluaXN0cmF0aW9uSWRdCiAgICAgICAgICAgICAgICAgICAgICwgc2VjLltUZXJtSWRdCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgaW5uZXIgam9pbiBbZGJvXS5bUmVzcG9uZGVudF0gcmR0IHdpdGggKG5vbG9jaykKICAgICAgICAgICAgICAgICAgICAgICAgIG9uIHJkdC5jb3Vyc2VzZWN0aW9uaWQgPSBzZWMuY291cnNlc2VjdGlvbmlkCiAgICAgICAgICAgICAgICAgICAgICAgICBhbmQgcmR0LkRlbGV0ZWQgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgaW5uZXIgam9pbiBbZGJvXS5bQW5zd2VyXSBhbnMgd2l0aCAobm9sb2NrKQogICAgICAgICAgICAgICAgICAgICAgICAgb24gYW5zLmlkID0gcnNwLmFuc3dlcmlkCiAgICAgICAgICAgICAgICAgICAgICAgICBhbmQgYW5zLkRlbGV0ZWQgPSAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgaW5uZXIgam9pbiBbZGJvXS5bUmVzcG9uc2VdIHJzcCB3aXRoIChub2xvY2spCiAgICAgICAgICAgICAgICAgICAgICAgICBvbiByc3AucmVzcG9uZGVudGlkID0gcmR0LmlkCiAgICAgICAgICAgICAgICAgICAgICAgICBhbmQgcnNwLkRlbGV0ZWQgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgLCByZHQuW1VzZXJJZF0gYXMgW1BlcnNvbklkXQogICAgICAgICAgICAgICAgICAgICAsIGFucy5bUXVlc3Rpb25JZF0KICAgICAgICAgICAgICAgICAgICAgLCBhbnMuW0lkXQogICAgICAgICAgICAgICAgICAgICAsIGFucy5bQWx0ZXJuYXRlQ29kZV0KICAgICAgICAgICAgICAgICAgICAgLCBhbnMuW0Fuc3dlclRleHRdCiAgICAgICAgICAgICAgICAgICAgICwgYW5zLltOdW1lcmljVmFsdWVdCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZ0J1aWxkZXIgR2V0Q291cnNlRXZhbHVhdGlvblNxbENvbW1hbmQoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vICAgICAgICBwcm9jZXNzY29yZSBkYXRhIGZvciBzZWN0aW9uaWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHRlcm1JZCA9IHNkci5HZXRHdWlkKChpbnQpIENvdXJzZUV2YWx1YXRpb24uQWRtaW5pc3RyYXRpb25UZXJtSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNlY3Rpb24uS2V5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQcm9jZXNzQ291cnNlRXZhbHVhdGlvbnNcPg==</last-search>
+      <last-search encoding="base64">XDxHZXRDb3JlRGF0YVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQcm9jZXNzQ291cnNlRXZhbHVhdGlvbnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxHZXRDb3JlRGF0YVw+</last-pattern>
       <last-replace>Land</last-replace>
       <last-substitute>Creature</last-substitute>
       <last-dir>-1</last-dir>
@@ -635,7 +635,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJZFw+</entry>
         <entry encoding="base64">XDxJbnN0aXR1dGlvbklkXD4=</entry>
         <entry>Id:</entry>
         <entry encoding="base64">XDxibG9iRGljdGlvbmFyeVw+</entry>
@@ -650,11 +649,12 @@
         <entry encoding="base64">XDxTdWJzY3JpcHRpb25JZFw+</entry>
         <entry encoding="base64">XDxTdG9yYWdlQWNjb3VudFw+</entry>
         <entry encoding="base64">XDxkYXRhX1w+</entry>
+        <entry encoding="base64">XDxHZXRJbnN0aXR1dGlvbklkXD4=</entry>
+        <entry encoding="base64">XDxQcm9jZXNzQ291cnNlRXZhbHVhdGlvbnNcPg==</entry>
+        <entry encoding="base64">XDxQcm9jZXNzQ29yZURhdGFcPg==</entry>
         <entry encoding="base64">XDxQcm9jZXNzU3FsXD4=</entry>
         <entry encoding="base64">XDxHZXRJbml0aWFsaXplZERhdGFcPg==</entry>
-        <entry encoding="base64">XDxHZXRJbnN0aXR1dGlvbklkXD4=</entry>
-        <entry encoding="base64">XDxQcm9jZXNzQ29yZURhdGFcPg==</entry>
-        <entry encoding="base64">XDxQcm9jZXNzQ291cnNlRXZhbHVhdGlvbnNcPg==</entry>
+        <entry encoding="base64">XDxHZXRDb3JlRGF0YVw+</entry>
       </history-search>
       <history-cmd>
         <entry>8</entry>
