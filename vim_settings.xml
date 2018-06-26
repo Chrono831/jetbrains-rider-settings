@@ -27,10 +27,10 @@
         <mark key="^" line="13" column="69" />
       </file>
       <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/ReportBlobberFunction.cs" timestamp="1529953624442">
-        <mark key="[" line="39" column="20" />
-        <mark key="]" line="39" column="20" />
-        <mark key="^" line="39" column="19" />
-        <mark key="." line="39" column="20" />
+        <mark key="[" line="41" column="20" />
+        <mark key="]" line="41" column="20" />
+        <mark key="^" line="41" column="19" />
+        <mark key="." line="41" column="20" />
       </file>
       <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/HttpTrigger.cs" timestamp="1529428745607">
         <mark key="[" line="89" column="0" />
@@ -370,6 +370,13 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="1" />
       </file>
+      <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" timestamp="1530019716232">
+        <mark key="'" line="20" column="23" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="60" column="18" />
+        <mark key="." line="61" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/source/repos/HelloRider47/HelloRider47/HelloRider47.csproj" />
@@ -432,7 +439,6 @@
       <jump line="44" column="41" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/ReportBlobberFunction.cs" />
       <jump line="37" column="27" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
       <jump line="29" column="23" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
-      <jump line="20" column="23" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
       <jump line="150" column="19" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
       <jump line="140" column="19" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
       <jump line="61" column="48" filename="$USER_HOME$/Code/evaluation-reporting-frontend/src/services/reportService.js" />
@@ -449,6 +455,8 @@
       <jump line="22" column="4" filename="$USER_HOME$/Code/magic-recollation-helper/src/SetBasics.js" />
       <jump line="23" column="4" filename="$USER_HOME$/Code/magic-recollation-helper/src/SetBasics.js" />
       <jump line="24" column="4" filename="$USER_HOME$/Code/magic-recollation-helper/src/SetBasics.js" />
+      <jump line="28" column="23" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
+      <jump line="20" column="23" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -474,59 +482,53 @@
           <key char="98" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRhdGE7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
-        <text>Creature</text>
+        <text encoding="base64">XDxQcm9jZXNzQ29yZURhdGFcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJTdG9yYWdlQWNjb3VudCI6ICJEZWZhdWx0RW5kcG9pbnRzUHJvdG9jb2w9aHR0cHM7QWNjb3VudE5hbWU9Y291cnNlZXZhbGRldjtBY2NvdW50S2V5PW1NSE1KeXdkYzFqQjBJS3gwRW01WllWbUVrb1AydWg3NUNRcHNRaDZadWc3c1IwMm5CdFdNaGpPTERxR0lnZytnNm5DZkN4MXRJalN5TjZPK3pkbnFnPT07RW5kcG9pbnRTdWZmaXg9Y29yZS53aW5kb3dzLm5ldCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbmZpZ3VyYXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRhdGE7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRhdGEuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRhdGEgPSB0aGlzLmdldENhcmRDb3VudHNCeVR5cGUoc2V0LCByYXJpdHkpOwogICAgZGF0YS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRhdGE7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRhdGE7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwvdHI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8dHIga2V5PXtyYXJpdHl9PgogICAgICAgICAgICAgIDwvdHI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsgY29uc3QgZGF0YSA9IHRoaXMuZ2V0Q2FyZENvdW50c0J5VHlwZShyYXJpdHkpOwogICAgICAgICAgICAgICAgPHRkPntkYXRhWyJDYXJkcyJdfTwvdGQ+CiAgICAgICAgICAgICAgICA8dGQ+e2RhdGFbIkNyZWF0dXJlIl19PC90ZD4KICAgICAgICAgICAgICAgIDx0ZD57ZGF0YVsiSW5zdGFudCJdfTwvdGQ+CiAgICAgICAgICAgICAgICA8dGQ+e2RhdGFbIlNvcmNlcnkiXX08L3RkPgogICAgICAgICAgICAgICAgPHRkPntkYXRhWyJFbmNoYW50bWVudCJdfTwvdGQ+CiAgICAgICAgICAgICAgICA8dGQ+e2RhdGFbIkFydGlmYWN0Il19PC90ZD4KICAgICAgICAgICAgICAgIDx0ZD57ZGF0YVsiTGFuZCJdfTwvdGQ+CiAgICAgICAgICAgICAgICA8dGQ+e2RhdGFbIlBsYW5lc3dhbGtlciJdIDwvdGQ+CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRhdGE7Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>commonsD
-commonsD
-commonsD
-commonsD
-commonsD
-commonsD
-commonsD</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJsb2JzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Creature</last-search>
+      <last-search encoding="base64">XDxQcm9jZXNzQ29yZURhdGFcPg==</last-search>
       <last-offset />
-      <last-pattern>Creature</last-pattern>
+      <last-pattern encoding="base64">XDxQcm9jZXNzQ29yZURhdGFcPg==</last-pattern>
       <last-replace>Land</last-replace>
       <last-substitute>Creature</last-substitute>
       <last-dir>-1</last-dir>
@@ -552,8 +554,8 @@ commonsD</text>
         <entry encoding="base64">XDxTdWJzY3JpcHRpb25JZFw+</entry>
         <entry encoding="base64">XDxTdG9yYWdlQWNjb3VudFw+</entry>
         <entry encoding="base64">XDxkYXRhX1w+</entry>
-        <entry encoding="base64">XDxQcm9jZXNzQ29yZURhdGFcPg==</entry>
         <entry encoding="base64">XDxQcm9jZXNzU3FsXD4=</entry>
+        <entry encoding="base64">XDxQcm9jZXNzQ29yZURhdGFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>8</entry>
