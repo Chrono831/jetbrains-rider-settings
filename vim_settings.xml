@@ -21,12 +21,6 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/ReportBlobberFunction.cs" timestamp="1530561209403">
-        <mark key="[" line="47" column="81" />
-        <mark key="]" line="47" column="86" />
-        <mark key="." line="47" column="86" />
-        <mark key="^" line="47" column="86" />
-      </file>
       <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/HttpTrigger.cs" timestamp="1529428745607">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
@@ -249,11 +243,10 @@
       <file name="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" timestamp="1529983664099">
         <mark key="'" line="7683" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530038884591">
+      <file name="/Dummy.txt" timestamp="1530628371146">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
-        <mark key="^" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/HelloRider47/HelloRider47/Program.cs" timestamp="1528204257602">
         <mark key="'" line="77" column="3" />
@@ -354,11 +347,10 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="1" />
       </file>
-      <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" timestamp="1530561254310">
-        <mark key="[" line="31" column="74" />
-        <mark key="]" line="32" column="15" />
-        <mark key="." line="32" column="15" />
-        <mark key="^" line="32" column="15" />
+      <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" timestamp="1530627925624">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -487,8 +479,8 @@
           <key char="98" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>CrossListingIdentifier</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgTmV3dG9uc29mdC5Kc29uOwo=</text>
       </register>
       <register name="-" type="4">
         <text>CrossListingIdentifier</text>
@@ -500,31 +492,33 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5BcHBlbmRMaW5lKCQie25hbWVvZihDcm9zc0xpc3RpbmdJZGVudGlmaWVyKX06IHtDcm9zc0xpc3RpbmdJZGVudGlmaWVyfSwgIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgb3ZlcnJpZGUgc3RyaW5nIFRvU3RyaW5nKCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybgogICAgICAgICAgICAgICAgJCJ7bmFtZW9mKElkKX06IHtJZH0sIHtuYW1lb2YoSW5zdGl0dXRpb25JZCl9OiB7SW5zdGl0dXRpb25JZH0sIHtuYW1lb2YoVGl0bGUpfToge1RpdGxlfSwge25hbWVvZihTdWJqZWN0KX06IHtTdWJqZWN0fSwge25hbWVvZihDb3Vyc2VOdW1iZXIpfToge0NvdXJzZU51bWJlcn0sIHtuYW1lb2YoTnVtYmVyKX06IHtOdW1iZXJ9LCB7bmFtZW9mKE9yZ1VuaXRJZCl9OiB7T3JnVW5pdElkfSwge25hbWVvZihUZXJtSWQpfToge1Rlcm1JZH0sIHtuYW1lb2YoQ3Jvc3NMaXN0aW5nSWRlbnRpZmllcil9OiB7Q3Jvc3NMaXN0aW5nSWRlbnRpZmllcn0sIDw8IHtuYW1lb2YoQ291cnNlKX06IHtDb3Vyc2V9ID4+IjsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">dXNpbmcgTmV3dG9uc29mdC5Kc29uOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgID8gbnVsbAo=</text>
+      <register name="2" type="4">
+        <text>added in Term processing, something is off for Administration processing and it's looping all crazy and not finishing.
+
+Pushing this up in case anyone wants to look at it.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgb3ZlcnJpZGUgc3RyaW5nIFRvU3RyaW5nKCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybgogICAgICAgICAgICAgICAgJCJ7bmFtZW9mKElkKX06IHtJZH0sIHtuYW1lb2YoSW5zdGl0dXRpb25JZCl9OiB7SW5zdGl0dXRpb25JZH0sIHtuYW1lb2YoVGl0bGUpfToge1RpdGxlfSwge25hbWVvZihTdWJqZWN0KX06IHtTdWJqZWN0fSwge25hbWVvZihDb3Vyc2VOdW1iZXIpfToge0NvdXJzZU51bWJlcn0sIHtuYW1lb2YoTnVtYmVyKX06IHtOdW1iZXJ9LCB7bmFtZW9mKE9yZ1VuaXRJZCl9OiB7T3JnVW5pdElkfSwge25hbWVvZihUZXJtSWQpfToge1Rlcm1JZH0sIHtuYW1lb2YoQ3Jvc3NMaXN0aW5nSWRlbnRpZmllcil9OiB7Q3Jvc3NMaXN0aW5nSWRlbnRpZmllcn0sIDw8IHtuYW1lb2YoQ291cnNlKX06IHtDb3Vyc2V9ID4+IjsKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgID8gbnVsbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL0Vucm9sbG1lbnRJZCA9IDI4LAogICAgICAgIC8vRW5yb2xsbWVudElkZW50aWZpZXIgPSAyOSwKICAgICAgICAvL0Vucm9sbG1lbnRJbnN0aXR1dGlvbklkID0gMzAsCiAgICAgICAgLy9FbnJvbGxtZW50U2VjdGlvbklkID0gMzEsCiAgICAgICAgLy9FbnJvbGxtZW50U2VjdGlvbklkZW50aWZpZXIgPSAzMiwKICAgICAgICAvL0Vucm9sbG1lbnRQZXJzb25JZCA9IDMzLAogICAgICAgIC8vRW5yb2xsbWVudEZpcnN0bmFtZSA9IDM0LAogICAgICAgIC8vRW5yb2xsbWVudExhc3RuYW1lID0gMzUsCiAgICAgICAgLy9FbnJvbGxtZW50Q3JlZGl0cyA9IDM2LAogICAgICAgIC8vRW5yb2xsbWVudEdyYWRlT3B0aW9uID0gMzcsCiAgICAgICAgLy9FbnJvbGxtZW50UmVnaXN0ZXJlZERhdGUgPSAzOCwKICAgICAgICAvL0Vucm9sbG1lbnRTdGFydERhdGUgPSAzOSwKICAgICAgICAvL0Vucm9sbG1lbnRFbmREYXRlID0gNDAsCiAgICAgICAgLy9FbnJvbGxtZW50U3RhdHVzID0gNDEsCiAgICAgICAgLy9FbnJvbGxtZW50U3RhdHVzQ2hhbmdlRGF0ZSA9IDQyLAogICAgICAgIC8vRW5yb2xsbWVudEluaXRpYWxDb3Vyc2VHcmFkZSA9IDQzLAogICAgICAgIC8vRW5yb2xsbWVudEZpbmFsQ291cnNlR3JhZGUgPSA0NAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBFbnJvbGxtZW50Q291bnQgPSAyOQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkgICAgICAgICAgICAgLCBjb3VudChlbnIuW1BlcnNvbklkXSkgYXMgW0Vucm9sbG1lbnRDb3VudF0K</text>
+        <text encoding="base64">ICAgICAgICAvL0Vucm9sbG1lbnRJZCA9IDI4LAogICAgICAgIC8vRW5yb2xsbWVudElkZW50aWZpZXIgPSAyOSwKICAgICAgICAvL0Vucm9sbG1lbnRJbnN0aXR1dGlvbklkID0gMzAsCiAgICAgICAgLy9FbnJvbGxtZW50U2VjdGlvbklkID0gMzEsCiAgICAgICAgLy9FbnJvbGxtZW50U2VjdGlvbklkZW50aWZpZXIgPSAzMiwKICAgICAgICAvL0Vucm9sbG1lbnRQZXJzb25JZCA9IDMzLAogICAgICAgIC8vRW5yb2xsbWVudEZpcnN0bmFtZSA9IDM0LAogICAgICAgIC8vRW5yb2xsbWVudExhc3RuYW1lID0gMzUsCiAgICAgICAgLy9FbnJvbGxtZW50Q3JlZGl0cyA9IDM2LAogICAgICAgIC8vRW5yb2xsbWVudEdyYWRlT3B0aW9uID0gMzcsCiAgICAgICAgLy9FbnJvbGxtZW50UmVnaXN0ZXJlZERhdGUgPSAzOCwKICAgICAgICAvL0Vucm9sbG1lbnRTdGFydERhdGUgPSAzOSwKICAgICAgICAvL0Vucm9sbG1lbnRFbmREYXRlID0gNDAsCiAgICAgICAgLy9FbnJvbGxtZW50U3RhdHVzID0gNDEsCiAgICAgICAgLy9FbnJvbGxtZW50U3RhdHVzQ2hhbmdlRGF0ZSA9IDQyLAogICAgICAgIC8vRW5yb2xsbWVudEluaXRpYWxDb3Vyc2VHcmFkZSA9IDQzLAogICAgICAgIC8vRW5yb2xsbWVudEZpbmFsQ291cnNlR3JhZGUgPSA0NAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
+        <text encoding="base64">ICAgICAgICBFbnJvbGxtZW50Q291bnQgPSAyOQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbWQuRXhlY3V0ZU5vblF1ZXJ5KCk7Cg==</text>
+        <text encoding="base64">CQkgICAgICAgICAgICAgLCBjb3VudChlbnIuW1BlcnNvbklkXSkgYXMgW0Vucm9sbG1lbnRDb3VudF0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
