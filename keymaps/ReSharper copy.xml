@@ -1,4 +1,4 @@
-<keymap version="1" name="ReSharper copy">
+<keymap version="1" name="ReSharper copy" parent="ReSharper">
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="shift control button1" />
   </action>
