@@ -51,7 +51,6 @@
         <mark key="." line="16" column="13" />
         <mark key="^" line="16" column="12" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/gulp-files/paths.js" timestamp="1532350040362" />
       <file name="$USER_HOME$/Code/evaluation-reporting-frontend/src/services/reportService.test.js" timestamp="1529609716369">
         <mark key="[" line="3" column="33" />
         <mark key="]" line="3" column="46" />
@@ -75,6 +74,12 @@
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Startup.cs" timestamp="1532460832689">
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="31" column="16" />
+        <mark key="^" line="31" column="17" />
+        <mark key="." line="31" column="16" />
       </file>
       <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/ReportBlobber.csproj" timestamp="1529419142621">
         <mark key="[" line="8" column="0" />
@@ -152,6 +157,11 @@
         <mark key="]" line="19" column="19" />
         <mark key="^" line="19" column="22" />
         <mark key="." line="19" column="19" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Global.asax.cs" timestamp="1532461432153">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/HelloRider47/HelloRider47/BankAccount.cs" timestamp="1528117231864">
         <mark key="[" line="8" column="9" />
@@ -242,7 +252,12 @@
         <mark key="." line="22" column="34" />
         <mark key="^" line="22" column="34" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/package.json" timestamp="1532349933854" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Startup.cs" timestamp="1532461419602">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="22" column="7" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/Evaluations/Evaluations/Views/Evaluation/Index.cshtml" timestamp="1531409899349">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -276,12 +291,6 @@
         <mark key="]" line="21" column="47" />
         <mark key="." line="21" column="47" />
         <mark key="^" line="21" column="47" />
-      </file>
-      <file name="$USER_HOME$/Code/Evaluations/Evaluations/Views/Shared/QuestionTypes/Text.cshtml" timestamp="1531409243498">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="50" />
-        <mark key="^" line="2" column="15" />
       </file>
       <file name="$USER_HOME$/Code/Evaluations/Evaluations/Views/Shared/QuestionTypes/Checkbox.cshtml" timestamp="1531409913493">
         <mark key="[" line="2" column="0" />
@@ -364,13 +373,6 @@
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="59" />
         <mark key="." line="91" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Evaluations/Evaluations/Views/Shared/QuestionTypes/Textarea.cshtml" timestamp="1531409198573">
-        <mark key="'" line="21" column="21" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="50" />
-        <mark key="^" line="21" column="19" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/courseevaluations-configuration/Web/Web/Models/ReportingModels/PowerBIEmbedded_AppOwnsData.cs" timestamp="1528740255025">
         <mark key="[" line="0" column="0" />
@@ -505,11 +507,11 @@
           <key char="98" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">VkVSWSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VkVSWSA=</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEcm9wZG93blw+</text>
@@ -517,32 +519,32 @@
       <register name="0" type="4">
         <text>QuestionLegend</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">TWVyZ2VkIFBSIDY5MjI6IERldiAtPiBNYXN0ZXIKClJlbGF0ZWQgd29yayBpdGVtczogIzU0MzQ5LCAjNTQzODI=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEB7IEh0bWwuUmVuZGVyUGFydGlhbCgiUXVlc3Rpb25MZWdlbmQiLCBNb2RlbCk7IH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEB7IEh0bWwuUmVuZGVyUGFydGlhbCgiUXVlc3Rpb25MYWJlbCIsIE1vZGVsKTsgfQo=</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgdm9pZCBBcHBsaWNhdGlvbl9FcnJvcihvYmplY3Qgc2VuZGVyLCBFdmVudEFyZ3MgZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBASHRtbC5QYXJ0aWFsKCJQYWdlRWxlbWVudCIsIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9Ub2RvOiBhZGQgYXBwbGljYXRpb24gaW5zaWdodHMgaW5zdGVhZCBvZiBOZXcgUmVsaWMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEB7IEh0bWwuUmVuZGVyUGFydGlhbCgiUXVlc3Rpb25MZWdlbmQiLCBNb2RlbCk7IH0K</text>
+        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgdm9pZCBBcHBsaWNhdGlvbl9FcnJvcihvYmplY3Qgc2VuZGVyLCBFdmVudEFyZ3MgZSkKICAgICAgICB7CiAgICAgICAgICAgIGlmICghUmVxdWVzdC5SZXF1ZXN0Q29udGV4dC5IdHRwQ29udGV4dC5Jc0N1c3RvbUVycm9yRW5hYmxlZCkKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgaWYgKCFSZXF1ZXN0LlVybC5Ib3N0LkNvbnRhaW5zKCItZGVwbG95LiIpICYmIFJlcXVlc3QuVXJsLkhvc3QgIT0gImxvY2FsaG9zdCIpCiAgICAgICAgICAgICAgICByZXR1cm47CgogICAgICAgICAgICB2YXIgZXJyb3IgPSBTZXJ2ZXIuR2V0TGFzdEVycm9yKCk7CgogICAgICAgICAgICBSZXNwb25zZS5DbGVhcigpOwogICAgICAgICAgICBSZXNwb25zZS5Xcml0ZSgiPGgxPkVycm9yITwvaDE+Iik7CgogICAgICAgICAgICB3aGlsZSAoZXJyb3IgIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgUmVzcG9uc2UuV3JpdGUoIjxwcmU+XG4iKTsKICAgICAgICAgICAgICAgIFJlc3BvbnNlLldyaXRlKGVycm9yLk1lc3NhZ2UpOwogICAgICAgICAgICAgICAgUmVzcG9uc2UuV3JpdGUoIlxuIik7CiAgICAgICAgICAgICAgICBSZXNwb25zZS5Xcml0ZShlcnJvci5TdGFja1RyYWNlKTsKICAgICAgICAgICAgICAgIFJlc3BvbnNlLldyaXRlKCJcbjwvcHJlPlxuIik7CgogICAgICAgICAgICAgICAgZXJyb3IgPSBlcnJvci5Jbm5lckV4Y2VwdGlvbjsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgU2VydmVyLkNsZWFyRXJyb3IoKTsKICAgICAgICB9Cgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIDsK</text>
+      <register name="7" type="8">
+        <text>i</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIEBIdG1sLlBhcnRpYWwoIk1pbk1heE1lc3NhZ2luZyIsIE1vZGVsLlF1ZXN0aW9uKQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">TWVyZ2VkIFBSIDY5MjI6IERldiAtPiBNYXN0ZXIKClJlbGF0ZWQgd29yayBpdGVtczogIzU0MzQ5LCAjNTQzODI=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgIEB7IEh0bWwuUmVuZGVyUGFydGlhbCgiUXVlc3Rpb25MZWdlbmQiLCBNb2RlbCk7IH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -594,6 +596,7 @@
         <entry>%d</entry>
         <entry>35</entry>
         <entry>25</entry>
+        <entry>41</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
