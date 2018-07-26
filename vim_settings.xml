@@ -39,7 +39,6 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/IOrganizationPillarClient.cs" timestamp="1532632868602" />
       <file name="$USER_HOME$/Code/Evaluations/Evaluations/Views/Shared/QuestionTypes/Radio.cshtml" timestamp="1531413086423">
         <mark key="[" line="3" column="42" />
         <mark key="]" line="3" column="53" />
@@ -180,7 +179,6 @@
         <mark key="." line="13" column="35" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/dbo/Tables/Step.sql" timestamp="1532628627360" />
       <file name="$USER_HOME$/Code/Evaluations/Evaluations/Views/_ErrorDisplay.cshtml" timestamp="1531407581456">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -228,12 +226,12 @@
         <mark key="^" line="13" column="13" />
         <mark key="." line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" timestamp="1532634231699">
-        <mark key="'" line="72" column="31" />
-        <mark key="[" line="86" column="34" />
-        <mark key="]" line="86" column="41" />
-        <mark key="." line="86" column="41" />
-        <mark key="^" line="86" column="41" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" timestamp="1532635017850">
+        <mark key="'" line="386" column="104" />
+        <mark key="[" line="102" column="45" />
+        <mark key="]" line="102" column="45" />
+        <mark key="^" line="154" column="25" />
+        <mark key="." line="102" column="45" />
       </file>
       <file name="$USER_HOME$/source/repos/ReportBlobber/ReportBlobber/Models/SectionDto.cs" timestamp="1528999632941">
         <mark key="[" line="16" column="0" />
@@ -333,7 +331,6 @@
         <mark key="." line="16" column="22" />
         <mark key="^" line="16" column="20" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Settings/Step.cs" timestamp="1532628762215" />
       <file name="$USER_HOME$/Code/Evaluations/Evaluations/Views/Shared/PageElement.cshtml" timestamp="1531409793401">
         <mark key="." line="32" column="0" />
       </file>
@@ -372,7 +369,6 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Web.Release.config" timestamp="1532610560812" />
       <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Models/ResponseDto.cs" timestamp="1529081806750">
         <mark key="[" line="49" column="89" />
         <mark key="]" line="21" column="0" />
@@ -397,9 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="21" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
-      <jump line="34" column="19" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
-      <jump line="98" column="28" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
       <jump line="99" column="16" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
       <jump line="70" column="28" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
       <jump line="62" column="16" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
@@ -497,78 +490,100 @@
       <jump line="154" column="51" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="164" column="28" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="72" column="31" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
+      <jump line="66" column="36" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
+      <jump line="490" column="57" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
+      <jump line="398" column="104" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <keys>
-          <key char="98" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="80" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="93" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="93" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="106" code="0" mods="0" />
           <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>EmailAddress(IsEmailAddress(_replyTo) ? _replyTo : FromAddress);</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>EmailAddress(IsEmailAddress(_replyTo) ? _replyTo : FromAddress);</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZnJvbU5hbWVcPg==</text>
+        <text encoding="base64">XDxzdWJtaXR0ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzdGF0dXNDcmVhdG9yQWNjb3VudCA9IF9hY2NvdW50SW5mb1NlcnZpY2UuR2V0KF9pbnN0aXR1dGlvbkNvbnRleHQuSW5zdGl0dXRpb25JZCwgc3VibWlzc2lvbi5BY2NvdW50LklkKS5HZXRBd2FpdGVyKCkuR2V0UmVzdWx0KCk7CgogICAgICAgICAgICAgICAgdmFyIGVtYWlsQWRkcmVzcyA9IHN0YXR1c0NyZWF0b3JBY2NvdW50LlByaW1hcnlFbWFpbEFkZHJlc3M7CgogICAgICAgICAgICAgICAgaWYgKHN0cmluZy5Jc051bGxPcldoaXRlU3BhY2UoZW1haWxBZGRyZXNzKSkgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9keSA9IGJvZHkuUmVwbGFjZSgie3tTdWJtaXR0ZXJOYW1lfX0iLCBzdWJtaXR0ZXIuRmlyc3ROYW1lKQogICAgICAgICAgICAgICAgLlJlcGxhY2UoInt7TWVzc2FnZX19IiwgbWVzc2FnZSkKICAgICAgICAgICAgICAgIC5SZXBsYWNlKCJ7e0Ftb3VudH19IiwgYW1vdW50KQogICAgICAgICAgICAgICAgLlJlcGxhY2UoInt7UHJvY2Vzc05hbWV9fSIsIHN1Ym1pc3Npb24uUHJvY2Vzcy5OYW1lKQogICAgICAgICAgICAgICAgLlJlcGxhY2UoInt7RGF0ZX19Iiwgc3VibWlzc2lvbi5TdGF0dXMuQ3JlYXRlZE9uLlRvU3RyaW5nKCJNL2RkL3l5eXkiKSkKICAgICAgICAgICAgICAgIC5SZXBsYWNlKCJ7e1RpbWV9fSIsIHN1Ym1pc3Npb24uU3RhdHVzLkNyZWF0ZWRPbi5Ub1N0cmluZygiaDptbSB0dCIpKQogICAgICAgICAgICAgICAgLlJlcGxhY2UoInt7UmVxdWVzdExpbmt9fSIsICJWaWV3IENvbW1lbnRzOiBodHRwczovLyIgKyBfaG9zdCArICIvYnVkZ2V0aW5nL3JlcXVlc3RzIy9lZGl0LyIgKyBzdWJtaXNzaW9uLklkKQogICAgICAgICAgICAgICAgLlJlcGxhY2UoInt7UmVxdWVzdFRpdGxlfX0iLCBzdWJtaXNzaW9uLk5hbWUpCiAgICAgICAgICAgICAgICAuUmVwbGFjZSgie3tSZXF1ZXN0QW1vdW50fX0iLCBzdWJtaXNzaW9uLkNhbGN1bGF0ZWRBbW91bnQuVG9TdHJpbmcoIkMiLCBDdWx0dXJlSW5mby5DdXJyZW50Q3VsdHVyZSkpCiAgICAgICAgICAgICAgICAuUmVwbGFjZSgie3tBZGp1c3RlZEFtb3VudH19Iiwgc3VibWlzc2lvbi5BZGp1c3RtZW50QW1vdW50Lkhhc1ZhbHVlP3N1Ym1pc3Npb24uQWRqdXN0bWVudEFtb3VudC5WYWx1ZS5Ub1N0cmluZygiQyIsIEN1bHR1cmVJbmZvLkN1cnJlbnRDdWx0dXJlKTpzdWJtaXNzaW9uLkNhbGN1bGF0ZWRBbW91bnQuVG9TdHJpbmcoIkMiLCBDdWx0dXJlSW5mby5DdXJyZW50Q3VsdHVyZSkpCiAgICAgICAgICAgICAgICAuUmVwbGFjZSgie3tPcmdhbml6YXRpb25OYW1lfX0iLCBvcmdhbml6YXRpb25OYW1lID09IG51bGw/IiI6Ik9yZ2FuaXphdGlvbjogIiArIG9yZ2FuaXphdGlvbk5hbWUpCiAgICAgICAgICAgICAgICAuUmVwbGFjZSgie3tCdWRnZXRUeXBlTmFtZX19Iiwgc3VibWlzc2lvbi5CdWRnZXRzLkFueSgpPyJUeXBlOiAiICsgc3VibWlzc2lvbi5CdWRnZXRzLkZpcnN0KCkuQnVkZ2V0VHlwZS5OYW1lOiIiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9keSA9IGJvZHkuUmVwbGFjZSgie3tTdWJtaXR0ZXJOYW1lfX0iLCBzdWJtaXR0ZXIuRmlyc3ROYW1lKQogICAgICAgICAgICAgICAgLlJlcGxhY2UoInt7TWVzc2FnZX19IiwgbWVzc2FnZSkKICAgICAgICAgICAgICAgIC5SZXBsYWNlKCJ7e0Ftb3VudH19IiwgYW1vdW50KQogICAgICAgICAgICAgICAgLlJlcGxhY2UoInt7UHJvY2Vzc05hbWV9fSIsIHN1Ym1pc3Npb24uUHJvY2Vzcy5OYW1lKQogICAgICAgICAgICAgICAgLlJlcGxhY2UoInt7RGF0ZX19Iiwgc3VibWlzc2lvbi5TdGF0dXMuQ3JlYXRlZE9uLlRvU3RyaW5nKCJNL2RkL3l5eXkiKSkKICAgICAgICAgICAgICAgIC5SZXBsYWNlKCJ7e1RpbWV9fSIsIHN1Ym1pc3Npb24uU3RhdHVzLkNyZWF0ZWRPbi5Ub1N0cmluZygiaDptbSB0dCIpKQogICAgICAgICAgICAgICAgLlJlcGxhY2UoInt7UmVxdWVzdExpbmt9fSIsICJWaWV3IENvbW1lbnRzOiBodHRwczovLyIgKyBfaG9zdCArICIvYnVkZ2V0aW5nL3JlcXVlc3RzIy9lZGl0LyIgKyBzdWJtaXNzaW9uLklkKQogICAgICAgICAgICAgICAgLlJlcGxhY2UoInt7UmVxdWVzdFRpdGxlfX0iLCBzdWJtaXNzaW9uLk5hbWUpCiAgICAgICAgICAgICAgICAuUmVwbGFjZSgie3tSZXF1ZXN0QW1vdW50fX0iLCBzdWJtaXNzaW9uLkNhbGN1bGF0ZWRBbW91bnQuVG9TdHJpbmcoIkMiLCBDdWx0dXJlSW5mby5DdXJyZW50Q3VsdHVyZSkpCiAgICAgICAgICAgICAgICAuUmVwbGFjZSgie3tBZGp1c3RlZEFtb3VudH19Iiwgc3VibWlzc2lvbi5BZGp1c3RtZW50QW1vdW50Lkhhc1ZhbHVlP3N1Ym1pc3Npb24uQWRqdXN0bWVudEFtb3VudC5WYWx1ZS5Ub1N0cmluZygiQyIsIEN1bHR1cmVJbmZvLkN1cnJlbnRDdWx0dXJlKTpzdWJtaXNzaW9uLkNhbGN1bGF0ZWRBbW91bnQuVG9TdHJpbmcoIkMiLCBDdWx0dXJlSW5mby5DdXJyZW50Q3VsdHVyZSkpCiAgICAgICAgICAgICAgICAuUmVwbGFjZSgie3tPcmdhbml6YXRpb25OYW1lfX0iLCBvcmdhbml6YXRpb25OYW1lID09IG51bGw/IiI6Ik9yZ2FuaXphdGlvbjogIiArIG9yZ2FuaXphdGlvbk5hbWUpCiAgICAgICAgICAgICAgICAuUmVwbGFjZSgie3tCdWRnZXRUeXBlTmFtZX19Iiwgc3VibWlzc2lvbi5CdWRnZXRzLkFueSgpPyJUeXBlOiAiICsgc3VibWlzc2lvbi5CdWRnZXRzLkZpcnN0KCkuQnVkZ2V0VHlwZS5OYW1lOiIiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzayBIYW5kbGVNZXNzYWdlKEJ1bGtJbnZpdGF0aW9uQ3JlYXRlU3VjY2VlZGVkTWVzc2FnZSBtZXNzYWdlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgWyJSZXF1ZXN0TGluayJdID0gIlZpZXcgQ29tbWVudHM6IGh0dHBzOi8vIiArIF9ob3N0ICsgIi9idWRnZXRpbmcvcmVxdWVzdHMjL2VkaXQvIiArIHN1Ym1pc3Npb24uSWQsCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgX25vdGlmaWNhdGlvbnNDbGllbnQuQ3JlYXRlTm90aWZpY2F0aW9uKAogICAgICAgICAgICAgICAgbmV3IENyZWF0ZU5vdGlmaWNhdGlvblJlcXVlc3QKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBCcmFuY2hJZCA9IG9yZ2FuaXphdGlvbi5QYXJlbnRJZCA/PyBvcmdhbml6YXRpb24uSWQsCiAgICAgICAgICAgICAgICAgICAgQ2F0ZWdvcnlDb2RlID0gIkJ1ZGdldGluZyIsCiAgICAgICAgICAgICAgICAgICAgVHlwZUNvZGUgPSAiSW52aXRhdGlvbiIsCiAgICAgICAgICAgICAgICAgICAgU2VuZGVyID0gcGF5bG9hZC5JbnZpdGVyQWNjb3VudElkLAogICAgICAgICAgICAgICAgICAgIFJlY2lwaWVudHMgPSBiYXRjaCwKICAgICAgICAgICAgICAgICAgICBGaWVsZHMgPQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgWyJFdmVudE5hbWUiXSA9IEBldmVudC5OYW1lLAogICAgICAgICAgICAgICAgICAgICAgICBbIkludml0ZWRCeSJdID0gaW52aXRlZEJ5TmFtZQogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgTGlua3MgPQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgWyJFdmVudFVybCJdID0gbmV3IExpbmsoIkRpc2NvdmVyeTpFdmVudERldGFpbHMiLCBAZXZlbnQuSWQpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICApOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZyb21BZGRyZXNzID0gbmV3IEd1aWQ/KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CQkgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgWyJFdmVudE5hbWUiXSA9IEBldmVudC5OYW1lLAogICAgICAgICAgICAgICAgICAgICAgICBbIkludml0ZWRCeSJdID0gaW52aXRlZEJ5TmFtZQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="7" type="8">
+        <text>{{
+{{
+{{
+{{
+{{
+{{
+{{
+{{
+{{
+{{
+{{
+{{</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+      <register name="8" type="8">
+        <text>.Replace(
+.Replace(
+.Replace(
+.Replace(
+.Replace(
+.Replace(
+.Replace(
+.Replace(
+.Replace(
+.Replace(
+.Replace(
+.Replace(</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgdm9pZCBBcHBsaWNhdGlvbl9FcnJvcihvYmplY3Qgc2VuZGVyLCBFdmVudEFyZ3MgZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZnJvbU5hbWVcPg==</last-search>
+      <last-search encoding="base64">XDxzdWJtaXR0ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZnJvbU5hbWVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzdWJtaXR0ZXJcPg==</last-pattern>
       <last-replace>Error</last-replace>
       <last-substitute>Deviation</last-substitute>
       <last-dir>-1</last-dir>
@@ -576,7 +591,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMYXN0TmFtZVw+</entry>
         <entry encoding="base64">XDxSZXZpZXdlck5hbWVcPg==</entry>
         <entry encoding="base64">XDxTdWJtaXR0ZXJFbWFpbFw+</entry>
         <entry encoding="base64">XDxQcm9jZXNzTmFtZVw+</entry>
@@ -591,11 +605,12 @@
         <entry encoding="base64">XDxHZXRSZXZpZXdlclN0ZXBOb3RpZmljYXRpb25QbGFpblRleHRCb2R5XD4=</entry>
         <entry encoding="base64">XDxib2R5XD4=</entry>
         <entry encoding="base64">XDxHZXRTdWJtaXR0ZXJTdGF0dXNOb3RpZmljYXRpb25Cb2R5XD4=</entry>
-        <entry encoding="base64">XDxHZXRTdWJtaXR0ZXJTdGF0dXNOb3RpZmljYXRpb25QbGFpblRleHRCb2R5XD4=</entry>
         <entry encoding="base64">XDxhbW91bnRcPg==</entry>
         <entry encoding="base64">XDxFbWFpbFJlZ2V4XD4=</entry>
         <entry encoding="base64">XDxJc0VtYWlsQWRkcmVzc1w+</entry>
         <entry encoding="base64">XDxfZnJvbU5hbWVcPg==</entry>
+        <entry encoding="base64">XDxHZXRTdWJtaXR0ZXJTdGF0dXNOb3RpZmljYXRpb25QbGFpblRleHRCb2R5XD4=</entry>
+        <entry encoding="base64">XDxzdWJtaXR0ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>8</entry>
