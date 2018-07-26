@@ -175,6 +175,7 @@
         <mark key="." line="13" column="35" />
         <mark key="^" line="10" column="32" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/dbo/Tables/Step.sql" timestamp="1532628627360" />
       <file name="$USER_HOME$/Code/Evaluations/Evaluations/Views/_ErrorDisplay.cshtml" timestamp="1531407581456">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -222,8 +223,8 @@
         <mark key="^" line="13" column="13" />
         <mark key="." line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" timestamp="1532624793219">
-        <mark key="'" line="439" column="20" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" timestamp="1532627697489">
+        <mark key="'" line="139" column="28" />
       </file>
       <file name="$USER_HOME$/source/repos/ReportBlobber/ReportBlobber/Models/SectionDto.cs" timestamp="1528999632941">
         <mark key="[" line="16" column="0" />
@@ -323,6 +324,7 @@
         <mark key="." line="16" column="22" />
         <mark key="^" line="16" column="20" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Settings/Step.cs" timestamp="1532628762215" />
       <file name="$USER_HOME$/Code/Evaluations/Evaluations/Views/Shared/PageElement.cshtml" timestamp="1531409793401">
         <mark key="." line="32" column="0" />
       </file>
@@ -386,9 +388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="28" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
-      <jump line="127" column="28" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
-      <jump line="132" column="13" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
       <jump line="128" column="35" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
       <jump line="147" column="13" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
       <jump line="143" column="28" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
@@ -486,6 +485,9 @@
       <jump line="463" column="43" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="444" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="439" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
+      <jump line="141" column="57" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
+      <jump line="24" column="29" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
+      <jump line="139" column="28" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -518,7 +520,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbW91bnRcPg==</text>
+        <text encoding="base64">XDxJc0VtYWlsQWRkcmVzc1w+</text>
       </register>
       <register name="0" type="4">
         <text>QuestionLegend</text>
@@ -555,9 +557,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbW91bnRcPg==</last-search>
+      <last-search encoding="base64">XDxJc0VtYWlsQWRkcmVzc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbW91bnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxJc0VtYWlsQWRkcmVzc1w+</last-pattern>
       <last-replace>Error</last-replace>
       <last-substitute>Deviation</last-substitute>
       <last-dir>-1</last-dir>
@@ -565,8 +567,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxHZXRSZXZpZXdlclN0ZXBOb3RpZmljYXRpb25Cb2R5XD4=</entry>
-        <entry encoding="base64">XDxPcmdhbml6YXRpb25OYW1lXD4=</entry>
         <entry encoding="base64">XDxGaXJzdE5hbWVcPg==</entry>
         <entry encoding="base64">XDxMYXN0TmFtZVw+</entry>
         <entry encoding="base64">XDxSZXZpZXdlck5hbWVcPg==</entry>
@@ -585,6 +585,8 @@
         <entry encoding="base64">XDxHZXRTdWJtaXR0ZXJTdGF0dXNOb3RpZmljYXRpb25Cb2R5XD4=</entry>
         <entry encoding="base64">XDxHZXRTdWJtaXR0ZXJTdGF0dXNOb3RpZmljYXRpb25QbGFpblRleHRCb2R5XD4=</entry>
         <entry encoding="base64">XDxhbW91bnRcPg==</entry>
+        <entry encoding="base64">XDxFbWFpbFJlZ2V4XD4=</entry>
+        <entry encoding="base64">XDxJc0VtYWlsQWRkcmVzc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>8</entry>
