@@ -51,6 +51,7 @@
         <mark key="." line="16" column="13" />
         <mark key="^" line="16" column="12" />
       </file>
+      <file name="$USER_HOME$/source/repos/Pillar.Notifications/src/Pillar.Notifications.Contracts/Notification/CreateNotificationRequest.cs" timestamp="1532710315447" />
       <file name="$USER_HOME$/Code/evaluation-reporting-frontend/src/services/reportService.test.js" timestamp="1529609716369">
         <mark key="[" line="3" column="33" />
         <mark key="]" line="3" column="46" />
@@ -226,12 +227,12 @@
         <mark key="^" line="13" column="13" />
         <mark key="." line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" timestamp="1532697830244">
-        <mark key="'" line="219" column="23" />
-        <mark key="[" line="154" column="59" />
-        <mark key="]" line="154" column="59" />
-        <mark key="^" line="154" column="19" />
-        <mark key="." line="154" column="59" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" timestamp="1532710159660">
+        <mark key="'" line="180" column="21" />
+        <mark key="[" line="204" column="71" />
+        <mark key="]" line="204" column="94" />
+        <mark key="." line="204" column="94" />
+        <mark key="^" line="204" column="94" />
       </file>
       <file name="$USER_HOME$/source/repos/ReportBlobber/ReportBlobber/Models/SectionDto.cs" timestamp="1528999632941">
         <mark key="[" line="16" column="0" />
@@ -393,7 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="13" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
       <jump line="20" column="13" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
       <jump line="24" column="23" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
       <jump line="16" column="23" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
@@ -493,6 +493,7 @@
       <jump line="164" column="91" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="188" column="35" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="218" column="23" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
+      <jump line="179" column="21" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -513,53 +514,53 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>sendStepNotificationToReviewer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>sendStepNotificationToReviewer</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRPcmdhbml6YXRpb25OYW1lXD4=</text>
+        <text encoding="base64">XDxzZW5kU3RlcE5vdGlmaWNhdGlvblRvUmV2aWV3ZXJWaWFQaWxsYXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAgICAgICAgICAgICAgICBzZW5kU3RlcE5vdGlmaWNhdGlvblRvUmV2aWV3ZXIoc3VibWlzc2lvbiwgYWNjb3VudCwgc3VibWl0dGVyQWNjb3VudCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG9yZ2FuaXphdGlvbk5hbWUgPSAoc3VibWlzc2lvbi5Db2xsZWdpYXRlTGlua09yZ2FuaXphdGlvbklkLkhhc1ZhbHVlKT9fb3JnYW5pemF0aW9uUGlsbGFyQ2xpZW50LkdldE9yZ2FuaXphdGlvbkJ5SWQoX2luc3RpdHV0aW9uQ29udGV4dC5JbnN0aXR1dGlvbklkLCBzdWJtaXNzaW9uLkNvbGxlZ2lhdGVMaW5rT3JnYW5pemF0aW9uSWQuVmFsdWUpLkdldEF3YWl0ZXIoKS5HZXRSZXN1bHQoKS5OYW1lOlN0cmluZy5FbXB0eTsK</text>
+        <text encoding="base64">CQkJICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVjaXBpZW50cy5BZGQocmV2aWV3ZXJBY2NvdW50LklkKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkgICAgdmFyIHRvQWRkcmVzcyA9IHJldmlld2VyQWNjb3VudC5QcmVmZXJyZWRFbWFpbEFkZHJlc3M7CiAgICAgICAgICAgIGlmIChTdHJpbmcuSXNOdWxsT3JFbXB0eSh0b0FkZHJlc3MpKSB7cmV0dXJuO30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN1Ym1pdHRlckVtYWlsQWRkcmVzcyA9IFN0cmluZy5Jc051bGxPckVtcHR5KHN1Ym1pdHRlckFjY291bnQuUHJpbWFyeUVtYWlsQWRkcmVzcyk/U3RyaW5nLkVtcHR5OnN1Ym1pdHRlckFjY291bnQuUHJpbWFyeUVtYWlsQWRkcmVzczsK</text>
+        <text encoding="base64">CSAgICAgICAgICAgICAgICBzZW5kU3RlcE5vdGlmaWNhdGlvblRvUmV2aWV3ZXJWaWFQaWxsYXIoc3VibWlzc2lvbiwgYWNjb3VudCwgc3VibWl0dGVyQWNjb3VudCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN1Ym1pdHRlciA9IHN1Ym1pc3Npb24uQWNjb3VudDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG9yZ2FuaXphdGlvbk5hbWUgPSAoc3VibWlzc2lvbi5Db2xsZWdpYXRlTGlua09yZ2FuaXphdGlvbklkLkhhc1ZhbHVlKT9fb3JnYW5pemF0aW9uUGlsbGFyQ2xpZW50LkdldE9yZ2FuaXphdGlvbkJ5SWQoX2luc3RpdHV0aW9uQ29udGV4dC5JbnN0aXR1dGlvbklkLCBzdWJtaXNzaW9uLkNvbGxlZ2lhdGVMaW5rT3JnYW5pemF0aW9uSWQuVmFsdWUpLkdldEF3YWl0ZXIoKS5HZXRSZXN1bHQoKS5OYW1lOlN0cmluZy5FbXB0eTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkgICAgaWYgKFN0cmluZy5Jc051bGxPckVtcHR5KGVtYWlsQWRkcmVzcykpIHJldHVybjsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN1Ym1pdHRlckVtYWlsQWRkcmVzcyA9IFN0cmluZy5Jc051bGxPckVtcHR5KHN1Ym1pdHRlckFjY291bnQuUHJpbWFyeUVtYWlsQWRkcmVzcyk/U3RyaW5nLkVtcHR5OnN1Ym1pdHRlckFjY291bnQuUHJpbWFyeUVtYWlsQWRkcmVzczsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkgICAgdmFyIGVtYWlsQWRkcmVzcyA9IHJldmlld2VyQWNjb3VudC5QcmltYXJ5RW1haWxBZGRyZXNzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN1Ym1pdHRlciA9IHN1Ym1pc3Npb24uQWNjb3VudDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRPcmdhbml6YXRpb25OYW1lXD4=</last-search>
+      <last-search encoding="base64">XDxzZW5kU3RlcE5vdGlmaWNhdGlvblRvUmV2aWV3ZXJWaWFQaWxsYXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRPcmdhbml6YXRpb25OYW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZW5kU3RlcE5vdGlmaWNhdGlvblRvUmV2aWV3ZXJWaWFQaWxsYXJcPg==</last-pattern>
       <last-replace>Error</last-replace>
       <last-substitute>Deviation</last-substitute>
       <last-dir>-1</last-dir>
@@ -567,7 +568,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEYXRlXD4=</entry>
         <entry encoding="base64">XDxUaW1lXD4=</entry>
         <entry encoding="base64">XDxCdWRnZXRUeXBlTmFtZVw+</entry>
         <entry encoding="base64">XDxSZXF1ZXN0TmFtZVw+</entry>
@@ -587,6 +587,7 @@
         <entry encoding="base64">XDxzdWJtaXR0ZXJFbWFpbEFkZHJlc3NcPg==</entry>
         <entry>emailAddress</entry>
         <entry encoding="base64">XDxnZXRPcmdhbml6YXRpb25OYW1lXD4=</entry>
+        <entry encoding="base64">XDxzZW5kU3RlcE5vdGlmaWNhdGlvblRvUmV2aWV3ZXJWaWFQaWxsYXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>8</entry>
@@ -639,6 +640,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
