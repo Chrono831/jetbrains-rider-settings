@@ -231,6 +231,16 @@
         <mark key="^" line="13" column="13" />
         <mark key="." line="13" column="13" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" timestamp="1533317521635">
+        <mark key="'" line="78" column="12" />
+        <mark key="[" line="128" column="89" />
+        <mark key="]" line="129" column="56" />
+        <mark key="^" line="129" column="56" />
+        <mark key="." line="129" column="56" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1533317651310">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/ReportBlobber/ReportBlobber/Models/SectionDto.cs" timestamp="1528999632941">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -397,10 +407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="771" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
-      <jump line="739" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
-      <jump line="706" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
-      <jump line="677" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="647" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="622" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="595" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
@@ -497,6 +503,10 @@
       <jump line="28" column="41" filename="$USER_HOME$/Code/Evaluations/Evaluations/Views/Shared/Question.cshtml" />
       <jump line="180" column="21" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="13" column="5" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/collegiateLinkOrganizationService.js" />
+      <jump line="77" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
+      <jump line="621" column="21" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
+      <jump line="78" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -529,7 +539,7 @@
         <text>accountBatches</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZW5kU3RlcE5vdGlmaWNhdGlvblRvUmV2aWV3ZXJzVmlhUGlsbGFyXD4=</text>
+        <text>Comments</text>
       </register>
       <register name="0" type="4">
         <text>QuestionLegend</text>
@@ -562,23 +572,20 @@
         <text encoding="base64">ICAgICAgICAgICAgIEBIdG1sLlBhcnRpYWwoIk1pbk1heE1lc3NhZ2luZyIsIE1vZGVsLlF1ZXN0aW9uKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>158</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZW5kU3RlcE5vdGlmaWNhdGlvblRvUmV2aWV3ZXJzVmlhUGlsbGFyXD4=</last-search>
+      <last-search>Comments</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZW5kU3RlcE5vdGlmaWNhdGlvblRvUmV2aWV3ZXJzVmlhUGlsbGFyXD4=</last-pattern>
+      <last-pattern>Comments</last-pattern>
       <last-replace>Error</last-replace>
       <last-substitute>Deviation</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCdWRnZXRUeXBlTmFtZVw+</entry>
-        <entry encoding="base64">XDxSZXF1ZXN0TmFtZVw+</entry>
-        <entry encoding="base64">XDxSZXF1ZXN0QW1vdW50XD4=</entry>
         <entry encoding="base64">XDxSZXF1ZXN0RGVzY3JpcHRpb25cPg==</entry>
         <entry encoding="base64">XDxTdGVwTmFtZVw+</entry>
         <entry encoding="base64">XDxib2R5XD4=</entry>
@@ -596,6 +603,9 @@
         <entry encoding="base64">XDxnZXRPcmdhbml6YXRpb25OYW1lXD4=</entry>
         <entry encoding="base64">XDxzZW5kU3RlcE5vdGlmaWNhdGlvblRvUmV2aWV3ZXJWaWFQaWxsYXJcPg==</entry>
         <entry encoding="base64">XDxzZW5kU3RlcE5vdGlmaWNhdGlvblRvUmV2aWV3ZXJzVmlhUGlsbGFyXD4=</entry>
+        <entry encoding="base64">XDxTZW5kU3RhdHVzTm90aWZpY2F0aW9uc1RvU3VibWl0dGVyc1ZpYU9sZFN5c3RlbVw+</entry>
+        <entry encoding="base64">XDxTZW5kU3RhdHVzTm90aWZpY2F0aW9uc1RvU3VibWl0dGVyc1ZpYVBpbGxhclw+</entry>
+        <entry>Comments</entry>
       </history-search>
       <history-cmd>
         <entry>8</entry>
@@ -617,6 +627,7 @@
         <entry>185</entry>
         <entry>179</entry>
         <entry>w</entry>
+        <entry>158</entry>
       </history-cmd>
       <history-expr />
       <history-input />
