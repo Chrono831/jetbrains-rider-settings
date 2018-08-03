@@ -231,12 +231,10 @@
         <mark key="^" line="13" column="13" />
         <mark key="." line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" timestamp="1533318312667">
-        <mark key="'" line="84" column="12" />
-        <mark key="[" line="136" column="35" />
-        <mark key="]" line="136" column="42" />
-        <mark key="." line="136" column="42" />
-        <mark key="^" line="136" column="42" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" timestamp="1533319261780">
+        <mark key="[" line="62" column="52" />
+        <mark key="]" line="62" column="52" />
+        <mark key="." line="62" column="52" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1533317863689">
         <mark key="'" line="0" column="0" />
@@ -407,13 +405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="572" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
-      <jump line="548" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
-      <jump line="521" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
-      <jump line="494" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
-      <jump line="463" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
-      <jump line="435" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
-      <jump line="406" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="376" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="344" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="314" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
@@ -507,6 +498,13 @@
       <jump line="54" column="33" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="625" column="21" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="84" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
+      <jump line="600" column="30" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
+      <jump line="509" column="32" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
+      <jump line="136" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
+      <jump line="116" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
+      <jump line="506" column="32" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
+      <jump line="597" column="30" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
+      <jump line="55" column="42" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -533,52 +531,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTZW5kU3RhdHVzTm90aWZpY2F0aW9uc1RvU3VibWl0dGVyc1ZpYVBpbGxhclw+</text>
+        <text encoding="base64">XDxfYWNjb3VudFByb3ZpZGVyXD4=</text>
       </register>
       <register name="0" type="4">
         <text>QuestionLegend</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbW1lbnRzID0gc3VibWlzc2lvbi5Db21tZW50cy5XaGVyZSh4ID0+IHguQ2FuVmlld0FzUmVxdWVzdGVyKF9hY2NvdW50UHJvdmlkZXIuQWNjb3VudC5JZCkpLlRvTGlzdCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL0hhc1Blcm1pc3Npb24oTWVtYmVyc2hpcFJvbGUuQWxsLCByZXN1bHQuVmlld1Blcm1pc3Npb25zKSB8fCAgICAgICAgICAgIC8vVE9ETzogbm90IHN1cmUgaWYgdGhpcyBvbmUgaXMgcmVhbGx5IG5lY2Vzc2FyeS4KICAgICAgICAgICAgICAgICAgICAvL0hhc1Blcm1pc3Npb24oTWVtYmVyc2hpcFJvbGUuQWxsLCByZXN1bHQuUGFyZW50Vmlld1Blcm1pc3Npb25zKSB8fCAgICAgIC8vbm90IHN1cmUgaWYgdGhpcyBvbmUgaXMgcmVhbGx5IG5lY2Vzc2FyeS4K</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElBY2NvdW50UHJvdmlkZXIgX2FjY291bnRQcm92aWRlcjsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">TWVyZ2VkIFBSIDY5MjI6IERldiAtPiBNYXN0ZXIKClJlbGF0ZWQgd29yayBpdGVtczogIzU0MzQ5LCAjNTQzODI=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSUFjY291bnRQcm92aWRlciBhY2NvdW50UHJvdmlkZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEB7IEh0bWwuUmVuZGVyUGFydGlhbCgiUXVlc3Rpb25MZWdlbmQiLCBNb2RlbCk7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2FjY291bnRQcm92aWRlciA9IGFjY291bnRQcm92aWRlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEB7IEh0bWwuUmVuZGVyUGFydGlhbCgiUXVlc3Rpb25MYWJlbCIsIE1vZGVsKTsgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb21tZW50cyA9IHN1Ym1pc3Npb24uQ29tbWVudHMuV2hlcmUoeCA9PiB4LkNhblZpZXdBc1JlcXVlc3RlcihfYWNjb3VudFByb3ZpZGVyLkFjY291bnQuSWQpKS5Ub0xpc3QoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBASHRtbC5QYXJ0aWFsKCJQYWdlRWxlbWVudCIsIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbIkNvbW1lbnRzIl0gPSBjb21tZW50cywgLy9UT0RPIGJyaW5nIGluIGFjdHVhbCBjb21tZW50cwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEB7IEh0bWwuUmVuZGVyUGFydGlhbCgiUXVlc3Rpb25MZWdlbmQiLCBNb2RlbCk7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbW1lbnRzID0gc3VibWlzc2lvbi5Db21tZW50cy5XaGVyZSh4ID0+IHguQ2FuVmlld0FzUmVxdWVzdGVyKF9hY2NvdW50UHJvdmlkZXIuQWNjb3VudC5JZCkpLlRvTGlzdCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL0hhc1Blcm1pc3Npb24oTWVtYmVyc2hpcFJvbGUuQWxsLCByZXN1bHQuVmlld1Blcm1pc3Npb25zKSB8fCAgICAgICAgICAgIC8vVE9ETzogbm90IHN1cmUgaWYgdGhpcyBvbmUgaXMgcmVhbGx5IG5lY2Vzc2FyeS4KICAgICAgICAgICAgICAgICAgICAvL0hhc1Blcm1pc3Npb24oTWVtYmVyc2hpcFJvbGUuQWxsLCByZXN1bHQuUGFyZW50Vmlld1Blcm1pc3Npb25zKSB8fCAgICAgIC8vbm90IHN1cmUgaWYgdGhpcyBvbmUgaXMgcmVhbGx5IG5lY2Vzc2FyeS4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTZW5kU3RhdHVzTm90aWZpY2F0aW9uc1RvU3VibWl0dGVyc1ZpYVBpbGxhclw+</last-search>
+      <last-search encoding="base64">XDxfYWNjb3VudFByb3ZpZGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTZW5kU3RhdHVzTm90aWZpY2F0aW9uc1RvU3VibWl0dGVyc1ZpYVBpbGxhclw+</last-pattern>
+      <last-pattern encoding="base64">XDxfYWNjb3VudFByb3ZpZGVyXD4=</last-pattern>
       <last-replace>Error</last-replace>
       <last-substitute>Deviation</last-substitute>
       <last-dir>-1</last-dir>
@@ -586,8 +584,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSZXF1ZXN0RGVzY3JpcHRpb25cPg==</entry>
-        <entry encoding="base64">XDxTdGVwTmFtZVw+</entry>
         <entry encoding="base64">XDxib2R5XD4=</entry>
         <entry encoding="base64">XDxHZXRTdWJtaXR0ZXJTdGF0dXNOb3RpZmljYXRpb25Cb2R5XD4=</entry>
         <entry encoding="base64">XDxhbW91bnRcPg==</entry>
@@ -606,9 +602,10 @@
         <entry>Comments</entry>
         <entry encoding="base64">XDxTZW5kU3RhdHVzTm90aWZpY2F0aW9uc1RvU3VibWl0dGVyc1ZpYU9sZFN5c3RlbVw+</entry>
         <entry encoding="base64">XDxTZW5kU3RhdHVzTm90aWZpY2F0aW9uc1RvU3VibWl0dGVyc1ZpYVBpbGxhclw+</entry>
+        <entry encoding="base64">XDxDb21tZW50c1w+</entry>
+        <entry encoding="base64">XDxfYWNjb3VudFByb3ZpZGVyXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>8</entry>
         <entry>21</entry>
         <entry>%y</entry>
         <entry>40</entry>
@@ -627,6 +624,7 @@
         <entry>185</entry>
         <entry>179</entry>
         <entry>158</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
