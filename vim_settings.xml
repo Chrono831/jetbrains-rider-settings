@@ -231,10 +231,12 @@
         <mark key="^" line="13" column="13" />
         <mark key="." line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" timestamp="1533319261780">
-        <mark key="[" line="62" column="52" />
-        <mark key="]" line="62" column="52" />
-        <mark key="." line="62" column="52" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" timestamp="1533319969275">
+        <mark key="'" line="129" column="30" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="^" line="16" column="21" />
+        <mark key="." line="158" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1533317863689">
         <mark key="'" line="0" column="0" />
@@ -405,7 +407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="376" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="344" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="314" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="289" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
@@ -505,78 +506,59 @@
       <jump line="506" column="32" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="597" column="30" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="55" column="42" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
+      <jump line="129" column="30" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <keys>
-          <key char="98" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="80" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-        </keys>
+        <text>2dwjywkP</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">c3RhdGljIHJlYWRvbmx5IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfYWNjb3VudFByb3ZpZGVyXD4=</text>
+        <text encoding="base64">XDxHZXROb3RpZmljYXRpb25zUGlsbGFyVHlwZUNvZGVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>QuestionLegend</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">IAogCiAKIAog</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElBY2NvdW50UHJvdmlkZXIgX2FjY291bnRQcm92aWRlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSUFjY291bnRQcm92aWRlciBhY2NvdW50UHJvdmlkZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FjY291bnRQcm92aWRlciA9IGFjY291bnRQcm92aWRlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb21tZW50cyA9IHN1Ym1pc3Npb24uQ29tbWVudHMuV2hlcmUoeCA9PiB4LkNhblZpZXdBc1JlcXVlc3RlcihfYWNjb3VudFByb3ZpZGVyLkFjY291bnQuSWQpKS5Ub0xpc3QoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbIkNvbW1lbnRzIl0gPSBjb21tZW50cywgLy9UT0RPIGJyaW5nIGluIGFjdHVhbCBjb21tZW50cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbW1lbnRzID0gc3VibWlzc2lvbi5Db21tZW50cy5XaGVyZSh4ID0+IHguQ2FuVmlld0FzUmVxdWVzdGVyKF9hY2NvdW50UHJvdmlkZXIuQWNjb3VudC5JZCkpLlRvTGlzdCgpOwo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLlRocmVhZGluZy5UYXNrczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL0hhc1Blcm1pc3Npb24oTWVtYmVyc2hpcFJvbGUuQWxsLCByZXN1bHQuVmlld1Blcm1pc3Npb25zKSB8fCAgICAgICAgICAgIC8vVE9ETzogbm90IHN1cmUgaWYgdGhpcyBvbmUgaXMgcmVhbGx5IG5lY2Vzc2FyeS4KICAgICAgICAgICAgICAgICAgICAvL0hhc1Blcm1pc3Npb24oTWVtYmVyc2hpcFJvbGUuQWxsLCByZXN1bHQuUGFyZW50Vmlld1Blcm1pc3Npb25zKSB8fCAgICAgIC8vbm90IHN1cmUgaWYgdGhpcyBvbmUgaXMgcmVhbGx5IG5lY2Vzc2FyeS4K</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLlRleHQuUmVndWxhckV4cHJlc3Npb25zOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfYWNjb3VudFByb3ZpZGVyXD4=</last-search>
+      <last-search encoding="base64">XDxHZXROb3RpZmljYXRpb25zUGlsbGFyVHlwZUNvZGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfYWNjb3VudFByb3ZpZGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxHZXROb3RpZmljYXRpb25zUGlsbGFyVHlwZUNvZGVcPg==</last-pattern>
       <last-replace>Error</last-replace>
       <last-substitute>Deviation</last-substitute>
       <last-dir>-1</last-dir>
@@ -584,7 +566,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxib2R5XD4=</entry>
         <entry encoding="base64">XDxHZXRTdWJtaXR0ZXJTdGF0dXNOb3RpZmljYXRpb25Cb2R5XD4=</entry>
         <entry encoding="base64">XDxhbW91bnRcPg==</entry>
         <entry encoding="base64">XDxFbWFpbFJlZ2V4XD4=</entry>
@@ -604,6 +585,7 @@
         <entry encoding="base64">XDxTZW5kU3RhdHVzTm90aWZpY2F0aW9uc1RvU3VibWl0dGVyc1ZpYVBpbGxhclw+</entry>
         <entry encoding="base64">XDxDb21tZW50c1w+</entry>
         <entry encoding="base64">XDxfYWNjb3VudFByb3ZpZGVyXD4=</entry>
+        <entry encoding="base64">XDxHZXROb3RpZmljYXRpb25zUGlsbGFyVHlwZUNvZGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>21</entry>
