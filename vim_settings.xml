@@ -190,7 +190,7 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/AzureSearchParameters.cs" timestamp="1533818304087">
+      <file name="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/AzureSearchParameters.cs" timestamp="1533838311917">
         <mark key="[" line="26" column="61" />
         <mark key="]" line="26" column="61" />
         <mark key="^" line="26" column="61" />
@@ -268,8 +268,10 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="59" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533819754818">
+      <file name="/Dummy.txt" timestamp="1533838744044">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Evaluations/Evaluations/Views/Shared/QuestionTypes/Text.cshtml" timestamp="1531409243498">
         <mark key="'" line="2" column="0" />
@@ -363,11 +365,12 @@
         <mark key="^" line="40" column="101" />
         <mark key="." line="40" column="106" />
       </file>
-      <file name="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/SearchClient.cs" timestamp="1533836520902">
-        <mark key="[" line="79" column="24" />
-        <mark key="]" line="80" column="15" />
-        <mark key="." line="80" column="15" />
-        <mark key="^" line="80" column="15" />
+      <file name="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/SearchClient.cs" timestamp="1533838400563">
+        <mark key="'" line="73" column="30" />
+        <mark key="[" line="38" column="61" />
+        <mark key="]" line="38" column="61" />
+        <mark key="." line="38" column="61" />
+        <mark key="^" line="83" column="85" />
       </file>
       <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Models/ResponseDto.cs" timestamp="1529081806750">
         <mark key="[" line="49" column="89" />
@@ -486,8 +489,8 @@
       <jump line="63" column="13" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/SearchClient.cs" />
       <jump line="68" column="13" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/SearchClient.cs" />
       <jump line="70" column="8" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/SearchClient.cs" />
-      <jump line="73" column="8" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/SearchClient.cs" />
       <jump line="77" column="14" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/SearchClient.cs" />
+      <jump line="73" column="30" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/SearchClient.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -513,53 +516,53 @@
           <key char="98" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICogbW92ZSB0byBwYXJhbWV0ZXJzIGluIEF6dXJlU2VhcmNoUGFyYW1ldGVycwogKiByZWZvcm1hdCBjb2RlLCByZW9yZGVyCiAqIHNwbGl0IG91dCB3aWxkY2FyZCB0b2tlbnMgcGVyIFRlcm0=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWFyY2hUZXJtXD4=</text>
+        <text encoding="base64">XDxCdWlsZFF1ZXJ5U3RyaW5nXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">c2VhcmNoVGVybSA=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICogbW92ZSB0byBwYXJhbWV0ZXJzIGluIEF6dXJlU2VhcmNoUGFyYW1ldGVycwogKiByZWZvcm1hdCBjb2RlLCByZW9yZGVyCiAqIHNwbGl0IG91dCB3aWxkY2FyZCB0b2tlbnMgcGVyIFRlcm0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBzdHJpbmcgR2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBzdHJpbmcgR2V0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGR5bGFuIGhhbGwgICAgICAgIC0tPiBkeWxhbiogaGFsbCoKICAgICAgICAgICAgICAgIC8vIGR5bGFuLmhhbGxAY2wuY29tIC0tPiBkeWxhbi5oYWxsQGNsLmNvbSoKICAgICAgICAgICAgICAgIC8vIGR5bGFuLmhhbGxAY2wgICAgIC0tPiBkeWxhbi5oYWxsQGNsKgogICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgLS0+IGR5bGFuLmhhbGwqCiAgICAgICAgICAgICAgICAvLyBUT0RPIHN0dWZmIC0tPgogICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAtLT4gbWF0Y2ggb24gZXhhY3QgZW1haWwgLy9pZiBjbGF1c2UgYWJvdmUKICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgLS0+IHBhcnRpYWwgbWF0Y2ggb24gcHJlLUAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlYXJjaFRlcm0gPSByZXN1bHQ7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgdGVybSA9IHF1ZXJ5UGFyYW0uVHJpbSgpOwogICAgICAgICAgICAgICAgICAgIGlmIChlbWFpbFByZWZpeC5MZW5ndGggPiAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRlcm0gPSBlbWFpbFByZWZpeC5UcmltKCk7CgogICAgICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGR5bGFuIGhhbGwgICAgICAgIC0tPiBkeWxhbiogaGFsbCoKICAgICAgICAgICAgICAgIC8vIGR5bGFuLmhhbGxAY2wuY29tIC0tPiBkeWxhbi5oYWxsQGNsLmNvbSoKICAgICAgICAgICAgICAgIC8vIGR5bGFuLmhhbGxAY2wgICAgIC0tPiBkeWxhbi5oYWxsQGNsKgogICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgLS0+IGR5bGFuLmhhbGwqCiAgICAgICAgICAgICAgICAvLyBUT0RPIHN0dWZmIC0tPgogICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAtLT4gbWF0Y2ggb24gZXhhY3QgZW1haWwgLy9pZiBjbGF1c2UgYWJvdmUKICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgLS0+IHBhcnRpYWwgbWF0Y2ggb24gcHJlLUAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlYXJjaFRlcm0gPSByZXN1bHQ7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgdGVybSA9IHF1ZXJ5UGFyYW0uVHJpbSgpOwogICAgICAgICAgICAgICAgICAgIGlmIChlbWFpbFByZWZpeC5MZW5ndGggPiAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRlcm0gPSBlbWFpbFByZWZpeC5UcmltKCk7CgogICAgICAgICAgICAgICAgICAgIH0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocXVlcnlQYXJhbS5MZW5ndGggPiAwKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWFyY2hUZXJtXD4=</last-search>
+      <last-search encoding="base64">XDxCdWlsZFF1ZXJ5U3RyaW5nXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWFyY2hUZXJtXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxCdWlsZFF1ZXJ5U3RyaW5nXD4=</last-pattern>
       <last-replace>Error</last-replace>
       <last-substitute encoding="base64">XDxEcm9wZG93blw+</last-substitute>
       <last-dir>-1</last-dir>
@@ -567,7 +570,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUZXJtSWRlbnRpZmllclw+</entry>
         <entry encoding="base64">XDxDb3JlRGF0YVNxbENvbW1hbmRcPg==</entry>
         <entry encoding="base64">XDwxMFw+</entry>
         <entry>Deviation</entry>
@@ -587,6 +589,7 @@
         <entry encoding="base64">XDxhcGlWZXJzaW9uXD4=</entry>
         <entry encoding="base64">XDxvcmRlckJ5XD4=</entry>
         <entry encoding="base64">XDxzZWFyY2hUZXJtXD4=</entry>
+        <entry encoding="base64">XDxCdWlsZFF1ZXJ5U3RyaW5nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>8</entry>
