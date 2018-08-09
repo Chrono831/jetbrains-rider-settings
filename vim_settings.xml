@@ -354,11 +354,12 @@
         <mark key="^" line="40" column="101" />
         <mark key="." line="40" column="106" />
       </file>
-      <file name="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/SearchClient.cs" timestamp="1533758107143">
-        <mark key="[" line="53" column="51" />
-        <mark key="]" line="53" column="57" />
-        <mark key="." line="53" column="57" />
-        <mark key="^" line="53" column="57" />
+      <file name="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/SearchClient.cs" timestamp="1533816580016">
+        <mark key="'" line="62" column="27" />
+        <mark key="[" line="72" column="22" />
+        <mark key="]" line="72" column="22" />
+        <mark key="." line="72" column="22" />
+        <mark key="^" line="70" column="74" />
       </file>
       <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Models/ResponseDto.cs" timestamp="1529081806750">
         <mark key="[" line="49" column="89" />
@@ -379,7 +380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="830" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="799" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="771" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="739" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
@@ -479,6 +479,7 @@
       <jump line="3" column="12" filename="$USER_HOME$/Code/Evaluations/Evaluations/Views/Shared/QuestionTypes/Radio.cshtml" />
       <jump line="29" column="46" filename="$USER_HOME$/Code/Evaluations/Evaluations/Views/Shared/Question.cshtml" />
       <jump line="28" column="41" filename="$USER_HOME$/Code/Evaluations/Evaluations/Views/Shared/Question.cshtml" />
+      <jump line="62" column="27" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/SearchClient.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -505,43 +506,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>new StringBuilder()</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>new StringBuilder()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEcm9wZG93blw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CiAgICAgIHZhciBhcGlWZXJzaW9uICAgPSAiMjAxNi0wOS0wMSI7CiAgICAgIHZhciBvcmRlckJ5ICAgICAgPSBuZXdbXSB7IkZpcnN0TmFtZSIsICJMYXN0TmFtZSJ9OwogICAgICB2YXIgc2VhcmNoRmllbGRzID0gbmV3W10geyJGaXJzdE5hbWUiLCAiTGFzdE5hbWUiLCAiQ2FtcHVzRW1haWwifTsK</text>
+      <register name="0" type="4">
+        <text>searchParameters.Query</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFwaVZlcnNpb24gPSAiMjAxNi0wOS0wMSI7CiAgICAgICAgICAgIHZhciBvcmRlckJ5ID0gbmV3IFtdIHsiRmlyc3ROYW1lIiwiTGFzdE5hbWUifTsKICAgICAgICAgICAgdmFyIHNlYXJjaEZpZWxkcyAgPSBuZXcgW10geyJGaXJzdE5hbWUiLCJMYXN0TmFtZSIsIkNhbXB1c0VtYWlsIn07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy92YXIgc2VhcmNoRmllbGRzID0gbmV3IFtdIHsiRmlyc3ROYW1lIiwiTGFzdE5hbWUiLCJDYW1wdXNFbWFpbCJ9Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlYXJjaCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgcXVlcnlQYXJhbXMgPSBzZWFyY2hQYXJhbWV0ZXJzLlF1ZXJ5Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy92YXIgc2VhcmNoRmllbGRzID0gIkZpcnN0TmFtZSxMYXN0TmFtZSI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlYXJjaEZpZWxkcyA9ICJDYW1wdXNFbWFpbCI7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">TWVyZ2VkIFBSIDY5MjI6IERldiAtPiBNYXN0ZXIKClJlbGF0ZWQgd29yayBpdGVtczogIzU0MzQ5LCAjNTQzODI=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlYXJjaFRlcm0gPSBuZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICAgICAgICBpZiAoc2VhcmNoUGFyYW1ldGVycy5RdWVyeSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICB2YXIgcXVlcnlQYXJhbXMgPSBzZWFyY2hQYXJhbWV0ZXJzLlF1ZXJ5OwogICAgICAgICAgICAgICAgZm9yZWFjaCAodmFyIHF1ZXJ5UGFyYW0gaW4gcXVlcnlQYXJhbXMuU3BsaXQoJyAnKSkgewogICAgICAgICAgICAgICAgICAgIHNlYXJjaFRlcm0uQXBwZW5kKCQie3F1ZXJ5UGFyYW19KiAiKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEB7IEh0bWwuUmVuZGVyUGFydGlhbCgiUXVlc3Rpb25MZWdlbmQiLCBNb2RlbCk7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHF1ZXJ5Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEB7IEh0bWwuUmVuZGVyUGFydGlhbCgiUXVlc3Rpb25MYWJlbCIsIE1vZGVsKTsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHF1ZXJ5ID0gJEAiL2luZGV4ZXMve2luZGV4fS9kb2NzP2FwaS12ZXJzaW9uPTIwMTYtMDktMDEmJGNvdW50PXRydWUmJGZpbHRlcj1JbnN0aXR1dGlvbklkIGVxIHtzZWFyY2hQYXJhbWV0ZXJzLkluc3RpdHV0aW9uSWR9JnNlYXJjaD17c2VhcmNoVGVybX0mJHRvcD17c2VhcmNoUGFyYW1ldGVycy5UYWtlfSYkc2tpcD17c2VhcmNoUGFyYW1ldGVycy5Ta2lwfSYkb3JkZXJieT1GaXJzdE5hbWUsIExhc3ROYW1lJnNlYXJjaEZpZWxkcz17c2VhcmNoRmllbGRzfSI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBASHRtbC5QYXJ0aWFsKCJQYWdlRWxlbWVudCIsIAo=</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICB2YXIgc2VhcmNoID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICAgICAgaWYgKHNlYXJjaFBhcmFtZXRlcnMuUXVlcnkgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgdmFyIHF1ZXJ5UGFyYW1zID0gc2VhcmNoUGFyYW1ldGVycy5RdWVyeTsKICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBxdWVyeVBhcmFtIGluIHF1ZXJ5UGFyYW1zLlNwbGl0KCcgJykpIHsKICAgICAgICAgICAgICAgICAgICBpZiAocXVlcnlQYXJhbS5UcmltKCkuTGVuZ3RoID4gMCkgewogICAgICAgICAgICAgICAgICAgICAgICBzZWFyY2guQXBwZW5kKCQie3F1ZXJ5UGFyYW0uVHJpbSgpfSogIik7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CgoKICAgICAgICAgICAgdmFyIGFwaVZlcnNpb24gICA9ICIyMDE2LTA5LTAxIjsKICAgICAgICAgICAgdmFyIG9yZGVyQnkgICAgICA9IG5ld1tdIHsiRmlyc3ROYW1lIiwgIkxhc3ROYW1lIn07CiAgICAgICAgICAgIHZhciBzZWFyY2hGaWVsZHMgPSBuZXdbXSB7IkZpcnN0TmFtZSIsICJMYXN0TmFtZSIsICJDYW1wdXNFbWFpbCJ9Owo+Pj4+Pj4+ICogZW5zdXJlIG9ubHkgYWRkcyB0byBzZWFyY2ggaWYgY29udGVudCBleGlzdHMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
