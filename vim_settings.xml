@@ -190,6 +190,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/AzureSearchParameters.cs" timestamp="1533818304087">
+        <mark key="[" line="26" column="61" />
+        <mark key="]" line="26" column="61" />
+        <mark key="^" line="26" column="61" />
+        <mark key="." line="26" column="61" />
+      </file>
       <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Models/DataTransferObjects/Question.cs" timestamp="1531230388487">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="17" />
@@ -354,12 +360,12 @@
         <mark key="^" line="40" column="101" />
         <mark key="." line="40" column="106" />
       </file>
-      <file name="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/SearchClient.cs" timestamp="1533816580016">
-        <mark key="'" line="62" column="27" />
-        <mark key="[" line="72" column="22" />
-        <mark key="]" line="72" column="22" />
-        <mark key="." line="72" column="22" />
-        <mark key="^" line="70" column="74" />
+      <file name="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/SearchClient.cs" timestamp="1533818319100">
+        <mark key="'" line="75" column="14" />
+        <mark key="[" line="51" column="64" />
+        <mark key="]" line="51" column="64" />
+        <mark key="^" line="51" column="64" />
+        <mark key="." line="17" column="48" />
       </file>
       <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Models/ResponseDto.cs" timestamp="1529081806750">
         <mark key="[" line="49" column="89" />
@@ -380,14 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="799" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
-      <jump line="771" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
-      <jump line="739" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
-      <jump line="706" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
-      <jump line="677" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
-      <jump line="647" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
-      <jump line="622" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
-      <jump line="595" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="572" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="548" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="521" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
@@ -480,6 +478,14 @@
       <jump line="29" column="46" filename="$USER_HOME$/Code/Evaluations/Evaluations/Views/Shared/Question.cshtml" />
       <jump line="28" column="41" filename="$USER_HOME$/Code/Evaluations/Evaluations/Views/Shared/Question.cshtml" />
       <jump line="62" column="27" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/SearchClient.cs" />
+      <jump line="31" column="47" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/SearchClient.cs" />
+      <jump line="30" column="10" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/SearchClient.cs" />
+      <jump line="57" column="10" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/SearchClient.cs" />
+      <jump line="63" column="13" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/SearchClient.cs" />
+      <jump line="68" column="13" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/SearchClient.cs" />
+      <jump line="70" column="8" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/SearchClient.cs" />
+      <jump line="73" column="8" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/SearchClient.cs" />
+      <jump line="77" column="14" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/SearchClient.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -505,64 +511,60 @@
           <key char="98" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>new StringBuilder()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>new StringBuilder()</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEcm9wZG93blw+</text>
+        <text encoding="base64">XDxzZWFyY2hUZXJtXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>searchParameters.Query</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgc3RyaW5nIHNlYXJjaFRlcm07CiAgICAgIGlmIChzZWFyY2hQYXJhbWV0ZXJzLlF1ZXJ5SXNWYWxpZEVtYWlsKSB7CiAgICAgICAgc2VhcmNoVGVybSAgID0gJCJcIntzZWFyY2hQYXJhbWV0ZXJzLlF1ZXJ5fVwiIjsKICAgICAgfQogICAgICBlbHNlIHsKICAgICAgICBzZWFyY2hUZXJtID0gIiI7CiAgICAgICAgaWYgKHNlYXJjaFBhcmFtZXRlcnMuUXVlcnkgIT0gbnVsbCkgewogICAgICAgICAgZm9yZWFjaCAodmFyIHF1ZXJ5UGFyYW0gaW4gc2VhcmNoUGFyYW1ldGVycy5RdWVyeS5TcGxpdCgnICcpKSB7CiAgICAgICAgICAgIGlmIChxdWVyeVBhcmFtLkxlbmd0aCA+IDApIHsKICAgICAgICAgICAgICBzZWFyY2hUZXJtICs9ICQie3F1ZXJ5UGFyYW0uVHJpbSgpfSogIjsKICAgICAgICAgICAgfQogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy92YXIgc2VhcmNoRmllbGRzID0gbmV3IFtdIHsiRmlyc3ROYW1lIiwiTGFzdE5hbWUiLCJDYW1wdXNFbWFpbCJ9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgcXVlcnlQYXJhbXMgPSBzZWFyY2hQYXJhbWV0ZXJzLlF1ZXJ5Owo=</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2hUZXJtID0gIiI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy92YXIgc2VhcmNoRmllbGRzID0gIkZpcnN0TmFtZSxMYXN0TmFtZSI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlYXJjaEZpZWxkcyA9ICJDYW1wdXNFbWFpbCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlYXJjaFRlcm0gPSBuZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICAgICAgICBpZiAoc2VhcmNoUGFyYW1ldGVycy5RdWVyeSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICB2YXIgcXVlcnlQYXJhbXMgPSBzZWFyY2hQYXJhbWV0ZXJzLlF1ZXJ5OwogICAgICAgICAgICAgICAgZm9yZWFjaCAodmFyIHF1ZXJ5UGFyYW0gaW4gcXVlcnlQYXJhbXMuU3BsaXQoJyAnKSkgewogICAgICAgICAgICAgICAgICAgIHNlYXJjaFRlcm0uQXBwZW5kKCQie3F1ZXJ5UGFyYW19KiAiKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHF1ZXJ5Owo=</text>
+        <text encoding="base64">ICAgICAgc3RyaW5nIHNlYXJjaFRlcm07CiAgICAgIGlmIChzZWFyY2hQYXJhbWV0ZXJzLlF1ZXJ5SXNWYWxpZEVtYWlsKSB7CiAgICAgICAgc2VhcmNoVGVybSAgID0gJCJcIntzZWFyY2hQYXJhbWV0ZXJzLlF1ZXJ5fVwiIjsKICAgICAgfQogICAgICBlbHNlIHsKICAgICAgICBzZWFyY2hUZXJtID0gIiI7CiAgICAgICAgaWYgKHNlYXJjaFBhcmFtZXRlcnMuUXVlcnkgIT0gbnVsbCkgewogICAgICAgICAgZm9yZWFjaCAodmFyIHF1ZXJ5UGFyYW0gaW4gc2VhcmNoUGFyYW1ldGVycy5RdWVyeS5TcGxpdCgnICcpKSB7CiAgICAgICAgICAgIGlmIChxdWVyeVBhcmFtLkxlbmd0aCA+IDApIHsKICAgICAgICAgICAgICBzZWFyY2hUZXJtICs9ICQie3F1ZXJ5UGFyYW0uVHJpbSgpfSogIjsKICAgICAgICAgICAgfQogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHF1ZXJ5ID0gJEAiL2luZGV4ZXMve2luZGV4fS9kb2NzP2FwaS12ZXJzaW9uPTIwMTYtMDktMDEmJGNvdW50PXRydWUmJGZpbHRlcj1JbnN0aXR1dGlvbklkIGVxIHtzZWFyY2hQYXJhbWV0ZXJzLkluc3RpdHV0aW9uSWR9JnNlYXJjaD17c2VhcmNoVGVybX0mJHRvcD17c2VhcmNoUGFyYW1ldGVycy5UYWtlfSYkc2tpcD17c2VhcmNoUGFyYW1ldGVycy5Ta2lwfSYkb3JkZXJieT1GaXJzdE5hbWUsIExhc3ROYW1lJnNlYXJjaEZpZWxkcz17c2VhcmNoRmllbGRzfSI7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgdmFyIHNlYXJjaEZpZWxkcyA9IG5ld1tdIHsiRmlyc3ROYW1lIiwgIkxhc3ROYW1lIn07CiAgICAgIGlmIChzZWFyY2hQYXJhbWV0ZXJzLlF1ZXJ5SXNWYWxpZEVtYWlsKSB7CiAgICAgICAgc2VhcmNoRmllbGRzID0gbmV3W10geyJDYW1wdXNFbWFpbCJ9OwogICAgICB9CgogICAgICByZXR1cm4gc3RyaW5nLkpvaW4oJywnLCBzZWFyY2hGaWVsZHMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgICAgICB2YXIgc2VhcmNoID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICAgICAgaWYgKHNlYXJjaFBhcmFtZXRlcnMuUXVlcnkgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgdmFyIHF1ZXJ5UGFyYW1zID0gc2VhcmNoUGFyYW1ldGVycy5RdWVyeTsKICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBxdWVyeVBhcmFtIGluIHF1ZXJ5UGFyYW1zLlNwbGl0KCcgJykpIHsKICAgICAgICAgICAgICAgICAgICBpZiAocXVlcnlQYXJhbS5UcmltKCkuTGVuZ3RoID4gMCkgewogICAgICAgICAgICAgICAgICAgICAgICBzZWFyY2guQXBwZW5kKCQie3F1ZXJ5UGFyYW0uVHJpbSgpfSogIik7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CgoKICAgICAgICAgICAgdmFyIGFwaVZlcnNpb24gICA9ICIyMDE2LTA5LTAxIjsKICAgICAgICAgICAgdmFyIG9yZGVyQnkgICAgICA9IG5ld1tdIHsiRmlyc3ROYW1lIiwgIkxhc3ROYW1lIn07CiAgICAgICAgICAgIHZhciBzZWFyY2hGaWVsZHMgPSBuZXdbXSB7IkZpcnN0TmFtZSIsICJMYXN0TmFtZSIsICJDYW1wdXNFbWFpbCJ9Owo+Pj4+Pj4+ICogZW5zdXJlIG9ubHkgYWRkcyB0byBzZWFyY2ggaWYgY29udGVudCBleGlzdHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEcm9wZG93blw+</last-search>
+      <last-search encoding="base64">XDxzZWFyY2hUZXJtXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEcm9wZG93blw+</last-pattern>
+      <last-pattern encoding="base64">XDxzZWFyY2hUZXJtXD4=</last-pattern>
       <last-replace>Error</last-replace>
-      <last-substitute>Deviation</last-substitute>
+      <last-substitute encoding="base64">XDxEcm9wZG93blw+</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxHZXRJbml0aWFsaXplZERhdGFcPg==</entry>
-        <entry encoding="base64">XDxHZXRJbnN0aXR1dGlvbklkXD4=</entry>
-        <entry encoding="base64">XDxCdWlsZEJsb2JzXD4=</entry>
-        <entry encoding="base64">XDxQcm9jZXNzQ29yZURhdGFcPg==</entry>
         <entry encoding="base64">XDxUZXJtSWRlbnRpZmllclw+</entry>
         <entry encoding="base64">XDxDb3JlRGF0YVNxbENvbW1hbmRcPg==</entry>
         <entry encoding="base64">XDwxMFw+</entry>
@@ -579,6 +581,10 @@
         <entry>Partial</entry>
         <entry encoding="base64">XDxSZW5kZXJQYXJ0aWFsXD4=</entry>
         <entry encoding="base64">XDxEcm9wZG93blw+</entry>
+        <entry encoding="base64">XDxxdWVyeVN0cmluZ1w+</entry>
+        <entry encoding="base64">XDxhcGlWZXJzaW9uXD4=</entry>
+        <entry encoding="base64">XDxvcmRlckJ5XD4=</entry>
+        <entry encoding="base64">XDxzZWFyY2hUZXJtXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>8</entry>
@@ -594,6 +600,7 @@
         <entry>%d</entry>
         <entry>35</entry>
         <entry>25</entry>
+        <entry>45</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
