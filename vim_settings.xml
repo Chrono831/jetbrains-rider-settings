@@ -312,11 +312,12 @@
         <mark key="." line="3" column="46" />
       </file>
       <file name="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Controllers/V1/AccountController.cs" timestamp="1533923826696" />
-      <file name="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Controllers/V2/SearchController.cs" timestamp="1533926132285">
-        <mark key="'" line="32" column="29" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Controllers/V2/SearchController.cs" timestamp="1533929828036">
+        <mark key="'" line="111" column="78" />
+        <mark key="[" line="101" column="11" />
+        <mark key="]" line="104" column="11" />
+        <mark key="." line="104" column="11" />
+        <mark key="^" line="104" column="11" />
       </file>
       <file name="$USER_HOME$/source/repos/courseevaluations-configuration/Web/Web/Models/ReportingModels/PowerBIEmbedded_AppOwnsData.cs" timestamp="1528740255025">
         <mark key="[" line="0" column="0" />
@@ -405,7 +406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="28" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
       <jump line="41" column="21" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
       <jump line="34" column="19" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
       <jump line="98" column="28" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
@@ -491,7 +491,6 @@
       <jump line="38" column="0" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Controllers/V2/SearchController.cs" />
       <jump line="33" column="12" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Controllers/V2/SearchController.cs" />
       <jump line="21" column="40" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Controllers/V2/SearchController.cs" />
-      <jump line="58" column="16" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Controllers/V2/SearchController.cs" />
       <jump line="63" column="46" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Controllers/V2/SearchController.cs" />
       <jump line="34" column="12" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Controllers/V1/SearchController.cs" />
       <jump line="22" column="38" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Controllers/V1/SearchController.cs" />
@@ -505,6 +504,8 @@
       <jump line="22" column="40" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Controllers/V2/SearchController.cs" />
       <jump line="37" column="0" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Controllers/V2/SearchController.cs" />
       <jump line="32" column="29" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Controllers/V2/SearchController.cs" />
+      <jump line="58" column="53" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Controllers/V2/SearchController.cs" />
+      <jump line="106" column="78" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Controllers/V2/SearchController.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -531,27 +532,30 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9yZXR1cm4gYXdhaXQgY2xpZW50LlNlYXJjaChJbmRleE5hbWUsIHNlYXJjaFBhcmFtZXRlcnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlYXJjaFRlcm0gPSBzZWFyY2hQYXJhbWV0ZXJzLlF1ZXJ5CiAgICAgICAgICAgICAgICAgICAgLlNwbGl0KCcgJywgU3RyaW5nU3BsaXRPcHRpb25zLlJlbW92ZUVtcHR5RW50cmllcykK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxldmVudENsaWVudFw+</text>
+        <text>' '</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMKICAgICAgICAgICAgICAgIC5BZGRTaW5nbGV0b248U2VhcmNoSHR0cENsaWVudD4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlYXJjaFRlcm0gPSBzZWFyY2hQYXJhbWV0ZXJzLlF1ZXJ5CiAgICAgICAgICAgICAgICAgICAgLlNwbGl0KCcgJywgU3RyaW5nU3BsaXRPcHRpb25zLlJlbW92ZUVtcHR5RW50cmllcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9yZXR1cm4gYXdhaXQgY2xpZW50LlNlYXJjaChJbmRleE5hbWUsIHNlYXJjaFBhcmFtZXRlcnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VhcmNoRmllbGRzLkFwID0gbmV3W10geyJGaXJzdE5hbWUiLCAiTGFzdE5hbWUiLCAiQ2FtcHVzRW1haWxQcmVmaXgifTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElFdmVudENsaWVudCAgIF9ldmVudENsaWVudDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9yZXR1cm4gYXdhaXQgY2xpZW50LlNlYXJjaChJbmRleE5hbWUsIHNlYXJjaFBhcmFtZXRlcnMpOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElFdmVudENsaWVudCAgIF9ldmVudENsaWVudDsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX2V2ZW50Q2xpZW50ICAgPSBldmVudENsaWVudDsK</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>//
 //
 //
@@ -559,38 +563,33 @@
 //
 //</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMKICAgICAgICAgICAgICAgIC5BZGRTaW5nbGV0b248U2VhcmNoSHR0cENsaWVudD4oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRTY29wZWQ8SHR0cENsaWVudD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMKICAgICAgICAgICAgICAgIC5BZGRTaW5nbGV0b248U2VhcmNoSHR0cENsaWVudD4oKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRTY29wZWQ8SHR0cENsaWVudD4oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIFBhZ2VkUmVzdWx0PEV2ZW50TWVtYmVyRHRvPiBOdWxsaWZ5VW5saXN0ZWRFbWFpbHMoUGFnZWRSZXN1bHQ8RXZlbnRNZW1iZXJEdG8+IGV2ZW50TWVtYmVycykgewogICAgICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxldmVudENsaWVudFw+</last-search>
+      <last-search>' '</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxldmVudENsaWVudFw+</last-pattern>
+      <last-pattern>' '</last-pattern>
       <last-replace>Error</last-replace>
       <last-substitute encoding="base64">XDxEcm9wZG93blw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEcm9wZG93blw+</entry>
-        <entry encoding="base64">XDxxdWVyeVN0cmluZ1w+</entry>
         <entry encoding="base64">XDxhcGlWZXJzaW9uXD4=</entry>
         <entry encoding="base64">XDxvcmRlckJ5XD4=</entry>
         <entry encoding="base64">XDxzZWFyY2hUZXJtXD4=</entry>
@@ -609,6 +608,8 @@
         <entry encoding="base64">XDxTZWFyY2hDbGllbnRcPg==</entry>
         <entry encoding="base64">XDxfZXZlbnRDbGllbnRcPg==</entry>
         <entry encoding="base64">XDxldmVudENsaWVudFw+</entry>
+        <entry>Prefix</entry>
+        <entry>' '</entry>
       </history-search>
       <history-cmd>
         <entry>8</entry>
