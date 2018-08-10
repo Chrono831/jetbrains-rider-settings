@@ -353,6 +353,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Startup.cs" timestamp="1533907549795">
+        <mark key="'" line="112" column="17" />
+        <mark key="[" line="115" column="88" />
+        <mark key="]" line="115" column="87" />
+        <mark key="^" line="115" column="87" />
+        <mark key="." line="115" column="87" />
+      </file>
       <file name="$USER_HOME$/source/repos/Evaluations/Evaluations/Views/Shared/QuestionGroup.cshtml" timestamp="1527184548944">
         <mark key="[" line="16" column="12" />
         <mark key="]" line="16" column="13" />
@@ -397,8 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="572" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
-      <jump line="548" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="521" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="494" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="463" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
@@ -497,6 +502,8 @@
       <jump line="70" column="8" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/SearchClient.cs" />
       <jump line="77" column="14" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/SearchClient.cs" />
       <jump line="73" column="30" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Search/SearchClient.cs" />
+      <jump line="105" column="39" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Startup.cs" />
+      <jump line="112" column="17" filename="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Startup.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -529,7 +536,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCdWlsZFF1ZXJ5U3RyaW5nXD4=</text>
+        <text>AddApi</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">c2VhcmNoVGVybSA=</text>
@@ -566,17 +573,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCdWlsZFF1ZXJ5U3RyaW5nXD4=</last-search>
+      <last-search>AddApi</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCdWlsZFF1ZXJ5U3RyaW5nXD4=</last-pattern>
+      <last-pattern>AddApi</last-pattern>
       <last-replace>Error</last-replace>
       <last-substitute encoding="base64">XDxEcm9wZG93blw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb3JlRGF0YVNxbENvbW1hbmRcPg==</entry>
         <entry encoding="base64">XDwxMFw+</entry>
         <entry>Deviation</entry>
         <entry encoding="base64">XDxQcm9jZXNzQ291cnNlRXZhbHVhdGlvbnNcPg==</entry>
@@ -596,6 +602,7 @@
         <entry encoding="base64">XDxvcmRlckJ5XD4=</entry>
         <entry encoding="base64">XDxzZWFyY2hUZXJtXD4=</entry>
         <entry encoding="base64">XDxCdWlsZFF1ZXJ5U3RyaW5nXD4=</entry>
+        <entry>AddApi</entry>
       </history-search>
       <history-cmd>
         <entry>8</entry>
