@@ -45,7 +45,6 @@
         <mark key="." line="3" column="53" />
         <mark key="^" line="3" column="53" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Views/LocationImport/Create.cshtml" timestamp="1533563048012" />
       <file name="$USER_HOME$/source/repos/Evaluations/Evaluations/Views/Shared/QuestionGroup.cshtml" timestamp="1527184548944">
         <mark key="[" line="16" column="12" />
         <mark key="]" line="16" column="13" />
@@ -111,6 +110,9 @@
         <mark key="]" line="33" column="7" />
         <mark key="^" line="33" column="7" />
         <mark key="." line="33" column="9" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions/submission.js" timestamp="1534259336090">
+        <mark key="'" line="22" column="10" />
       </file>
       <file name="$USER_HOME$/Code/Evaluations/Evaluations/Views/Shared/QuestionTypes/MediaCheckbox.cshtml" timestamp="1531409856672">
         <mark key="[" line="2" column="0" />
@@ -272,6 +274,7 @@
         <mark key="." line="22" column="34" />
         <mark key="^" line="22" column="34" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Submissions/App.Submissions/Controllers/InvolvementController.cs" timestamp="1534258363757" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Startup.cs" timestamp="1532461419602">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -402,8 +405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="344" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
-      <jump line="314" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="289" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="265" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="241" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
@@ -502,6 +503,8 @@
       <jump line="597" column="30" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="55" column="42" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="129" column="30" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
+      <jump line="23" column="10" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions/submission.js" />
+      <jump line="22" column="10" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions/submission.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -514,7 +517,7 @@
         <text>b Project, minor changes to cshtml sty</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHZXROb3RpZmljYXRpb25zUGlsbGFyVHlwZUNvZGVcPg==</text>
+        <text encoding="base64">XDxpbmRpdmlkdWFsU3VibWlzc2lvbnNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIH0K</text>
@@ -551,9 +554,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHZXROb3RpZmljYXRpb25zUGlsbGFyVHlwZUNvZGVcPg==</last-search>
+      <last-search encoding="base64">XDxpbmRpdmlkdWFsU3VibWlzc2lvbnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHZXROb3RpZmljYXRpb25zUGlsbGFyVHlwZUNvZGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpbmRpdmlkdWFsU3VibWlzc2lvbnNcPg==</last-pattern>
       <last-replace>Error</last-replace>
       <last-substitute>Deviation</last-substitute>
       <last-dir>-1</last-dir>
@@ -561,8 +564,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxHZXRTdWJtaXR0ZXJTdGF0dXNOb3RpZmljYXRpb25Cb2R5XD4=</entry>
-        <entry encoding="base64">XDxhbW91bnRcPg==</entry>
         <entry encoding="base64">XDxFbWFpbFJlZ2V4XD4=</entry>
         <entry encoding="base64">XDxJc0VtYWlsQWRkcmVzc1w+</entry>
         <entry encoding="base64">XDxfZnJvbU5hbWVcPg==</entry>
@@ -581,6 +582,8 @@
         <entry encoding="base64">XDxDb21tZW50c1w+</entry>
         <entry encoding="base64">XDxfYWNjb3VudFByb3ZpZGVyXD4=</entry>
         <entry encoding="base64">XDxHZXROb3RpZmljYXRpb25zUGlsbGFyVHlwZUNvZGVcPg==</entry>
+        <entry encoding="base64">XDxvcmdhbml6YXRpb25TdWJtaXNzaW9uc1w+</entry>
+        <entry encoding="base64">XDxpbmRpdmlkdWFsU3VibWlzc2lvbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>21</entry>
