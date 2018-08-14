@@ -15,6 +15,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="22" column="12" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions/templates/submissionsAllSelfSubmitted.html" timestamp="1534262082190">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/magic-recollation-helper/public/manifest.json" timestamp="1529551213752">
         <mark key="[" line="2" column="11" />
         <mark key="]" line="2" column="34" />
@@ -51,6 +56,12 @@
         <mark key="." line="16" column="13" />
         <mark key="^" line="16" column="12" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions/router.js" timestamp="1534262407015">
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+        <mark key="^" line="18" column="85" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" timestamp="1534261615335">
         <mark key="[" line="110" column="26" />
         <mark key="]" line="110" column="26" />
@@ -62,6 +73,13 @@
         <mark key="]" line="3" column="46" />
         <mark key="^" line="3" column="46" />
         <mark key="." line="3" column="46" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions/templates/myBudgetSubmissions.html" timestamp="1534263290448">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="5" column="65" />
+        <mark key="]" line="5" column="68" />
+        <mark key="." line="5" column="68" />
+        <mark key="^" line="5" column="68" />
       </file>
       <file name="$USER_HOME$/Code/Evaluations/Evaluations/Views/Error/NotFound.cshtml" timestamp="1531413400219">
         <mark key="[" line="5" column="8" />
@@ -305,10 +323,10 @@
         <mark key="." line="16" column="55" />
         <mark key="^" line="10" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533562223291">
+      <file name="/Dummy.txt" timestamp="1534263437085">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/ReportBlobber/ReportBlobber/Models/QuerySqlOrdialsEnum.cs" timestamp="1529001834366">
         <mark key="[" line="51" column="41" />
@@ -405,11 +423,10 @@
         <mark key="]" line="29" column="59" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions/templates/submissions.html" timestamp="1534261597132">
-        <mark key="[" line="8" column="256" />
-        <mark key="]" line="8" column="265" />
-        <mark key="." line="8" column="265" />
-        <mark key="^" line="8" column="265" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions/templates/submissions.html" timestamp="1534263422408">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/courseevaluations-configuration/Web/Web/Models/ReportingModels/PowerBIEmbedded_AppOwnsData.cs" timestamp="1528740255025">
         <mark key="[" line="0" column="0" />
@@ -419,7 +436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="289" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="265" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="241" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="217" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
@@ -519,49 +535,50 @@
       <jump line="129" column="30" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="23" column="10" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions/submission.js" />
       <jump line="22" column="10" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions/submission.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions/templates/myBudgetSubmissions.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>2dwjywkP</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">UmVTaGFycGVyIFJlZm9ybWF0IFVuaXRUZXN0cyBQcm9qZWN0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>click</text>
       </register>
       <register name="/" type="4">
         <text>SubmissionOwner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CTxsaT48YSBocmVmPSJqYXZhc2NyaXB0OnZvaWQoMCk7IiBuZy1jbGljaz0ic3dpdGNoU3VibWlzc2lvbk93bmVyKGNvbnN0YW50cy50YWJOYW1lcy5pbmRpdmlkdWFsKSIgbmctY2xhc3M9InsgJ2N1cnJlbnQnIDogY3VycmVudFRhYiA9PSBjb25zdGFudHMudGFiTmFtZXMuaW5kaXZpZHVhbCB9IiBhbmFseXRpY3Mtb249ImNsaWNrIiBhbmFseXRpY3MtZXZlbnQ9Ik15IFJlcXVlc3RzIFRhYiIgYW5hbHl0aWNzLWNhdGVnb3J5PSJTdWJtaXNzaW9ucyI+TXkgUmVxdWVzdHM8L2E+PC9saT4K</text>
+        <text encoding="base64">ICAgICAgICAud2hlbignLycsIHsKICAgICAgICAgIHRlbXBsYXRlVXJsIDogIi9idWRnZXRpbmcvYXNzZXRzL2ZpbmFuY2UvanMvc3VibWlzc2lvbnMvdGVtcGxhdGVzL3N1Ym1pc3Npb25zLmh0bWwiLAogICAgICAgICAgY29udHJvbGxlciA6ICJTdWJtaXNzaW9uTGlzdEN0cmwiCiAgICAgICAgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN1Ym1pc3Npb24uQ29sbGVnaWF0ZUxpbmtPcmdhbml6YXRpb25JZCA9PSBudWxsICYmCg==</text>
+        <text encoding="base64">UmVTaGFycGVyIFJlZm9ybWF0IFVuaXRUZXN0cyBQcm9qZWN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcXVlcnkuV2hlcmUoc3VibWlzc2lvbiA9PiBzdWJtaXNzaW9uLkNvbGxlZ2lhdGVMaW5rT3JnYW5pemF0aW9uSWQgIT0gbnVsbCk7Cg==</text>
+        <text encoding="base64">CTxsaT48YSBocmVmPSJqYXZhc2NyaXB0OnZvaWQoMCk7IiBuZy1jbGljaz0ic3dpdGNoU3VibWlzc2lvbk93bmVyKGNvbnN0YW50cy50YWJOYW1lcy5zdWJtaXR0ZXIpIiBuZy1jbGFzcz0ieyAnY3VycmVudCcgOiBjdXJyZW50VGFiID09IGNvbnN0YW50cy50YWJOYW1lcy5zdWJtaXR0ZXJ9IiBhbmFseXRpY3Mtb249ImNsaWNrIiBhbmFseXRpY3MtZXZlbnQ9IlN1Ym1pdHRlciBUYWIiIGFuYWx5dGljcy1jYXRlZ29yeT0iU3VibWlzc2lvbnMiPlN1Ym1pdHRlciBSZXF1ZXN0czwvYT48L2xpPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC91bD4K</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">IAogCiAKIAog</text>
+      <register name="4" type="2">
+        <text encoding="base64">PHVsIG5nLXNob3c9ImRpc3BsYXlPcmdhbml6YXRpb25UYWIiIGNsYXNzPSJ0YWJzIGNsZWFyZml4Ij4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iYWN0aW9ucyBjbGVhcmZpeCI+Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGgyPlJlcXVlc3RzPC9oMj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTxsaT48YSBocmVmPSJqYXZhc2NyaXB0OnZvaWQoMCk7IiBuZy1jbGljaz0ic3dpdGNoU3VibWlzc2lvbk93bmVyKGNvbnN0YW50cy50YWJOYW1lcy5pbmRpdmlkdWFsKSIgbmctY2xhc3M9InsgJ2N1cnJlbnQnIDogY3VycmVudFRhYiA9PSBjb25zdGFudHMudGFiTmFtZXMuaW5kaXZpZHVhbCB9IiBhbmFseXRpY3Mtb249ImNsaWNrIiBhbmFseXRpY3MtZXZlbnQ9Ik15IFJlcXVlc3RzIFRhYiIgYW5hbHl0aWNzLWNhdGVnb3J5PSJTdWJtaXNzaW9ucyI+TXkgUmVxdWVzdHM8L2E+PC9saT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
