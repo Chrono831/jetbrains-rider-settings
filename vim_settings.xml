@@ -9,9 +9,9 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submissions/App.Submissions/Views/Involvement/EventSubmissions.aspx" timestamp="1534341009066">
+      <file name="$USER_HOME$/source/repos/App.Submissions/App.Submissions/Views/Involvement/EventSubmissions.aspx" timestamp="1534341767214">
         <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
+        <mark key="]" line="26" column="120" />
         <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Account.Legacy/App.Account/Views/Account/NotificationSettings.aspx" timestamp="1534338855295" />
@@ -281,10 +281,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submissions/App.Submissions/Views/Involvement/ElectionSubmissions.aspx" timestamp="1534341029370">
+      <file name="$USER_HOME$/source/repos/App.Submissions/App.Submissions/Views/Involvement/ElectionSubmissions.aspx" timestamp="1534341746076">
         <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+        <mark key="]" line="27" column="120" />
+        <mark key="." line="27" column="104" />
+        <mark key="^" line="27" column="104" />
       </file>
       <file name="$USER_HOME$/source/repos/courseevaluations/src/components/permissions/reportViews.js" timestamp="1528384902442">
         <mark key="[" line="17" column="3" />
@@ -305,12 +306,17 @@
         <mark key="^" line="22" column="34" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Account.Legacy/App.Account/Views/Shared/SubNavSiteMapPartial.cshtml" timestamp="1534340253161" />
-      <file name="$USER_HOME$/source/repos/App.Submissions/App.Submissions/Views/Involvement/UserRegistrationSubmissions.aspx" timestamp="1534340995323">
+      <file name="$USER_HOME$/source/repos/App.Submissions/App.Submissions/Views/Involvement/UserRegistrationSubmissions.aspx" timestamp="1534341754758">
         <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="114" />
+        <mark key="]" line="25" column="120" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submissions/App.Submissions/Controllers/InvolvementController.cs" timestamp="1534258363757" />
+      <file name="$USER_HOME$/source/repos/App.Submissions/App.Submissions/Controllers/InvolvementController.cs" timestamp="1534341808500">
+        <mark key="'" line="125" column="0" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Startup.cs" timestamp="1532461419602">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -322,9 +328,9 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submissions/App.Submissions/Views/Involvement/FormSubmissions.aspx" timestamp="1534341003074">
+      <file name="$USER_HOME$/source/repos/App.Submissions/App.Submissions/Views/Involvement/FormSubmissions.aspx" timestamp="1534341762988">
         <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="114" />
+        <mark key="]" line="27" column="120" />
         <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/courseevaluations/src/components/hover.js" timestamp="1528384861118">
@@ -458,7 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="265" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="241" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="217" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
       <jump line="188" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
@@ -558,58 +563,59 @@
       <jump line="23" column="10" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions/submission.js" />
       <jump line="22" column="10" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions/submission.js" />
       <jump line="2" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions/templates/myBudgetSubmissions.html" />
+      <jump line="137" column="0" filename="$USER_HOME$/source/repos/App.Submissions/App.Submissions/Controllers/InvolvementController.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>2dwjywkP</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlOkh0bWwuQWN0aW9uTGluaygiQnVkZ2V0aW5nIiAgICAgICAgICAgICAgICAgLCAiYnVkZ2V0aW5nIiAgICAsIG5ldyB7IGNvbnRyb2xsZXIgPSAiaW52b2x2ZW1lbnQiIH0sIG5ldyB7IEBjbGFzcz0ibWRsLWxheW91dF9fdGFiIn0pJT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>SubmissionOwner</text>
+        <text>Budgeting</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9idWRnZXRpbmcvcmVxdWVzdHMjL215QnVkZ2V0U3VibWlzc2lvbnMiIGNsYXNzPSJtZGwtbGF5b3V0X190YWIgaXMtYWN0aXZlIj5CdWRnZXRpbmc8L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9idWRnZXRpbmcvcmVxdWVzdHMjL215QnVkZ2V0U3VibWlzc2lvbnMiIGNsYXNzPSJtZGwtbGF5b3V0X190YWIiIHRhcmdldD0iX2JsYW5rIj5CdWRnZXRpbmc8L2E+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlOkh0bWwuQWN0aW9uTGluaygiQnVkZ2V0aW5nIiAgICAgICAgICAgICAgICAgLCAiYnVkZ2V0aW5nIiAgICAsIG5ldyB7IGNvbnRyb2xsZXIgPSAiaW52b2x2ZW1lbnQiIH0sIG5ldyB7IEBjbGFzcz0ibWRsLWxheW91dF9fdGFiIn0pJT4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlOkh0bWwuQWN0aW9uTGluaygiQnVkZ2V0aW5nIiAgICAgICAgICAgICAgICAgLCAiYnVkZ2V0aW5nIiAgICAsIG5ldyB7IGNvbnRyb2xsZXIgPSAiaW52b2x2ZW1lbnQiIH0sIG5ldyB7IEBjbGFzcz0ibWRsLWxheW91dF9fdGFiIn0pJT4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlOkh0bWwuQWN0aW9uTGluaygiQnVkZ2V0aW5nIiAgICAgICAgICAgICAgICAgLCAiYnVkZ2V0aW5nIiAgICAsIG5ldyB7IGNvbnRyb2xsZXIgPSAiaW52b2x2ZW1lbnQiIH0sIG5ldyB7IEBjbGFzcz0ibWRsLWxheW91dF9fdGFiIn0pJT4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlOkh0bWwuQWN0aW9uTGluaygiQnVkZ2V0aW5nIiAgICAgICAgICAgICAgICAgLCAiYnVkZ2V0aW5nIiAgICAsIG5ldyB7IGNvbnRyb2xsZXIgPSAiaW52b2x2ZW1lbnQiIH0sIG5ldyB7IEBjbGFzcz0ibWRsLWxheW91dF9fdGFiIn0pJT4K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CSAgICBwdWJsaWMgQWN0aW9uUmVzdWx0IEJ1ZGdldGluZyhVc2VyUmVnaXN0cmF0aW9uU3VibWlzc2lvblNlYXJjaENyaXRlcmlhIHNlYXJjaE1vZGVsKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIG1lbWJlciA9IF9jb250ZXh0LkN1cnJlbnRNZW1iZXI7CiAgICAgICAgICAgIHZhciByZXN1bHRzID0gX3JlZ2lzdHJhdGlvblNlcnZpY2UuR2V0UmVnaXN0cmF0aW9uU3VibWlzc2lvbnNCeVVzZXIobWVtYmVyLCBzZWFyY2hNb2RlbCk7CiAgICAgICAgICAgIHZhciBtb2RlbCA9IEdldFN1Ym1pc3Npb25zTW9kZWwoc2VhcmNoTW9kZWwsIHJlc3VsdHMpOwoKICAgICAgICAgICAgaWYgKFJlcXVlc3QuSXNBamF4UmVxdWVzdCgpKQogICAgICAgICAgICAgICAgcmV0dXJuIFBhcnRpYWxWaWV3KCJCdWRnZXRpbmdTdWJtaXNzaW9uc0dyaWQiLCBtb2RlbCk7CgogICAgICAgICAgICByZXR1cm4gVmlldygiQnVkZ2V0aW5nU3VibWlzc2lvbnMiLCBtb2RlbCk7CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9idWRnZXRpbmcvcmVxdWVzdHMjL215QnVkZ2V0U3VibWlzc2lvbnMiIGNsYXNzPSJtZGwtbGF5b3V0X190YWIgaXMtYWN0aXZlIj5CdWRnZXRpbmc8L2E+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9idWRnZXRpbmcvcmVxdWVzdHMjL215QnVkZ2V0U3VibWlzc2lvbnMiIGNsYXNzPSJtZGwtbGF5b3V0X190YWIgaXMtYWN0aXZlIj5CdWRnZXRpbmc8L2E+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9idWRnZXRpbmcvcmVxdWVzdHMjL215QnVkZ2V0U3VibWlzc2lvbnMiIGNsYXNzPSJtZGwtbGF5b3V0X190YWIgaXMtYWN0aXZlIj5CdWRnZXRpbmc8L2E+Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwoIkJ1ZGdldGluZyIgICAgICAgICAgICAgICAgICwgImJ1ZGdldGluZyIgICAgLCBuZXcgeyBjb250cm9sbGVyID0gImludm9sdmVtZW50IiB9LCBuZXcgeyBAY2xhc3M9Im1kbC1sYXlvdXRfX3RhYiBpcy1hY3RpdmUifSklPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlOkh0bWwuQWN0aW9uTGluaygiQnVkZ2V0aW5nIiAgICAgICAgICAgICAgICAgLCAiYnVkZ2V0aW5nIiAgICAsIG5ldyB7IGNvbnRyb2xsZXIgPSAiaW52b2x2ZW1lbnQiIH0sIG5ldyB7IEBjbGFzcz0ibWRsLWxheW91dF9fdGFiIn0pJT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UmVTaGFycGVyIFJlZm9ybWF0IFVuaXRUZXN0cyBQcm9qZWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlOkh0bWwuQWN0aW9uTGluaygiQnVkZ2V0aW5nIiAgICAgICAgICAgICAgICAgLCAiYnVkZ2V0aW5nIiAgICAsIG5ldyB7IGNvbnRyb2xsZXIgPSAiaW52b2x2ZW1lbnQiIH0sIG5ldyB7IEBjbGFzcz0ibWRsLWxheW91dF9fdGFiIn0pJT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CTxsaT48YSBocmVmPSJqYXZhc2NyaXB0OnZvaWQoMCk7IiBuZy1jbGljaz0ic3dpdGNoU3VibWlzc2lvbk93bmVyKGNvbnN0YW50cy50YWJOYW1lcy5zdWJtaXR0ZXIpIiBuZy1jbGFzcz0ieyAnY3VycmVudCcgOiBjdXJyZW50VGFiID09IGNvbnN0YW50cy50YWJOYW1lcy5zdWJtaXR0ZXJ9IiBhbmFseXRpY3Mtb249ImNsaWNrIiBhbmFseXRpY3MtZXZlbnQ9IlN1Ym1pdHRlciBUYWIiIGFuYWx5dGljcy1jYXRlZ29yeT0iU3VibWlzc2lvbnMiPlN1Ym1pdHRlciBSZXF1ZXN0czwvYT48L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlOkh0bWwuQWN0aW9uTGluaygiQnVkZ2V0aW5nIiAgICAgICAgICAgICAgICAgLCAiYnVkZ2V0aW5nIiAgICAsIG5ldyB7IGNvbnRyb2xsZXIgPSAiaW52b2x2ZW1lbnQiIH0sIG5ldyB7IEBjbGFzcz0ibWRsLWxheW91dF9fdGFiIn0pJT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PC91bD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlOkh0bWwuQWN0aW9uTGluaygiQnVkZ2V0aW5nIiAgICAgICAgICAgICAgICAgLCAiYnVkZ2V0aW5nIiAgICAsIG5ldyB7IGNvbnRyb2xsZXIgPSAiaW52b2x2ZW1lbnQiIH0sIG5ldyB7IEBjbGFzcz0ibWRsLWxheW91dF9fdGFiIn0pJT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>SubmissionOwner</last-search>
+      <last-search>Budgeting</last-search>
       <last-offset />
-      <last-pattern>SubmissionOwner</last-pattern>
+      <last-pattern>Budgeting</last-pattern>
       <last-replace>Error</last-replace>
       <last-substitute>Deviation</last-substitute>
       <last-dir>1</last-dir>
@@ -617,7 +623,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJc0VtYWlsQWRkcmVzc1w+</entry>
         <entry encoding="base64">XDxfZnJvbU5hbWVcPg==</entry>
         <entry encoding="base64">XDxHZXRTdWJtaXR0ZXJTdGF0dXNOb3RpZmljYXRpb25QbGFpblRleHRCb2R5XD4=</entry>
         <entry encoding="base64">XDxzdWJtaXR0ZXJcPg==</entry>
@@ -637,6 +642,7 @@
         <entry encoding="base64">XDxvcmdhbml6YXRpb25TdWJtaXNzaW9uc1w+</entry>
         <entry encoding="base64">XDxpbmRpdmlkdWFsU3VibWlzc2lvbnNcPg==</entry>
         <entry>SubmissionOwner</entry>
+        <entry>Budgeting</entry>
       </history-search>
       <history-cmd>
         <entry>21</entry>
