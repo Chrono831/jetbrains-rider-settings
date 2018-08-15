@@ -189,6 +189,9 @@
       <file name="vim_settings.xml" timestamp="1534340639125">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/gridWrapper.js" timestamp="1534362609549">
+        <mark key="'" line="94" column="40" />
+      </file>
       <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Models/CourseEvaluationSqlOrdinals.cs" timestamp="1529073523914">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="13" column="35" />
@@ -410,6 +413,7 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="48" column="7" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.config" timestamp="1534362526359" />
       <file name="$USER_HOME$/source/repos/courseevaluations-configuration/Web/Web/Models/ReportingModels/PowerBIEmbedded_AppOwnsData.cs" timestamp="1528740255025">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -418,17 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
-      <jump line="95" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
-      <jump line="70" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
-      <jump line="40" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
-      <jump line="7683" column="7" filename="$USER_HOME$/Code/magic-recollation-helper/src/sets/DOM.json" />
-      <jump line="28" column="34" filename="$USER_HOME$/Code/magic-recollation-helper/src/SetBasics.js" />
-      <jump line="8" column="8" filename="$USER_HOME$/Code/magic-recollation-helper/src/SetBasics.js" />
-      <jump line="3" column="2" filename="$USER_HOME$/Code/React-QuizComponent/src/QuizEnd.js" />
-      <jump line="10" column="31" filename="$USER_HOME$/Code/React-QuizComponent/src/QuizEnd.js" />
-      <jump line="19" column="2" filename="$USER_HOME$/Code/React-QuizComponent/src/Quiz.js" />
-      <jump line="27" column="41" filename="$USER_HOME$/Code/React-QuizComponent/src/Quiz.js" />
       <jump line="104" column="28" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
       <jump line="124" column="28" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
       <jump line="116" column="28" filename="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Services/DataRetieval.cs" />
@@ -518,6 +511,17 @@
       <jump line="79" column="48" filename="$USER_HOME$/source/repos/App.Submissions/App.Submissions/Web.config" />
       <jump line="0" column="27" filename="/Dummy.txt" />
       <jump line="386" column="10" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions/submission.js" />
+      <jump line="90" column="36" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/gridWrapper.js" />
+      <jump line="88" column="36" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/gridWrapper.js" />
+      <jump line="78" column="102" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/gridWrapper.js" />
+      <jump line="76" column="96" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/gridWrapper.js" />
+      <jump line="74" column="86" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/gridWrapper.js" />
+      <jump line="50" column="69" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/gridWrapper.js" />
+      <jump line="27" column="124" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/gridWrapper.js" />
+      <jump line="25" column="106" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/gridWrapper.js" />
+      <jump line="12" column="22" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/gridWrapper.js" />
+      <jump line="2" column="167" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/gridWrapper.js" />
+      <jump line="94" column="40" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/gridWrapper.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -530,7 +534,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZW1wbGF0ZVVybFw+</text>
+        <text encoding="base64">XDx0ZW1wbGF0ZVBhdGhcPg==</text>
       </register>
       <register name="0" type="4">
         <text>contextRoot</text>
@@ -567,9 +571,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZW1wbGF0ZVVybFw+</last-search>
+      <last-search encoding="base64">XDx0ZW1wbGF0ZVBhdGhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZW1wbGF0ZVVybFw+</last-pattern>
+      <last-pattern encoding="base64">XDx0ZW1wbGF0ZVBhdGhcPg==</last-pattern>
       <last-replace>Error</last-replace>
       <last-substitute>Deviation</last-substitute>
       <last-dir>-1</last-dir>
@@ -577,7 +581,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxHZXRSZXZpZXdlclN0ZXBOb3RpZmljYXRpb25QbGFpblRleHRCb2R5XD4=</entry>
         <entry encoding="base64">XDxzdWJtaXR0ZXJFbWFpbEFkZHJlc3NcPg==</entry>
         <entry>emailAddress</entry>
         <entry encoding="base64">XDxnZXRPcmdhbml6YXRpb25OYW1lXD4=</entry>
@@ -597,6 +600,7 @@
         <entry>EngageLink</entry>
         <entry>root</entry>
         <entry encoding="base64">XDx0ZW1wbGF0ZVVybFw+</entry>
+        <entry encoding="base64">XDx0ZW1wbGF0ZVBhdGhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%y</entry>
@@ -616,9 +620,9 @@
         <entry>185</entry>
         <entry>179</entry>
         <entry>158</entry>
-        <entry>0</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
