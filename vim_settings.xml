@@ -6,11 +6,12 @@
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/gridWrapper.js" timestamp="1534362609549">
         <mark key="'" line="94" column="40" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Views/Shared/_AdministrationLayout.cshtml" timestamp="1534509288653">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Views/Shared/_AdministrationLayout.cshtml" timestamp="1534510477650">
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="0" />
+        <mark key="." line="193" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Controllers/Base/BaseController.cs" timestamp="1534510694729" />
       <file name="$USER_HOME$/source/repos/App.Submissions/App.Submissions/Views/Involvement/EventSubmissions.aspx" timestamp="1534359328870">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="118" />
@@ -67,6 +68,11 @@
         <mark key="]" line="124" column="3" />
         <mark key="^" line="124" column="3" />
         <mark key="." line="124" column="3" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Views/Shared/SiteMapPartial.cshtml" timestamp="1534510877687">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions/router.js" timestamp="1534423142199">
         <mark key="[" line="18" column="78" />
@@ -269,7 +275,7 @@
         <text>2dwjywkP</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBAKjxsaW5rIHR5cGU9ImltYWdlL3gtaWNvbiIgaHJlZj0iQENvcmVDZG4uR2V0Q29yZUltYWdlUGF0aCgpL2Zhdmljb24uaWNvIiByZWw9InNob3J0Y3V0IGljb24iIC8+KkAK</text>
+        <text encoding="base64">CQlAKkBpZiAoaXMK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -281,31 +287,31 @@
         <text>&quot;EngageLink:ContextRoot&quot;;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBAKjxsaW5rIHR5cGU9ImltYWdlL3gtaWNvbiIgaHJlZj0iQENvcmVDZG4uR2V0Q29yZUltYWdlUGF0aCgpL2Zhdmljb24uaWNvIiByZWw9InNob3J0Y3V0IGljb24iIC8+KkAK</text>
+        <text encoding="base64">CQlAKkBpZiAoaXMK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">QWRtaW5NZW51KQoJCXsKICAgICAgICAgICAgPGxpIGlkPSJtZXNzYWdlQ291bnQiPgogICAgICAgICAgICAgICAgPGEgaHJlZj0iQFVybC5FbmdhZ2VMaW5rKCJEaXNjb3Zlcnk6Tm90aWZpY2F0aW9ucyIpIiByb2xlPSJtZW51aXRlbSI+CgkgICAgICAgICAgICAgICAgPGkgY2xhc3M9Imljb24tbWFpbCIgYXJpYS1oaWRkZW49InRydWUiPjwvaT4KCQkJCQk8c3BhbiBjbGFzcz0ic3Itb25seSI+TWVzc2FnZXM8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgQGlmIChNb2RlbC5OZXdNZXNzYWdlQ291bnQgPiAwKQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9Im51bWJlckFsZXJ0Ij5ATW9kZWwuTmV3TWVzc2FnZUNvdW50PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgPC9saT4gICAgICAgICAgIAoJCX0qQA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyojY29tbWFuZC1jZW50ZXItYmFyID4gZGl2ID4gZGl2ID4gZGl2Om50aC1jaGlsZCgyKSA+IGRpdiwKICAgICAgICAjY29tbWFuZC1jZW50ZXItYmFyID4gZGl2ID4gZGl2ID4gZGl2Om50aC1jaGlsZCgyKSA+IGRpdiA+IGRpdiB7CiAgICAgICAgICAgIGhlaWdodDogMCAhaW1wb3J0YW50OwogICAgICAgIH0qLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAeyBIdG1sLlJlbmRlckFjdGlvbigibmF2aWdhdGlvbiIsIG5ldyB7bWVudVR5cGUgPSBNZW51VHlwZS5BZG1pbmlzdHJhdGlvbn0pOyB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBAKjxsaW5rIHR5cGU9ImltYWdlL3gtaWNvbiIgaHJlZj0iQENvcmVDZG4uR2V0Q29yZUltYWdlUGF0aCgpL2Zhdmljb24uaWNvIiByZWw9InNob3J0Y3V0IGljb24iIC8+KkAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQCo8ZGl2IGNsYXNzPSJuZy1jbG9hayIgbmctY2xvYWsgaWQ9InRvcEJhci13cmFwcGVyIiBjbC10b3AtYmFyPjwvZGl2PipACg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwvZm9vdGVyPipACg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyojY29tbWFuZC1jZW50ZXItYmFyID4gZGl2ID4gZGl2ID4gZGl2Om50aC1jaGlsZCgyKSA+IGRpdiwKICAgICAgICAjY29tbWFuZC1jZW50ZXItYmFyID4gZGl2ID4gZGl2ID4gZGl2Om50aC1jaGlsZCgyKSA+IGRpdiA+IGRpdiB7CiAgICAgICAgICAgIGhlaWdodDogMCAhaW1wb3J0YW50OwogICAgICAgIH0qLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9Imh0dHA6Ly93d3cuY2FtcHVzbGFicy5jb20iPkNhbXB1cyBMYWJzPC9hPi4gJmNvcHk7IENvcHlyaWdodCBARGF0ZVRpbWUuTm93LlllYXIgQ2FtcHVzIExhYnMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQCo8ZGl2IGNsYXNzPSJuZy1jbG9hayIgbmctY2xvYWsgaWQ9InRvcEJhci13cmFwcGVyIiBjbC10b3AtYmFyPjwvZGl2PipACg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHN0cm9uZz5Qb3dlcmVkIGJ5IDxhIHRhcmdldD0iX2JsYW5rIiBocmVmPSJodHRwOi8vd3d3LmNvbGxlZ2lhdGVsaW5rLm5ldC8iPkNvbGxlZ2lhdGVMaW5rPC9hPi48L3N0cm9uZz4gQ29sbGVnaWF0ZUxpbmsgaXMgcGFydCBvZgo=</text>
+        <text encoding="base64">ICAgIDwvZm9vdGVyPipACg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
