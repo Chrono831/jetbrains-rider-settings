@@ -6,6 +6,11 @@
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/gridWrapper.js" timestamp="1534362609549">
         <mark key="'" line="94" column="40" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Views/Shared/_AdministrationLayout.cshtml" timestamp="1534509288653">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Submissions/App.Submissions/Views/Involvement/EventSubmissions.aspx" timestamp="1534359328870">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="118" />
@@ -69,6 +74,7 @@
         <mark key="." line="18" column="78" />
         <mark key="^" line="18" column="85" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Views/Finance/PayeeRequests.cshtml" timestamp="1534509152975" />
       <file name="$USER_HOME$/source/repos/App.Submissions/App.Submissions/Views/Involvement/FormSubmissions.aspx" timestamp="1534426916879">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="52" />
@@ -97,7 +103,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Views/Main/Summary.cshtml" timestamp="1534508335656" />
       <file name="$USER_HOME$/Code/Evaluations/Evaluations/Views/Shared/QuestionGroup.cshtml" timestamp="1531409826733">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="163" />
@@ -264,10 +269,10 @@
         <text>2dwjywkP</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHRSb290OiB3aW5kb3cuY29udGV4dFJvb3QsIC8vVE9ETyBmaXgK</text>
+        <text encoding="base64">ICAgICAgICBAKjxsaW5rIHR5cGU9ImltYWdlL3gtaWNvbiIgaHJlZj0iQENvcmVDZG4uR2V0Q29yZUltYWdlUGF0aCgpL2Zhdmljb24uaWNvIiByZWw9InNob3J0Y3V0IGljb24iIC8+KkAK</text>
       </register>
       <register name="-" type="4">
-        <text>href</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>configure\/eventpass</text>
@@ -276,31 +281,31 @@
         <text>&quot;EngageLink:ContextRoot&quot;;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHRSb290OiB3aW5kb3cuY29udGV4dFJvb3QsIC8vVE9ETyBmaXgK</text>
+        <text encoding="base64">ICAgICAgICBAKjxsaW5rIHR5cGU9ImltYWdlL3gtaWNvbiIgaHJlZj0iQENvcmVDZG4uR2V0Q29yZUltYWdlUGF0aCgpL2Zhdmljb24uaWNvIiByZWw9InNob3J0Y3V0IGljb24iIC8+KkAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyojY29tbWFuZC1jZW50ZXItYmFyID4gZGl2ID4gZGl2ID4gZGl2Om50aC1jaGlsZCgyKSA+IGRpdiwKICAgICAgICAjY29tbWFuZC1jZW50ZXItYmFyID4gZGl2ID4gZGl2ID4gZGl2Om50aC1jaGlsZCgyKSA+IGRpdiA+IGRpdiB7CiAgICAgICAgICAgIGhlaWdodDogMCAhaW1wb3J0YW50OwogICAgICAgIH0qLwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQCo8ZGl2IGNsYXNzPSJuZy1jbG9hayIgbmctY2xvYWsgaWQ9InRvcEJhci13cmFwcGVyIiBjbC10b3AtYmFyPjwvZGl2PipACg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvZm9vdGVyPipACg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzY29wZS5nb1RvQ29udGV4dFJvb3RTdWJVcmwgPSBmdW5jdGlvbiAoc3ViTGluaykgewogICAgICAgICAgdmFyIGxpbmsgPSBsaW5rcy5jb250ZXh0Um9vdCArIHN1Ykxpbms7CiAgICAgICAgICBjb25zb2xlLmxvZygnbGluayA6ICcrbGluayk7CiAgICAgICAgICAvL3dpbmRvdy5sb2NhdGlvbiA9IGxpbmtzLmNvbnRleHRSb290ICsgc3ViTGluazsKICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9Imh0dHA6Ly93d3cuY2FtcHVzbGFicy5jb20iPkNhbXB1cyBMYWJzPC9hPi4gJmNvcHk7IENvcHlyaWdodCBARGF0ZVRpbWUuTm93LlllYXIgQ2FtcHVzIExhYnMuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdteXN1Ym1pc3Npb25zLndpbmRvdy5jb250ZXh0Um9vdCA6ICcgKyB3aW5kb3cuY29udGV4dFJvb3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHN0cm9uZz5Qb3dlcmVkIGJ5IDxhIHRhcmdldD0iX2JsYW5rIiBocmVmPSJodHRwOi8vd3d3LmNvbGxlZ2lhdGVsaW5rLm5ldC8iPkNvbGxlZ2lhdGVMaW5rPC9hPi48L3N0cm9uZz4gQ29sbGVnaWF0ZUxpbmsgaXMgcGFydCBvZgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
