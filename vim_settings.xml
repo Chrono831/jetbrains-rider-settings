@@ -107,7 +107,7 @@
         <mark key="]" line="26" column="163" />
         <mark key="." line="26" column="12" />
       </file>
-      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/Core/StudentVoiceGroups.Core.Web/Models/AdminNavigationViewModel.cs" timestamp="1534517602327">
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/Core/StudentVoiceGroups.Core.Web/Models/AdminNavigationViewModel.cs" timestamp="1534519736080">
         <mark key="'" line="1038" column="16" />
         <mark key="[" line="135" column="52" />
         <mark key="]" line="135" column="57" />
@@ -277,7 +277,7 @@
         <text>Add</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY2FuQWNjZXNzRXZlbnRQYXNzQ29uZmlnXD4=</text>
+        <text>Deviation</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgY2FuQWNjZXNzRXh0ZW5zaW9uQ29uZmlnID0gX2xkQ2xpZW50LkJvb2xWYXJpYXRpb24oInZvdGVyLWVuZ2FnZW1lbnQtY29uZmlndXJhdGlvbiIsIHVzZXIsIGZhbHNlKSAmJiBDb21tdW5pdHlSZXF1ZXN0Q29udGV4dC5Db21tdW5pdHkuQ29uZmlndXJhdGlvbi5Wb3RlckVuZ2FnZW1lbnRFbmFibGVkOwo=</text>
@@ -310,13 +310,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAeyBIdG1sLlJlbmRlckFjdGlvbigibmF2aWdhdGlvbiIsIG5ldyB7bWVudVR5cGUgPSBNZW51VHlwZS5BZG1pbmlzdHJhdGlvbn0pOyB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY2FuQWNjZXNzRXZlbnRQYXNzQ29uZmlnXD4=</last-search>
+      <last-search>Deviation</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY2FuQWNjZXNzRXZlbnRQYXNzQ29uZmlnXD4=</last-pattern>
+      <last-pattern>Deviation</last-pattern>
       <last-replace>Error</last-replace>
       <last-substitute>Deviation</last-substitute>
       <last-dir>-1</last-dir>
@@ -324,7 +324,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfYWNjb3VudFByb3ZpZGVyXD4=</entry>
         <entry encoding="base64">XDxHZXROb3RpZmljYXRpb25zUGlsbGFyVHlwZUNvZGVcPg==</entry>
         <entry encoding="base64">XDxvcmdhbml6YXRpb25TdWJtaXNzaW9uc1w+</entry>
         <entry encoding="base64">XDxpbmRpdmlkdWFsU3VibWlzc2lvbnNcPg==</entry>
@@ -344,9 +343,9 @@
         <entry encoding="base64">XDxfbGRDbGllbnRcPg==</entry>
         <entry>Event</entry>
         <entry encoding="base64">XDxfY2FuQWNjZXNzRXZlbnRQYXNzQ29uZmlnXD4=</entry>
+        <entry>Deviation</entry>
       </history-search>
       <history-cmd>
-        <entry>%y</entry>
         <entry>40</entry>
         <entry>46</entry>
         <entry>.s/Deviation/Error/g</entry>
@@ -363,9 +362,10 @@
         <entry>158</entry>
         <entry>wq</entry>
         <entry>$</entry>
-        <entry>0</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>%s</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -403,6 +403,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
