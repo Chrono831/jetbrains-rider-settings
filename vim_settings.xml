@@ -27,10 +27,11 @@
         <mark key="]" line="22" column="82" />
         <mark key="." line="22" column="82" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/appsettings.json" timestamp="1534950220287">
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="13" column="6" />
-        <mark key="." line="13" column="6" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/appsettings.json" timestamp="1534951251891">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+        <mark key="^" line="14" column="13" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Events/src/Pillar.Events.Data/Pillar.Events.Data.csproj" timestamp="1534939279864">
         <mark key="[" line="15" column="0" />
@@ -48,10 +49,11 @@
         <mark key="." line="25" column="28" />
         <mark key="^" line="25" column="74" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Program.cs" timestamp="1534948252077">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="19" column="1" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Program.cs" timestamp="1534951256315">
+        <mark key="[" line="43" column="47" />
+        <mark key="]" line="43" column="56" />
+        <mark key="." line="43" column="47" />
+        <mark key="^" line="43" column="47" />
       </file>
       <file name="$USER_HOME$/Code/Evaluations/Evaluations/Views/Shared/_QuestionLabel.cshtml" timestamp="1531409007891">
         <mark key="[" line="0" column="0" />
@@ -106,6 +108,10 @@
         <mark key="]" line="43" column="0" />
         <mark key="^" line="21" column="24" />
         <mark key="." line="43" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/72731AC5-CBD9-4B37-A773-D062E475CE97/cf/83e2d3e5/ConfigurationBuilderExtensions.cs" timestamp="1534951215687">
+        <mark key="[" line="34" column="47" />
+        <mark key="]" line="34" column="58" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Controllers/Base/BaseController.cs" timestamp="1534529130337">
         <mark key="'" line="57" column="29" />
@@ -317,44 +323,44 @@
       <register name="a" type="4">
         <text>2dwjywkP</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ClientSecret</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>ClientSecret</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXBwZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">dXNpbmcgUGlsbGFyLkNvbW11bml0aWVzLkNvbnRyYWN0cy5Nb2RlbHM7Cg==</text>
+      <register name="0" type="4">
+        <text>PopSekrit</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZU5vdGlmaWNhdGlvbnNEYXRhKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgQ2FtcHVzTGFicy5NdWx0aXRlbmFuY3k7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZU5vdGlmaWNhdGlvbnNEYXRhKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
+        <text encoding="base64">dXNpbmcgQ2FtcHVzTGFicy5NdWx0aXRlbmFuY3k7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgQXV0b01hcHBlcjsK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwLlUK</text>
+        <text encoding="base64">dXNpbmcgQXV0b01hcHBlcjsK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXBwLlUK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdGguU3RhcnRzV2l0aFNlZ21lbnRzKCIvY2F0ZWdvcnkiKSB8fAogICAgICAgICAgICAgICAgcGF0aC5TdGFydHNXaXRoU2VnbWVudHMoIi9lbWFpbHN1cHByZXNzaW9uIikgfHwKICAgICAgICAgICAgICAgIHBhdGguU3RhcnRzV2l0aFNlZ21lbnRzKCIvZ3JvdXBpbmciKSB8fAogICAgICAgICAgICAgICAgcGF0aC5TdGFydHNXaXRoU2VnbWVudHMoIi9sYXlvdXQiKSB8fAogICAgICAgICAgICAgICAgcGF0aC5TdGFydHNXaXRoU2VnbWVudHMoIi9saW5rZm9ybWF0IikgfHwKICAgICAgICAgICAgICAgIHBhdGguU3RhcnRzV2l0aFNlZ21lbnRzKCIvcGxhdGZvcm0iKSB8fAogICAgICAgICAgICAgICAgcGF0aC5TdGFydHNXaXRoU2VnbWVudHMoIi9wcmVmZXJlbmNlIikgfHwKICAgICAgICAgICAgICAgIHBhdGguU3RhcnRzV2l0aFNlZ21lbnRzKCIvc3dhZ2dlciIpIHx8CiAgICAgICAgICAgICAgICBwYXRoLlN0YXJ0c1dpdGhTZWdtZW50cygiL3RlbXBsYXRlIikgfHwKICAgICAgICAgICAgICAgIHBhdGguU3RhcnRzV2l0aFNlZ21lbnRzKCIvdHlwZSIpOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ewogICAgcHVibGljIGNsYXNzIFByb2dyYW0KICAgIHsKICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgTWFpbihzdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgICAgIENyZWF0ZVdlYkhvc3RCdWlsZGVyKGFyZ3MpLkJ1aWxkKCkuUnVuKCk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgc3RhdGljIElXZWJIb3N0QnVpbGRlciBDcmVhdGVXZWJIb3N0QnVpbGRlcihzdHJpbmdbXSBhcmdzKSA9PgogICAgICAgICAgICBXZWJIb3N0LkNyZWF0ZURlZmF1bHRCdWlsZGVyKGFyZ3MpCiAgICAgICAgICAgICAgICAuQ29uZmlndXJlQXBwQ29uZmlndXJhdGlvbigoY29udGV4dCwgY29uZmlnKSA9PiBjb25maWcuQWRkRW5nYWdlS2V5VmF1bHQoKSkKICAgICAgICAgICAgICAgIC5Vc2VTdGFydHVwPFN0YXJ0dXA+KCkKICAgICAgICAgICAgICAgIC5Vc2VBcHBsaWNhdGlvbkluc2lnaHRzKCk7CiAgICB9Cn0=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
