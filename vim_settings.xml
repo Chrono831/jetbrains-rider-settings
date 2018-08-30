@@ -25,7 +25,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/112CDF55-A638-42B4-9A10-F82A7A070651/af/4e92f0da/NullableLocalTimeToCommunityTimeResolver.cs" timestamp="1535641792149" />
       <file name="$USER_HOME$/Code/magic-recollation-helper/.eslintrc" timestamp="1529547784730">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="0" />
@@ -325,8 +324,8 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceController.cs" timestamp="1535638764177">
-        <mark key="'" line="336" column="13" />
+      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceController.cs" timestamp="1535643848934">
+        <mark key="'" line="764" column="26" />
         <mark key="[" line="458" column="10" />
         <mark key="]" line="458" column="11" />
         <mark key="^" line="458" column="11" />
@@ -362,7 +361,6 @@
         <mark key="^" line="18" column="24" />
         <mark key="." line="18" column="24" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Automaps/FinanceMaps.cs" timestamp="1535642772440" />
       <file name="$USER_HOME$/Code/Evaluations/Evaluations/Views/Error/NotFound.cshtml" timestamp="1531413400219">
         <mark key="[" line="5" column="8" />
         <mark key="]" line="5" column="8" />
@@ -524,7 +522,6 @@
         <mark key="^" line="124" column="3" />
         <mark key="." line="124" column="3" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Models/Finance/PrintFinanceRequestOrganizationViewModel.cs" timestamp="1535635680973" />
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Models/DbProject.cs" timestamp="1535138965788">
         <mark key="[" line="18" column="2" />
         <mark key="]" line="18" column="3" />
@@ -667,11 +664,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="46" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/TestController.cs" />
-      <jump line="5" column="19" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Messages/TestMessages.cs" />
-      <jump line="26" column="46" filename="$USER_HOME$/Code/Pillar.Budgeting/readme.md" />
-      <jump line="36" column="22" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Repositories/TestRepository.cs" />
-      <jump line="11" column="57" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/ReviewsController.cs" />
       <jump line="19" column="53" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/ReviewsController.cs" />
       <jump line="14" column="36" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/ReviewsController.cs" />
       <jump line="17" column="0" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/ReviewsController.cs" />
@@ -767,6 +759,11 @@
       <jump line="369" column="13" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceController.cs" />
       <jump line="363" column="13" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceController.cs" />
       <jump line="336" column="13" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceController.cs" />
+      <jump line="1234" column="50" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceController.cs" />
+      <jump line="1020" column="0" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceController.cs" />
+      <jump line="1140" column="55" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceController.cs" />
+      <jump line="1151" column="51" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceController.cs" />
+      <jump line="764" column="26" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceController.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -788,7 +785,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb21tdW5pdHlBdXRob3JpemVcPg==</text>
+        <text>PendingRe</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJdmFyIHB1cmNoYXNlUmVxdWVzdE1vZGVsID0gTWFwcGVyLk1hcDxGaW5hbmNlUmVxdWVzdCwgRWRpdFB1cmNoYXNlUmVxdWVzdE9yZ2FuaXphdGlvblZpZXdNb2RlbD4ocHVyY2hhc2VSZXF1ZXN0KTsK</text>
@@ -825,17 +822,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb21tdW5pdHlBdXRob3JpemVcPg==</last-search>
+      <last-search>PendingRe</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb21tdW5pdHlBdXRob3JpemVcPg==</last-pattern>
+      <last-pattern>PendingRe</last-pattern>
       <last-replace>DbSubmission</last-replace>
       <last-substitute>DbTestTable</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfaW5zdGl0dXRpb25cPg==</entry>
         <entry encoding="base64">XDxfZXZlbnRzRGJDb250ZXh0XD4=</entry>
         <entry>BudgetAccount</entry>
         <entry encoding="base64">XDxBbnlcPg==</entry>
@@ -855,6 +851,7 @@
         <entry>GetRequ</entry>
         <entry>AllRe</entry>
         <entry encoding="base64">XDxDb21tdW5pdHlBdXRob3JpemVcPg==</entry>
+        <entry>PendingRe</entry>
       </history-search>
       <history-cmd>
         <entry>.s/Deviation/Error/g</entry>
