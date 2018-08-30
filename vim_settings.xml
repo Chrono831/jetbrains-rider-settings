@@ -275,9 +275,6 @@
         <mark key="^" line="3" column="46" />
         <mark key="." line="3" column="46" />
       </file>
-      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" timestamp="1535635902613">
-        <mark key="'" line="253" column="47" />
-      </file>
       <file name="$USER_HOME$/source/repos/courseevaluations-configuration/Web/Web/Models/ReportingModels/PowerBIEmbedded_AppOwnsData.cs" timestamp="1528740255025">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -333,6 +330,7 @@
         <mark key="." line="18" column="78" />
         <mark key="^" line="18" column="85" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/reviews-query.sql" timestamp="1535657658928" />
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/TestValidator.cs" timestamp="1535049750380">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="5" column="40" />
@@ -360,9 +358,6 @@
         <mark key="]" line="2" column="51" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="46" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/159BF287-7966-4AC6-914C-3CAF595E15C9/18/d684fffa/ModelValidator.cs" timestamp="1535138282396">
-        <mark key="'" line="403" column="37" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Views/Shared/ResponseDisplayPartial.ascx" timestamp="1535650186814">
         <mark key="[" line="0" column="0" />
@@ -600,12 +595,6 @@
         <mark key="." line="21" column="239" />
         <mark key="^" line="21" column="239" />
       </file>
-      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/IFinanceService.cs" timestamp="1535635886586">
-        <mark key="'" line="54" column="41" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Messages/ReviewsMessages.cs" timestamp="1535121386766">
-        <mark key="'" line="4" column="15" />
-      </file>
       <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Models/ReportingSection.cs" timestamp="1531229706587">
         <mark key="[" line="16" column="55" />
         <mark key="]" line="16" column="55" />
@@ -656,14 +645,14 @@
         <mark key="." line="2" column="34" />
         <mark key="^" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Repositories/ReviewsRepository.cs" timestamp="1535656135453">
-        <mark key="'" line="122" column="18" />
-        <mark key="[" line="68" column="100" />
-        <mark key="]" line="74" column="69" />
-        <mark key="." line="74" column="69" />
-        <mark key="^" line="74" column="69" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Repositories/ReviewsRepository.cs" timestamp="1535657780321">
+        <mark key="'" line="119" column="18" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="71" column="20" />
+        <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Models/DbSubmission.cs" timestamp="1535476588648">
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Models/DbSubmission.cs" timestamp="1535657795006">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="21" column="61" />
         <mark key="." line="9" column="41" />
@@ -866,24 +855,33 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAuV2hlcmUocyA9PiBzLik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>DbTestTable</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAuSW5jbHVkZShzID0+IHMuQ29tbXVuaXR5KQo=</text>
+        <text encoding="base64">ICAgICAgICAuV2hlcmUocyA9PiBzLkluc3RpdHV0aW9uSWQgPT0gX2luc3RpdHV0aW9uLklkICYmICFzLkRlbGV0ZWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuV2hlcmUocyA9PiBzLik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdmFyIF9kYiA9IF9idWRnZXRpbmdEYkNvbnRleHQ7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZnJvbSBzYm0gaW4gX2RiLkRiU3VibWlzc2lvbgogICAgICAgIHNlbGVjdAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAuV2hlcmUocyA9PiBzLik7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgcmV0dXJuIE9rKGlkKTsK</text>
       </register>
-      <register name="3" type="8">
+      <register name="6" type="8">
         <text>//
 //
 //
@@ -892,15 +890,6 @@
 //
 //</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
@@ -908,7 +897,7 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHF1ZXJ5YWJsZSA9IF9ldmVudHNEYkNvbnRleHQKICAgICAgICAuR2V0UXVlcnlhYmxlPERiRXZlbnRTdWJtaXNzaW9uPigpCiAgICAgICAgLkluY2x1ZGUocyA9PiBzLkJlbmVmaXRzKQogICAgICAgIC5JbmNsdWRlKHMgPT4gcy5DYXRlZ29yaWVzKQogICAgICAgIC5UaGVuSW5jbHVkZShjID0+IGMuRXZlbnRDYXRlZ29yeSkKICAgICAgICAuSW5jbHVkZShzID0+IHMuQ29tbXVuaXR5KQogICAgICAgIC5JbmNsdWRlKHMgPT4gcy5DcmVhdG9yKQogICAgICAgIC5JbmNsdWRlKHMgPT4gcy5JbnN0YW5jZXMpCiAgICAgICAgLldoZXJlKHMgPT4KICAgICAgICAgIHMuQ29tbXVuaXR5Lkluc3RpdHV0aW9uSWQgPT0gX2luc3RpdHV0aW9uLklkICYmCiAgICAgICAgICAhcy5EZWxldGVkKTsKICAgICAgaWYgKHNlYXJjaFBhcmFtZXRlcnMgPT0gbnVsbCkKICAgICAgICByZXR1cm4gcXVlcnlhYmxlOwoKICAgICAgaWYgKHNlYXJjaFBhcmFtZXRlcnMuSWQuSGFzVmFsdWUpCiAgICAgICAgcmV0dXJuIHF1ZXJ5YWJsZS5XaGVyZShzID0+IHMuSWQgPT0gc2VhcmNoUGFyYW1ldGVycy5JZC5WYWx1ZSk7CgogICAgICBpZiAoc2VhcmNoUGFyYW1ldGVycy5Pcmdhbml6YXRpb25JZC5IYXNWYWx1ZSkKICAgICAgICBxdWVyeWFibGUgPSBxdWVyeWFibGUuV2hlcmUocyA9PiBzLkdyb3VwSWQgPT0gc2VhcmNoUGFyYW1ldGVycy5Pcmdhbml6YXRpb25JZCk7CgogICAgICBpZiAoc2VhcmNoUGFyYW1ldGVycy5TdGF0dXMuSGFzVmFsdWUpCiAgICAgICAgcXVlcnlhYmxlID0gcXVlcnlhYmxlLldoZXJlKHMgPT4gcy5TdGF0dXMgPT0gTWFwU3RhdHVzKHNlYXJjaFBhcmFtZXRlcnMuU3RhdHVzLlZhbHVlKSk7CgogICAgICByZXR1cm4gcXVlcnlhYmxlOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
