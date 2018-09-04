@@ -467,7 +467,6 @@
         <mark key="^" line="18" column="24" />
         <mark key="." line="18" column="24" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" timestamp="1536081242364" />
       <file name="$USER_HOME$/Code/Evaluations/Evaluations/Views/Error/NotFound.cshtml" timestamp="1531413400219">
         <mark key="[" line="5" column="8" />
         <mark key="]" line="5" column="8" />
@@ -562,7 +561,7 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="217" column="17" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/templates/processes.html" timestamp="1536090620701">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/templates/processes.html" timestamp="1536091316906">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="61" />
@@ -704,10 +703,10 @@
         <mark key="." line="16" column="55" />
         <mark key="^" line="10" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536086849218">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="66" />
-        <mark key="." line="0" column="66" />
+      <file name="/Dummy.txt" timestamp="1536090716809">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/ReportBlobber/ReportBlobber/Models/QuerySqlOrdialsEnum.cs" timestamp="1529001834366">
         <mark key="[" line="51" column="41" />
@@ -961,7 +960,11 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IiA=</text>
+        <text>Create Organizations Budgeting page
+ * mimics page in `App.CC.Org.Finance`
+ * route copied `https://localhost/orgfinance/organization/{key}/finance`
+ * links are BAD and need to be FIXED once routing is determined
+ * file template copied from `mySubmissions` page</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IiA=</text>
@@ -972,29 +975,33 @@
       <register name="0" type="4">
         <text>Back to Admin</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">PGEgaHJlZj0iWFhYL2FkbWluIj5CYWNrIHRvIEFkbWluPC9hPgo=</text>
+      <register name="1" type="4">
+        <text>Create Organizations Budgeting page
+ * mimics page in `App.CC.Org.Finance`
+ * route copied `https://localhost/orgfinance/organization/{key}/finance`
+ * links are BAD and need to be FIXED once routing is determined
+ * file template copied from `mySubmissions` page</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGgxIGNsYXNzTmFtZT0iaDEiPkZpbmFuY2U8L2gxPgo=</text>
+        <text encoding="base64">PGEgaHJlZj0iWFhYL2FkbWluIj5CYWNrIHRvIEFkbWluPC9hPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0idGFibGUtaGVhZGVyLXNlYXJjaCI+Cg==</text>
+        <text encoding="base64">PGgxIGNsYXNzTmFtZT0iaDEiPkZpbmFuY2U8L2gxPgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0idGFibGUtaGVhZGVyLXNlYXJjaCI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGEgY2xhc3M9ImJ1dHRvbiIgaHJlZj0iIy9jcmVhdGUtYnVkZ2V0LXJlcXVlc3QiPiA8aSBjbGFzcz0iaWNvbi1hZGQiPjwvaT5DcmVhdGUgQnVkZ2V0IFJlcXVlc3QgPC9hPgogICAgICA8YSBjbGFzcz0iYnV0dG9uIiBocmVmPSIjL2NyZWF0ZS1wdXJjaGFzZS1yZXF1ZXN0Ij4gPGkgY2xhc3M9Imljb24tYWRkIj48L2k+Q3JlYXRlIFB1cmNoYXNlIFJlcXVlc3QgPC9hPgogICAgICA8YSBjbGFzcz0iYnV0dG9uIiBocmVmPSIjL2NyZWF0ZS1mdW5kaW5nLXJlcXVlc3QiPiA8aSBjbGFzcz0iaWNvbi1hZGQiPjwvaT5DcmVhdGUgRnVuZGluZyBSZXF1ZXN0IDwvYT4K</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0idGFibGUtaGVhZGVyLXNlYXJjaCI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxoMj5CdWRnZXQgUmVxdWVzdHM8L2gyPgo=</text>
+        <text encoding="base64">ICAgICAgPGEgY2xhc3M9ImJ1dHRvbiIgaHJlZj0iIy9jcmVhdGUtYnVkZ2V0LXJlcXVlc3QiPiA8aSBjbGFzcz0iaWNvbi1hZGQiPjwvaT5DcmVhdGUgQnVkZ2V0IFJlcXVlc3QgPC9hPgogICAgICA8YSBjbGFzcz0iYnV0dG9uIiBocmVmPSIjL2NyZWF0ZS1wdXJjaGFzZS1yZXF1ZXN0Ij4gPGkgY2xhc3M9Imljb24tYWRkIj48L2k+Q3JlYXRlIFB1cmNoYXNlIFJlcXVlc3QgPC9hPgogICAgICA8YSBjbGFzcz0iYnV0dG9uIiBocmVmPSIjL2NyZWF0ZS1mdW5kaW5nLXJlcXVlc3QiPiA8aSBjbGFzcz0iaWNvbi1hZGQiPjwvaT5DcmVhdGUgRnVuZGluZyBSZXF1ZXN0IDwvYT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYnVkZ2V0aW5nOiAiL2J1ZGdldGluZy9yZXF1ZXN0cyMvb3JnU3VibWlzc2lvbnMiLAo=</text>
+        <text encoding="base64">ICAgIDxoMj5CdWRnZXQgUmVxdWVzdHM8L2gyPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYnVkZ2V0aW5nOiAiL2J1ZGdldGluZy9yZXF1ZXN0cyMvb3JnU3VibWlzc2lvbnMiLAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
