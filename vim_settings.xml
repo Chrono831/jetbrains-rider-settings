@@ -134,11 +134,11 @@
         <mark key="^" line="33" column="7" />
         <mark key="." line="33" column="9" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions/submission.js" timestamp="1536080972923">
-        <mark key="[" line="720" column="39" />
-        <mark key="]" line="720" column="41" />
-        <mark key="^" line="720" column="41" />
-        <mark key="." line="720" column="41" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions/submission.js" timestamp="1536085756098">
+        <mark key="[" line="718" column="45" />
+        <mark key="]" line="718" column="59" />
+        <mark key="^" line="718" column="59" />
+        <mark key="." line="718" column="59" />
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" timestamp="1536083123792">
         <mark key="'" line="38" column="7" />
@@ -300,7 +300,7 @@
         <mark key="^" line="18" column="61" />
         <mark key="." line="18" column="61" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/Index.aspx" timestamp="1536084517886">
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/Index.aspx" timestamp="1536085132765">
         <mark key="'" line="16" column="29" />
         <mark key="[" line="38" column="97" />
         <mark key="]" line="38" column="115" />
@@ -694,8 +694,8 @@
         <mark key="." line="16" column="55" />
         <mark key="^" line="10" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535731272249">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1536086849218">
+        <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="66" />
         <mark key="." line="0" column="66" />
       </file>
@@ -810,11 +810,11 @@
         <mark key="^" line="38" column="28" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions/templates/orgSubmissions.html" timestamp="1536085004340">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
-        <mark key="^" line="0" column="25" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions/templates/orgSubmissions.html" timestamp="1536086755984">
+        <mark key="[" line="29" column="91" />
+        <mark key="]" line="29" column="98" />
+        <mark key="." line="29" column="98" />
+        <mark key="^" line="29" column="98" />
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Models/Finance/FinanceIndexModel.cs" timestamp="1536082670304">
         <mark key="[" line="11" column="24" />
@@ -951,43 +951,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Submissions</text>
+        <text>events</text>
       </register>
       <register name="-" type="4">
-        <text>Submissions</text>
+        <text>events</text>
       </register>
       <register name="/" type="4">
         <text>DbTestTable</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnRlcmZhY2UgSUhlYWx0aENoZWNrc1NlcnZpY2UgOiBJU2VydmljZQogICAgewogICAgICAgIFRhc2s8aW50PiBHZXRCdWRnZXRBY2NvdW50c0NvdW50KCk7CiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>/budgeting/requests#/mySubmissions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL2FkZCBJZCBmaWx0ZXIK</text>
+        <text encoding="base64">PGgxIGNsYXNzTmFtZT0iaDEiPkZpbmFuY2U8L2gxPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JldHVybiBxdWVyeWFibGUuV2hlcmUocyA9PiBzLklkID09IHNlYXJjaFBhcmFtZXRlcnMuSWQuVmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0idGFibGUtaGVhZGVyLXNlYXJjaCI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0idGFibGUtaGVhZGVyLXNlYXJjaCI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHNlYXJjaFBhcmFtZXRlcnMgPT0gbnVsbCkgcmV0dXJuIHF1ZXJ5YWJsZTsK</text>
+        <text encoding="base64">ICAgICAgPGEgY2xhc3M9ImJ1dHRvbiIgaHJlZj0iIy9jcmVhdGUtYnVkZ2V0LXJlcXVlc3QiPiA8aSBjbGFzcz0iaWNvbi1hZGQiPjwvaT5DcmVhdGUgQnVkZ2V0IFJlcXVlc3QgPC9hPgogICAgICA8YSBjbGFzcz0iYnV0dG9uIiBocmVmPSIjL2NyZWF0ZS1wdXJjaGFzZS1yZXF1ZXN0Ij4gPGkgY2xhc3M9Imljb24tYWRkIj48L2k+Q3JlYXRlIFB1cmNoYXNlIFJlcXVlc3QgPC9hPgogICAgICA8YSBjbGFzcz0iYnV0dG9uIiBocmVmPSIjL2NyZWF0ZS1mdW5kaW5nLXJlcXVlc3QiPiA8aSBjbGFzcz0iaWNvbi1hZGQiPjwvaT5DcmVhdGUgRnVuZGluZyBSZXF1ZXN0IDwvYT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5XaGVyZSgpCg==</text>
+        <text encoding="base64">ICAgIDxoMj5CdWRnZXQgUmVxdWVzdHM8L2gyPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeQo=</text>
+        <text encoding="base64">ICAgICAgYnVkZ2V0aW5nOiAiL2J1ZGdldGluZy9yZXF1ZXN0cyMvb3JnU3VibWlzc2lvbnMiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gIC5XaGVyZShzID0+ICFzLkRlbGV0ZWQpOwo=</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0ibWRsLWxheW91dF9fY29udGVudCI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
