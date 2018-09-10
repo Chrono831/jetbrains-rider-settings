@@ -129,7 +129,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Services/Interfaces/Configuration/ICommunityConfigurationService.cs" timestamp="1536604318062" />
+      <file name="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Services/Interfaces/Configuration/ICommunityConfigurationService.cs" timestamp="1536606516131" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/moment.js" timestamp="1536348673633">
         <mark key="[" line="2463" column="0" />
         <mark key="]" line="2463" column="0" />
@@ -410,7 +410,6 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Api/Controllers/Configuration/MiscConfigurationController.cs" timestamp="1536605488055" />
       <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Models/GuidType.cs" timestamp="1530023860784">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -567,6 +566,11 @@
         <mark key="]" line="38" column="43" />
         <mark key="." line="38" column="43" />
         <mark key="^" line="38" column="43" />
+      </file>
+      <file name="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Services/Implementations/Configuration/CommunityConfigurationService.cs" timestamp="1536606704769">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="16" />
+        <mark key="." line="53" column="16" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Services/Implementations/Configuration/FinanceConfigurationService.cs" timestamp="1536603174525">
         <mark key="'" line="119" column="64" />
@@ -769,7 +773,7 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="11" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536350448688">
+      <file name="/Dummy.txt" timestamp="1536606998502">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/CoreRegistry.cs" timestamp="1536239526253">
@@ -1044,10 +1048,10 @@
         <text>dwhxxxxxn</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGaW5hbmNlQ29uZmlnXD4=</text>
@@ -1056,7 +1060,7 @@
         <text encoding="base64">ICAgICAgICBwdWJsaWMgRmluYW5jZUNvbmZpZ3VyYXRpb24gRmluYW5jZUNvbmZpZyB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1083,7 +1087,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1137,8 +1141,8 @@
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>0</entry>
         <entry>266</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
