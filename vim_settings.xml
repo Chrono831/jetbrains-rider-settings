@@ -231,6 +231,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Contracts/Models/Configuration/BudgetingConfiguration.cs" timestamp="1536667403780">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="7" column="9" />
+      </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Startup.cs" timestamp="1535653531442">
         <mark key="[" line="127" column="9" />
         <mark key="]" line="128" column="55" />
@@ -333,6 +339,10 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Contracts/Models/Configuration/FinanceConfiguration.cs" timestamp="1536666842290">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="12" column="55" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Areas/Settings/Views/Process/Index.cshtml" timestamp="1536173582214">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -350,7 +360,13 @@
         <mark key="^" line="110" column="94" />
         <mark key="." line="110" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Services/Implementations/Configuration/BudgetingConfigurationService.cs" timestamp="1536609945025" />
+      <file name="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Services/Implementations/Configuration/BudgetingConfigurationService.cs" timestamp="1536667437382">
+        <mark key="'" line="77" column="12" />
+        <mark key="[" line="64" column="16" />
+        <mark key="]" line="64" column="16" />
+        <mark key="^" line="80" column="62" />
+        <mark key="." line="64" column="16" />
+      </file>
       <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Models/ResponseDto.cs" timestamp="1529081806750">
         <mark key="[" line="49" column="89" />
         <mark key="]" line="21" column="0" />
@@ -494,6 +510,12 @@
         <mark key="." line="28" column="105" />
         <mark key="^" line="28" column="105" />
       </file>
+      <file name="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Services/Validators/Configuration/BudgetingConfigurationValidator.cs" timestamp="1536667345514">
+        <mark key="[" line="17" column="46" />
+        <mark key="]" line="17" column="54" />
+        <mark key="." line="17" column="54" />
+        <mark key="^" line="17" column="54" />
+      </file>
       <file name="$USER_HOME$/Code/evaluation-reporting-frontend/src/App.css" timestamp="1529928998932">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -605,11 +627,12 @@
         <mark key="." line="21" column="47" />
         <mark key="^" line="21" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Api/Controllers/Configuration/BudgetingConfigurationController.cs" timestamp="1536610055142">
-        <mark key="[" line="32" column="101" />
-        <mark key="]" line="32" column="101" />
-        <mark key="." line="32" column="101" />
-        <mark key="^" line="32" column="101" />
+      <file name="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Api/Controllers/Configuration/BudgetingConfigurationController.cs" timestamp="1536667110669">
+        <mark key="'" line="26" column="81" />
+        <mark key="[" line="12" column="48" />
+        <mark key="]" line="12" column="79" />
+        <mark key="." line="12" column="48" />
+        <mark key="^" line="10" column="55" />
       </file>
       <file name="$USER_HOME$/Code/App.Checkins/src/App.Checkins/Models/AzureSearchParameters.cs" timestamp="1533913434089">
         <mark key="[" line="14" column="18" />
@@ -786,8 +809,10 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="11" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536606998502">
+      <file name="/Dummy.txt" timestamp="1536668138950">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="34" />
+        <mark key="." line="0" column="34" />
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/CoreRegistry.cs" timestamp="1536239526253">
         <mark key="[" line="54" column="0" />
@@ -955,16 +980,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="31" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Controllers/Base/BaseController.cs" />
-      <jump line="33" column="5" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Controllers/Base/BaseController.cs" />
-      <jump line="81" column="12" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
-      <jump line="432" column="9" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
-      <jump line="419" column="8" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
-      <jump line="395" column="8" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
-      <jump line="341" column="8" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
-      <jump line="333" column="8" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
-      <jump line="309" column="8" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
-      <jump line="304" column="8" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
       <jump line="299" column="8" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
       <jump line="253" column="8" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
       <jump line="241" column="8" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
@@ -1055,68 +1070,76 @@
       <jump line="34" column="17" filename="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Data/Models/Configuration/DbCommunityConfiguration.cs" />
       <jump line="208" column="16" filename="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Data/Models/Configuration/DbCommunityConfiguration.cs" />
       <jump line="84" column="20" filename="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Data/Models/Configuration/DbCommunityConfiguration.cs" />
+      <jump line="32" column="81" filename="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Api/Controllers/Configuration/BudgetingConfigurationController.cs" />
+      <jump line="96" column="14" filename="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Services/Implementations/Configuration/BudgetingConfigurationService.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Services/Implementations/Configuration/BudgetingConfigurationService.cs" />
+      <jump line="17" column="50" filename="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Services/Implementations/Configuration/BudgetingConfigurationService.cs" />
+      <jump line="26" column="12" filename="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Services/Implementations/Configuration/BudgetingConfigurationService.cs" />
+      <jump line="23" column="97" filename="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Services/Implementations/Configuration/BudgetingConfigurationService.cs" />
+      <jump line="65" column="17" filename="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Services/Implementations/Configuration/BudgetingConfigurationService.cs" />
+      <jump line="66" column="17" filename="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Services/Implementations/Configuration/BudgetingConfigurationService.cs" />
+      <jump line="79" column="49" filename="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Services/Implementations/Configuration/BudgetingConfigurationService.cs" />
+      <jump line="77" column="12" filename="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Services/Implementations/Configuration/BudgetingConfigurationService.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwhxxxxxn</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">akNvbmZpZ3VyYXRpb24g</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">akNvbmZpZ3VyYXRpb24g</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGaW5hbmNlUmVxdWVzdHNFbmFibGVkXD4=</text>
+        <text>inance</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">c2V0dGluZ3Mg</text>
+        <text encoding="base64">SUJ1ZGdldGluZ0NvbmZpZ3VyYXRpb25TZXJ2aWNlIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL1tDb2x1bW4oIkZpbmFuY2VFbmFibGVkIildCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZpbmFuY2VFbmFibGVkID0gc291cmNlLkNvbW11bml0eUNvbmZpZ3VyYXRpb24uQnVkZ2V0aW5nRW5hYmxlZCwKICAgICAgICAgICAgICAgIEZpbmFuY2VSZXF1ZXN0c0VuYWJsZWQgPSBzb3VyY2UuQ29tbXVuaXR5Q29uZmlndXJhdGlvbi5CdWRnZXRpbmdSZXF1ZXN0c0VuYWJsZWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL1tDb2x1bW4oIkZpbmFuY2VSZXF1ZXN0c0VuYWJsZWQiKV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc291cmNlLkJ1ZGdldGluZ0VuYWJsZWQgPSBuZXdWYWx1ZXMuRmluYW5jZUVuYWJsZWQ7CiAgICAgICAgICAgIHNvdXJjZS5CdWRnZXRpbmdSZXF1ZXN0c0VuYWJsZWQgPSBuZXdWYWx1ZXMuRmluYW5jZVJlcXVlc3RzRW5hYmxlZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBbQ29sdW1uKCJGaW5hbmNlRW5hYmxlZCIpXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text>Budgeting
+Budgeting</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL1tDb2x1bW4oIkZpbmFuY2VFbmFibGVkIildCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL1tDb2x1bW4oIkZpbmFuY2VSZXF1ZXN0c0VuYWJsZWQiKV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBbQ29sdW1uKCJGaW5hbmNlRW5hYmxlZCIpXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGaW5hbmNlUmVxdWVzdHNFbmFibGVkXD4=</last-search>
+      <last-search>inance</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGaW5hbmNlUmVxdWVzdHNFbmFibGVkXD4=</last-pattern>
+      <last-pattern>inance</last-pattern>
       <last-replace>DbSubmission</last-replace>
       <last-substitute>DbTestTable</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\/\/</entry>
-        <entry>_canAccess</entry>
-        <entry encoding="base64">XDx3aW5kb3dcPg==</entry>
         <entry encoding="base64">XDxjb2xsZWN0aW9uXD4=</entry>
         <entry>api</entry>
         <entry>window</entry>
@@ -1129,11 +1152,14 @@
         <entry encoding="base64">XDxHZXRBYnNvbHV0ZVBhdGhcPg==</entry>
         <entry encoding="base64">XDxfaG9zdFw+</entry>
         <entry>budgeting</entry>
-        <entry encoding="base64">XDxGaW5hbmNlQ29uZmlndXJhdGlvblw+</entry>
         <entry encoding="base64">XDxGaW5hbmNlQ29uZmlnXD4=</entry>
         <entry encoding="base64">XDxGaW5hbmNlRW5hYmxlZFw+</entry>
         <entry encoding="base64">XDxCdWRnZXRpbmdFbmFibGVkXD4=</entry>
         <entry encoding="base64">XDxGaW5hbmNlUmVxdWVzdHNFbmFibGVkXD4=</entry>
+        <entry encoding="base64">XDxGaW5hbmNlQ29uZmlndXJhdGlvblw+</entry>
+        <entry>BudgetingConfig</entry>
+        <entry>inanc</entry>
+        <entry>inance</entry>
       </history-search>
       <history-cmd>
         <entry>22</entry>
@@ -1150,11 +1176,11 @@
         <entry>.s/Test/Reviews/g</entry>
         <entry>%s/DbSubmission/DbTestTable/g</entry>
         <entry>%s/DbTestTable/DbSubmission/g</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>0</entry>
         <entry>266</entry>
+        <entry>wq</entry>
         <entry>q</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
