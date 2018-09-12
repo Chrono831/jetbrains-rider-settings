@@ -160,6 +160,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1536768933159" />
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/UsersController.cs" timestamp="1534786824634">
         <mark key="[" line="47" column="105" />
         <mark key="]" line="47" column="106" />
@@ -687,11 +688,11 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Organizations/OrganizationsController.cs" timestamp="1536768164181">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="5" />
-        <mark key="." line="12" column="5" />
-        <mark key="^" line="12" column="5" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Organizations/OrganizationsController.cs" timestamp="1536769336803">
+        <mark key="[" line="42" column="44" />
+        <mark key="]" line="40" column="51" />
+        <mark key="." line="40" column="51" />
+        <mark key="^" line="40" column="51" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" timestamp="1536348594425">
         <mark key="'" line="69" column="57" />
@@ -816,8 +817,9 @@
         <mark key="." line="2" column="34" />
         <mark key="^" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.organization/submission.js" timestamp="1536760790627">
-        <mark key="[" line="228" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.organization/submission.js" timestamp="1536768805689">
+        <mark key="'" line="477" column="10" />
+        <mark key="[" line="643" column="113" />
         <mark key="]" line="228" column="0" />
         <mark key="^" line="213" column="5" />
         <mark key="." line="228" column="0" />
@@ -1102,7 +1104,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2156" column="16" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/Core/StudentVoiceGroups.Core.Web/Models/AdminNavigationViewModel.cs" />
       <jump line="127" column="30" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/Core/StudentVoiceGroups.Core.Web/Models/AdminNavigationViewModel.cs" />
       <jump line="129" column="30" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/Core/StudentVoiceGroups.Core.Web/Models/AdminNavigationViewModel.cs" />
       <jump line="131" column="30" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/Core/StudentVoiceGroups.Core.Web/Models/AdminNavigationViewModel.cs" />
@@ -1202,6 +1203,7 @@
       <jump line="5" column="84" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.organization/templates/processes.html" />
       <jump line="4" column="96" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.organization/templates/processes.html" />
       <jump line="32" column="29" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.organization/templates/processes.html" />
+      <jump line="477" column="10" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.organization/submission.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1214,7 +1216,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb2xsZWdpYXRlTGlua09yZ2FuaXphdGlvblw+</text>
+        <text>httpWrapper</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBbUm91dGUoIm9yZ2FuaXphdGlvbnMve29yZ2FuaXphdGlvbktleTpzdHJpbmd9IildCg==</text>
@@ -1251,17 +1253,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb2xsZWdpYXRlTGlua09yZ2FuaXphdGlvblw+</last-search>
+      <last-search>httpWrapper</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb2xsZWdpYXRlTGlua09yZ2FuaXphdGlvblw+</last-pattern>
+      <last-pattern>httpWrapper</last-pattern>
       <last-replace>DbSubmission</last-replace>
       <last-substitute>DbTestTable</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxHZXRBYnNvbHV0ZVBhdGhcPg==</entry>
         <entry encoding="base64">XDxfaG9zdFw+</entry>
         <entry>budgeting</entry>
         <entry encoding="base64">XDxGaW5hbmNlQ29uZmlndXJhdGlvblw+</entry>
@@ -1281,6 +1282,7 @@
         <entry encoding="base64">XDxvcmdhbml6YXRpb25LZXlcPg==</entry>
         <entry encoding="base64">XDxjdXJyZW50VGFiXD4=</entry>
         <entry encoding="base64">XDxjb2xsZWdpYXRlTGlua09yZ2FuaXphdGlvblw+</entry>
+        <entry>httpWrapper</entry>
       </history-search>
       <history-cmd>
         <entry>%d</entry>
