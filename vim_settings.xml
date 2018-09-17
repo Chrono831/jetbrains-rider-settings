@@ -876,8 +876,12 @@
         <mark key="." line="34" column="24" />
         <mark key="^" line="34" column="24" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Global.asax.cs" timestamp="1536948817207">
+      <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Global.asax.cs" timestamp="1537207682118">
         <mark key="'" line="14" column="14" />
+        <mark key="[" line="112" column="151" />
+        <mark key="]" line="112" column="164" />
+        <mark key="^" line="112" column="164" />
+        <mark key="." line="112" column="164" />
       </file>
       <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Models/ResponseDto.cs" timestamp="1529081806750">
         <mark key="[" line="49" column="89" />
@@ -1136,7 +1140,7 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="217" column="17" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Models/Types/GroupTypeModel.cs" timestamp="1536950998757">
+      <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Models/Types/GroupTypeModel.cs" timestamp="1537207048786">
         <mark key="[" line="46" column="27" />
         <mark key="]" line="46" column="33" />
         <mark key="." line="46" column="33" />
@@ -1428,7 +1432,7 @@
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>Budgeting</text>
+        <text>Budge</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">YnVkZ2V0aW5nRW5hYmxlZEZvckNvbW11bml0eSA=</text>
@@ -1465,9 +1469,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Budgeting</last-search>
+      <last-search>Budge</last-search>
       <last-offset />
-      <last-pattern>Budgeting</last-pattern>
+      <last-pattern>Budge</last-pattern>
       <last-replace>DbSubmission</last-replace>
       <last-substitute>DbTestTable</last-substitute>
       <last-dir>1</last-dir>
@@ -1475,7 +1479,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\$</entry>
         <entry encoding="base64">XDxvcmdhbml6YXRpb25LZXlcPg==</entry>
         <entry encoding="base64">XDx0b3BiYXJcPg==</entry>
         <entry encoding="base64">XDxpbmRpdmlkdWFsU3VibWlzc2lvbnNcPg==</entry>
@@ -1495,6 +1498,7 @@
         <entry>Finance</entry>
         <entry>Authorize</entry>
         <entry>Budgeting</entry>
+        <entry>Budge</entry>
       </history-search>
       <history-cmd>
         <entry>%s/BudgetAccount/Test/g</entry>
