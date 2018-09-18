@@ -92,11 +92,6 @@
         <mark key="^" line="18" column="24" />
         <mark key="." line="18" column="24" />
       </file>
-      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/CommunityConfiguration.cs" timestamp="1537210632654">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="88" column="65" />
-      </file>
       <file name="$USER_HOME$/Code/Pillar.Communities/src/Pillar.Communities.Services/Implementations/Configuration/BudgetingConfigurationService.cs" timestamp="1536667437382">
         <mark key="'" line="77" column="12" />
         <mark key="[" line="64" column="16" />
@@ -151,11 +146,11 @@
         <mark key="." line="294" column="87" />
         <mark key="^" line="294" column="87" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Models/Types/GroupTypeModel.cs" timestamp="1537207048786">
-        <mark key="[" line="46" column="27" />
-        <mark key="]" line="46" column="33" />
-        <mark key="." line="46" column="33" />
-        <mark key="^" line="46" column="33" />
+      <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Models/Types/GroupTypeModel.cs" timestamp="1537286288966">
+        <mark key="[" line="37" column="30" />
+        <mark key="]" line="37" column="31" />
+        <mark key="." line="37" column="31" />
+        <mark key="^" line="37" column="32" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Areas/Requests/RequestsAreaRegistration.cs" timestamp="1536761516091">
         <mark key="'" line="15" column="44" />
@@ -327,6 +322,9 @@
         <mark key="^" line="13" column="38" />
         <mark key="." line="13" column="38" />
       </file>
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Group.cs" timestamp="1537286202076">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Models/Positions/PositionTemplateModel.cs" timestamp="1536953072103">
         <mark key="'" line="10" column="17" />
         <mark key="[" line="79" column="22" />
@@ -336,7 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="20" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
       <jump line="229" column="20" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
       <jump line="294" column="20" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
       <jump line="389" column="8" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
@@ -436,6 +433,7 @@
       <jump line="87" column="67" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Automaps/GroupMaps.cs" />
       <jump line="89" column="52" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Automaps/GroupMaps.cs" />
       <jump line="95" column="29" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Automaps/GroupMaps.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Group.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -448,7 +446,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>GroupType</text>
+        <text>Finance</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlwdWJsaWMgYm9vbD8gRmluYW5jZUVuYWJsZWQgeyBnZXQ7IHNldDsgfQoKCQlwdWJsaWMgYm9vbD8gRmluYW5jZVJlcXVlc3RzRW5hYmxlZCB7IGdldDsgc2V0OyB9Cg==</text>
@@ -481,13 +479,13 @@
         <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>GroupType</last-search>
+      <last-search>Finance</last-search>
       <last-offset />
-      <last-pattern>GroupType</last-pattern>
+      <last-pattern>Finance</last-pattern>
       <last-replace>DbSubmission</last-replace>
       <last-substitute>DbTestTable</last-substitute>
       <last-dir>1</last-dir>
@@ -509,12 +507,12 @@
         <entry>ShowOff</entry>
         <entry>udget</entry>
         <entry>BUDGET</entry>
-        <entry>Finance</entry>
         <entry>Budget</entry>
         <entry encoding="base64">XDxfcm9sZXNcPg==</entry>
         <entry encoding="base64">XDxfZmVhdHVyZVw+</entry>
         <entry encoding="base64">XDxfZmVhdHVyZVJvbGVzXD4=</entry>
         <entry>GroupType</entry>
+        <entry>Finance</entry>
       </history-search>
       <history-cmd>
         <entry>%s/BudgetAccount/Test/g</entry>
@@ -534,9 +532,9 @@
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>wq</entry>
         <entry>37</entry>
-        <entry>q</entry>
         <entry>0</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
