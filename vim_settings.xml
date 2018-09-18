@@ -41,7 +41,7 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="161" column="92" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BE9D53D6-875B-49A0-9075-7B2DC94C9334/c5/16ac5a81/UpdateGroupTypeRequest.cs" timestamp="1537280160467" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BE9D53D6-875B-49A0-9075-7B2DC94C9334/c5/16ac5a81/UpdateGroupTypeRequest.cs" timestamp="1537285287937" />
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/ValueTypes/FeatureRoles.cs" timestamp="1537212594705">
         <mark key="'" line="9" column="0" />
       </file>
@@ -212,6 +212,9 @@
         <mark key="." line="93" column="32" />
         <mark key="^" line="93" column="32" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Automaps/GroupMaps.cs" timestamp="1537285275843">
+        <mark key="'" line="95" column="29" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Models/Customization/AdditionalFieldsModel.cs" timestamp="1537284493176">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -333,10 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="20" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
-      <jump line="126" column="20" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
-      <jump line="147" column="20" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
-      <jump line="166" column="20" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
       <jump line="182" column="20" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
       <jump line="229" column="20" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
       <jump line="294" column="20" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
@@ -433,6 +432,10 @@
       <jump line="44" column="25" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/Core/StudentVoiceGroups.Core.Web/Models/NavigationNode.cs" />
       <jump line="40" column="18" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/Core/StudentVoiceGroups.Core.Web/Models/NavigationNode.cs" />
       <jump line="39" column="40" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/Core/StudentVoiceGroups.Core.Web/Models/NavigationNode.cs" />
+      <jump line="83" column="44" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Automaps/GroupMaps.cs" />
+      <jump line="87" column="67" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Automaps/GroupMaps.cs" />
+      <jump line="89" column="52" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Automaps/GroupMaps.cs" />
+      <jump line="95" column="29" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Automaps/GroupMaps.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -445,7 +448,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZmVhdHVyZVJvbGVzXD4=</text>
+        <text>GroupType</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlwdWJsaWMgYm9vbD8gRmluYW5jZUVuYWJsZWQgeyBnZXQ7IHNldDsgfQoKCQlwdWJsaWMgYm9vbD8gRmluYW5jZVJlcXVlc3RzRW5hYmxlZCB7IGdldDsgc2V0OyB9Cg==</text>
@@ -482,17 +485,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZmVhdHVyZVJvbGVzXD4=</last-search>
+      <last-search>GroupType</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZmVhdHVyZVJvbGVzXD4=</last-pattern>
+      <last-pattern>GroupType</last-pattern>
       <last-replace>DbSubmission</last-replace>
       <last-substitute>DbTestTable</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfY29tbXVuaXR5U2VydmljZVw+</entry>
         <entry encoding="base64">XDxfb3JnUGlsbGFyQ2xpZW50XD4=</entry>
         <entry encoding="base64">XDxfaW5zdGl0dXRpb25Db250ZXh0XD4=</entry>
         <entry encoding="base64">XDxOSGliZXJuYXRlUHJvZmlsZXJcPg==</entry>
@@ -512,6 +514,7 @@
         <entry encoding="base64">XDxfcm9sZXNcPg==</entry>
         <entry encoding="base64">XDxfZmVhdHVyZVw+</entry>
         <entry encoding="base64">XDxfZmVhdHVyZVJvbGVzXD4=</entry>
+        <entry>GroupType</entry>
       </history-search>
       <history-cmd>
         <entry>%s/BudgetAccount/Test/g</entry>
