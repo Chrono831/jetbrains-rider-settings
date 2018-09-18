@@ -41,7 +41,6 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="161" column="92" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BE9D53D6-875B-49A0-9075-7B2DC94C9334/c5/16ac5a81/UpdateGroupTypeRequest.cs" timestamp="1537285287937" />
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/ValueTypes/FeatureRoles.cs" timestamp="1537212594705">
         <mark key="'" line="9" column="0" />
       </file>
@@ -52,8 +51,8 @@
         <mark key="^" line="332" column="6" />
         <mark key="." line="208" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" timestamp="1537275840789">
-        <mark key="'" line="29" column="20" />
+      <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" timestamp="1537287116408">
+        <mark key="'" line="280" column="26" />
         <mark key="[" line="29" column="8" />
         <mark key="]" line="29" column="9" />
         <mark key="^" line="29" column="9" />
@@ -66,7 +65,6 @@
         <mark key="^" line="59" column="59" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Models/CommunityConfigurationModel.cs" timestamp="1537286507594" />
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Controllers/Base/BaseController.cs" timestamp="1536861788260">
         <mark key="'" line="267" column="94" />
         <mark key="[" line="32" column="4" />
@@ -335,15 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="20" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
-      <jump line="294" column="20" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
-      <jump line="389" column="8" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
-      <jump line="358" column="20" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
-      <jump line="390" column="20" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
-      <jump line="403" column="20" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
-      <jump line="420" column="20" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
-      <jump line="57" column="40" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Views/GroupType/Edit.cshtml" />
-      <jump line="10" column="17" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Models/Positions/PositionTemplateModel.cs" />
       <jump line="38" column="41" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/PositionsController.cs" />
       <jump line="261" column="40" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/PositionsController.cs" />
       <jump line="245" column="34" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/PositionsController.cs" />
@@ -435,6 +424,15 @@
       <jump line="89" column="52" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Automaps/GroupMaps.cs" />
       <jump line="95" column="29" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Automaps/GroupMaps.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Group.cs" />
+      <jump line="41" column="43" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
+      <jump line="442" column="27" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
+      <jump line="426" column="27" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
+      <jump line="409" column="27" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
+      <jump line="368" column="31" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
+      <jump line="342" column="28" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
+      <jump line="310" column="28" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
+      <jump line="300" column="12" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
+      <jump line="280" column="26" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -447,7 +445,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>Finance</text>
+        <text encoding="base64">XDxfZ3JvdXBUeXBlU2VydmljZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlwdWJsaWMgYm9vbD8gRmluYW5jZUVuYWJsZWQgeyBnZXQ7IHNldDsgfQoKCQlwdWJsaWMgYm9vbD8gRmluYW5jZVJlcXVlc3RzRW5hYmxlZCB7IGdldDsgc2V0OyB9Cg==</text>
@@ -484,17 +482,16 @@
       </register>
     </registers>
     <search>
-      <last-search>Finance</last-search>
+      <last-search encoding="base64">XDxfZ3JvdXBUeXBlU2VydmljZVw+</last-search>
       <last-offset />
-      <last-pattern>Finance</last-pattern>
+      <last-pattern encoding="base64">XDxfZ3JvdXBUeXBlU2VydmljZVw+</last-pattern>
       <last-replace>DbSubmission</last-replace>
       <last-substitute>DbTestTable</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfb3JnUGlsbGFyQ2xpZW50XD4=</entry>
         <entry encoding="base64">XDxfaW5zdGl0dXRpb25Db250ZXh0XD4=</entry>
         <entry encoding="base64">XDxOSGliZXJuYXRlUHJvZmlsZXJcPg==</entry>
         <entry>Use Finance</entry>
@@ -514,6 +511,7 @@
         <entry encoding="base64">XDxfZmVhdHVyZVJvbGVzXD4=</entry>
         <entry>GroupType</entry>
         <entry>Finance</entry>
+        <entry encoding="base64">XDxfZ3JvdXBUeXBlU2VydmljZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/BudgetAccount/Test/g</entry>
