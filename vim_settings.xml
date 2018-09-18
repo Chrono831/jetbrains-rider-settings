@@ -16,6 +16,12 @@
         <mark key="^" line="323" column="105" />
         <mark key="." line="323" column="105" />
       </file>
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/Core/StudentVoiceGroups.Core.Web/Models/NavigationNode.cs" timestamp="1537213356802">
+        <mark key="[" line="34" column="32" />
+        <mark key="]" line="34" column="32" />
+        <mark key="^" line="34" column="32" />
+        <mark key="." line="34" column="32" />
+      </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/BudgetAccountController.cs" timestamp="1534966995033">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="29" column="8" />
@@ -307,6 +313,7 @@
         <mark key="." line="52" column="25" />
         <mark key="^" line="52" column="25" />
       </file>
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/Core/StudentVoiceGroups.Core.Web/Helpers/BinaryPermissionHelper.cs" timestamp="1537214236204" />
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/ReviewsController.cs" timestamp="1535654756593">
         <mark key="'" line="23" column="6" />
         <mark key="[" line="31" column="0" />
@@ -326,7 +333,7 @@
         <mark key="." line="21" column="239" />
         <mark key="^" line="21" column="239" />
       </file>
-      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/Core/StudentVoiceGroups.Core.Web/Models/SiteNavigation/ControllerType.cs" timestamp="1537212853935">
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/Core/StudentVoiceGroups.Core.Web/Models/SiteNavigation/ControllerType.cs" timestamp="1537213565723">
         <mark key="[" line="122" column="54" />
         <mark key="]" line="122" column="59" />
         <mark key="." line="122" column="59" />
@@ -693,12 +700,12 @@
         <mark key="^" line="164" column="69" />
         <mark key="." line="164" column="69" />
       </file>
-      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/Core/StudentVoiceGroups.Core.Web/Models/OrgNavigationViewModel.cs" timestamp="1537212787366">
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/Core/StudentVoiceGroups.Core.Web/Models/OrgNavigationViewModel.cs" timestamp="1537213786973">
         <mark key="'" line="34" column="92" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
-        <mark key="^" line="145" column="70" />
+        <mark key="[" line="146" column="56" />
+        <mark key="]" line="146" column="77" />
+        <mark key="." line="146" column="77" />
+        <mark key="^" line="146" column="77" />
       </file>
       <file name="$USER_HOME$/Code/ReportBlobber/ReportBlobber/Models/DataTransferObjects/Answer.cs" timestamp="1531159150212">
         <mark key="[" line="34" column="24" />
@@ -975,7 +982,9 @@
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/CustomizationController.cs" timestamp="1536942647031">
         <mark key="'" line="122" column="30" />
       </file>
-      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/Core/StudentVoiceGroups.Core/ProductConstants.cs" timestamp="1537211235219" />
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/Core/StudentVoiceGroups.Core/ProductConstants.cs" timestamp="1537214332216">
+        <mark key="[" line="2" column="40" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/OrganizationAreaRegistration.cs" timestamp="1536683051153">
         <mark key="[" line="46" column="51" />
         <mark key="]" line="46" column="55" />
@@ -1179,16 +1188,16 @@
         <text>dwhxxxxxn</text>
       </register>
       <register name="&quot;" type="4">
-        <text>purchaserequest</text>
+        <text>FundingRequest</text>
       </register>
       <register name="-" type="4">
-        <text>purchaserequest</text>
+        <text>FundingRequest</text>
       </register>
       <register name="/" type="4">
         <text>Budget</text>
       </register>
       <register name="0" type="4">
-        <text>budgetingrequest</text>
+        <text>BudgetingRequest</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBJblNpdGVNYXBPbmx5TmF2aWdhdGlvbk5vZGUoRmluYW5jZS5GdW5kaW5nUmVxdWVzdCwgRmluYW5jZS5Db250cm9sbGVyLCBPcmdhbml6YXRpb25Sb3V0ZSksCg==</text>
