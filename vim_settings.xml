@@ -9,13 +9,6 @@
         <mark key="^" line="134" column="15" />
         <mark key="." line="130" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/templates/reviews.html" timestamp="1537381755152">
-        <mark key="'" line="65" column="37" />
-        <mark key="[" line="93" column="65" />
-        <mark key="]" line="93" column="65" />
-        <mark key="." line="93" column="65" />
-        <mark key="^" line="93" column="73" />
-      </file>
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/Core/StudentVoiceGroups.Core.Web/Models/NavigationNode.cs" timestamp="1537298749977">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -99,6 +92,12 @@
       </file>
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Group.cs" timestamp="1537286202076">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Areas/Reviews/Views/Home/Index.cshtml" timestamp="1537381931145">
+        <mark key="[" line="3" column="47" />
+        <mark key="]" line="3" column="63" />
+        <mark key="^" line="3" column="63" />
+        <mark key="." line="3" column="63" />
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Models/Types/GroupTypeModel.cs" timestamp="1537286288966">
         <mark key="[" line="37" column="30" />
@@ -220,7 +219,7 @@
         <text encoding="base64">IFRPRU5BSUxT</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbmdhZ2VBcGlSb290XD4=</text>
+        <text>To Review</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzY29wZS5vcmdhbml6YXRpb25LZXkgPSAod2luZG93LmVuZ2FnZS5vcmdhbml6YXRpb25LZXkpID8gd2luZG93LmVuZ2FnZS5vcmdhbml6YXRpb25LZXkgOiAnJzsK</text>
@@ -257,17 +256,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbmdhZ2VBcGlSb290XD4=</last-search>
+      <last-search>To Review</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbmdhZ2VBcGlSb290XD4=</last-pattern>
+      <last-pattern>To Review</last-pattern>
       <last-replace>DbSubmission</last-replace>
       <last-substitute>DbTestTable</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ShowOff</entry>
         <entry>udget</entry>
         <entry>BUDGET</entry>
         <entry>Budget</entry>
@@ -287,6 +285,7 @@
         <entry>Dashboard</entry>
         <entry>root</entry>
         <entry encoding="base64">XDxlbmdhZ2VBcGlSb290XD4=</entry>
+        <entry>To Review</entry>
       </history-search>
       <history-cmd>
         <entry>%s/test/reviews/g</entry>
