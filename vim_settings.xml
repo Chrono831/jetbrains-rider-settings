@@ -80,7 +80,10 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="22" column="121" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/Index.aspx" timestamp="1537467942486" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5A7D9AFD-C687-4113-A5DB-BD42416648E5/0f/ddc29744/CommunityConfiguration.cs" timestamp="1537468464377">
+        <mark key="'" line="102" column="24" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/Index.aspx" timestamp="1537468707456" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions/submissions.page.controllers.js" timestamp="1537450394780">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="99" />
@@ -138,24 +141,22 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" timestamp="1537468298590" />
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" timestamp="1537468674534" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Areas/Reviews/Views/Home/Index.cshtml" timestamp="1537448605493">
         <mark key="[" line="15" column="33" />
         <mark key="]" line="15" column="38" />
         <mark key="^" line="15" column="38" />
         <mark key="." line="15" column="38" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Models/Finance/FinanceIndexModel.cs" timestamp="1537468013639" />
       <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Models/Types/GroupTypeModel.cs" timestamp="1537286288966">
         <mark key="[" line="37" column="30" />
         <mark key="]" line="37" column="31" />
         <mark key="." line="37" column="31" />
         <mark key="^" line="37" column="32" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5A7D9AFD-C687-4113-A5DB-BD42416648E5/fc/620823a1/FeatureRoles.cs" timestamp="1537468482782" />
     </filemarks>
     <jumps>
-      <jump line="44" column="25" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/Core/StudentVoiceGroups.Core.Web/Models/NavigationNode.cs" />
-      <jump line="40" column="18" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/Core/StudentVoiceGroups.Core.Web/Models/NavigationNode.cs" />
       <jump line="39" column="40" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/Core/StudentVoiceGroups.Core.Web/Models/NavigationNode.cs" />
       <jump line="83" column="44" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Automaps/GroupMaps.cs" />
       <jump line="87" column="67" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Automaps/GroupMaps.cs" />
@@ -254,6 +255,8 @@
       <jump line="166" column="21" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/AssetManager/javascript.json" />
       <jump line="167" column="21" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/AssetManager/javascript.json" />
       <jump line="345" column="13" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
+      <jump line="2" column="40" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5A7D9AFD-C687-4113-A5DB-BD42416648E5/0f/ddc29744/CommunityConfiguration.cs" />
+      <jump line="102" column="24" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5A7D9AFD-C687-4113-A5DB-BD42416648E5/0f/ddc29744/CommunityConfiguration.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -266,7 +269,7 @@
         <text>EngageHelper</text>
       </register>
       <register name="/" type="4">
-        <text>reviews</text>
+        <text>Budgeting</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgc2NvcGUub3JnYW5pemF0aW9uS2V5ID0gKHdpbmRvdy5lbmdhZ2Uub3JnYW5pemF0aW9uS2V5KSA/IHdpbmRvdy5lbmdhZ2Uub3JnYW5pemF0aW9uS2V5IDogJyc7Cg==</text>
@@ -303,9 +306,9 @@
       </register>
     </registers>
     <search>
-      <last-search>reviews</last-search>
+      <last-search>Budgeting</last-search>
       <last-offset />
-      <last-pattern>reviews</last-pattern>
+      <last-pattern>Budgeting</last-pattern>
       <last-replace>DbSubmission</last-replace>
       <last-substitute>DbTestTable</last-substitute>
       <last-dir>1</last-dir>
@@ -313,7 +316,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZmVhdHVyZVJvbGVzXD4=</entry>
         <entry>GroupType</entry>
         <entry encoding="base64">XDxfZ3JvdXBUeXBlU2VydmljZVw+</entry>
         <entry>eature</entry>
@@ -333,6 +335,7 @@
         <entry>campuslabs</entry>
         <entry>api</entry>
         <entry>reviews</entry>
+        <entry>Budgeting</entry>
       </history-search>
       <history-cmd>
         <entry>%s/DbSubmission/DbTestTable/g</entry>
