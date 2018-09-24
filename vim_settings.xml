@@ -77,11 +77,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" timestamp="1537811048886">
-        <mark key="[" line="169" column="15" />
-        <mark key="]" line="169" column="28" />
-        <mark key="." line="169" column="28" />
-        <mark key="^" line="169" column="28" />
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" timestamp="1537815651748">
+        <mark key="[" line="162" column="32" />
+        <mark key="]" line="163" column="5" />
+        <mark key="^" line="163" column="5" />
+        <mark key="." line="163" column="5" />
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/QuestionFileUpload.ascx" timestamp="1537801707100">
         <mark key="[" line="35" column="14" />
@@ -158,6 +158,10 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="42" column="8" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Helpers/FlashHelpers.cs" timestamp="1537813976110">
+        <mark key="[" line="31" column="26" />
+        <mark key="]" line="33" column="36" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Web/AssetManager/AssetManager.cs" timestamp="1537548590691">
         <mark key="[" line="85" column="22" />
         <mark key="]" line="85" column="23" />
@@ -206,12 +210,12 @@
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.config" timestamp="1537445498043">
         <mark key="'" line="22" column="77" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" timestamp="1537811198315">
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" timestamp="1537813715941">
         <mark key="'" line="82" column="13" />
-        <mark key="[" line="253" column="78" />
-        <mark key="]" line="254" column="28" />
-        <mark key="^" line="254" column="28" />
-        <mark key="." line="254" column="28" />
+        <mark key="[" line="275" column="0" />
+        <mark key="]" line="275" column="94" />
+        <mark key="^" line="254" column="46" />
+        <mark key="." line="254" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8E7225DC-9702-48A3-9546-4AE38D69DF2E/f1/ae795ba2/BaseViewModel.cs" timestamp="1537538809929">
         <mark key="'" line="122" column="16" />
@@ -341,44 +345,44 @@
       <register name="a" type="4">
         <text>dwhxxxxxn</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;Finance/PurchaseRequestIsValid&quot;,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;Finance/PurchaseRequestIsValid&quot;,</text>
+        <text>form</text>
       </register>
       <register name="/" type="4">
         <text>submit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbCBQdXJjaGFzZVJlcXVlc3RJc1ZhbGlkKENyZWF0ZVB1cmNoYXNlUmVxdWVzdE1vZGVsIG1vZGVsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzdWJtaXRGb3JtKGUsIHB1cmNoYXNlUmVxdWVzdEZvcm0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAoQ3JlYXRlUHVyY2hhc2VSZXF1ZXN0TW9kZWwgbW9kZWwpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLmZvcm0uc3VibWl0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZ1bmN0aW9uKGRhdGEpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb3JlLmJsb2NrZXIuYmxvY2soJCgnI2ZpbmFuY2VfZm9ybScpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLmRpc2FibGVkID0gJ2Rpc2FibGVkJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN1Y2Nlc3M6IChmdW5jdGlvbihkYXRhKSB7fSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLmZvcm0uc3VibWl0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICQoIiNmaW5hbmNlX2Zvcm0iKS5zZXJpYWxpemUoKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb3JlLmJsb2NrZXIuYmxvY2soJCgnI2ZpbmFuY2VfZm9ybScpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICJGaW5hbmNlL1B1cmNoYXNlUmVxdWVzdElzVmFsaWQiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLmRpc2FibGVkID0gJ2Rpc2FibGVkJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
