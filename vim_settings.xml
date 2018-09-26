@@ -104,6 +104,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="12" column="15" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/OrganizationsController.cs" timestamp="1537964550181" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Controllers/BaseController.cs" timestamp="1537548330055">
         <mark key="[" line="13" column="111" />
         <mark key="]" line="13" column="111" />
@@ -138,11 +139,10 @@
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/packages.config" timestamp="1537445153309">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/README.md" timestamp="1537902457896">
-        <mark key="'" line="10" column="1" />
+      <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/README.md" timestamp="1537964680821">
+        <mark key="'" line="9" column="1" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="132" />
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.services.js" timestamp="1537449638994">
@@ -225,7 +225,7 @@
         <mark key="." line="188" column="19" />
         <mark key="^" line="188" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537908919519">
+      <file name="/Dummy.txt" timestamp="1537964692989">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Views/Positions/EditTemplate.cshtml" timestamp="1537301953751">
@@ -416,7 +416,7 @@
         <text>dwhxxxxxn</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxDb250ZW50IEluY2x1ZGU9IkFyZWFzXEFkbWluXFZpZXdzXFN5c3RlbVxNYW5hZ2VDb21tdW5pdHlDb25maWd1cmF0aW9uLmFzcHgiIC8+Cg==</text>
+        <text encoding="base64">KkRvIE5vdCogdXNlIHRoZSBgY3JlYXRlY29tbXVuaXR5YCwgYG1hbmFnZWNvbW11bml0eWNvbmZpZ3VyYXRpb25gIHBhZ2VzIGluIHRoaXMgcmVwbywgdGhleSBhcmUgZGVhZC4gc2VlIGBBcHAuQWRtaW5gIGZvciB0aG9zZSBwYWdlcwo=</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -428,16 +428,16 @@
         <text encoding="base64">YGh0dHBzOi8vbG9jYWxob3N0L2JyYW5jaC9icmFuY2gvYWRtaW4vc3lzdGVtL21hbmFnZWNvbW11bml0eWNvbmZpZ3VyYXRpb25gIC0gRWRpdCBjb21tdW5pdHkgc2V0dGluZ3MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxDb250ZW50IEluY2x1ZGU9IkFyZWFzXEFkbWluXFZpZXdzXFN5c3RlbVxNYW5hZ2VDb21tdW5pdHlDb25maWd1cmF0aW9uLmFzcHgiIC8+Cg==</text>
+        <text encoding="base64">KkRvIE5vdCogdXNlIHRoZSBgY3JlYXRlY29tbXVuaXR5YCwgYG1hbmFnZWNvbW11bml0eWNvbmZpZ3VyYXRpb25gIHBhZ2VzIGluIHRoaXMgcmVwbywgdGhleSBhcmUgZGVhZC4gc2VlIGBBcHAuQWRtaW5gIGZvciB0aG9zZSBwYWdlcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxDb250ZW50IEluY2x1ZGU9IkFyZWFzXEFkbWluXFZpZXdzXFN5c3RlbVxDcmVhdGVDb21tdW5pdHkuYXNweCIgLz4K</text>
+        <text encoding="base64">ICAgIDxDb250ZW50IEluY2x1ZGU9IkFyZWFzXEFkbWluXFZpZXdzXFN5c3RlbVxNYW5hZ2VDb21tdW5pdHlDb25maWd1cmF0aW9uLmFzcHgiIC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CVtBbGxvd0Fub255bW91c10K</text>
+        <text encoding="base64">ICAgIDxDb250ZW50IEluY2x1ZGU9IkFyZWFzXEFkbWluXFZpZXdzXFN5c3RlbVxDcmVhdGVDb21tdW5pdHkuYXNweCIgLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CVtBbGxvd0Fub255bW91c10K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -446,16 +446,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YGh0dHBzOi8vbG9jYWxob3N0L2JyYW5jaC9icmFuY2gvYWRtaW4vc3lzdGVtL2NyZWF0ZWNvbW11bml0eWAgLSBjcmVhdGUgbmV3IGNvbW11bml0eQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">YGh0dHBzOi8vbG9jYWxob3N0L2JyYW5jaC9icmFuY2gvYWRtaW4vc3lzdGVtL21hbmFnZWNvbW11bml0eWNvbmZpZ3VyYXRpb25gIC0gRWRpdCBjb21tdW5pdHkgc2V0dGluZ3MK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">YGh0dHBzOi8vbG9jYWxob3N0L2JyYW5jaC9icmFuY2gvYWRtaW4vc3lzdGVtL2NyZWF0ZWNvbW11bml0eWAgLSBjcmVhdGUgbmV3IGNvbW11bml0eQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">YGh0dHBzOi8vbG9jYWxob3N0L2JyYW5jaC9icmFuY2gvYWRtaW4vc3lzdGVtL21hbmFnZWNvbW11bml0eWNvbmZpZ3VyYXRpb25gIC0gRWRpdCBjb21tdW5pdHkgc2V0dGluZ3MK</text>
+      </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -509,8 +509,8 @@
         <entry>$</entry>
         <entry>997</entry>
         <entry>w</entry>
-        <entry>wq</entry>
         <entry>q</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
