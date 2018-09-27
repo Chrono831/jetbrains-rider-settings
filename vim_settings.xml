@@ -192,14 +192,20 @@
         <mark key="^" line="22" column="85" />
         <mark key="." line="22" column="85" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Startup.cs" timestamp="1538070878487">
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Startup.cs" timestamp="1538072823978">
         <mark key="'" line="100" column="20" />
-        <mark key="[" line="109" column="25" />
-        <mark key="]" line="109" column="25" />
-        <mark key="." line="109" column="25" />
-        <mark key="^" line="113" column="9" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="64" column="28" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.News/src/Pillar.News.Data/SecurityFilters/ArticleSecurityFilter.cs" timestamp="1538070031389" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/ControllerBase.cs" timestamp="1538072598912">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="12" />
+        <mark key="^" line="28" column="62" />
+        <mark key="." line="29" column="12" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD50A3F8-E2D6-41D0-98BF-5FB92B597C6D/e8/b8c33d64/Group.cs" timestamp="1537209012498">
         <mark key="'" line="231" column="154" />
       </file>
@@ -266,11 +272,12 @@
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FormsController.cs" timestamp="1537893472263">
         <mark key="'" line="288" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Repositories/ReviewsRepository.cs" timestamp="1538070764698">
-        <mark key="'" line="18" column="40" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Repositories/ReviewsRepository.cs" timestamp="1538073297005">
+        <mark key="'" line="19" column="32" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="19" column="39" />
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" timestamp="1537880444815">
         <mark key="[" line="190" column="8" />
@@ -348,7 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="45" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Controllers/Base/BaseController.cs" />
       <jump line="283" column="46" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Controllers/Base/BaseController.cs" />
       <jump line="282" column="54" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Controllers/Base/BaseController.cs" />
       <jump line="281" column="48" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Controllers/Base/BaseController.cs" />
@@ -448,46 +454,47 @@
       <jump line="69" column="25" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Startup.cs" />
       <jump line="113" column="20" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Startup.cs" />
       <jump line="100" column="20" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Startup.cs" />
+      <jump line="19" column="32" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Repositories/ReviewsRepository.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwhxxxxxn</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJc0RldmVsb3BtZW50XD4=</text>
+        <text encoding="base64">XDxfZW5nYWdlVXNlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFjY291bnRHdWlkID0gc2VhcmNoUGFyYW1ldGVycy5BY2NvdW50SWQuVmFsdWU7IF9lbmdhZ2VVc2VyLklzSW1wZXJzb25hdGluZyA/IF9lbmdhZ2VVc2VyLlZpZXdpbmdBc0lkIDogX2VuZ2FnZVVzZXIuSWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChlbmdhZ2VVc2VyLlRlbmFudD8uVmlld2luZ0FzSWQgIT0gbnVsbCkgewogICAgICAgICAgICBtZXNzYWdlLkhlYWRlcnNbIkFjY291bnRJZCJdID0gZW5nYWdlVXNlci5UZW5hbnQuVmlld2luZ0FzSWQuVG9TdHJpbmcoKTsKICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgX2VuZ2FnZVVzZXIgPSBuZXcgRW5nYWdlVXNlcigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYXBwLlVzZUF1dGhlbnRpY2F0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgRW5nYWdlVXNlciAgZW5nYWdlVXNlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZUF1dGhlbnRpY2F0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgX2VuZ2FnZVVzZXIgPSBlbmdhZ2VVc2VyOwogICAgICBfZW5nYWdlVXNlciA9IG5ldyBFbmdhZ2VVc2VyKCB7CiAgICAgICAgCiAgICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFtBcGlDb250cm9sbGVyXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGVuZ2FnZVVzZXIgPSBSZXF1ZXN0Lkh0dHBDb250ZXh0LlJlcXVlc3RTZXJ2aWNlcy5HZXRTZXJ2aWNlPElUZW5hbnQ8RW5nYWdlVXNlcj4+KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBbQXBpQ29udHJvbGxlcl0K</text>
+        <text encoding="base64">ICAgICAgICAgIF9lbnYuSXNQcm9kdWN0aW9uKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBbQXV0aG9yaXplXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBbQWxsb3dBbm9ueW1vdXNdCg==</text>
+        <text encoding="base64">ICAgICAgICAgIF9jb25maWcuCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -497,9 +504,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJc0RldmVsb3BtZW50XD4=</last-search>
+      <last-search encoding="base64">XDxfZW5nYWdlVXNlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJc0RldmVsb3BtZW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfZW5nYWdlVXNlclw+</last-pattern>
       <last-replace>LinkLocal</last-replace>
       <last-substitute>Link</last-substitute>
       <last-dir>-1</last-dir>
@@ -507,7 +514,6 @@
     </search>
     <history>
       <history-search>
-        <entry>false</entry>
         <entry>Launch</entry>
         <entry>LDark</entry>
         <entry>arkly</entry>
@@ -527,6 +533,7 @@
         <entry encoding="base64">XDxfaW5zdGl0dXRpb25cPg==</entry>
         <entry>Institution</entry>
         <entry encoding="base64">XDxJc0RldmVsb3BtZW50XD4=</entry>
+        <entry encoding="base64">XDxfZW5nYWdlVXNlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>88</entry>
