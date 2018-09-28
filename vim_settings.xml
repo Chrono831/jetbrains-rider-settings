@@ -195,6 +195,13 @@
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Global.asax.cs" timestamp="1538151513420">
+        <mark key="'" line="83" column="24" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.router.js" timestamp="1537449125408">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="2" column="28" />
@@ -247,7 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="298" column="32" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Controllers/Base/BaseController.cs" />
       <jump line="295" column="50" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Controllers/Base/BaseController.cs" />
       <jump line="292" column="54" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Controllers/Base/BaseController.cs" />
       <jump line="291" column="58" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Controllers/Base/BaseController.cs" />
@@ -347,6 +353,7 @@
       <jump line="44" column="23" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/Core/StudentVoiceGroups.Core.Web/Models/NavigationNode.cs" />
       <jump line="19" column="35" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/Core/StudentVoiceGroups.Core.Web/Models/NavigationNode.cs" />
       <jump line="26" column="51" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
+      <jump line="83" column="24" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Global.asax.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -359,7 +366,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZGFvXD4=</text>
+        <text>Profiler</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaWYgKHNlYXJjaFBhcmFtZXRlcnMuSWQuSGFzVmFsdWUpIHsKICAgICAgICBxdWVyeWFibGUgPSBxdWVyeWFibGUuV2hlcmUocyA9PiBzLklkID09IHNlYXJjaFBhcmFtZXRlcnMuSWQuVmFsdWUpOwogICAgICB9Cg==</text>
@@ -396,18 +403,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZGFvXD4=</last-search>
+      <last-search>Profiler</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZGFvXD4=</last-pattern>
+      <last-pattern>Profiler</last-pattern>
       <last-replace>LinkLocal</last-replace>
       <last-substitute>Link</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Budgeting</entry>
-        <entry>false</entry>
         <entry>Launch</entry>
         <entry>LDark</entry>
         <entry>arkly</entry>
@@ -426,6 +431,8 @@
         <entry>Budget</entry>
         <entry encoding="base64">XDxfZmVhdHVyZVJvbGVzXD4=</entry>
         <entry encoding="base64">XDxfZGFvXD4=</entry>
+        <entry encoding="base64">XDxOSGliZXJuYXRlUHJvZmlsZXJcPg==</entry>
+        <entry>Profiler</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
