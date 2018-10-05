@@ -190,6 +190,9 @@
         <mark key="^" line="13" column="57" />
         <mark key="." line="13" column="57" />
       </file>
+      <file name="$USER_HOME$/Code/App.CC.Home/src/App.CC.Home/wwwroot/assets/client.js" timestamp="1538748822736">
+        <mark key="'" line="170499" column="276" />
+      </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Services/ReviewersService.cs" timestamp="1538743376380">
         <mark key="[" line="24" column="42" />
         <mark key="]" line="24" column="46" />
@@ -364,6 +367,9 @@
         <mark key="[" line="151" column="0" />
         <mark key="]" line="151" column="82" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1538150412480">
+        <mark key="'" line="26" column="51" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Submissions/App.Submissions/Controllers/Base/BaseController.cs" timestamp="1538574584448">
         <mark key="[" line="31" column="4" />
         <mark key="]" line="31" column="18" />
@@ -502,8 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="16" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/SystemController.cs" />
-      <jump line="9" column="26" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Controllers/Base/BaseConfigurationController.cs" />
       <jump line="39" column="24" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Controllers/Base/BaseController.cs" />
       <jump line="313" column="12" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/SystemController.cs" />
       <jump line="8" column="1" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/README.md" />
@@ -602,6 +606,8 @@
       <jump line="11" column="6" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/ServiceBus/MessageSender.cs" />
       <jump line="17" column="44" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/ServiceBus/MessageSender.cs" />
       <jump line="24" column="56" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/ServiceBus/MessageSender.cs" />
+      <jump line="82471" column="44" filename="$USER_HOME$/Code/App.CC.Home/src/App.CC.Home/wwwroot/assets/client.js" />
+      <jump line="170499" column="276" filename="$USER_HOME$/Code/App.CC.Home/src/App.CC.Home/wwwroot/assets/client.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -614,7 +620,7 @@
         <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>SbMe</text>
+        <text encoding="base64">XDxGb3Jtc1w+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICBbUm91dGUoInJldmlld3MiKV0KICAgICAgICBbUHJvZHVjZXNSZXNwb25zZVR5cGUodHlwZW9mKFBhZ2VkUmVzdWx0PFJldmlld3NEb21haW5Nb2RlbD4pLCAyMDApXQogICAgICAgIHB1YmxpYyBhc3luYyBUYXNrPElBY3Rpb25SZXN1bHQ+IEdldFJldmlld3MoUmV2aWV3c1NlYXJjaFBhcmFtZXRlcnMgc2VhcmNoUGFyYW1ldGVycykKICAgICAgICB7CiAgICAgICAgICAgIHNlYXJjaFBhcmFtZXRlcnMuQWNjb3VudElkID0gX3VzZXIuVmlld2luZ0FzSWQ7CgogICAgICAgICAgICB2YXIgc3VibWlzc2lvbnMgPQogICAgICAgICAgICAgICAgYXdhaXQgX2NsaWVudC5HZXRBc3luYzxQYWdlZFJlc3VsdDxSZXZpZXdzRG9tYWluTW9kZWw+PigiYnVkZ2V0aW5nL3Jldmlld3MiLCBzZWFyY2hQYXJhbWV0ZXJzKTsKCiAgICAgICAgICAgIHJldHVybiBPayhzdWJtaXNzaW9ucyk7CiAgICAgICAgfQ==</text>
@@ -651,17 +657,16 @@
       </register>
     </registers>
     <search>
-      <last-search>SbMe</last-search>
+      <last-search encoding="base64">XDxGb3Jtc1w+</last-search>
       <last-offset />
-      <last-pattern>SbMe</last-pattern>
+      <last-pattern encoding="base64">XDxGb3Jtc1w+</last-pattern>
       <last-replace>ReviewersDoma</last-replace>
       <last-substitute>ReviewsDoma</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>udget</entry>
         <entry>Budget</entry>
         <entry encoding="base64">XDxfZmVhdHVyZVJvbGVzXD4=</entry>
         <entry encoding="base64">XDxfZGFvXD4=</entry>
@@ -681,6 +686,7 @@
         <entry encoding="base64">XDxwcmpcPg==</entry>
         <entry encoding="base64">XDxHZXRRdWVyeWFibGVcPg==</entry>
         <entry>SbMe</entry>
+        <entry encoding="base64">XDxGb3Jtc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>37</entry>
