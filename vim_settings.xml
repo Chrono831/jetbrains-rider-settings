@@ -24,9 +24,6 @@
         <mark key="." line="17" column="1" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/StatusType.cs" timestamp="1539092128633" />
-      <file name="/Dummy.cs" timestamp="1538582372605">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" timestamp="1539090989074" />
       <file name="$USER_HOME$/source/repos/App.Submissions/App.Submissions/CoreRegistry.cs" timestamp="1538592061782">
         <mark key="[" line="59" column="0" />
@@ -94,13 +91,6 @@
         <mark key="^" line="85" column="100" />
         <mark key="." line="85" column="100" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Global.asax.cs" timestamp="1539179952086">
-        <mark key="'" line="21" column="43" />
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="21" column="44" />
-        <mark key="." line="21" column="44" />
-        <mark key="^" line="21" column="44" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/campuslabs.settings.process.templates.js" timestamp="1538163657860">
         <mark key="[" line="3" column="43" />
         <mark key="]" line="3" column="45" />
@@ -112,6 +102,9 @@
         <mark key="]" line="42" column="7" />
         <mark key="." line="42" column="7" />
         <mark key="^" line="42" column="7" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.csproj" timestamp="1539184606728">
+        <mark key="'" line="30" column="13" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Core/EngageHelper.cs" timestamp="1537471756328">
         <mark key="[" line="7" column="0" />
@@ -480,9 +473,6 @@
         <mark key="^" line="11" column="134" />
         <mark key="." line="11" column="134" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/angularUi.js" timestamp="1539025771116">
-        <mark key="[" line="20" column="4" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/FinanceApiBootstrap.cs" timestamp="1538162523367">
         <mark key="[" line="121" column="0" />
         <mark key="]" line="121" column="0" />
@@ -490,13 +480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="12" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
-      <jump line="64" column="63" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
-      <jump line="211" column="14" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
-      <jump line="210" column="14" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
-      <jump line="190" column="16" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
-      <jump line="220" column="6" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
-      <jump line="185" column="15" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
       <jump line="197" column="17" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
       <jump line="71" column="67" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
       <jump line="193" column="17" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
@@ -590,6 +573,13 @@
       <jump line="87" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Global.asax.cs" />
       <jump line="33" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Global.asax.cs" />
       <jump line="21" column="43" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Global.asax.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.csproj" />
+      <jump line="17" column="29" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.csproj" />
+      <jump line="18" column="5" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.csproj" />
+      <jump line="19" column="5" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.csproj" />
+      <jump line="20" column="5" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.csproj" />
+      <jump line="21" column="5" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.csproj" />
+      <jump line="30" column="13" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.csproj" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -602,7 +592,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoZWFsdGhjaGVja1w+</text>
+        <text>IIS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxjdXN0b21FcnJvcnMgeGR0OlRyYW5zZm9ybT0iU2V0QXR0cmlidXRlcyIgbW9kZT0iT24iIC8+Cg==</text>
@@ -635,21 +625,20 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vaWYgcmVxdWVzdC51cmwgZW5kcyB3aXRoICJzdGF0dXMiLCBkb24ndCBnbyB0byBkYXRhYmFzZSAvCg==</text>
       </register>
       <register name=":" type="4">
-        <text>55</text>
+        <text>64</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoZWFsdGhjaGVja1w+</last-search>
+      <last-search>IIS</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoZWFsdGhjaGVja1w+</last-pattern>
+      <last-pattern>IIS</last-pattern>
       <last-replace>diiiiiv</last-replace>
       <last-substitute>div</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBY2NvdW50SWRcPg==</entry>
         <entry encoding="base64">XDxTdWJqZWN0XD4=</entry>
         <entry encoding="base64">XDxDb21tdW5pdHlBdXRob3JpemVcPg==</entry>
         <entry encoding="base64">XDxfbGRDbGllbnRcPg==</entry>
@@ -669,9 +658,9 @@
         <entry encoding="base64">XDxwcm9jZXNzU2VydmljZVw+</entry>
         <entry encoding="base64">XDxCdWRnZXRpbmdFbmFibGVkXD4=</entry>
         <entry encoding="base64">XDxoZWFsdGhjaGVja1w+</entry>
+        <entry>IIS</entry>
       </history-search>
       <history-cmd>
-        <entry>217</entry>
         <entry>58</entry>
         <entry>5</entry>
         <entry>%s/[Commun/[AllowAnonymous]/[Commun/g</entry>
@@ -691,6 +680,7 @@
         <entry>34</entry>
         <entry>w</entry>
         <entry>55</entry>
+        <entry>64</entry>
       </history-cmd>
       <history-expr />
       <history-input />
