@@ -33,11 +33,12 @@
         <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.personal/submissions.personal.controllers.js" timestamp="1539778549802">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="2" column="35" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.personal/submissions.personal.controllers.js" timestamp="1539805400061">
+        <mark key="'" line="18" column="47" />
+        <mark key="[" line="316" column="4" />
+        <mark key="]" line="316" column="4" />
+        <mark key="." line="316" column="4" />
+        <mark key="^" line="316" column="5" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/campuslabs.support.user.templates.js" timestamp="1539720951300">
         <mark key="[" line="6" column="0" />
@@ -282,7 +283,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.personal/templates/mySubmissions.html" timestamp="1539794512505">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.personal/templates/mySubmissions.html" timestamp="1539804765463">
         <mark key="]" line="1" column="24" />
         <mark key="^" line="1" column="24" />
         <mark key="." line="1" column="24" />
@@ -545,12 +546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" />
-      <jump line="78" column="33" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" />
-      <jump line="101" column="37" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/AssetManager/javascript.json" />
-      <jump line="106" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/AssetManager/javascript.json" />
-      <jump line="113" column="17" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/AssetManager/javascript.json" />
-      <jump line="115" column="34" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/AssetManager/javascript.json" />
       <jump line="117" column="38" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/AssetManager/javascript.json" />
       <jump line="118" column="13" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/AssetManager/javascript.json" />
       <jump line="150" column="15" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/AssetManager/javascript.json" />
@@ -645,22 +640,28 @@
       <jump line="98" column="9" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.personal/templates/processes.html" />
       <jump line="97" column="44" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.personal/templates/processes.html" />
       <jump line="96" column="109" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.personal/templates/processes.html" />
+      <jump line="123" column="15" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.personal/submissions.personal.controllers.js" />
+      <jump line="129" column="31" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.personal/submissions.personal.controllers.js" />
+      <jump line="127" column="31" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.personal/submissions.personal.controllers.js" />
+      <jump line="22" column="25" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.personal/submissions.personal.controllers.js" />
+      <jump line="19" column="49" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.personal/submissions.personal.controllers.js" />
+      <jump line="18" column="47" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.personal/submissions.personal.controllers.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwhxxxxxn</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Request</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Request</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>ancel</text>
+        <text encoding="base64">XDx0YWJOYW1lc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PGgxPkNyZWF0ZSBOZXcgUmVxdWVzdDwvaDE+Cg==</text>
+        <text encoding="base64">ICAgICAgICBzY29wZS5jdXJyZW50VGFiID0gc3VibWlzc2lvbk93bmVyOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIHJlZGlyZWN0VG86ICJteVN1Ym1pc3Npb25zIiwK</text>
@@ -694,19 +695,16 @@
       </register>
     </registers>
     <search>
-      <last-search>ancel</last-search>
+      <last-search encoding="base64">XDx0YWJOYW1lc1w+</last-search>
       <last-offset />
-      <last-pattern>ancel</last-pattern>
+      <last-pattern encoding="base64">XDx0YWJOYW1lc1w+</last-pattern>
       <last-replace>diiiiiv</last-replace>
       <last-substitute>div</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzeW5jaHJvbm91c1Rhc2tzXD4=</entry>
-        <entry encoding="base64">XDxnZXRUZW1wbGF0ZVw+</entry>
-        <entry encoding="base64">XDxyZXF1ZXN0TmFtZUNlbGxcPg==</entry>
         <entry encoding="base64">XDxzZWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxzZWN0aW9uc1w+</entry>
         <entry>organization.</entry>
@@ -724,6 +722,9 @@
         <entry encoding="base64">XDxocmVmXD4=</entry>
         <entry>href</entry>
         <entry>ancel</entry>
+        <entry encoding="base64">XDxFbnN1cmVPcmdPd25lZFN1Ym1pc3Npb25zXD4=</entry>
+        <entry encoding="base64">XDxzdWJtaXNzaW9uT3duZXJcPg==</entry>
+        <entry encoding="base64">XDx0YWJOYW1lc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/[Commun/[AllowAnonymous]/[Commun/g</entry>
