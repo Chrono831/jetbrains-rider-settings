@@ -52,7 +52,7 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Startup.cs" timestamp="1539884511398">
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Startup.cs" timestamp="1539890628318">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="75" column="100" />
@@ -142,6 +142,12 @@
         <mark key="^" line="129" column="26" />
         <mark key="." line="129" column="23" />
       </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/RequestSearchParameters.cs" timestamp="1539892245344">
+        <mark key="[" line="10" column="40" />
+        <mark key="]" line="10" column="40" />
+        <mark key="^" line="10" column="69" />
+        <mark key="." line="10" column="40" />
+      </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Repositories/IHealthChecksRepository.cs" timestamp="1537990032073">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -172,7 +178,7 @@
         <mark key="^" line="25" column="45" />
         <mark key="." line="10" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539885719761">
+      <file name="/Dummy.txt" timestamp="1539890583063">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Repositories/ReviewsRepository.cs" timestamp="1538757240194">
@@ -193,6 +199,11 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/HealthCheckController.cs" timestamp="1539890424759">
+        <mark key="[" line="26" column="28" />
+        <mark key="]" line="26" column="28" />
+        <mark key="." line="26" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -301,11 +312,11 @@
       <register name="a" type="4">
         <text>dwhxxxxxn</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgUGlsbGFyLkJ1ZGdldGluZy5BcGkuSGVhbHRoQ2hlY2tzOwo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>Budget</text>
@@ -314,28 +325,28 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMKICAgICAgICAgICAgICAgIC5BZGRFbmdhZ2VNdWx0aXRlbmFuY3koX2NvbmZpZykKICAgICAgICAgICAgICAgIC5BZGRRdWVyeVN0cmluZ0luc3RpdHV0aW9uTXVsdGl0ZW5hbmN5KCkKICAgICAgICAgICAgICAgIC5BZGRQaWxsYXJVc2VyTXVsdGl0ZW5hbmN5KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgUGlsbGFyLkJ1ZGdldGluZy5BcGkuSGVhbHRoQ2hlY2tzOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL3B1YmxpYyBzdHJpbmcgRGF0YVR5cGUgeyAic3VibWl0dGVkYnkiLCAiY3VycmVudHN0ZXByZXZpZXdlciJ9IAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMKICAgICAgICAgICAgICAgIC5BZGRTY29wZWQ8QnVkZ2V0QWNjb3VudENoZWNrPigpCiAgICAgICAgICAgICAgICAuQWRkSGVhbHRoQ2hlY2tzKAogICAgICAgICAgICAgICAgICAgIGNoZWNrcyA9PgogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgY2hlY2tzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuQWRkQ2hlY2s8QnVkZ2V0QWNjb3VudENoZWNrPigiQnVkZ2V0Q2hlY2siLCBUaW1lU3Bhbi5Gcm9tTWludXRlcygxKSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHN0cmluZyBNZXNzYWdlIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBSZXF1ZXN0Q29udHJvbGxlciA6IENvbnRyb2xsZXJCYXNlPFJlcXVlc3Q+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIENvbXBvc2l0ZUhlYWx0aENoZWNrUmVzdWx0IENoZWNrcyB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMKICAgICAgICAgICAgICAgIC5BZGRFbmdhZ2VNdWx0aXRlbmFuY3koX2NvbmZpZykKICAgICAgICAgICAgICAgIC5BZGRFbmdhZ2VVc2VyTXVsdGl0ZW5hbmN5KCkKICAgICAgICAgICAgICAgIC5BZGRRdWVyeVN0cmluZ0luc3RpdHV0aW9uTXVsdGl0ZW5hbmN5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2hlYWx0aENoZWNrU2VydmljZSA9IGhlYWx0aENoZWNrU2VydmljZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGhhbGxAY2FtcHVzbGFicy5jb20K</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElIZWFsdGhDaGVja1NlcnZpY2UgX2hlYWx0aENoZWNrU2VydmljZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJIZWFydGJlYXRMaXN0ZW5lciI6ICJFbmRwb2ludD1zYjovL2NvbGxlZ2lhdGVsaW5rLWRldi5zZXJ2aWNlYnVzLndpbmRvd3MubmV0LztTaGFyZWRBY2Nlc3NLZXlOYW1lPVJvb3RNYW5hZ2VTaGFyZWRBY2Nlc3NLZXk7U2hhcmVkQWNjZXNzS2V5PTlibkJLWGVWcjZIckNTUVdGV0FHZXJuWFZpSG1LMXNxYXhsY2FQYzdQM289O0VudGl0eVBhdGg9aGVhcnRiZWF0b3V0cHV0dG9waWMvc3Vic2NyaXB0aW9ucy9idWRnZXRpbmc7QW1xcExpbmtDcmVkaXQ9MyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFN0YXR1c0NvZGUoNTAwLCByZXN1bHQpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
