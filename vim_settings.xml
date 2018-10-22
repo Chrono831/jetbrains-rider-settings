@@ -65,12 +65,11 @@
         <mark key="]" line="43" column="45" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.News/src/Pillar.News.Services/Implementations/NewsArticleService.cs" timestamp="1540230606930" />
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Repositories/RequestRepository.cs" timestamp="1540237793940">
-        <mark key="'" line="168" column="41" />
-        <mark key="[" line="163" column="12" />
-        <mark key="]" line="163" column="13" />
-        <mark key="^" line="163" column="13" />
-        <mark key="." line="163" column="13" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Repositories/RequestRepository.cs" timestamp="1540239063510">
+        <mark key="[" line="190" column="12" />
+        <mark key="]" line="190" column="12" />
+        <mark key="." line="190" column="12" />
+        <mark key="^" line="37" column="47" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/FinanceApiBootstrap.cs" timestamp="1538162523367">
         <mark key="[" line="121" column="0" />
@@ -98,10 +97,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/RequestController.cs" timestamp="1540231190667">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/RequestController.cs" timestamp="1540238583563">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/RequestSearchParameters.cs" timestamp="1539973940269">
         <mark key="[" line="1" column="0" />
@@ -132,7 +131,7 @@
         <mark key="]" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539979811346">
+      <file name="/Dummy.txt" timestamp="1540238655052">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Models/Account.cs" timestamp="1538672434292">
@@ -261,35 +260,42 @@
       <register name="/" type="4">
         <text encoding="base64">XDxSZXZpZXdzUXVlcnlhYmxlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN1Ym1pc3Npb25zU3FsID0gc3VibWlzc2lvbnNRdWVyeWFibGUuVG9TcWwoKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZiAoc2VhcmNoUGFyYW1ldGVycy5Pcmdhbml6YXRpb25JZC5IYXNWYWx1ZSkKICAgICAgICAgICAgICAgIHsgLy9mb3Igb3JnIHJlcXVlc3RzIG9ubHkgc2hvdyBmb3IgdGhlIHNwZWNpZmllZCBvcmcKICAgICAgICAgICAgICAgICAgICBzdWJtaXNzaW9uc1F1ZXJ5YWJsZSA9CiAgICAgICAgICAgICAgICAgICAgICAgIHN1Ym1pc3Npb25zUXVlcnlhYmxlLldoZXJlKHggPT4geC5Pcmdhbml6YXRpb25JZCA9PSBzZWFyY2hQYXJhbWV0ZXJzLk9yZ2FuaXphdGlvbklkLlZhbHVlKTsKICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVudi4pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="4" type="4">
+        <text>_user = new PillarUser()
+            {
+                Id = new Guid(&quot;0F34CB0D-CCC0-49DD-AD7C-A1B000E982A3&quot;),
+                FirstName = &quot;fakedylan&quot;,
+                LastName = &quot;fakehall&quot;,
+                InstitutionId = 1,
+                FullPermissions = UserPermission.All
+            };</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVudi4pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3VzZXIgPSBuZXcgUGlsbGFyVXNlcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkRhdGEuRW50aXR5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkFzcE5ldENvcmUuQXV0aG9yaXphdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkFzcE5ldENvLkF1dGhvcml6YXRpb247CnVzaW5nIE1pY3Jvc29mdC5Bc3BOZXRDb3JlLk12YzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
