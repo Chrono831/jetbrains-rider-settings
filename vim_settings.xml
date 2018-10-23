@@ -190,12 +190,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Repositories/RequestRepository.cs" timestamp="1540303456358">
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Repositories/RequestRepository.cs" timestamp="1540305947713">
         <mark key="'" line="30" column="39" />
-        <mark key="[" line="136" column="67" />
-        <mark key="]" line="136" column="67" />
-        <mark key="^" line="136" column="66" />
-        <mark key="." line="136" column="67" />
+        <mark key="[" line="43" column="12" />
+        <mark key="]" line="43" column="12" />
+        <mark key="^" line="43" column="12" />
+        <mark key="." line="43" column="12" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/HealthCheckController.cs" timestamp="1540299502951">
         <mark key="[" line="15" column="0" />
@@ -319,11 +319,11 @@
       <register name="a" type="4">
         <text>dwhxxxxxn</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeyAvL2ZvciBvcmcgcmVxdWVzdHMgb25seSBzaG93IGZvciB0aGUgc3BlY2lmaWVkIG9yZwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxERVZFTE9QTUVOVFw+</text>
@@ -332,12 +332,21 @@
         <text>string.Equals(_environment, DEVELOPMENT)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyAvL2ZvciBvcmcgcmVxdWVzdHMgb25seSBzaG93IGZvciB0aGUgc3BlY2lmaWVkIG9yZwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vb25seSByZXR1cm4gc3VibWlzc2lvbnMgY3JlYXRlZCBieSB0aGUgc3BlY2lmaWVkIElkCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHF1ZXJ5YWJsZVNxbCA9IF9lbnZpcm9ubWVudC5FcXVhbHMoREVWRUxPUE1FTlQpID8gcXVlcnlhYmxlLlRvU3FsKCkgOiBzdHJpbmcuRW1wdHk7Cg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="6" type="8">
         <text>//
 //
 //
@@ -345,23 +354,14 @@
 //
 //</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKF9lbnZpcm9ubWVudC5FcXVhbHMoREVWRUxPUE1FTlQpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgcmV2aWV3c1NxbCA9IHJldmlld3NRdWVyeWFibGUuVG9TcWwoKTsKICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9lbnZpcm9ubWVudC5FcXVhbHMoREVWRUxPUE1FTlQpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgc3VibWlzc2lvbnNTcWwgPSBzdWJtaXNzaW9uc1F1ZXJ5YWJsZS5Ub1NxbCgpOwogICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9lbnZpcm9ubWVudC5FcXVhbHMoREVWRUxPUE1FTlQpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgYmFzZVNxbCA9IGJhc2VRdWVyeWFibGUuVG9TcWwoKTsKICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEVudW1lcmFibGUuLi5Bc1F1ZXJ5YWJsZSgpOyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9lbnZpcm9ubWVudC5FcXVhbHMoREVWRUxPUE1FTlQpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgc3VibWlzc2lvbnNTcWwgPSBzdWJtaXNzaW9uc1F1ZXJ5YWJsZS5Ub1NxbCgpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
