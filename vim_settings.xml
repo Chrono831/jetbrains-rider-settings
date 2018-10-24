@@ -9,7 +9,7 @@
         <mark key="." line="12" column="65" />
         <mark key="^" line="12" column="65" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.MessageHandlers/appsettings.json" timestamp="1540392206469">
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.MessageHandlers/appsettings.json" timestamp="1540408985464">
         <mark key="[" line="5" column="245" />
         <mark key="]" line="5" column="253" />
         <mark key="." line="5" column="253" />
@@ -54,11 +54,11 @@
       <file name="$USER_HOME$/Code/Pillar.News/src/Pillar.News.MessageHandlers/Handlers/Communities/CommunityMemberChangedListener.cs" timestamp="1540388677821" />
       <file name="$USER_HOME$/Code/Pillar.News/src/Pillar.News.Contracts/INewsClient.cs" timestamp="1540315546761" />
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.MessageHandlers/Handlers/Budgeting/BudgetAccountHandler.cs" timestamp="1540311761626" />
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Startup.cs" timestamp="1540385216357">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="75" column="100" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Startup.cs" timestamp="1540408897379">
+        <mark key="[" line="118" column="63" />
+        <mark key="]" line="119" column="154" />
+        <mark key="^" line="119" column="154" />
+        <mark key="." line="119" column="154" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/BudgetAccountValidator.cs" timestamp="1540311728534" />
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/Pillar.Budgeting.Data.csproj" timestamp="1540391442039">
@@ -71,7 +71,7 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="33" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540394720877">
+      <file name="/Dummy.txt" timestamp="1540409089065">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.MessageHandlers/Handlers/Communities/CommunityMemberChangedListener.cs" timestamp="1540391963076">
@@ -228,11 +228,11 @@
       <register name="a" type="4">
         <text>dwhxxxxxn</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW5zZXJ0X2ZpbmFsX25ld2xpbmUgPSB0cnVlCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PA==</text>
       </register>
       <register name="-" type="4">
-        <text>news</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbmRlbnRfc2l6ZVw+</text>
@@ -241,28 +241,28 @@
         <text encoding="base64">ICAgICJDb21tdW5pdGllc1RvcGljTGlzdGVuZXIiOiAiRW5kcG9pbnQ9c2I6Ly9jb2xsZWdpYXRlbGluay1kZXYuc2VydmljZWJ1cy53aW5kb3dzLm5ldC87U2hhcmVkQWNjZXNzS2V5TmFtZT1Sb290TWFuYWdlU2hhcmVkQWNjZXNzS2V5O1NoYXJlZEFjY2Vzc0tleT05Ym5CS1hlVnI2SHJDU1FXRldBR2VyblhWaUhtSzFzcWF4bGNhUGM3UDNvPTtFbnRpdHlQYXRoPWNvbW11bml0aWVzb3V0cHV0dG9waWMvc3Vic2NyaXB0aW9ucy9uZXdzIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW5zZXJ0X2ZpbmFsX25ld2xpbmUgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZUF1dGhlbnRpY2F0aW9uKCk7CiAgICAgICAgICAgIGFwcC5Vc2VNdWx0aXRlbmFuY3k8UGlsbGFyVXNlcj4oKTsgLy9tdXN0IGdvIGFmdGVyIGF1dGhlbnRpY2F0aW9uIGVsc2UgdXNlciB3b24ndCBiZSBhdXRoZW50aWNhdGVkIHdoZW4gaXQgdHJpZXMgdG8gcmVzb2x2ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2hhcnNldCA9IHV0Zi04LWJvbQo=</text>
+        <text encoding="base64">aW5zZXJ0X2ZpbmFsX25ld2xpbmUgPSB0cnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2hhcnNldCA9IHV0Zi04LWJvbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">W3suYmFiZWxyYywuc3R5bGVsaW50cmMsamVzdC5jb25maWcsLmVzbGludHJjLCoudXBsdWdpbiwqLmJvd2VycmMsKi5qc2IzLCouanNiMiwqLmpzb259XQppbmRlbnRfc2l6ZT0yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W3suYmFiZWxyYywuc3R5bGVsaW50cmMsamVzdC5jb25maWcsLmVzbGludHJjLCoudXBsdWdpbiwqLmJvd2VycmMsKi5qc2IzLCouanNiMiwqLmpzb259XQppbmRlbnRfc2l6ZT0yCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBEb24ndCB1c2UgdGFicyBmb3IgaW5kZW50YXRpb24uClsqXQppbmRlbnRfc3R5bGUgPSBzcGFjZQojIChQbGVhc2UgZG9uJ3Qgc3BlY2lmeSBhbiBpbmRlbnRfc2l6ZSBoZXJlOyB0aGF0IGhhcyB0b28gbWFueSB1bmludGVuZGVkIGNvbnNlcXVlbmNlcy4pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBEb24ndCB1c2UgdGFicyBmb3IgaW5kZW50YXRpb24uClsqXQppbmRlbnRfc3R5bGUgPSBzcGFjZQojIChQbGVhc2UgZG9uJ3Qgc3BlY2lmeSBhbiBpbmRlbnRfc2l6ZSBoZXJlOyB0aGF0IGhhcyB0b28gbWFueSB1bmludGVuZGVkIGNvbnNlcXVlbmNlcy4pCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
