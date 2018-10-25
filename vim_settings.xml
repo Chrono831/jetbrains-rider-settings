@@ -116,7 +116,7 @@
       <file name="vim_settings.xml" timestamp="1539696243464">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/App.CC.Home/src/App.CC.Home/Controllers/BudgetingPillarController.cs" timestamp="1540493597512">
+      <file name="$USER_HOME$/Code/App.CC.Home/src/App.CC.Home/Controllers/BudgetingPillarController.cs" timestamp="1540494116105">
         <mark key="[" line="43" column="3" />
         <mark key="]" line="43" column="3" />
         <mark key="^" line="41" column="58" />
@@ -179,8 +179,8 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/App.CC.Home/src/App.CC.Home/Startup.cs" timestamp="1540493032248">
-        <mark key="'" line="43" column="9" />
+      <file name="$USER_HOME$/Code/App.CC.Home/src/App.CC.Home/Startup.cs" timestamp="1540494239419">
+        <mark key="'" line="72" column="34" />
         <mark key="[" line="43" column="6" />
         <mark key="]" line="43" column="6" />
         <mark key="." line="43" column="6" />
@@ -226,15 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="18" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Repositories/ReviewersRepository.cs" />
-      <jump line="31" column="25" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Repositories/ReviewersRepository.cs" />
-      <jump line="43" column="62" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Repositories/ReviewersRepository.cs" />
-      <jump line="38" column="33" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Repositories/ReviewersRepository.cs" />
-      <jump line="13" column="88" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Repositories/ReviewersRepository.cs" />
-      <jump line="69" column="57" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Repositories/ReviewersRepository.cs" />
-      <jump line="50" column="74" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Repositories/ReviewersRepository.cs" />
-      <jump line="11" column="29" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/ReviewersController.cs" />
-      <jump line="51" column="10" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Repositories/ReviewersRepository.cs" />
       <jump line="52" column="40" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Repositories/ReviewersRepository.cs" />
       <jump line="44" column="10" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Repositories/ReviewersRepository.cs" />
       <jump line="47" column="13" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EF/Repositories/ReviewersRepository.cs" />
@@ -326,6 +317,15 @@
       <jump line="106" column="29" filename="$USER_HOME$/Code/App.CC.Home/src/App.CC.Home/Startup.cs" />
       <jump line="105" column="30" filename="$USER_HOME$/Code/App.CC.Home/src/App.CC.Home/Startup.cs" />
       <jump line="43" column="9" filename="$USER_HOME$/Code/App.CC.Home/src/App.CC.Home/Startup.cs" />
+      <jump line="172" column="53" filename="$USER_HOME$/Code/App.CC.Home/src/App.CC.Home/Startup.cs" />
+      <jump line="67" column="30" filename="$USER_HOME$/Code/App.CC.Home/src/App.CC.Home/Startup.cs" />
+      <jump line="178" column="52" filename="$USER_HOME$/Code/App.CC.Home/src/App.CC.Home/Startup.cs" />
+      <jump line="68" column="30" filename="$USER_HOME$/Code/App.CC.Home/src/App.CC.Home/Startup.cs" />
+      <jump line="70" column="34" filename="$USER_HOME$/Code/App.CC.Home/src/App.CC.Home/Startup.cs" />
+      <jump line="71" column="34" filename="$USER_HOME$/Code/App.CC.Home/src/App.CC.Home/Startup.cs" />
+      <jump line="179" column="52" filename="$USER_HOME$/Code/App.CC.Home/src/App.CC.Home/Startup.cs" />
+      <jump line="181" column="53" filename="$USER_HOME$/Code/App.CC.Home/src/App.CC.Home/Startup.cs" />
+      <jump line="72" column="34" filename="$USER_HOME$/Code/App.CC.Home/src/App.CC.Home/Startup.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -338,7 +338,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY29uZmlndXJhdGlvblw+</text>
+        <text>Apis:ClientKey</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">YnVkZ2V0aW5nU2VhcmNoUGFyYW1ldGVycyA=</text>
@@ -375,22 +375,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY29uZmlndXJhdGlvblw+</last-search>
+      <last-search>Apis:ClientKey</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY29uZmlndXJhdGlvblw+</last-pattern>
+      <last-pattern>Apis:ClientKey</last-pattern>
       <last-replace>diiiiiv</last-replace>
       <last-substitute>div</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNYXBcPg==</entry>
-        <entry encoding="base64">XDxBc1F1ZXJ5YWJsZVw+</entry>
-        <entry>AsQu</entry>
-        <entry encoding="base64">XDxERVZFTE9QTUVOVFw+</entry>
-        <entry encoding="base64">XDxfZW52aXJvbm1lbnRcPg==</entry>
-        <entry encoding="base64">XDxUb1NxbFw+</entry>
         <entry encoding="base64">XDxzZWFyY2hQYXJhbWV0ZXJzXD4=</entry>
         <entry encoding="base64">XDxDb25uZWN0VHlwZXNcPg==</entry>
         <entry encoding="base64">XDxiYWJlbHJjXD4=</entry>
@@ -405,6 +399,12 @@
         <entry>news</entry>
         <entry>udget</entry>
         <entry encoding="base64">XDxfY29uZmlndXJhdGlvblw+</entry>
+        <entry encoding="base64">XDxCYXNlVXJsXD4=</entry>
+        <entry>Apis:Zuul:BaseUrl</entry>
+        <entry>Apis:Zuul:Resource</entry>
+        <entry>Apis:Tenant</entry>
+        <entry>Apis:ClientId</entry>
+        <entry>Apis:ClientKey</entry>
       </history-search>
       <history-cmd>
         <entry>55</entry>
