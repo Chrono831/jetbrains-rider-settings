@@ -55,7 +55,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting/WebApi/Controllers/Organizations/OrganizationsController.cs" timestamp="1540826906415">
+      <file name="$USER_HOME$/source/repos/App.Budgeting/WebApi/Controllers/Organizations/OrganizationsController.cs" timestamp="1540828655591">
         <mark key="[" line="36" column="26" />
         <mark key="]" line="36" column="26" />
         <mark key="." line="36" column="26" />
@@ -256,6 +256,9 @@
         <mark key="." line="25" column="57" />
         <mark key="^" line="25" column="57" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/193D7E58-3621-4593-AA14-94625A01CC1F/fe/ad5f94db/MembershipRole.cs" timestamp="1540829109783">
+        <mark key="'" line="42" column="300" />
+      </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/readme.md" timestamp="1538740243209">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -299,8 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="52" filename="$USER_HOME$/Code/App.CC.Home/src/App.CC.Home/Startup.cs" />
-      <jump line="181" column="53" filename="$USER_HOME$/Code/App.CC.Home/src/App.CC.Home/Startup.cs" />
       <jump line="72" column="34" filename="$USER_HOME$/Code/App.CC.Home/src/App.CC.Home/Startup.cs" />
       <jump line="44" column="21" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" />
       <jump line="106" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
@@ -399,6 +400,8 @@
       <jump line="450" column="10" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.personal/submissions.personal.controllers.js" />
       <jump line="448" column="10" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.personal/submissions.personal.controllers.js" />
       <jump line="20" column="53" filename="$USER_HOME$/source/repos/App.Budgeting/Finance.sln" />
+      <jump line="32" column="1" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/193D7E58-3621-4593-AA14-94625A01CC1F/fe/ad5f94db/MembershipRole.cs" />
+      <jump line="42" column="300" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/193D7E58-3621-4593-AA14-94625A01CC1F/fe/ad5f94db/MembershipRole.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -411,7 +414,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEYXRhYmFzZVw+</text>
+        <text>Finance</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxhIGNsYXNzPSJidXR0b24gbGluayIgcm9sZT0iYnV0dG9uIiBocmVmPSJ7e3Njb3BlLmVuZ2FnZVdlYlJvb3R9fS9hY3Rpb25jZW50ZXIiPjxpIGNsYXNzPSJpY29uLWFycm93LWxlZnQiPjwvaT4gQmFjayB0byBEYXNoYm9hcmQ8L2E+Cg==</text>
@@ -448,17 +451,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEYXRhYmFzZVw+</last-search>
+      <last-search>Finance</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEYXRhYmFzZVw+</last-pattern>
+      <last-pattern>Finance</last-pattern>
       <last-replace>diiiiiv</last-replace>
       <last-substitute>div</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>individ</entry>
         <entry encoding="base64">XDxDb2xsZWdpYXRlTGlua09yZ2FuaXphdGlvbklkXD4=</entry>
         <entry>organizationKey</entry>
         <entry encoding="base64">XDxvcmdhbml6YXRpb25cPg==</entry>
@@ -478,6 +480,7 @@
         <entry encoding="base64">XDxzdWJtaXNzaW9uU291cmNlc1w+</entry>
         <entry encoding="base64">XDxub3RpZmljYXRpb25TZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxEYXRhYmFzZVw+</entry>
+        <entry>Finance</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
