@@ -258,11 +258,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/BudgetingAccessAuthorizedAttribute.cs" timestamp="1541446379909">
-        <mark key="[" line="27" column="81" />
-        <mark key="]" line="27" column="81" />
-        <mark key="." line="27" column="81" />
-        <mark key="^" line="27" column="80" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/BudgetingAccessAuthorizedAttribute.cs" timestamp="1541447154334">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="8" column="34" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CC73190B-AB9D-435C-8315-10FF295C572A/44/f45d3283/ChildActionOnlyAttribute.cs" timestamp="1541084921890" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Areas/Reviews/Views/Home/Index.cshtml" timestamp="1540575991622">
@@ -336,7 +336,7 @@
         <mark key="." line="5" column="253" />
         <mark key="^" line="5" column="253" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Context/IAccountContext.cs" timestamp="1541095482664">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Context/IAccountContext.cs" timestamp="1541446665495">
         <mark key="[" line="14" column="64" />
         <mark key="]" line="14" column="64" />
         <mark key="^" line="14" column="38" />
@@ -559,61 +559,60 @@
       <register name="a" type="4">
         <text>dwhxxxxxn</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Ly9EZXBlbmRlbmN5UmVzb2x2ZXIuQ3VycmVudC5HZXRTZXJ2aWNlPE9yZ2FuaXphdGlvbkNhY2hlPigp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgU3RydWN0dXJlTWFwOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ly9EZXBlbmRlbmN5UmVzb2x2ZXIuQ3VycmVudC5HZXRTZXJ2aWNlPE9yZ2FuaXphdGlvbkNhY2hlPigp</text>
+        <text encoding="base64">dm9pZCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfYWNjb3VudEluZm9TZXJ2aWNlXD4=</text>
+        <text>IsAutho</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhY2NvdW50UHJvdmlkZXIgPSBPYmplY3RGYWN0b3J5LkdldEluc3RhbmNlPElBY2NvdW50UHJvdmlkZXI+KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vamF2YXNjcmlwdCBoZXJlCg==</text>
+        <text encoding="base64">dXNpbmcgU3RydWN0dXJlTWFwOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFjY291bnQgPSBhY2NvdW50Q29udGV4dDsvL0RlcGVuZGVuY3lSZXNvbHZlci5DdXJyZW50LkdldFNlcnZpY2U8SUFjY291bnRDb250ZXh0PigpOwo=</text>
+        <text encoding="base64">dXNpbmcgQ2FtcHVzTGFicy5GaW5hbmNlLkRvbWFpbi5Qcm92aWRlcnM7CnVzaW5nIE1pY3Jvc29mdC5FeHRlbnNpb25zLkRlcGVuZGVuY3lJbmplY3Rpb247Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWNjb3VudC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVybEhlbHBlciA9IG5ldyBVcmxIZWxwZXIoZmlsdGVyQ29udGV4dC5SZXF1ZXN0Q29udGV4dCk7CiAgICAgICAgICAgIGZpbHRlckNvbnRleHQuUmVzdWx0ID0gbmV3IFJlZGlyZWN0UmVzdWx0KHVybEhlbHBlci5FbmdhZ2VMaW5rTG9jYWwoIkRpc2NvdmVyeSIsICJGb3JiaWRkZW4iKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFjY291bnRDb250ZXh0ID0gRGVwZW5kZW5jeVJlc29sdmVyLkN1cnJlbnQuR2V0U2VydmljZTxJQWNjb3VudENvbnRleHQ+KCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vamF2YXNjcmlwdCBoZXJlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFjY291bnQgPSBhY2NvdW50Q29udGV4dDsvL0RlcGVuZGVuY3lSZXNvbHZlci5DdXJyZW50LkdldFNlcnZpY2U8SUFjY291bnRDb250ZXh0PigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxpbmtzID0gbmV3IERpY3Rpb25hcnk8c3RyaW5nLCBMaW5rPgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBbIlJlcXVlc3RVcmwiXSA9IGxpbmsKICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWNjb3VudC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExpbmtzID0gbGlua3MsLy97IFsiUmVxdWVzdFVybCJdID0gbGluayB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFjY291bnRDb250ZXh0ID0gRGVwZW5kZW5jeVJlc29sdmVyLkN1cnJlbnQuR2V0U2VydmljZTxJQWNjb3VudENvbnRleHQ+KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxpbmtzID0gbmV3IERpY3Rpb25hcnk8c3RyaW5nLCBMaW5rPgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBbIlJlcXVlc3RVcmwiXSA9IGxpbmsKICAgICAgICAgICAgfTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfYWNjb3VudEluZm9TZXJ2aWNlXD4=</last-search>
+      <last-search>IsAutho</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfYWNjb3VudEluZm9TZXJ2aWNlXD4=</last-pattern>
+      <last-pattern>IsAutho</last-pattern>
       <last-replace>organizationType</last-replace>
       <last-substitute>financeConfiguration</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>client</entry>
         <entry encoding="base64">XDxvcmdhbml6YXRpb25LZXlcPg==</entry>
         <entry>financeConfiguration</entry>
         <entry>Featuress</entry>
@@ -633,6 +632,7 @@
         <entry encoding="base64">XDxfbWFpbFw+</entry>
         <entry>CreateNotif</entry>
         <entry encoding="base64">XDxfYWNjb3VudEluZm9TZXJ2aWNlXD4=</entry>
+        <entry>IsAutho</entry>
       </history-search>
       <history-cmd>
         <entry>58</entry>
