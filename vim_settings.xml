@@ -38,7 +38,7 @@
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
       </file>
-      <file name="/Dummy.cs" timestamp="1541085858447">
+      <file name="/Dummy.cs" timestamp="1541429605228">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submissions/App.Submissions/CoreRegistry.cs" timestamp="1538592061782">
@@ -120,12 +120,12 @@
         <mark key="^" line="20" column="56" />
         <mark key="." line="20" column="56" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" timestamp="1541427066789">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" timestamp="1541430557471">
         <mark key="'" line="106" column="20" />
-        <mark key="[" line="110" column="50" />
-        <mark key="]" line="110" column="50" />
-        <mark key="." line="110" column="50" />
-        <mark key="^" line="142" column="48" />
+        <mark key="[" line="78" column="12" />
+        <mark key="]" line="78" column="13" />
+        <mark key="." line="78" column="13" />
+        <mark key="^" line="78" column="13" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Attributes/IsFinanceFullOrganizationAttribute.cs" timestamp="1541093782526">
         <mark key="[" line="44" column="85" />
@@ -142,6 +142,9 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D704E685-F718-4CD1-8449-4C824354BF37/64/f206ea30/INotificationsClient.cs" timestamp="1541428551485">
+        <mark key="'" line="130" column="45" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/RequestController.cs" timestamp="1539883657595">
         <mark key="[" line="9" column="47" />
@@ -226,7 +229,7 @@
         <mark key="]" line="9" column="37" />
         <mark key="." line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Reviews/ChangeStatusRequestHandler.cs" timestamp="1541424114191">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Reviews/ChangeStatusRequestHandler.cs" timestamp="1541428789504">
         <mark key="[" line="33" column="36" />
         <mark key="]" line="35" column="15" />
         <mark key="." line="35" column="15" />
@@ -320,8 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="123" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.organization/submissions.organization.controllers.js" />
-      <jump line="175" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.organization/submissions.organization.controllers.js" />
       <jump line="126" column="37" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.organization/submissions.organization.controllers.js" />
       <jump line="189" column="68" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.organization/submissions.organization.controllers.js" />
       <jump line="174" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.organization/submissions.organization.controllers.js" />
@@ -420,66 +421,67 @@
       <jump line="20" column="13" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="106" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="47" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Statuses/CreateStatusRequestHandler.cs" />
+      <jump line="1" column="49" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D704E685-F718-4CD1-8449-4C824354BF37/64/f206ea30/INotificationsClient.cs" />
+      <jump line="130" column="45" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D704E685-F718-4CD1-8449-4C824354BF37/64/f206ea30/INotificationsClient.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwhxxxxxn</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfbWFpbFw+</text>
+        <text>CreateNotif</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB2YXIgY29tbWVudHMgPSBzdHJpbmcuSm9pbigiXG4iLHN1Ym1pc3Npb24uQ29tbWVudHMuU2VsZWN0KHggPT4geC5UZXh0KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxpbmsgPSBvcmdhbml6YXRpb25XZWJzaXRlS2V5LklzRW1wdHkoKSA/IAogICAgICAgICAgICAgICAgbmV3IExpbmsoQnVkZ2V0aW5nUmVxdWVzdFBlcnNvbmFsLCBzdWJtaXNzaW9uLklkKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgU3RhdHVzVHlwZS5Ob3RTdWJtaXR0ZWQ6IGJyZWFrOwogICAgICAgICAgICAgICAgY2FzZSBTdGF0dXNUeXBlLlJlc3VibWl0dGVkOiBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBMaW5rKEJ1ZGdldGluZ1JlcXVlc3RQZXJzb25hbCwgc3VibWlzc2lvbi5JZCk6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmF1bHQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBvcmdhbml6YXRpb247Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gIkVSUk9SIjsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy92YXIgc3VibWl0dGVyQWNjb3VudCA9IF9hY2NvdW50SW5mb1NlcnZpY2UuR2V0KF9pbnN0aXR1dGlvbkNvbnRleHQuSW5zdGl0dXRpb25JZCwgc3VibWlzc2lvbi5BY2NvdW50LklkKQogICAgICAgICAgICAvLyAgICAuR2V0QXdhaXRlcigpLkdldFJlc3VsdCgpOyAvL1RPRE8gY29tbXVuaXRpZXMgcGlsbGFyCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnRlcmZhY2UgSU1haWxGYWNhZGUKICAgIHsKICAgICAgICB2b2lkIFNlbmRTdGF0dXNOb3RpZmljYXRpb25zVG9TdWJtaXR0ZXJzKFN1Ym1pc3Npb24gc3VibWlzc2lvbik7CgogICAgICAgIHZvaWQgU2VuZFN0ZXBOb3RpZmljYXRpb25zVG9SZXZpZXdlcnMoU3VibWlzc2lvbiBzdWJtaXNzaW9uKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKE5vU3luY2hyb25pemF0aW9uQ29udGV4dFNjb3BlLkVudGVyKCkpCiAgICAgICAgICAgIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL3ByaXZhdGUgcmVhZG9ubHkgc3RyaW5nIF9ob3N0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKE5vU3luY2hyb25pemF0aW9uQ29udGV4dFNjb3BlLkVudGVyKCkpCiAgICAgICAgICAgIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgTGluaygiQnVkZ2V0aW5nOlJlcXVlc3Q6T3JnYW5pemF0aW9uIiwgb3JnYW5pemF0aW9uV2Vic2l0ZUtleSwgc3VibWlzc2lvbi5JZCk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBicmFuY2hJZCA9IG9yZ2FuaXphdGlvbj8uUGFyZW50SWQgPz8gb3JnYW5pemF0aW9uPy5JZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0b0FkZHJlc3MgPSA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgX2luc3RpdHV0aW9uQ29udGV4dC5JbnN0aXR1dGlvbklkLAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfbWFpbFw+</last-search>
+      <last-search>CreateNotif</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfbWFpbFw+</last-pattern>
+      <last-pattern>CreateNotif</last-pattern>
       <last-replace>organizationType</last-replace>
       <last-substitute>financeConfiguration</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCdWRnZXRpbmdMYXVuY2hEYXJrbHlLZXlcPg==</entry>
         <entry encoding="base64">XDxfbGRDbGllbnRcPg==</entry>
         <entry>client</entry>
         <entry encoding="base64">XDxvcmdhbml6YXRpb25LZXlcPg==</entry>
@@ -499,6 +501,7 @@
         <entry encoding="base64">XDxCdWRnZXRpbmdSZXF1ZXN0UmV2aWV3XD4=</entry>
         <entry encoding="base64">XDxTZW5kU3RlcE5vdGlmaWNhdGlvbnNUb1Jldmlld2Vyc1w+</entry>
         <entry encoding="base64">XDxfbWFpbFw+</entry>
+        <entry>CreateNotif</entry>
       </history-search>
       <history-cmd>
         <entry>58</entry>
