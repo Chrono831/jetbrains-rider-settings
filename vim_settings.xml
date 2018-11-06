@@ -9,7 +9,7 @@
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/BudgetingApiOrganizationAccessAuthorizedAttribute.cs" timestamp="1541522126363">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/BudgetingApiOrganizationAccessAuthorizedAttribute.cs" timestamp="1541522210330">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
@@ -57,7 +57,7 @@
       <file name="/Dummy.cs" timestamp="1541521145907">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Providers/AccountProvider.cs" timestamp="1541521394839">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Providers/AccountProvider.cs" timestamp="1541523137471">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
@@ -95,6 +95,7 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F50C58B0-72A6-4650-9FFE-0693D728F524/b8/32fdcd38/IRequestProcessor.cs" timestamp="1541522386447" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/BudgetingEnabledAttribute.cs" timestamp="1541512315172">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -215,26 +216,25 @@
         <mark key="^" line="26" column="15" />
         <mark key="." line="27" column="9" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/BudgetingApiEnabledAttribute.cs" timestamp="1541521849451">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/BudgetingApiEnabledAttribute.cs" timestamp="1541522446885">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="80" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="31" column="36" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Organizations/OrganizationsController.cs" timestamp="1541450279361">
-        <mark key="[" line="12" column="38" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="14" column="4" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Organizations/OrganizationsController.cs" timestamp="1541522235461">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1541450510325">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1541522778638">
         <mark key="'" line="139" column="16" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="117" column="55" />
-        <mark key="." line="117" column="55" />
-        <mark key="^" line="117" column="55" />
+        <mark key="[" line="304" column="0" />
+        <mark key="]" line="304" column="89" />
+        <mark key="." line="304" column="0" />
+        <mark key="^" line="326" column="81" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/BudgetingApiAdminAccessAuthorizedAttribute.cs" timestamp="1541521899261">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/BudgetingApiAdminAccessAuthorizedAttribute.cs" timestamp="1541523250496">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -657,50 +657,46 @@
         <text>dwhxxxxxn</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbmV3IHt9Owo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>AuthorizationFailedException</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfaW5zdGl0dXRpb25Db250ZXh0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>.Community.Configuration.BudgetingConfig</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCJVc2VyIG5vdCBhdXRob3JpemVkIHRvIHVwZGF0ZSB0aGlzIHN1Ym1pc3Npb24iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbmV3IHt9Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0cmluZy5Jc051bGxPcldoaXRlU3BhY2Uob3JnYW5pemF0aW9uS2V5KSkgeyByZXR1cm4gZmFsc2U7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFjY291bnRQcm92aWRlciA9IE9iamVjdEZhY3RvcnkuR2V0SW5zdGFuY2U8SUFjY291bnRQcm92aWRlcj4oKS5BY2NvdW50Q29udGV4dDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG9yZ2FuaXphdGlvbktleSA9IGFjdGlvbkNvbnRleHQuUmVxdWVzdENvbnRleHQuUm91dGVEYXRhLlZhbHVlc1sib3JnYW5pemF0aW9uS2V5Il0gYXMgc3RyaW5nOwo=</text>
+        <text encoding="base64">ICAgIFtCdWRnZXRpbmdBcGlPcmdhbml6YXRpb25BY2Nlc3NBdXRob3JpemVkXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9uQ29udGV4dC5SZXNwb25zZS5Db250ZW50Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0cmluZy5Jc051bGxPcldoaXRlU3BhY2Uob3JnYW5pemF0aW9uS2V5KSkgeyByZXR1cm4gZmFsc2U7IH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG9yZ2FuaXphdGlvbktleSA9IGFjdGlvbkNvbnRleHQuUmVxdWVzdENvbnRleHQuUm91dGVEYXRhLlZhbHVlc1sib3JnYW5pemF0aW9uS2V5Il0gYXMgc3RyaW5nOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGlzQWRtaW47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9uQ29udGV4dC5SZXNwb25zZS5Db250ZW50Lgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGlzQWRtaW4gPSBhY2NvdW50UHJvdmlkZXIuQWNjb3VudENvbnRleHQuQnVkZ2V0aW5nQWNjZXNzQXV0aG9yaXplZCgpOwogICAgICAgICAgICByZXR1cm4gaXNBZG1pbjsKICAgICAgICB9CiAgICB9Cn0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="8">
-        <text>//
-//
-//
-//
-//</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -753,9 +749,9 @@
         <entry>100</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>.s/financeConfiguration/organizationType/g</entry>
-        <entry>q</entry>
         <entry>0</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
