@@ -44,6 +44,12 @@
       <file name="/Dummy.cs" timestamp="1541513895138">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Providers/AccountProvider.cs" timestamp="1541515460348">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Submissions/App.Submissions/CoreRegistry.cs" timestamp="1538592061782">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -205,11 +211,11 @@
         <mark key="^" line="14" column="4" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/BudgetingApiAdminAccessAuthorizedAttribute.cs" timestamp="1541512903486">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="13" column="11" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/BudgetingApiAdminAccessAuthorizedAttribute.cs" timestamp="1541515351309">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="14" column="48" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.personal/templates/submission.html" timestamp="1540575204978">
         <mark key="[" line="190" column="42" />
@@ -249,11 +255,11 @@
         <mark key="." line="18" column="12" />
         <mark key="^" line="15" column="69" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/IsReviewerAttribute.cs" timestamp="1541512854816">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/IsReviewerAttribute.cs" timestamp="1541514836004">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="80" />
         <mark key="." line="14" column="0" />
-        <mark key="^" line="13" column="34" />
+        <mark key="^" line="12" column="34" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Settings/SettingsController.cs" timestamp="1541512807773">
         <mark key="[" line="5" column="4" />
@@ -290,6 +296,12 @@
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Reviews/ReviewsAdjustmentsController.cs" timestamp="1541510678695">
         <mark key="[" line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Providers/IAccountProvider.cs" timestamp="1541515319293">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="8" />
+        <mark key="." line="13" column="8" />
+        <mark key="^" line="13" column="9" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Areas/Settings/Controllers/SettingsBaseController.cs" timestamp="1541162303857">
         <mark key="[" line="6" column="0" />
@@ -334,11 +346,11 @@
         <mark key="]" line="27" column="24" />
         <mark key="." line="27" column="24" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Context/AccountContext.cs" timestamp="1541449124039">
-        <mark key="[" line="26" column="58" />
-        <mark key="]" line="26" column="58" />
-        <mark key="^" line="24" column="18" />
-        <mark key="." line="26" column="58" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Context/AccountContext.cs" timestamp="1541516020042">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="12" />
+        <mark key="^" line="23" column="12" />
+        <mark key="." line="23" column="12" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/ValidRangeAttribute.cs" timestamp="1541450082077">
         <mark key="[" line="11" column="38" />
@@ -369,7 +381,7 @@
         <mark key="." line="5" column="253" />
         <mark key="^" line="5" column="253" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Context/IAccountContext.cs" timestamp="1541446665495">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Context/IAccountContext.cs" timestamp="1541515996199">
         <mark key="[" line="14" column="64" />
         <mark key="]" line="14" column="64" />
         <mark key="^" line="14" column="38" />
@@ -624,7 +636,7 @@
         <text>dwhxxxxxn</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -633,34 +645,34 @@
         <text>IsAutho</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG9yZ2FuaXphdGlvbktleSA9IGFjdGlvbkNvbnRleHQuUmVxdWVzdC5HZXRSZXF1ZXN0Q29udGV4dCgpLlJvdXRlRGF0YS5WYWx1ZXNbIm9yZ2FuaXphdGlvbktleSJdIGFzIHN0cmluZzsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgSUFjY291bnRDb250ZXh0IEFjY291bnRDb250ZXh0IHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFtCdWRnZXRpbmdBcGlFbmFibGVkXQo=</text>
+        <text encoding="base64">dXNpbmcgQ2FtcHVzTGFicy5GaW5hbmNlLkRvbWFpbi5Db250ZXh0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFtCdWRnZXRpbmdBcGlBZG1pbkFjY2Vzc0F1dGhvcml6ZWRdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy92YXIgYWNjb3VudENvbnRleHQgPSBPYmplY3RGYWN0b3J5LkdldEluc3RhbmNlPElBY2NvdW50Q29udGV4dD4oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWNjb3VudFByb3ZpZGVyLkFjY291bnQuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBbQnVkZ2V0aW5nQXBpRW5hYmxlZF0K</text>
+        <text encoding="base64">ICAgICAgICBib29sIElzQWRtaW4geyBnZXQ7IHNldDsgfQogICAgICAgIGJvb2wgSXNTeXN0ZW1BZG1pbiB7IGdldDsgc2V0OyB9CiAgICAgICAgYm9vbCBCdWRnZXRpbmdBY2Nlc3NBdXRob3JpemVkKGludCBvcmdhbml6YXRpb25JZCA9IDApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBbQnVkZ2V0aW5nQXBpQWRtaW5BY2Nlc3NBdXRob3JpemVkXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSXNTeXN0ZW1BZG1pbiA9IHVzZXJDb250ZXh0LklzU3lzdGVtQWRtaW47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIG1ha2Ugc3VyZSBwYXJzZXMgZnJvbSBxdWVyeSBzdHJpbmcgYXMgd2VsbD8/Pwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSXNBZG1pbiA9IHVzZXJDb250ZXh0Li5IYXNGbGFnKFVzZXJQZXJtaXNzaW9uLkZpbmFuY2UpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbCBJc0FkbWluIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgYm9vbCBJc1N5c3RlbUFkbWluIHsgZ2V0OyBzZXQ7IH0KICAgICAgICAKICAgICAgICBwdWJsaWMgYm9vbCBCdWRnZXRpbmdBY2Nlc3NBdXRob3JpemVkKGludCBvcmdhbml6YXRpb25JZCA9IDApCiAgICAgICAgewogICAgICAgICAgICBpZiAob3JnYW5pemF0aW9uSWQgPT0gMCkgeyByZXR1cm4gSXNTeXN0ZW1BZG1pbiB8fCBJc0FkbWluOyB9CiAgICAgICAgICAgIAogICAgICAgICAgICByZXR1cm4gT3JnTWVtYmVyc2hpcHMKICAgICAgICAgICAgICAgIC5XaGVyZSh4ID0+IHguRnVsbFBlcm1pc3Npb25zLkhhc0ZsYWcoVXNlclBlcm1pc3Npb24uRmluYW5jZSkpCiAgICAgICAgICAgICAgICAuQW55KHggPT4geC5Pcmdhbml6YXRpb25JZCA9PSBvcmdhbml6YXRpb25JZCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
