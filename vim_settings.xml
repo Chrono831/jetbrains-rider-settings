@@ -110,15 +110,22 @@
         <mark key="^" line="22" column="74" />
         <mark key="." line="15" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.MessageHandlers/Handlers/Organizations/OrganizationTopicSubscriber.cs" timestamp="1541699875392">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.MessageHandlers/Handlers/Organizations/OrganizationTopicSubscriber.cs" timestamp="1541700298188">
+        <mark key="[" line="28" column="49" />
+        <mark key="]" line="28" column="50" />
+        <mark key="^" line="28" column="60" />
+        <mark key="." line="28" column="50" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/build/dependencies.props" timestamp="1540391481794">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/BudgetAccountService.cs" timestamp="1541700532553">
+        <mark key="[" line="58" column="24" />
+        <mark key="]" line="58" column="25" />
+        <mark key="^" line="58" column="25" />
+        <mark key="." line="58" column="25" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/BudgetingApiEnabledAttribute.cs" timestamp="1541524787942">
         <mark key="[" line="15" column="68" />
@@ -474,7 +481,7 @@
       <file name="/Dummy.txt" timestamp="1541613111188">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.MessageHandlers/Handlers/Communities/CommunityMemberChangedListener.cs" timestamp="1540410132270">
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.MessageHandlers/Handlers/Communities/CommunityMemberChangedListener.cs" timestamp="1541700343786">
         <mark key="[" line="18" column="40" />
         <mark key="]" line="18" column="81" />
         <mark key="^" line="28" column="55" />
@@ -657,11 +664,11 @@
       <register name="a" type="4">
         <text>dwhxxxxxn</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>OrganizationChangedListener</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYWNjb3VudEluZm9TZXJ2aWNlXD4=</text>
@@ -670,31 +677,31 @@
         <text encoding="base64">T3JnYW5pemF0aW9uVG9waWNTdWJzY3JpYmVyIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzayBIYW5kbGVNZXNzYWdlKENvbW11bml0eU1lbWJlclNsaW1VcGRhdGVTdWNjZWVkZWRNZXNzYWdlIG1lc3NhZ2UpCiAgICAgICAgewogICAgICAgICAgICBpZiAoX2luc3RpdHV0aW9uID09IG51bGwpIHJldHVybjsKICAgICAgICAgICAgCiAgICAgICAgICAgIHZhciBidWRnZXRBY2NvdW50ID0gYXdhaXQgX2J1ZGdldEFjY291bnRTZXJ2aWNlLkdldChtZXNzYWdlLlBheWxvYWQuQWNjb3VudElkKTsKCiAgICAgICAgICAgIGlmIChidWRnZXRBY2NvdW50ID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgYnVkZ2V0QWNjb3VudC5GaXJzdE5hbWUgPSBtZXNzYWdlLlBheWxvYWQuRmlyc3ROYW1lOwogICAgICAgICAgICBidWRnZXRBY2NvdW50Lkxhc3ROYW1lID0gbWVzc2FnZS5QYXlsb2FkLkxhc3ROYW1lOwogICAgICAgICAgICBidWRnZXRBY2NvdW50LkVtYWlsID0gbWVzc2FnZS5QYXlsb2FkLkVtYWlsOwoKICAgICAgICAgICAgdmFyIG1zZyA9IG5ldyBCdWRnZXRBY2NvdW50VXBkYXRlTWVzc2FnZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBQYXlsb2FkID0gYnVkZ2V0QWNjb3VudAogICAgICAgICAgICB9OwogICAgICAgICAgICBhd2FpdCBfYnVkZ2V0QWNjb3VudFNlcnZpY2UuVXBkYXRlKG1zZyk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT3JnYW5pemF0aW9uRmVhdHVyZUNvbmZpZ01lc3NhZ2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9Pcmdhbml6YXRpb25DaGFuZ2VkTGlzdGVuZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9pZiAob3JnYW5pemF0aW9uSWQgPT0gMCkgeyByZXR1cm4gSXNTeXN0ZW1BZG1pbiB8fCBJc0FkbWluOyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9pZiAob3JnYW5pemF0aW9uSWQgPT0gMCkgeyByZXR1cm4gSXNTeXN0ZW1BZG1pbiB8fCBJc0FkbWluOyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT3JnYW5pemF0aW9uRmVhdHVyZUNvbmZpZ01lc3NhZ2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKElzU3lzdGVtQWRtaW4gfHwgSXNBZG1pbikgeyByZXR1cm4gdHJ1ZTsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9Pcmdhbml6YXRpb25DaGFuZ2VkTGlzdGVuZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9pZiAob3JnYW5pemF0aW9uSWQgPT0gMCkgeyByZXR1cm4gSXNTeXN0ZW1BZG1pbiB8fCBJc0FkbWluOyB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
