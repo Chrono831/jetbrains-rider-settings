@@ -103,8 +103,8 @@
         <mark key="." line="22" column="80" />
         <mark key="^" line="22" column="80" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting/Web/assets/finance/js/collection/httpWrapper.js" timestamp="1542052575011">
-        <mark key="'" line="96" column="17" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting/Web/assets/finance/js/collection/httpWrapper.js" timestamp="1542053499833">
+        <mark key="'" line="5" column="8" />
         <mark key="[" line="58" column="26" />
         <mark key="]" line="58" column="26" />
         <mark key="." line="58" column="26" />
@@ -121,7 +121,6 @@
         <mark key="." line="35" column="15" />
         <mark key="^" line="35" column="15" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting/WebApi/Controllers/Settings/SettingsLineItemTypesController.cs" timestamp="1542051950077" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/packages.config" timestamp="1540993701015">
         <mark key="[" line="86" column="34" />
         <mark key="]" line="86" column="34" />
@@ -221,7 +220,6 @@
         <mark key="^" line="36" column="52" />
         <mark key="." line="36" column="52" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Attributes/ApplicationInsightsLoggerAttributes.cs" timestamp="1542045744932" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/BudgetingApiEnabledAttribute.cs" timestamp="1541524787942">
         <mark key="[" line="15" column="68" />
         <mark key="]" line="15" column="75" />
@@ -234,8 +232,6 @@
         <mark key="^" line="26" column="15" />
         <mark key="." line="27" column="9" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting/WebApi/Controllers/NavigationController.cs" timestamp="1542046644089" />
-      <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Attributes/IsEngageBudgetingEnabled.cs" timestamp="1542041108168" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Views/Shared/_AngularLayout.cshtml" timestamp="1541616622728">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -342,8 +338,6 @@
         <mark key="." line="12" column="65" />
         <mark key="^" line="12" column="65" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Areas/Requests/Views/Collection/BottomBar.cshtml" timestamp="1542051536734" />
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CDD3A8A1-A0C2-4D9F-9418-1A276D2DA336/47/15ce9823/HttpConfiguration.cs" timestamp="1542044233403" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Providers/IAccountProvider.cs" timestamp="1541516411158">
         <mark key="[" line="14" column="8" />
         <mark key="]" line="14" column="8" />
@@ -367,6 +361,12 @@
         <mark key="]" line="7" column="63" />
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting/Collection/Domain/Context/ProjectContext.cs" timestamp="1542053924629">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+        <mark key="." line="10" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -468,8 +468,8 @@
       <jump line="24" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/.editorconfig" />
       <jump line="14" column="38" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/GetUserAccountDetailsQuery.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12845BEB-1D34-4C7B-B7A0-3CB7CC2181F3/e8/588456ec/Organization.cs" />
-      <jump line="5" column="8" filename="$USER_HOME$/source/repos/App.Budgeting/Web/assets/finance/js/collection/httpWrapper.js" />
       <jump line="96" column="17" filename="$USER_HOME$/source/repos/App.Budgeting/Web/assets/finance/js/collection/httpWrapper.js" />
+      <jump line="5" column="8" filename="$USER_HOME$/source/repos/App.Budgeting/Web/assets/finance/js/collection/httpWrapper.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
