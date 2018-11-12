@@ -97,6 +97,12 @@
         <mark key="^" line="22" column="19" />
         <mark key="." line="22" column="19" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting/Collection/Domain/Services/NavigationService.cs" timestamp="1542055754419">
+        <mark key="[" line="100" column="82" />
+        <mark key="]" line="100" column="82" />
+        <mark key="." line="100" column="82" />
+        <mark key="^" line="100" column="14" />
+      </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Extensions/BudgetingServicesServiceCollectionExtensions.cs" timestamp="1541704625462">
         <mark key="[" line="22" column="41" />
         <mark key="]" line="22" column="80" />
@@ -179,10 +185,11 @@
         <mark key="^" line="41" column="58" />
         <mark key="." line="43" column="3" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting/WebApi/CollectionRouteConfig.cs" timestamp="1542052030943">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="93" />
-        <mark key="." line="17" column="32" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting/WebApi/CollectionRouteConfig.cs" timestamp="1542055501994">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="116" />
+        <mark key="." line="17" column="45" />
+        <mark key="^" line="17" column="45" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Areas/Settings/Views/Home/Index.cshtml" timestamp="1541161920023">
         <mark key="[" line="1" column="21" />
@@ -278,11 +285,11 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting/WebApi/Controllers/Collection/NavigationController.cs" timestamp="1542052357077">
-        <mark key="[" line="17" column="30" />
-        <mark key="]" line="17" column="30" />
-        <mark key="." line="17" column="30" />
-        <mark key="^" line="16" column="5" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting/WebApi/Controllers/Collection/NavigationController.cs" timestamp="1542055692839">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="83" />
+        <mark key="." line="96" column="70" />
+        <mark key="^" line="96" column="70" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Attributes/IsFinanceFullCommunityAttribute.cs" timestamp="1541093184358">
         <mark key="[" line="18" column="0" />
@@ -314,6 +321,13 @@
         <mark key="." line="0" column="0" />
         <mark key="o" line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting/Collection/Domain/Services/INavigationService.cs" timestamp="1542055737477">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="76" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="19" column="61" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting/WebApi/Controllers/Submissions/SubmissionsLineItemsController.cs" timestamp="1542055659575" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/IsProcessNameUniqueAttribute.cs" timestamp="1541444888158">
         <mark key="[" line="21" column="46" />
         <mark key="]" line="23" column="19" />
@@ -496,43 +510,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>collectionapi</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>collectionapi</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcGlQYXRoXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>navigation</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQlOYXZpZ2F0aW9uUmVzdWx0IFN0YXJ0KGludCBwcm9qZWN0SWQsIGludCBwYWdlSWQsIGludCBzdWJtaXNzaW9uSWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYzsKdXNpbmcgU3lzdGVtLkxpbnE7CnVzaW5nIFN5c3RlbS5XZWI7Cg==</text>
+        <text encoding="base64">CQlwdWJsaWMgTmF2aWdhdGlvblJlc3VsdCBTdGFydCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlOYXZpZ2F0aW9uUmVzdWx0IFN0YXJ0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXB1YmxpYyBjbGFzcyBOZXdSZWxpY0V4Y2VwdGlvbkxvZ2dlciA6IEV4Y2VwdGlvbkxvZ2dlcgoJewoJCXB1YmxpYyBvdmVycmlkZSB2b2lkIExvZyhFeGNlcHRpb25Mb2dnZXJDb250ZXh0IGNvbnRleHQpCgkJewogICAgICAgICAgICAvL1RPRE86IHJlcGxhY2Ugd2l0aCBBcHBsaWNhdGlvbkluc2lnaHRzLgoJCX0KCX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgKGludCBwcm9qZWN0SWQsIGludCBwYWdlSWQsIGludHN1Ym1pc3Npb25JZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBbQ29sdW1uKCJDb2xsZWdpYXRlTGlua09yZ2FuaXphdGlvbklkIildCg==</text>
+        <text encoding="base64">ICAgICAgICBbUm91dGUoKV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYzsKdXNpbmcgU3lzdGVtLkxpbnE7CnVzaW5nIFN5c3RlbS5XZWI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVzdGluYXRpb24uU3RhdHVzID0gc291cmNlLlN0YXR1czsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIFN0YXR1cyB7IGdldDsgc2V0OyB9Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBjbGFzcyBOZXdSZWxpY0V4Y2VwdGlvbkxvZ2dlciA6IEV4Y2VwdGlvbkxvZ2dlcgoJewoJCXB1YmxpYyBvdmVycmlkZSB2b2lkIExvZyhFeGNlcHRpb25Mb2dnZXJDb250ZXh0IGNvbnRleHQpCgkJewogICAgICAgICAgICAvL1RPRE86IHJlcGxhY2Ugd2l0aCBBcHBsaWNhdGlvbkluc2lnaHRzLgoJCX0KCX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2luc3RpdHV0aW9uID0gaW5zdGl0dXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICBbQ29sdW1uKCJDb2xsZWdpYXRlTGlua09yZ2FuaXphdGlvbklkIildCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IEluc3RpdHV0aW9uIF9pbnN0aXR1dGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
