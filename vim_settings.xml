@@ -55,6 +55,9 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="20" />
       </file>
+      <file name="/Dummy.cs" timestamp="1542132739881">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Areas/Requests/Views/Home/OrganizationIndex.cshtml" timestamp="1540994151686">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="86" />
@@ -375,7 +378,7 @@
         <mark key="." line="21" column="15" />
         <mark key="^" line="21" column="15" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting/WebApi/ExportGeneratorService.cs" timestamp="1542130727061">
+      <file name="$USER_HOME$/source/repos/App.Budgeting/WebApi/ExportGeneratorService.cs" timestamp="1542132662052">
         <mark key="'" line="41" column="32" />
         <mark key="[" line="152" column="16" />
         <mark key="]" line="152" column="17" />
@@ -508,7 +511,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>000k</text>
+        <text>toExclu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IHN0cmluZyBfbGFzdFN1Ym1pdHRlZCA9IEAiV0lUSCBGaXJzdFN1Ym1pdHRlZCBBUyAK</text>
@@ -862,9 +865,9 @@
       </register>
     </registers>
     <search>
-      <last-search>000k</last-search>
+      <last-search>toExclu</last-search>
       <last-offset />
-      <last-pattern>000k</last-pattern>
+      <last-pattern>toExclu</last-pattern>
       <last-replace>organizationType</last-replace>
       <last-substitute>financeConfiguration</last-substitute>
       <last-dir>1</last-dir>
@@ -872,7 +875,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTZW5kU3RlcE5vdGlmaWNhdGlvbnNUb1Jldmlld2Vyc1w+</entry>
         <entry encoding="base64">XDxfbWFpbFw+</entry>
         <entry>CreateNotif</entry>
         <entry>IsAutho</entry>
@@ -892,6 +894,7 @@
         <entry encoding="base64">XDxfbGFzdFN1Ym1pdHRlZFw+</entry>
         <entry encoding="base64">XDxfYnVkZ2V0QW1vdW50c1w+</entry>
         <entry>000k</entry>
+        <entry>toExclu</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\[Commun/[AllowAnonymous]\/[Commun/g</entry>
