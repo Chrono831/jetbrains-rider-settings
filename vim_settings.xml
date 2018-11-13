@@ -263,12 +263,10 @@
         <mark key="^" line="57" column="13" />
         <mark key="." line="57" column="13" />
       </file>
-      <file name="$USER_HOME$/source/last-submitted-query.csv" timestamp="1542126431720">
-        <mark key="'" line="320" column="0" />
-        <mark key="[" line="320" column="72" />
-        <mark key="]" line="320" column="71" />
-        <mark key="." line="320" column="71" />
-        <mark key="^" line="320" column="71" />
+      <file name="$USER_HOME$/source/last-submitted-query.csv" timestamp="1542127423512">
+        <mark key="[" line="226" column="238" />
+        <mark key="]" line="226" column="241" />
+        <mark key="." line="226" column="238" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.personal/templates/submission.html" timestamp="1540575204978">
         <mark key="[" line="190" column="42" />
@@ -487,21 +485,13 @@
     </jumps>
     <registers>
       <register name="a" type="4">
-        <keys>
-          <key char="97" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-        </keys>
+        <text>pj$</text>
       </register>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>'),</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>'),</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcGlQYXRoXD4=</text>
@@ -510,15 +500,18 @@
         <text encoding="base64">CQlOYXZpZ2F0aW9uUmVzdWx0IFN0YXJ0KGludCBwcm9qZWN0SWQsIGludCBwYWdlSWQsIGludCBzdWJtaXNzaW9uSWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">JCxhCg==</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>'
 '
 '
@@ -838,20 +831,17 @@
 '
 '</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQlwdWJsaWMgTmF2aWdhdGlvblJlc3VsdCBTdGFydCgpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQlOYXZpZ2F0aW9uUmVzdWx0IFN0YXJ0KCk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKGludCBwcm9qZWN0SWQsIGludCBwYWdlSWQsIGludHN1Ym1pc3Npb25JZCk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBbUm91dGUoKV0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYzsKdXNpbmcgU3lzdGVtLkxpbnE7CnVzaW5nIFN5c3RlbS5XZWI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBbUm91dGUoKV0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
