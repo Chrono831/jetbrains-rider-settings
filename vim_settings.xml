@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Base.csproj" timestamp="1542225674809">
+        <mark key="[" line="211" column="0" />
+        <mark key="]" line="211" column="0" />
+        <mark key="." line="211" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting/WebApi/Controllers/Collection/NavigationApiController.cs" timestamp="1542140859796">
         <mark key="'" line="51" column="19" />
         <mark key="[" line="73" column="0" />
@@ -38,32 +43,14 @@
         <mark key="]" line="58" column="26" />
         <mark key="." line="58" column="26" />
       </file>
-      <file name="$USER_HOME$/source/budget-amount-query.csv" timestamp="1542129331432">
-        <mark key="[" line="50" column="22" />
-        <mark key="]" line="50" column="23" />
-        <mark key="^" line="2" column="24" />
-        <mark key="." line="50" column="23" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Web.config" timestamp="1542221788973">
         <mark key="'" line="221" column="39" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/WebApi.csproj" timestamp="1542221744446">
         <mark key="'" line="510" column="22" />
       </file>
-      <file name="$USER_HOME$/source/last-submitted-query.csv" timestamp="1542131674333">
-        <mark key="'" line="286" column="222" />
-        <mark key="[" line="213" column="255" />
-        <mark key="]" line="213" column="255" />
-        <mark key="." line="213" column="255" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.config" timestamp="1542221768694">
         <mark key="'" line="148" column="39" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting/WebApi/ExportGeneratorService.cs" timestamp="1542132662052">
-        <mark key="[" line="34" column="16" />
-        <mark key="]" line="34" column="17" />
-        <mark key="." line="34" column="17" />
-        <mark key="^" line="34" column="17" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/FinanceApiBootstrap.cs" timestamp="1542221910284">
         <mark key="[" line="19" column="0" />
@@ -178,52 +165,52 @@
         <text>pj$</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgQ2FtcHVzTGFicy5Qcm9qZWN0cy5Db2xsZWN0aW9uLldlYkFwaS5Db250cm9sbGVyczsK</text>
+        <text encoding="base64">ICAgIDwvUmVmZXJlbmNlPgo=</text>
       </register>
       <register name="-" type="4">
         <text>//return Page(new PageDto { Id = pageRequest.Id });</text>
       </register>
       <register name="/" type="4">
-        <text>Csv</text>
+        <text>StudentVoice</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IHN0cmluZyBfbGFzdFN1Ym1pdHRlZCA9IEAiV0lUSCBGaXJzdFN1Ym1pdHRlZCBBUyAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgQ2FtcHVzTGFicy5Qcm9qZWN0cy5Db2xsZWN0aW9uLldlYkFwaS5Db250cm9sbGVyczsK</text>
+        <text encoding="base64">ICAgIDwvUmVmZXJlbmNlPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjZmcuQXNzZW1ibHlDb250YWluaW5nVHlwZTxOYXZpZ2F0aW9uQ29udHJvbGxlcj4oKTsK</text>
+        <text encoding="base64">ICAgICAgPEhpbnRQYXRoPi4uXHBhY2thZ2VzXENvbGxlZ2lhdGVsaW5rLkxlZ2FjeS4yMDE4LjguMzEuMVxsaWJcU3R1ZGVudFZvaWNlR3JvdXBzLkNvcmUuV2ViLmRsbDwvSGludFBhdGg+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8cGFja2FnZSBpZD0iQ0wuUHJvamVjdHMuQ29sbGVjdGlvbi5XZWJBcGkiIHZlcnNpb249IjIuMS41MzM4LjI5MzAyIiB0YXJnZXRGcmFtZXdvcms9Im5ldDQ2MiIgLz4K</text>
+        <text encoding="base64">ICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU3R1ZGVudFZvaWNlR3JvdXBzLkNvcmUuV2ViLCBWZXJzaW9uPTEuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbCI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CVtUcmFuc2FjdGlvbl0KCVtSZXF1aXJlSHR0cHNdCglbQXV0aG9yaXplXQoJW0h0dHBBbnRpRm9yZ2VyeVRva2VuXQoJLy9bSXNFbmdhZ2VCdWRnZXRpbmdFbmFibGVkXQo=</text>
+        <text encoding="base64">dXNpbmcgQ2FtcHVzTGFicy5Qcm9qZWN0cy5Db2xsZWN0aW9uLldlYkFwaS5Db250cm9sbGVyczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjZmcuQXNzZW1ibHlDb250YWluaW5nVHlwZTxOYXZpZ2F0aW9uQ29udHJvbGxlcj4oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFJlU2hhcnBlciBkaXNhYmxlIFVudXNlZEF1dG9Qcm9wZXJ0eUFjY2Vzc29yLkxvY2FsCg==</text>
+        <text encoding="base64">ICA8cGFja2FnZSBpZD0iQ0wuUHJvamVjdHMuQ29sbGVjdGlvbi5XZWJBcGkiIHZlcnNpb249IjIuMS41MzM4LjI5MzAyIiB0YXJnZXRGcmFtZXdvcms9Im5ldDQ2MiIgLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFJlU2hhcnBlciBkaXNhYmxlIFVuYXNzaWduZWRGaWVsZC5Mb2NhbAo=</text>
+        <text encoding="base64">CVtUcmFuc2FjdGlvbl0KCVtSZXF1aXJlSHR0cHNdCglbQXV0aG9yaXplXQoJW0h0dHBBbnRpRm9yZ2VyeVRva2VuXQoJLy9bSXNFbmdhZ2VCdWRnZXRpbmdFbmFibGVkXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vW1JvdXRlKCJjb2xsZWN0aW9uYXBpL25hdmlnYXRpb24iKV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFJlU2hhcnBlciBkaXNhYmxlIFVudXNlZEF1dG9Qcm9wZXJ0eUFjY2Vzc29yLkxvY2FsCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>Csv</last-search>
+      <last-search>StudentVoice</last-search>
       <last-offset />
-      <last-pattern>Csv</last-pattern>
+      <last-pattern>StudentVoice</last-pattern>
       <last-replace>organizationType</last-replace>
       <last-substitute>financeConfiguration</last-substitute>
       <last-dir>1</last-dir>
@@ -231,7 +218,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdWJtaXR0ZXJcPg==</entry>
         <entry encoding="base64">XDxhY2NvdW50SW5mb1NlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxfaW5zdGl0dXRpb25Db250ZXh0XD4=</entry>
         <entry encoding="base64">XDxfYWNjb3VudFByb3ZpZGVyXD4=</entry>
@@ -251,6 +237,7 @@
         <entry encoding="base64">XDxUb1Jlc3VsdE9iamVjdFw+</entry>
         <entry>Collection</entry>
         <entry>Csv</entry>
+        <entry>StudentVoice</entry>
       </history-search>
       <history-cmd>
         <entry>)</entry>
