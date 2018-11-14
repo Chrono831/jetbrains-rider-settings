@@ -96,6 +96,11 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Controllers/BaseController.cs" timestamp="1542214790096">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/RoleAuthorizeAttribute.cs" timestamp="1541450045754">
         <mark key="[" line="20" column="70" />
         <mark key="]" line="22" column="19" />
@@ -168,12 +173,6 @@
         <mark key="]" line="66" column="16" />
         <mark key="^" line="58" column="25" />
         <mark key="." line="66" column="16" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting/Web/assets/finance/js/collection/page.js" timestamp="1542139040611">
-        <mark key="[" line="89" column="37" />
-        <mark key="]" line="89" column="39" />
-        <mark key="^" line="89" column="39" />
-        <mark key="." line="89" column="39" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting/WebApi/Controllers/Settings/SettingsSectionTypesController.cs" timestamp="1542052062286">
         <mark key="[" line="11" column="0" />
@@ -369,12 +368,6 @@
         <mark key="." line="25" column="57" />
         <mark key="^" line="25" column="57" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting/Web/assets/finance/js/collection/collection.js" timestamp="1542139035564">
-        <mark key="[" line="38" column="37" />
-        <mark key="]" line="38" column="39" />
-        <mark key="^" line="38" column="39" />
-        <mark key="." line="38" column="39" />
-      </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.MessageHandlers/Handlers/Organizations/OrganizationsTopicSubscriber.cs" timestamp="1541793110158">
         <mark key="[" line="27" column="70" />
         <mark key="]" line="27" column="90" />
@@ -531,7 +524,7 @@
         <text>pj$</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CVtUcmFuc2FjdGlvbl0KCVtSZXF1aXJlSHR0cHNdCglbQXV0aG9yaXplXQoJW0h0dHBBbnRpRm9yZ2VyeVRva2VuXQoJLy9bSXNFbmdhZ2VCdWRnZXRpbmdFbmFibGVkXQo=</text>
       </register>
       <register name="-" type="4">
         <text>//return Page(new PageDto { Id = pageRequest.Id });</text>
@@ -543,28 +536,28 @@
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IHN0cmluZyBfbGFzdFN1Ym1pdHRlZCA9IEAiV0lUSCBGaXJzdFN1Ym1pdHRlZCBBUyAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CVtUcmFuc2FjdGlvbl0KCVtSZXF1aXJlSHR0cHNdCglbQXV0aG9yaXplXQoJW0h0dHBBbnRpRm9yZ2VyeVRva2VuXQoJLy9bSXNFbmdhZ2VCdWRnZXRpbmdFbmFibGVkXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFJlU2hhcnBlciBkaXNhYmxlIFVudXNlZEF1dG9Qcm9wZXJ0eUFjY2Vzc29yLkxvY2FsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFJlU2hhcnBlciBkaXNhYmxlIFVuYXNzaWduZWRGaWVsZC5Mb2NhbAo=</text>
+        <text encoding="base64">ICAgIC8vIFJlU2hhcnBlciBkaXNhYmxlIFVudXNlZEF1dG9Qcm9wZXJ0eUFjY2Vzc29yLkxvY2FsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vW1JvdXRlKCJjb2xsZWN0aW9uYXBpL25hdmlnYXRpb24iKV0K</text>
+        <text encoding="base64">ICAgIC8vIFJlU2hhcnBlciBkaXNhYmxlIFVuYXNzaWduZWRGaWVsZC5Mb2NhbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vW1JvdXRlKCJjb2xsZWN0aW9uYXBpL25hdmlnYXRpb24iKV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUIFtJZF0KICAgICAgLFtQcm9jZXNzXQogICAgICAsW0J1ZGdldFR5cGVdCiAgICAgICxbU3RlcF0KICAgICAgLFtTdGF0dXNdCiAgICAgICxbU3RhdHVzTGFzdFVwZGF0ZWRdCiAgICAgICxbTmFtZV0KICAgICAgLFtBY2NvdW50SWRdCiAgICAgICxbQ29sbGVnaWF0ZUxpbmtPcmdhbml6YXRpb25JZF0KICAgICAgLFtBbW91bnRdCiAgICAgICxbQWRqdXN0bWVudEFtb3VudF0KICAgICAgLFtGaXJzdFN1Ym1pdHRlZF0KICBGUk9NIFtkYm9dLltMYXN0U3VibWl0dGVkUXVlcnldCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJwo=</text>
+        <text encoding="base64">U0VMRUNUIFtJZF0KICAgICAgLFtQcm9jZXNzXQogICAgICAsW0J1ZGdldFR5cGVdCiAgICAgICxbU3RlcF0KICAgICAgLFtTdGF0dXNdCiAgICAgICxbU3RhdHVzTGFzdFVwZGF0ZWRdCiAgICAgICxbTmFtZV0KICAgICAgLFtBY2NvdW50SWRdCiAgICAgICxbQ29sbGVnaWF0ZUxpbmtPcmdhbml6YXRpb25JZF0KICAgICAgLFtBbW91bnRdCiAgICAgICxbQWRqdXN0bWVudEFtb3VudF0KICAgICAgLFtGaXJzdFN1Ym1pdHRlZF0KICBGUk9NIFtkYm9dLltMYXN0U3VibWl0dGVkUXVlcnldCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJyksJwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
