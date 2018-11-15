@@ -116,12 +116,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" timestamp="1542315094242">
-        <mark key="'" line="147" column="73" />
-        <mark key="[" line="105" column="136" />
-        <mark key="]" line="105" column="137" />
-        <mark key="." line="105" column="137" />
-        <mark key="^" line="105" column="137" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" timestamp="1542316314762">
+        <mark key="[" line="131" column="56" />
+        <mark key="]" line="131" column="80" />
+        <mark key="^" line="131" column="80" />
+        <mark key="." line="131" column="80" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/RoleAuthorizeAttribute.cs" timestamp="1541450045754">
         <mark key="[" line="20" column="70" />
@@ -452,8 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="47" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Reviews/ReviewsController.cs" />
-      <jump line="44" column="13" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Reviews/ReviewsController.cs" />
       <jump line="301" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
       <jump line="46" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
       <jump line="32" column="51" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
@@ -552,67 +549,67 @@
       <jump line="92" column="76" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" />
       <jump line="112" column="44" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" />
       <jump line="128" column="73" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" />
+      <jump line="57" column="22" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" />
+      <jump line="131" column="24" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>pj$</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>CollegiateLinkOrg</text>
+        <text encoding="base64">XDxvcmdhbml6YXRpb25zXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHF1ZXJ5LldoZXJlKHN1Ym1pc3Npb24gPT4gc3VibWlzc2lvbi5Pcmdhbml6YXRpb24uSWQgPT0gZmlsdGVyZWRPcmcuSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3JnYW5pemF0aW9ucy5BbnkoeCA9PiB4ID09IHN1Ym1pc3Npb24uT3JnYW5pemF0aW9uLklkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHF1ZXJ5Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuV2hlcmUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vVE9ETyBpZiB0aGlzIG9yZyBpcyBhIGJyYW5jaCwgYW5kIHVzZXIgaXMgYSBicmFuY2ggYWRtaW4gZm9yIHRoaXMgb3JnIHRoZW4gcmV0dXJuIGFsbCBmb3IgdGhpcyBvcmcgYW5kIGZvciBhbGwgb3JncyB0aGF0IGFyZSB1bmRlciB0aGUgYnJhbmNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHF1ZXJ5Lgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9UT0RPIGlmIHRoaXMgb3JnIGlzIGEgYnJhbmNoLCBhbmQgdXNlciBpcyBhIGJyYW5jaCBhZG1pbiBmb3IgdGhpcyBvcmcgdGhlbiByZXR1cm4gYWxsIGZvciB0aGlzIG9yZyBhbmQgZm9yIGFsbCBvcmdzIHRoYXQgYXJlIHVuZGVyIHRoZSBicmFuY2gK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuV2hlcmUoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LlRvdGFsSXRlbXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vVE9ETyBpZiB0aGlzIG9yZyBpcyBhIGJyYW5jaCwgYW5kIHVzZXIgaXMgYSBicmFuY2ggYWRtaW4gZm9yIHRoaXMgb3JnIHRoZW4gcmV0dXJuIGFsbCBmb3IgdGhpcyBvcmcgYW5kIGZvciBhbGwgb3JncyB0aGF0IGFyZSB1bmRlciB0aGUgYnJhbmNoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG9iaiA9IGJhc2UuVG9EdG8oKTsKICAgICAgICAgICAgb2JqLgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBRdWVzdGlvbkdyb3VwID0gUXVlc3Rpb25Hcm91cAogICAgICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>CollegiateLinkOrg</last-search>
+      <last-search encoding="base64">XDxvcmdhbml6YXRpb25zXD4=</last-search>
       <last-offset />
-      <last-pattern>CollegiateLinkOrg</last-pattern>
+      <last-pattern encoding="base64">XDxvcmdhbml6YXRpb25zXD4=</last-pattern>
       <last-replace>organizationType</last-replace>
       <last-substitute>financeConfiguration</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>000k</entry>
-        <entry>toExclu</entry>
         <entry encoding="base64">XDxOYXZpZ2F0ZVRvUGFnZVw+</entry>
         <entry encoding="base64">XDxfcGFnZUl0ZW1zXD4=</entry>
         <entry encoding="base64">XDxUb1Jlc3VsdE9iamVjdFw+</entry>
@@ -631,6 +628,8 @@
         <entry encoding="base64">XDxUb0R0b1w+</entry>
         <entry>Organization</entry>
         <entry>CollegiateLinkOrg</entry>
+        <entry>organizations</entry>
+        <entry encoding="base64">XDxvcmdhbml6YXRpb25zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>)</entry>
@@ -648,11 +647,11 @@
         <entry>12</entry>
         <entry>92</entry>
         <entry>0</entry>
-        <entry>w</entry>
         <entry>.,$</entry>
         <entry>106</entry>
         <entry>87</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
