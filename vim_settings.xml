@@ -156,6 +156,11 @@
         <mark key="]" line="86" column="68" />
         <mark key="." line="86" column="68" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/AssetManager/javascript.json" timestamp="1542389112959">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="20" column="33" />
+        <mark key="." line="20" column="26" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/packages.config" timestamp="1540993701015">
         <mark key="[" line="86" column="34" />
         <mark key="]" line="86" column="34" />
@@ -249,14 +254,25 @@
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Web.config" timestamp="1542221788973">
         <mark key="'" line="221" column="39" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.csproj" timestamp="1542388011080">
+        <mark key="'" line="52" column="32" />
+        <mark key="[" line="872" column="35" />
+        <mark key="]" line="872" column="41" />
+        <mark key="^" line="872" column="41" />
+        <mark key="." line="872" column="41" />
+      </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EntityFramework/Models/DbSubmission.cs" timestamp="1541792442769">
         <mark key="[" line="36" column="48" />
         <mark key="]" line="36" column="52" />
         <mark key="^" line="36" column="52" />
         <mark key="." line="36" column="52" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/WebApi.csproj" timestamp="1542221744446">
-        <mark key="'" line="510" column="22" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/WebApi.csproj" timestamp="1542388028002">
+        <mark key="'" line="607" column="41" />
+        <mark key="[" line="607" column="35" />
+        <mark key="]" line="607" column="41" />
+        <mark key="^" line="607" column="41" />
+        <mark key="." line="607" column="41" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/BudgetingApiEnabledAttribute.cs" timestamp="1541524787942">
         <mark key="[" line="15" column="68" />
@@ -309,6 +325,12 @@
         <mark key="]" line="57" column="13" />
         <mark key="^" line="57" column="13" />
         <mark key="." line="57" column="13" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Web/AssetManager/AssetHelper.cs" timestamp="1542388691837">
+        <mark key="'" line="41" column="51" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/source/last-submitted-query.csv" timestamp="1542131674333">
         <mark key="'" line="286" column="222" />
@@ -442,23 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="21" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
-      <jump line="44" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
-      <jump line="29" column="42" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
-      <jump line="327" column="70" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
-      <jump line="275" column="45" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
-      <jump line="274" column="24" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
-      <jump line="147" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
-      <jump line="146" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
-      <jump line="145" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
-      <jump line="77" column="47" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
-      <jump line="43" column="8" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
-      <jump line="34" column="51" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
-      <jump line="313" column="41" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
-      <jump line="132" column="37" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
-      <jump line="82" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
-      <jump line="33" column="4" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/.editorconfig" />
-      <jump line="20" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/.editorconfig" />
       <jump line="21" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/.editorconfig" />
       <jump line="24" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/.editorconfig" />
       <jump line="14" column="38" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/GetUserAccountDetailsQuery.cs" />
@@ -542,70 +547,82 @@
       <jump line="314" column="54" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
       <jump line="185" column="70" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
       <jump line="136" column="60" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
+      <jump line="872" column="42" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.csproj" />
+      <jump line="31" column="164" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.csproj" />
+      <jump line="32" column="174" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.csproj" />
+      <jump line="52" column="32" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.csproj" />
+      <jump line="22" column="39" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/WebApi.csproj" />
+      <jump line="31" column="164" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/WebApi.csproj" />
+      <jump line="32" column="174" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/WebApi.csproj" />
+      <jump line="51" column="32" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/WebApi.csproj" />
+      <jump line="607" column="41" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/WebApi.csproj" />
+      <jump line="18" column="51" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Web/AssetManager/AssetHelper.cs" />
+      <jump line="41" column="51" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Web/AssetManager/AssetHelper.cs" />
+      <jump line="45" column="32" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/AssetManager/javascript.json" />
+      <jump line="20" column="32" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/AssetManager/javascript.json" />
+      <jump line="210" column="33" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/AssetManager/javascript.json" />
+      <jump line="167" column="33" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/AssetManager/javascript.json" />
+      <jump line="123" column="33" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/AssetManager/javascript.json" />
+      <jump line="79" column="33" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/AssetManager/javascript.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>pj$</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBbQ29sbGVnaWF0ZUxpbmtPcmdhbml6YXRpb25SZXF1aXJlZChFcnJvck1lc3NhZ2UgPSAicmVxdWlyZWQiKV0K</text>
+      <register name="&quot;" type="4">
+        <text>engage-</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
-        <text>Value</text>
+        <text encoding="base64">XDxidWRnZXRpbmdcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBQYWdlZFJlc3VsdDxTdWJtaXNzaW9uPihxdWVyeS5MaXN0PFN1Ym1pc3Npb24+KCksIDAsIDAsIDAsIFRvdGFsSXRlbXMpOwo=</text>
+      <register name="0" type="4">
+        <text>engage-</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBbQ29sbGVnaWF0ZUxpbmtPcmdhbml6YXRpb25SZXF1aXJlZChFcnJvck1lc3NhZ2UgPSAicmVxdWlyZWQiKV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFzc2V0TWFuYWdlci5HZXRBYnNvbHV0ZVBhdGgoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBQYWdlZFJlc3VsdDxTdWJtaXNzaW9uPigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRlbXAgPSAiL2VuZ2FnZS1idWRnZXRpbmciOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBbQ29sbGVnaWF0ZUxpbmtPcmdhbml6YXRpb25SZXF1aXJlZChFcnJvck1lc3NhZ2UgPSAicmVxdWlyZWQiKV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBQYWdlZFJlc3VsdDxTdWJtaXNzaW9uPigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHF1ZXJ5Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuV2hlcmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
       </register>
     </registers>
     <search>
-      <last-search>Value</last-search>
+      <last-search encoding="base64">XDxidWRnZXRpbmdcPg==</last-search>
       <last-offset />
-      <last-pattern>Value</last-pattern>
+      <last-pattern encoding="base64">XDxidWRnZXRpbmdcPg==</last-pattern>
       <last-replace>organizationType</last-replace>
       <last-substitute>financeConfiguration</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUb1Jlc3VsdE9iamVjdFw+</entry>
-        <entry>Collection</entry>
-        <entry>Csv</entry>
-        <entry>StudentVoice</entry>
-        <entry encoding="base64">XDxfc3VibWlzc2lvbkNhbGN1bGF0ZWRBbW91bnRWaWV3XD4=</entry>
         <entry encoding="base64">XDxTdWJtaXNzaW9uQ2FsY3VsYXRlZEFtb3VudFZpZXdcPg==</entry>
         <entry encoding="base64">XDxBbnN3ZXJTZXF1ZW5jZVw+</entry>
         <entry encoding="base64">XDxfc2h1ZmZsZVF1ZXN0aW9uc1w+</entry>
@@ -621,6 +638,11 @@
         <entry encoding="base64">XDxvcmdhbml6YXRpb25zXD4=</entry>
         <entry>source</entry>
         <entry>Value</entry>
+        <entry>budgetingh</entry>
+        <entry>budgeting</entry>
+        <entry encoding="base64">XDxiYXNlUGF0aFw+</entry>
+        <entry encoding="base64">XDxHZXRBYnNvbHV0ZVBhdGhcPg==</entry>
+        <entry encoding="base64">XDxidWRnZXRpbmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Link/LinkLocal/g</entry>
