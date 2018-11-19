@@ -209,6 +209,13 @@
         <mark key="." line="14" column="39" />
         <mark key="^" line="14" column="39" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1542659355439">
+        <mark key="'" line="134" column="60" />
+        <mark key="[" line="87" column="39" />
+        <mark key="]" line="87" column="39" />
+        <mark key="." line="87" column="39" />
+        <mark key="^" line="87" column="39" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/BudgetingApiAdminAccessAuthorizedAttribute.cs" timestamp="1541524336921">
         <mark key="[" line="14" column="49" />
         <mark key="]" line="14" column="49" />
@@ -332,6 +339,7 @@
         <mark key="^" line="35" column="15" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting/WebApi/AiHandleErrorAttribute.cs" timestamp="1542653648520" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/userAccountService.js" timestamp="1542659415438" />
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.MessageHandlers/appsettings.json" timestamp="1541704748559">
         <mark key="[" line="10" column="5" />
         <mark key="]" line="10" column="33" />
@@ -362,6 +370,9 @@
         <mark key="]" line="5" column="29" />
         <mark key="^" line="5" column="33" />
         <mark key="." line="5" column="29" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/GetUserAccountDetailsQuery.cs" timestamp="1542659281502">
+        <mark key="'" line="14" column="38" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Attributes/BudgetingOrganizationAccessAuthorizedAttribute.cs" timestamp="1542640688765" />
       <file name="$USER_HOME$/source/repos/App.Budgeting/Web/ErrorHandler/AiHandleErrorAttribute.cs" timestamp="1542653693913" />
@@ -401,7 +412,7 @@
         <mark key="^" line="24" column="18" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542655178170">
+      <file name="/Dummy.txt" timestamp="1542659067353">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.MessageHandlers/Handlers/Organizations/OrganizationsTopicSubscriber.cs" timestamp="1542635728624">
@@ -438,7 +449,6 @@
       <file name="/GetSubmissionsQuery.cs" timestamp="1542638090251" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12845BEB-1D34-4C7B-B7A0-3CB7CC2181F3/e8/588456ec/Organization.cs" />
       <jump line="96" column="17" filename="$USER_HOME$/source/repos/App.Budgeting/Web/assets/finance/js/collection/httpWrapper.js" />
       <jump line="5" column="8" filename="$USER_HOME$/source/repos/App.Budgeting/Web/assets/finance/js/collection/httpWrapper.js" />
       <jump line="102" column="227" filename="$USER_HOME$/source/last-submitted-query.csv" />
@@ -538,6 +548,7 @@
       <jump line="143" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/ExportGeneratorService.cs" />
       <jump line="121" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/ExportGeneratorService.cs" />
       <jump line="27" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/ExportGeneratorService.cs" />
+      <jump line="14" column="38" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/GetUserAccountDetailsQuery.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -550,7 +561,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY29yZURhdGFBcGlcPg==</text>
+        <text encoding="base64">XDxfYWNjb3VudEluZm9TZXJ2aWNlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIFN1Ym1pdHRlckVtYWlsIHsgZ2V0OyBzZXQ7IH0K</text>
@@ -587,9 +598,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY29yZURhdGFBcGlcPg==</last-search>
+      <last-search encoding="base64">XDxfYWNjb3VudEluZm9TZXJ2aWNlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY29yZURhdGFBcGlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfYWNjb3VudEluZm9TZXJ2aWNlXD4=</last-pattern>
       <last-replace>organizationType</last-replace>
       <last-substitute>financeConfiguration</last-substitute>
       <last-dir>-1</last-dir>
@@ -597,7 +608,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Value</entry>
         <entry>budgetingh</entry>
         <entry>budgeting</entry>
         <entry encoding="base64">XDxiYXNlUGF0aFw+</entry>
@@ -617,6 +627,7 @@
         <entry encoding="base64">XDxBY2NvdW50SWRcPg==</entry>
         <entry encoding="base64">XDxjb3JlRGF0YUFjY291bnRzXD4=</entry>
         <entry encoding="base64">XDxfY29yZURhdGFBcGlcPg==</entry>
+        <entry encoding="base64">XDxfYWNjb3VudEluZm9TZXJ2aWNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>444</entry>
