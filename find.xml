@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\WebApi\Controllers\Submissions\SubmissionsController.cs'" />
-    <option name="defaultScopeName" value="File '...\WebApi\Controllers\Submissions\SubmissionsController.cs'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\WebApi\Controllers\Submissions\SubmissionsController.cs'" />
+    <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,7 +14,7 @@
     <mask>*.mxml</mask>
     <mask>*.css</mask>
     <mask>*.aspx</mask>
-    <mask>*.cs</mask>
     <mask>*.js</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
