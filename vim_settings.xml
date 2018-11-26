@@ -442,6 +442,9 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting/Collection/Domain/Model/Projects/Questions/Base/Question.cs" timestamp="1543239210526">
+        <mark key="'" line="20" column="23" />
+      </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.MessageHandlers/Handlers/Communities/CommunityMemberChangedListener.cs" timestamp="1541700343786">
         <mark key="[" line="18" column="40" />
         <mark key="]" line="18" column="81" />
@@ -520,7 +523,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="20" filename="$USER_HOME$/source/repos/App.Budgeting/Collection/Domain/Model/Projects/Pages/Page.cs" />
       <jump line="90" column="19" filename="$USER_HOME$/source/repos/App.Budgeting/WebApi/Controllers/Collection/NavigationApiController.cs" />
       <jump line="103" column="30" filename="$USER_HOME$/source/repos/App.Budgeting/WebApi/Controllers/Collection/NavigationApiController.cs" />
       <jump line="41" column="19" filename="$USER_HOME$/source/repos/App.Budgeting/WebApi/Controllers/Collection/NavigationApiController.cs" />
@@ -620,6 +622,7 @@
       <jump line="59" column="29" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
       <jump line="155" column="18" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
       <jump line="154" column="25" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
+      <jump line="20" column="23" filename="$USER_HOME$/source/repos/App.Budgeting/Collection/Domain/Model/Projects/Questions/Base/Question.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -632,7 +635,7 @@
         <text>Post</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfb3JnYW5pemF0aW9uXD4=</text>
+        <text encoding="base64">XDxfdGV4dFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigiaG90LWZpcmUgOiBBcGkgU3VibWlzc2lvbnMuUG9zdCIpOwo=</text>
@@ -669,9 +672,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfb3JnYW5pemF0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxfdGV4dFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfb3JnYW5pemF0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfdGV4dFw+</last-pattern>
       <last-replace>organizationType</last-replace>
       <last-substitute>financeConfiguration</last-substitute>
       <last-dir>-1</last-dir>
@@ -679,7 +682,6 @@
     </search>
     <history>
       <history-search>
-        <entry>-1</entry>
         <entry encoding="base64">XDxvcmdhbml6YXRpb25zTWF4TGlzdFNpemVcPg==</entry>
         <entry>drew</entry>
         <entry>Length</entry>
@@ -699,6 +701,7 @@
         <entry encoding="base64">XDxfb3JnUGlsbGFyQ2xpZW50XD4=</entry>
         <entry encoding="base64">XDxVc2VyQXV0aG9yaXplZEZvclJlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxfb3JnYW5pemF0aW9uXD4=</entry>
+        <entry encoding="base64">XDxfdGV4dFw+</entry>
       </history-search>
       <history-cmd>
         <entry>444</entry>
