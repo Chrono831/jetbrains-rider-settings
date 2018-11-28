@@ -42,10 +42,12 @@
         <mark key="^" line="51" column="106" />
         <mark key="." line="51" column="106" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceController.cs" timestamp="1543353262492">
+      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceController.cs" timestamp="1543424093717">
         <mark key="'" line="1183" column="47" />
-        <mark key="[" line="370" column="0" />
-        <mark key="]" line="373" column="9" />
+        <mark key="[" line="407" column="34" />
+        <mark key="]" line="407" column="37" />
+        <mark key="." line="407" column="37" />
+        <mark key="^" line="407" column="37" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/FinanceBootstrap.cs" timestamp="1543266356193">
         <mark key="[" line="25" column="0" />
@@ -60,7 +62,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Views/Finance/Account.aspx" timestamp="1543344109187" />
-      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" timestamp="1543422782029" />
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" timestamp="1543423733072">
+        <mark key="'" line="1074" column="35" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting/Base/Web/AntiXssHelpersLocal.cs" timestamp="1543264044824">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="166" column="1" />
@@ -98,8 +102,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="36" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
-      <jump line="167" column="30" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
       <jump line="92" column="76" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" />
       <jump line="128" column="73" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" />
       <jump line="57" column="22" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" />
@@ -198,22 +200,24 @@
       <jump line="770" column="108" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
       <jump line="726" column="19" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
       <jump line="68" column="42" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Finance/FinanceTransaction.cs" />
+      <jump line="728" column="12" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" />
+      <jump line="1074" column="35" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>pj$</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJdmFyIGZpbmFuY2VDb3B5ID0gTWFwcGVyLk1hcDxGaW5hbmNlVHJhbnNhY3Rpb24sIEZpbmFuY2VUcmFuc2FjdGlvbj4odGhpcyk7Cg==</text>
+        <text encoding="base64">CQlbSHR0cFBvc3RdCgkJW1ZhbGlkYXRlQW50aUZvcmdlcnlUb2tlbl0KCQlwdWJsaWMgQWN0aW9uUmVzdWx0IENyZWF0ZVRyYW5zZmVyKENyZWF0ZUZpbmFuY2VUcmFuc2ZlclJlc3BvbnNlTW9kZWwgbW9kZWwpCgkJewoJCQlpZiAoTW9kZWxTdGF0ZS5Jc1ZhbGlkKQoJCQl7CgkJCQl2YXIgdHJhbnNmZXIgPSBTYXZlVHJhbnNmZXIobW9kZWwpOwoJCQkJQWRkVmFsaWRhdGlvblJlc3VsdHModHJhbnNmZXIuSW52YWxpZFZhbHVlcyk7CgkJCQlpZiAodHJhbnNmZXIuSW52YWxpZFZhbHVlcy5Db3VudCA9PSAwKQoJCQkJewoJCQkJCWlmIChtb2RlbC5SZXF1ZXN0SWQgIT0gbnVsbCkKCQkJCQl7CgkJCQkJCUZsYXNoSGVscGVycy5GbGFzaEluZm8odGhpcywgRmluYW5jZU1lc3NhZ2VzLlRSQU5TQUNUSU9OX0FUVEFDSEVEX1RPX1JFUVVFU1RfU1VDQ0VTU0ZVTExZKTsKCQkJCQkJcmV0dXJuIFJlZGlyZWN0VG9BY3Rpb24oImVkaXRwdXJjaGFzZXJlcXVlc3QiLCAiZmluYW5jZSIsIG5ldyB7IElkID0gbW9kZWwuUmVxdWVzdElkLCB0YWIgPSAiVHJhbnNhY3Rpb25zIiB9KTsKCQkJCQl9CgkJCQkJRmxhc2hIZWxwZXJzLkZsYXNoSW5mbyh0aGlzLCBGaW5hbmNlTWVzc2FnZXMuVFJBTlNBQ1RJT05fQ1JFQVRFRF9TVUNDRVNTRlVMTFkpOwoJCQkJCXJldHVybiBSZWRpcmVjdFRvQWN0aW9uKCJkZXRhaWwiLCAiZmluYW5jZWFjY291bnQiLCBuZXcgeyBJZCA9IG1vZGVsLkZyb21BY2NvdW50SWQsIHRhYiA9ICJUcmFuc2FjdGlvbnMiIH0pOwoJCQkJfQoJCQl9CgkJCXZhciB2aWV3TW9kZWwgPSBHZXRGaW5hbmNlVHJhbnNmZXJWaWV3TW9kZWwobW9kZWwuRnJvbUFjY291bnRJZCwgbW9kZWwuUmVxdWVzdElkKTsKCQkJaWYgKG1vZGVsLlRvQWNjb3VudElkLkhhc1ZhbHVlKQoJCQl7CgkJCQl2YXIgdG9BY2NvdW50ID0gX2ZpbmFuY2VTZXJ2aWNlLkdldEFjY291bnRCeUlkKG1vZGVsLlRvQWNjb3VudElkLlZhbHVlKTsKCQkJCXZpZXdNb2RlbC5Ub0FjY291bnRJZCA9IHRvQWNjb3VudC5JZDsKCQkJCXZpZXdNb2RlbC5Ub0FjY291bnROYW1lID0gdG9BY2NvdW50Lk5hbWU7CgkJCX0KCQkJcmV0dXJuIFZpZXcodmlld01vZGVsKTsKCQl9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb3B5XD4=</text>
+        <text encoding="base64">XDxTYXZlRGVwb3NpdE92ZXJBY2NvdW50VHJlZV9wXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJdmFyIGZpbmFuY2VDb3B5ID0gTWFwcGVyLk1hcDxGaW5hbmNlVHJhbnNhY3Rpb24sIEZpbmFuY2VUcmFuc2FjdGlvbj4odGhpcyk7Cg==</text>
+        <text encoding="base64">CQlbSHR0cFBvc3RdCgkJW1ZhbGlkYXRlQW50aUZvcmdlcnlUb2tlbl0KCQlwdWJsaWMgQWN0aW9uUmVzdWx0IENyZWF0ZVRyYW5zZmVyKENyZWF0ZUZpbmFuY2VUcmFuc2ZlclJlc3BvbnNlTW9kZWwgbW9kZWwpCgkJewoJCQlpZiAoTW9kZWxTdGF0ZS5Jc1ZhbGlkKQoJCQl7CgkJCQl2YXIgdHJhbnNmZXIgPSBTYXZlVHJhbnNmZXIobW9kZWwpOwoJCQkJQWRkVmFsaWRhdGlvblJlc3VsdHModHJhbnNmZXIuSW52YWxpZFZhbHVlcyk7CgkJCQlpZiAodHJhbnNmZXIuSW52YWxpZFZhbHVlcy5Db3VudCA9PSAwKQoJCQkJewoJCQkJCWlmIChtb2RlbC5SZXF1ZXN0SWQgIT0gbnVsbCkKCQkJCQl7CgkJCQkJCUZsYXNoSGVscGVycy5GbGFzaEluZm8odGhpcywgRmluYW5jZU1lc3NhZ2VzLlRSQU5TQUNUSU9OX0FUVEFDSEVEX1RPX1JFUVVFU1RfU1VDQ0VTU0ZVTExZKTsKCQkJCQkJcmV0dXJuIFJlZGlyZWN0VG9BY3Rpb24oImVkaXRwdXJjaGFzZXJlcXVlc3QiLCAiZmluYW5jZSIsIG5ldyB7IElkID0gbW9kZWwuUmVxdWVzdElkLCB0YWIgPSAiVHJhbnNhY3Rpb25zIiB9KTsKCQkJCQl9CgkJCQkJRmxhc2hIZWxwZXJzLkZsYXNoSW5mbyh0aGlzLCBGaW5hbmNlTWVzc2FnZXMuVFJBTlNBQ1RJT05fQ1JFQVRFRF9TVUNDRVNTRlVMTFkpOwoJCQkJCXJldHVybiBSZWRpcmVjdFRvQWN0aW9uKCJkZXRhaWwiLCAiZmluYW5jZWFjY291bnQiLCBuZXcgeyBJZCA9IG1vZGVsLkZyb21BY2NvdW50SWQsIHRhYiA9ICJUcmFuc2FjdGlvbnMiIH0pOwoJCQkJfQoJCQl9CgkJCXZhciB2aWV3TW9kZWwgPSBHZXRGaW5hbmNlVHJhbnNmZXJWaWV3TW9kZWwobW9kZWwuRnJvbUFjY291bnRJZCwgbW9kZWwuUmVxdWVzdElkKTsKCQkJaWYgKG1vZGVsLlRvQWNjb3VudElkLkhhc1ZhbHVlKQoJCQl7CgkJCQl2YXIgdG9BY2NvdW50ID0gX2ZpbmFuY2VTZXJ2aWNlLkdldEFjY291bnRCeUlkKG1vZGVsLlRvQWNjb3VudElkLlZhbHVlKTsKCQkJCXZpZXdNb2RlbC5Ub0FjY291bnRJZCA9IHRvQWNjb3VudC5JZDsKCQkJCXZpZXdNb2RlbC5Ub0FjY291bnROYW1lID0gdG9BY2NvdW50Lk5hbWU7CgkJCX0KCQkJcmV0dXJuIFZpZXcodmlld01vZGVsKTsKCQl9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkK</text>
@@ -247,9 +251,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb3B5XD4=</last-search>
+      <last-search encoding="base64">XDxTYXZlRGVwb3NpdE92ZXJBY2NvdW50VHJlZV9wXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb3B5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxTYXZlRGVwb3NpdE92ZXJBY2NvdW50VHJlZV9wXD4=</last-pattern>
       <last-replace>organizationType</last-replace>
       <last-substitute>financeConfiguration</last-substitute>
       <last-dir>-1</last-dir>
@@ -257,7 +261,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfb3JnYW5pemF0aW9uU2VydmljZVw+</entry>
         <entry encoding="base64">XDxvcmdhbml6YXRpb25TZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxET0VTX05PVF9FWElTVFw+</entry>
         <entry encoding="base64">XDxvcmdhbml6YXRpb25cPg==</entry>
@@ -277,6 +280,7 @@
         <entry encoding="base64">XDxNYXBGaW5hbmNlQ2F0ZWdvcmllc1w+</entry>
         <entry encoding="base64">XDxHZXRGaW5hbmNlVHJhbnNmZXJWaWV3TW9kZWxcPg==</entry>
         <entry encoding="base64">XDxDb3B5XD4=</entry>
+        <entry encoding="base64">XDxTYXZlRGVwb3NpdE92ZXJBY2NvdW50VHJlZV9wXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
