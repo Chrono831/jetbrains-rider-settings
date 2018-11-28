@@ -28,11 +28,14 @@
         <mark key="^" line="39" column="11" />
         <mark key="." line="40" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EB8C7C6F-6106-4EAC-9DC8-EA7D29C0C081/f1/a31101f0/IFinanceService.cs" timestamp="1543346090681" />
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1543265069137">
-        <mark key="'" line="16" column="44" />
-        <mark key="^" line="16" column="62" />
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Finance/FinanceTransaction.cs" timestamp="1543422773608">
+        <mark key="'" line="68" column="42" />
+        <mark key="[" line="71" column="42" />
+        <mark key="]" line="71" column="46" />
+        <mark key="." line="71" column="46" />
+        <mark key="^" line="71" column="46" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EB8C7C6F-6106-4EAC-9DC8-EA7D29C0C081/f1/a31101f0/IFinanceService.cs" timestamp="1543346090681" />
       <file name="$USER_HOME$/source/repos/App.Budgeting/WebApi/Global.asax.cs" timestamp="1542815510725">
         <mark key="[" line="51" column="98" />
         <mark key="]" line="51" column="106" />
@@ -57,7 +60,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Views/Finance/Account.aspx" timestamp="1543344109187" />
-      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" timestamp="1543345945383" />
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" timestamp="1543422782029" />
       <file name="$USER_HOME$/source/repos/App.Budgeting/Base/Web/AntiXssHelpersLocal.cs" timestamp="1543264044824">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="166" column="1" />
@@ -95,7 +98,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="42" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
       <jump line="149" column="36" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
       <jump line="167" column="30" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
       <jump line="92" column="76" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" />
@@ -195,22 +197,23 @@
       <jump line="762" column="46" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
       <jump line="770" column="108" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
       <jump line="726" column="19" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
+      <jump line="68" column="42" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Finance/FinanceTransaction.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>pj$</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJdmFyIGZpbmFuY2VDb3B5ID0gTWFwcGVyLk1hcDxGaW5hbmNlVHJhbnNhY3Rpb24sIEZpbmFuY2VUcmFuc2FjdGlvbj4odGhpcyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHZXRGaW5hbmNlVHJhbnNmZXJWaWV3TW9kZWxcPg==</text>
+        <text encoding="base64">XDxDb3B5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlwcml2YXRlIENyZWF0ZUZpbmFuY2VUcmFuc2ZlclZpZXdNb2RlbCBHZXRGaW5hbmNlVHJhbnNmZXJWaWV3TW9kZWwoaW50PyBhY2NvdW50SWQsIGludD8gcmVxdWVzdElkKQo=</text>
+        <text encoding="base64">CQkJdmFyIGZpbmFuY2VDb3B5ID0gTWFwcGVyLk1hcDxGaW5hbmNlVHJhbnNhY3Rpb24sIEZpbmFuY2VUcmFuc2FjdGlvbj4odGhpcyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkK</text>
@@ -244,9 +247,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHZXRGaW5hbmNlVHJhbnNmZXJWaWV3TW9kZWxcPg==</last-search>
+      <last-search encoding="base64">XDxDb3B5XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHZXRGaW5hbmNlVHJhbnNmZXJWaWV3TW9kZWxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxDb3B5XD4=</last-pattern>
       <last-replace>organizationType</last-replace>
       <last-substitute>financeConfiguration</last-substitute>
       <last-dir>-1</last-dir>
@@ -254,7 +257,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0JyYW5jaEFkbWluRm9yT3JnYW5pemF0aW9uXD4=</entry>
         <entry encoding="base64">XDxfb3JnYW5pemF0aW9uU2VydmljZVw+</entry>
         <entry encoding="base64">XDxvcmdhbml6YXRpb25TZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxET0VTX05PVF9FWElTVFw+</entry>
@@ -274,6 +276,7 @@
         <entry encoding="base64">XDx0YWJcPg==</entry>
         <entry encoding="base64">XDxNYXBGaW5hbmNlQ2F0ZWdvcmllc1w+</entry>
         <entry encoding="base64">XDxHZXRGaW5hbmNlVHJhbnNmZXJWaWV3TW9kZWxcPg==</entry>
+        <entry encoding="base64">XDxDb3B5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
