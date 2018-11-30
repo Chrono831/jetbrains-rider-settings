@@ -64,9 +64,6 @@
         <mark key="]" line="1455" column="238" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Views/Finance/Account.aspx" timestamp="1543344109187" />
-      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" timestamp="1543518059679">
-        <mark key="'" line="1074" column="35" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Attributes/RoleAuthorizeAttribute.cs" timestamp="1543241373550">
         <mark key="[" line="18" column="12" />
         <mark key="]" line="18" column="12" />
@@ -113,11 +110,13 @@
         <mark key="." line="73" column="32" />
         <mark key="^" line="73" column="33" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" timestamp="1543523499129">
-        <mark key="[" line="35" column="18" />
-        <mark key="]" line="35" column="19" />
-        <mark key="." line="35" column="19" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" timestamp="1543586615779">
+        <mark key="[" line="33" column="69" />
+        <mark key="]" line="33" column="70" />
+        <mark key="." line="33" column="70" />
+        <mark key="^" line="33" column="70" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1543586147181" />
       <file name="$USER_HOME$/source/repos/App.Budgeting/WebApi/Global.asax.cs" timestamp="1542815510725">
         <mark key="[" line="51" column="98" />
         <mark key="]" line="51" column="106" />
@@ -137,12 +136,12 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Controllers/FinanceApiController.cs" timestamp="1543523549193">
-        <mark key="'" line="95" column="27" />
-        <mark key="[" line="83" column="8" />
-        <mark key="]" line="83" column="8" />
-        <mark key="^" line="91" column="9" />
-        <mark key="." line="83" column="8" />
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Controllers/FinanceApiController.cs" timestamp="1543586319314">
+        <mark key="'" line="89" column="18" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="90" column="9" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting/Base/Web/AntiXssHelpersLocal.cs" timestamp="1543264044824">
         <mark key="[" line="0" column="0" />
@@ -181,7 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="26" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Automaps/FinanceMaps.cs" />
       <jump line="48" column="41" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
       <jump line="382" column="31" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceController.cs" />
       <jump line="1504" column="35" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceController.cs" />
@@ -281,66 +279,66 @@
       <jump line="95" column="27" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Controllers/FinanceApiController.cs" />
       <jump line="72" column="208" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.config" />
       <jump line="71" column="208" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.config" />
+      <jump line="90" column="18" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Controllers/FinanceApiController.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>pj$</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>$</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDw5Q0ZENENGMTc4RDBFMkExNjBGNDZGODg3NTVDMURBMlw+</text>
+        <text>System.Web.Http</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX19SZXF1ZXN0VmVyaWZpY2F0aW9uVG9rZW46ICQoJ2lucHV0W25hbWU9Il9fUmVxdWVzdFZlcmlmaWNhdGlvblRva2VuIl0nKS52YWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICBfX1JlcXVlc3RWZXJpZmljYXRpb25Ub2tlbjogJCgnaW5wdXRbbmFtZT0iX19SZXF1ZXN0VmVyaWZpY2F0aW9uVG9rZW4iXScpLnZhbCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBfX1JlcXVlc3RWZXJpZmljYXRpb25Ub2tlbjogZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJycpCg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLldlYi5IdHRwOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwhLS0tIDxtYWNoaW5lS2V5IGNvbXBhdGliaWxpdHlNb2RlPSJGcmFtZXdvcms0NSIgdmFsaWRhdGlvbktleT0iOTRGQjM4MUQ2N0QxNDE5MDNEQUY3NUQ2NDZDMjAzRjM5MUEwOEE4ODc0Mjg2QUZBNUM5NDVEMDY5M0VBNzBEQUM3RUU3Q0FERjE3RDA0MkQwQTlBQjVEQTZCRTc2MjQ2RjA1NjkwMkEwRjIxNUM1MkQ1MkJCNEE5REFGQTM4MzciIGRlY3J5cHRpb25LZXk9IjlDRkQ0Q0YxNzhEMEUyQTE2MEY0NkY4ODc1NUMxREEyIiB2YWxpZGF0aW9uPSJTSEExIi8+IC0tLT4K</text>
+        <text encoding="base64">ICAgICAgICBfX1JlcXVlc3RWZXJpZmljYXRpb25Ub2tlbjogZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJycpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIDwhLS0tIDxtYWNoaW5lS2V5IGNvbXBhdGliaWxpdHlNb2RlPSJGcmFtZXdvcms0NSIgdmFsaWRhdGlvbktleT0iOTRGQjM4MUQ2N0QxNDE5MDNEQUY3NUQ2NDZDMjAzRjM5MUEwOEE4ODc0Mjg2QUZBNUM5NDVEMDY5M0VBNzBEQUM3RUU3Q0FERjE3RDA0MkQwQTlBQjVEQTZCRTc2MjQ2RjA1NjkwMkEwRjIxNUM1MkQ1MkJCNEE5REFGQTM4MzciIGRlY3J5cHRpb25LZXk9IjlDRkQ0Q0YxNzhEMEUyQTE2MEY0NkY4ODc1NUMxREEyIiB2YWxpZGF0aW9uPSJTSEExIi8+IC0tLT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxtYWNoaW5lS2V5IGNvbXBhdGliaWxpdHlNb2RlPSJGcmFtZXdvcms0NSIgdmFsaWRhdGlvbktleT0iOTRGQjM4MUQ2N0QxNDE5MDNEQUY3NUQ2NDZDMjAzRjM5MUEwOEE4ODc0Mjg2QUZBNUM5NDVEMDY5M0VBNzBEQUM3RUU3Q0FERjE3RDA0MkQwQTlBQjVEQTZCRTc2MjQ2RjA1NjkwMkEwRjIxNUM1MkQ1MkJCNEE5REFGQTM4MzciIGRlY3J5cHRpb25LZXk9IjlDRkQ0Q0YxNzhEMEUyQTE2MEY0NkY4ODc1NUMxREEyIiB2YWxpZGF0aW9uPSJTSEExIi8+Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0tIDxtYWNoaW5lS2V5IGNvbXBhdGliaWxpdHlNb2RlPSJGcmFtZXdvcms0NSIgdmFsaWRhdGlvbktleT0iOTRGQjM4MUQ2N0QxNDE5MDNEQUY3NUQ2NDZDMjAzRjM5MUEwOEE4ODc0Mjg2QUZBNUM5NDVEMDY5M0VBNzBEQUM3RUU3Q0FERjE3RDA0MkQwQTlBQjVEQTZCRTc2MjQ2RjA1NjkwMkEwRjIxNUM1MkQ1MkJCNEE5REFGQTM4MzciIGRlY3J5cHRpb25LZXk9IjlDRkQ0Q0YxNzhEMEUyQTE2MEY0NkY4ODc1NUMxREEyIiB2YWxpZGF0aW9uPSJTSEExIi8+IC0tLT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkgICAgCg==</text>
+        <text encoding="base64">ICAgIDxtYWNoaW5lS2V5IGNvbXBhdGliaWxpdHlNb2RlPSJGcmFtZXdvcms0NSIgdmFsaWRhdGlvbktleT0iOTRGQjM4MUQ2N0QxNDE5MDNEQUY3NUQ2NDZDMjAzRjM5MUEwOEE4ODc0Mjg2QUZBNUM5NDVEMDY5M0VBNzBEQUM3RUU3Q0FERjE3RDA0MkQwQTlBQjVEQTZCRTc2MjQ2RjA1NjkwMkEwRjIxNUM1MkQ1MkJCNEE5REFGQTM4MzciIGRlY3J5cHRpb25LZXk9IjlDRkQ0Q0YxNzhEMEUyQTE2MEY0NkY4ODc1NUMxREEyIiB2YWxpZGF0aW9uPSJTSEExIi8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CQkgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdWJtaXNzaW9uSWQgOiBzdWJtaXNzaW9uSWQsIFRleHQgOiBjb21tZW50LlRleHQsIEF1ZGllbmNlIDogY29tbWVudC5BdWRpZW5jZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDw5Q0ZENENGMTc4RDBFMkExNjBGNDZGODg3NTVDMURBMlw+</last-search>
+      <last-search>System.Web.Http</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDw5Q0ZENENGMTc4RDBFMkExNjBGNDZGODg3NTVDMURBMlw+</last-pattern>
+      <last-pattern>System.Web.Http</last-pattern>
       <last-replace>organizationType</last-replace>
       <last-substitute>financeConfiguration</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>GroupContext</entry>
         <entry encoding="base64">XDxJR3JvdXBDb250ZXh0XD4=</entry>
         <entry encoding="base64">XDxncm91cENvbnRleHRcPg==</entry>
         <entry encoding="base64">XDxMZENsaWVudFw+</entry>
@@ -360,6 +358,7 @@
         <entry encoding="base64">XDxTYXZlVHJhbnNmZXJcPg==</entry>
         <entry encoding="base64">XDw5NEZCMzgxRDY3RDE0MTkwM0RBRjc1RDY0NkMyMDNGMzkxQTA4QTg4NzQyODZBRkE1Qzk0NUQwNjkzRUE3MERBQzdFRTdDQURGMTdEMDQyRDBBOUFCNURBNkJFNzYyNDZGMDU2OTAyQTBGMjE1QzUyRDUyQkI0QTlEQUZBMzgzN1w+</entry>
         <entry encoding="base64">XDw5Q0ZENENGMTc4RDBFMkExNjBGNDZGODg3NTVDMURBMlw+</entry>
+        <entry>System.Web.Http</entry>
       </history-search>
       <history-cmd>
         <entry>.,+50s/div/diiiiiv/g</entry>
