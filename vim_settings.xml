@@ -41,12 +41,11 @@
         <mark key="^" line="32" column="73" />
         <mark key="." line="32" column="73" />
       </file>
-      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" timestamp="1543864752747">
-        <mark key="'" line="139" column="24" />
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="0" />
-        <mark key="." line="170" column="0" />
-        <mark key="^" line="165" column="54" />
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" timestamp="1543866685773">
+        <mark key="[" line="73" column="26" />
+        <mark key="]" line="74" column="23" />
+        <mark key="^" line="74" column="23" />
+        <mark key="." line="74" column="23" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1543594151474">
         <mark key="[" line="7" column="16" />
@@ -142,8 +141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="488" column="43" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
-      <jump line="643" column="32" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
       <jump line="502" column="49" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
       <jump line="527" column="49" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
       <jump line="510" column="43" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
@@ -242,58 +239,60 @@
       <jump line="148" column="63" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" />
       <jump line="144" column="73" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" />
       <jump line="139" column="24" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" />
+      <jump line="109" column="16" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" />
+      <jump line="51" column="20" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>pj$</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJLy90aHJvdyBuZXcgU3ludGF4RXJyb3JFeGNlcHRpb24oJCJ7bmFtZX0iKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWx1ZVw+</text>
+        <text encoding="base64">XDx0cnlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigkIntuYW1lfSAtIGZpZWxkIGNvbnRhaW5zIHBvdGVudGlhbGx5IHVuc2FmZSBjaGFyYWN0ZXJzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgKGludCkgSW1wb3J0Q29sdW1ucy5QYXllZSwKICAgICAgICAgICAgICAgIChpbnQpIEltcG9ydENvbHVtbnMuTWVtbywKICAgICAgICAgICAgICAgIChpbnQpIEltcG9ydENvbHVtbnMuVHlwZSwKICAgICAgICAgICAgICAgIChpbnQpIEltcG9ydENvbHVtbnMuQ2F0ZWdvcnksCiAgICAgICAgICAgICAgICAoaW50KSBJbXBvcnRDb2x1bW5zLkFjY291bnROdW1iZXIsCiAgICAgICAgICAgICAgICAoaW50KSBJbXBvcnRDb2x1bW5zLlRyYW5zYWN0aW9uTnVtYmVyLAogICAgICAgICAgICAgICAgKGludCkgSW1wb3J0Q29sdW1ucy5BbW91bnQKICAgICAgICAgICAgfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJLy90aHJvdyBuZXcgU3ludGF4RXJyb3JFeGNlcHRpb24oJCJ7bmFtZX0iKTsK</text>
+        <text encoding="base64">CQkJSW1wb3J0Q29sdW1ucy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCXRocm93IG5ldyBFeGNlcHRpb24oJCJ7ZXguTWVzc2FnZX0gLSBmaWVsZCBjb250YWlucyBwb3RlbnRpYWxseSB1bnNhZmUgY2hhcmFjdGVycyIpOwo=</text>
+        <text encoding="base64">CSAgICAgICAgVHlwZSA9IDQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXRocm93IG5ldyBFeGNlcHRpb24oJCJ7ZXguTWVzc2FnZX0gLSBmaWVsZCBjb250YWlucyBwb3RlbnRpYWxseSB1bnNhZmUgY2hhcmFjdGVycyIpOwo=</text>
+        <text encoding="base64">CSAgICAgICAgVHJhbnNhY3Rpb25OdW1iZXIgPSAwLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJSW1wb3J0Q29sdW1ucy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkgICAgICAgICAgICAgICAgICAgIHZhbHVlID0gKHN0cmluZykgZGF0YVJvdy5JdGVtQXJyYXlbaW5kZXhdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkgICAgICAgICAgICAgICAgICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50W10gdHlwZXMgPQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAoaW50KSBJbXBvcnRDb2x1bW5zLlBheWVlLAogICAgICAgICAgICAgICAgKGludCkgSW1wb3J0Q29sdW1ucy5NZW1vLAogICAgICAgICAgICAgICAgKGludCkgSW1wb3J0Q29sdW1ucy5UeXBlLAogICAgICAgICAgICAgICAgKGludCkgSW1wb3J0Q29sdW1ucy5DYXRlZ29yeSwKICAgICAgICAgICAgICAgIChpbnQpIEltcG9ydENvbHVtbnMuQWNjb3VudE51bWJlciwKICAgICAgICAgICAgICAgIChpbnQpIEltcG9ydENvbHVtbnMuVHJhbnNhY3Rpb25OdW1iZXIsCiAgICAgICAgICAgICAgICAoaW50KSBJbXBvcnRDb2x1bW5zLkFtb3VudAogICAgICAgICAgICB9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWUgPSAoc3RyaW5nKWRhdGFSb3cuSXRlbUFycmF5W2luZGV4XTsK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChpbnQpIEltcG9ydENvbHVtbnMuQW1vdW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChpbnQpIEltcG9ydENvbHVtbnMuVHJhbnNhY3Rpb25OdW1iZXIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWx1ZVw+</last-search>
+      <last-search encoding="base64">XDx0cnlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWx1ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDx0cnlcPg==</last-pattern>
       <last-replace>organizationType</last-replace>
       <last-substitute>financeConfiguration</last-substitute>
       <last-dir>-1</last-dir>
@@ -301,7 +300,6 @@
     </search>
     <history>
       <history-search>
-        <entry>System.Web.Http</entry>
         <entry encoding="base64">XDxfb3JnUGlsbGFyQ2xpZW50XD4=</entry>
         <entry>Index</entry>
         <entry encoding="base64">XDxDcmVhdGVUcmFuc2Zlclw+</entry>
@@ -321,10 +319,9 @@
         <entry encoding="base64">XDxHZXRBY2NvdW50c1w+</entry>
         <entry encoding="base64">XDxNYXBGaW5hbmNlQ2F0ZWdvcmllc1w+</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
+        <entry encoding="base64">XDx0cnlcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>.s/financeConfiguration/organizationType/g</entry>
         <entry>121</entry>
         <entry>12</entry>
         <entry>92</entry>
@@ -338,10 +335,12 @@
         <entry>126</entry>
         <entry>%y</entry>
         <entry>823</entry>
-        <entry>$</entry>
         <entry>0</entry>
         <entry>q</entry>
         <entry>+50</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry>$</entry>
+        <entry>111</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
