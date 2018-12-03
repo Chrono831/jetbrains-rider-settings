@@ -41,11 +41,12 @@
         <mark key="^" line="32" column="73" />
         <mark key="." line="32" column="73" />
       </file>
-      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" timestamp="1543862820963">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="102" column="13" />
-        <mark key="." line="102" column="13" />
-        <mark key="^" line="102" column="13" />
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" timestamp="1543864752747">
+        <mark key="'" line="139" column="24" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
+        <mark key="^" line="165" column="54" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1543594151474">
         <mark key="[" line="7" column="16" />
@@ -141,11 +142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="628" column="0" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
-      <jump line="645" column="40" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
-      <jump line="662" column="32" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
-      <jump line="679" column="61" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
-      <jump line="446" column="58" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
       <jump line="488" column="43" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
       <jump line="643" column="32" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
       <jump line="502" column="49" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
@@ -241,46 +237,51 @@
       <jump line="838" column="108" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Controllers/Base/BaseController.cs" />
       <jump line="170" column="94" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" />
+      <jump line="168" column="24" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" />
+      <jump line="159" column="90" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" />
+      <jump line="148" column="63" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" />
+      <jump line="144" column="73" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" />
+      <jump line="139" column="24" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>pj$</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJLy90aHJvdyBuZXcgU3ludGF4RXJyb3JFeGNlcHRpb24oJCJ7bmFtZX0iKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNYXBGaW5hbmNlQ2F0ZWdvcmllc1w+</text>
+        <text encoding="base64">XDx2YWx1ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJdHJ5CgkJCXsKCQkJCXZhciBuYW1lID0gSW1wb3J0Q29sdW1ucy5QYXllZS5Ub1N0cmluZygpOwoJCQkJdmFyIHZhbHVlID0gKHN0cmluZylkYXRhUm93Lkl0ZW1BcnJheVsoaW50KSBJbXBvcnRDb2x1bW5zLlBheWVlXTsKCgkJCQl2aWV3TW9kZWwuR2V0VHlwZSgpLkdldFByb3BlcnR5KG5hbWUpLlNldFZhbHVlKHZpZXdNb2RlbCwgdmFsdWUsIG51bGwpOwoJCQl9CgkJCWNhdGNoIChFeGNlcHRpb24gZXgpCgkJCXsKCQkJCXRocm93IG5ldyBFeGNlcHRpb24oJCJ7ZXguTWVzc2FnZX0gKGZvciB7SW1wb3J0Q29sdW1ucy5QYXllZS5Ub1N0cmluZygpfSkiKTsKCQkJfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigkIntuYW1lfSAtIGZpZWxkIGNvbnRhaW5zIHBvdGVudGlhbGx5IHVuc2FmZSBjaGFyYWN0ZXJzIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJLy90aHJvdyBuZXcgU3ludGF4RXJyb3JFeGNlcHRpb24oJCJ7bmFtZX0iKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHZhbHVlID0gKHN0cmluZykgZGF0YVJvdy5JdGVtQXJyYXlbaW5kZXhdOwo=</text>
+        <text encoding="base64">CQkJCXRocm93IG5ldyBFeGNlcHRpb24oJCJ7ZXguTWVzc2FnZX0gLSBmaWVsZCBjb250YWlucyBwb3RlbnRpYWxseSB1bnNhZmUgY2hhcmFjdGVycyIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIG5hbWUgPSBJbXBvcnRDb2x1bW5zLlBheWVlLlRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">CQkJCXRocm93IG5ldyBFeGNlcHRpb24oJCJ7ZXguTWVzc2FnZX0gLSBmaWVsZCBjb250YWlucyBwb3RlbnRpYWxseSB1bnNhZmUgY2hhcmFjdGVycyIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIG5hbWUgPSAoSW1wb3J0Q29sdW1ucylpbmRleDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgbmFtZSA9IChJbXBvcnRDb2x1bW5zKWluZGV4OwogICAgICAgICAgICAgICAgICAgIHZhciB2YWx1ZSA9IChzdHJpbmcpIGRhdGFSb3cuSXRlbUFycmF5W2luZGV4XTsK</text>
+        <text encoding="base64">CQkgICAgICAgICAgICAgICAgICAgIHZhbHVlID0gKHN0cmluZykgZGF0YVJvdy5JdGVtQXJyYXlbaW5kZXhdOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgdmFsdWUgPSAoc3RyaW5nKWRhdGFSb3cuSXRlbUFycmF5WyhpbnQpIEltcG9ydENvbHVtbnMuUGF5ZWVdOwo=</text>
+        <text encoding="base64">CQkgICAgICAgICAgICAgICAgICAgIGVsc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXRjaCAoRXhjZXB0aW9uIGV4KQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigkIntleC5NZXNzYWdlfSAoZm9yIHtJbXBvcnRDb2x1bW5zLlBheWVlLlRvU3RyaW5nKCl9KSIpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWUgPSAoc3RyaW5nKWRhdGFSb3cuSXRlbUFycmF5W2luZGV4XTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgdmFsdWUgPSAoc3RyaW5nKSBkYXRhUm93Lkl0ZW1BcnJheVtpbmRleF07Cg==</text>
+        <text encoding="base64">CQkgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQkJCQkK</text>
@@ -290,9 +291,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNYXBGaW5hbmNlQ2F0ZWdvcmllc1w+</last-search>
+      <last-search encoding="base64">XDx2YWx1ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNYXBGaW5hbmNlQ2F0ZWdvcmllc1w+</last-pattern>
+      <last-pattern encoding="base64">XDx2YWx1ZVw+</last-pattern>
       <last-replace>organizationType</last-replace>
       <last-substitute>financeConfiguration</last-substitute>
       <last-dir>-1</last-dir>
@@ -300,7 +301,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDw5Q0ZENENGMTc4RDBFMkExNjBGNDZGODg3NTVDMURBMlw+</entry>
         <entry>System.Web.Http</entry>
         <entry encoding="base64">XDxfb3JnUGlsbGFyQ2xpZW50XD4=</entry>
         <entry>Index</entry>
@@ -320,9 +320,9 @@
         <entry encoding="base64">XDxmaW5hbmNlQWNjb3VudFNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxHZXRBY2NvdW50c1w+</entry>
         <entry encoding="base64">XDxNYXBGaW5hbmNlQ2F0ZWdvcmllc1w+</entry>
+        <entry encoding="base64">XDx2YWx1ZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>100</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>.s/financeConfiguration/organizationType/g</entry>
         <entry>121</entry>
@@ -341,6 +341,7 @@
         <entry>$</entry>
         <entry>0</entry>
         <entry>q</entry>
+        <entry>+50</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
