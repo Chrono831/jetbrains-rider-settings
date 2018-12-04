@@ -65,7 +65,7 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="26" column="13" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/dbo/Tables/Submission.sql" timestamp="1543934509700">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/dbo/Tables/Submission.sql" timestamp="1543935762079">
         <mark key="'" line="2" column="64" />
         <mark key="[" line="16" column="52" />
         <mark key="]" line="16" column="52" />
@@ -78,11 +78,21 @@
         <mark key="." line="66" column="32" />
         <mark key="^" line="66" column="25" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" timestamp="1543936143223">
+        <mark key="'" line="156" column="25" />
+        <mark key="[" line="171" column="23" />
+        <mark key="]" line="171" column="27" />
+        <mark key="^" line="171" column="27" />
+        <mark key="." line="171" column="27" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Controllers/FinanceController.cs" timestamp="1543514309613">
         <mark key="[" line="48" column="40" />
         <mark key="]" line="48" column="40" />
         <mark key="^" line="48" column="26" />
         <mark key="." line="48" column="40" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1543936750802">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/HomeController.cs" timestamp="1543428876732">
         <mark key="[" line="3" column="17" />
@@ -142,16 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="527" column="49" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
-      <jump line="510" column="43" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
-      <jump line="366" column="47" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
-      <jump line="511" column="49" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
-      <jump line="512" column="44" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
-      <jump line="849" column="64" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
-      <jump line="850" column="19" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
-      <jump line="23" column="17" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
-      <jump line="361" column="40" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
-      <jump line="363" column="19" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
       <jump line="369" column="19" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
       <jump line="874" column="35" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
       <jump line="790" column="46" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
@@ -242,22 +242,32 @@
       <jump line="109" column="16" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" />
       <jump line="51" column="20" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" />
       <jump line="2" column="64" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/dbo/Tables/Submission.sql" />
+      <jump line="163" column="30" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
+      <jump line="165" column="25" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
+      <jump line="69" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
+      <jump line="77" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
+      <jump line="44" column="40" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
+      <jump line="227" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
+      <jump line="154" column="23" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
+      <jump line="59" column="29" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
+      <jump line="157" column="18" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
+      <jump line="156" column="25" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>pj$</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">XSA=</text>
+        <text encoding="base64">c3RyaW5nIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">XSA=</text>
+        <text encoding="base64">c3RyaW5nIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxERl9TdWJtaXNzaW9uX0RlbGV0ZWRcPg==</text>
+        <text encoding="base64">XDxfb3JnYW5pemF0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFtEZWxldGVkXSAgICAgICAgICAgICAgICAgICAgICBCSVQgICAgICAgICAgICAgIENPTlNUUkFJTlQgW0RGX1N1Ym1pc3Npb25fRGVsZXRlZF0gREVGQVVMVCAoKDApKSBOT1QgTlVMTCwK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdmlydHVhbCBzdHJpbmcgTmFtZQogICAgICAgIHsKICAgICAgICAgICAgZ2V0IHsgcmV0dXJuIF9uYW1lOyB9CiAgICAgICAgICAgIHNldCB7IF9uYW1lID0gdmFsdWU7IH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJSW1wb3J0Q29sdW1ucy4K</text>
@@ -291,9 +301,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxERl9TdWJtaXNzaW9uX0RlbGV0ZWRcPg==</last-search>
+      <last-search encoding="base64">XDxfb3JnYW5pemF0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxERl9TdWJtaXNzaW9uX0RlbGV0ZWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfb3JnYW5pemF0aW9uXD4=</last-pattern>
       <last-replace>organizationType</last-replace>
       <last-substitute>financeConfiguration</last-substitute>
       <last-dir>-1</last-dir>
@@ -301,12 +311,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Index</entry>
-        <entry encoding="base64">XDxDcmVhdGVUcmFuc2Zlclw+</entry>
-        <entry encoding="base64">XDxTYXZlVHJhbnNmZXJcPg==</entry>
-        <entry encoding="base64">XDxBZGRWYWxpZGF0aW9uUmVzdWx0c1w+</entry>
-        <entry encoding="base64">XDxmaW5hbmNlclJlcXVlc3RTdGFnZVNlcnZpY2VcPg==</entry>
-        <entry encoding="base64">XDxmaW5hbmNlUmVxdWVzdE1lc3NhZ2VQcm9jZXNzb3JcPg==</entry>
         <entry encoding="base64">XDxjb21tdW5pdHlSZXNwb25kZW50UGFnZVNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxzZWN1cml0eVNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxleHRlbnNpb25NYW5hZ2VyXD4=</entry>
@@ -321,6 +325,12 @@
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry encoding="base64">XDx0cnlcPg==</entry>
         <entry encoding="base64">XDxERl9TdWJtaXNzaW9uX0RlbGV0ZWRcPg==</entry>
+        <entry>Deleted</entry>
+        <entry encoding="base64">XDxOYW1lXD4=</entry>
+        <entry encoding="base64">XDxfbmFtZVw+</entry>
+        <entry encoding="base64">XDxfY29tbWVudHNcPg==</entry>
+        <entry encoding="base64">XDxPcmdhbml6YXRpb25cPg==</entry>
+        <entry encoding="base64">XDxfb3JnYW5pemF0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>121</entry>
