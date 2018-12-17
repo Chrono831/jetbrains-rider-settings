@@ -3,9 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Reviews/TranferToFinanceRequest.cs" timestamp="1544119991104">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Reviews/SetTranferToFinanceRequest.cs" timestamp="1544120864407">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="43" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/UserController.cs" timestamp="1545075560008">
+        <mark key="[" line="12" column="49" />
+        <mark key="]" line="12" column="49" />
+        <mark key="^" line="12" column="48" />
+        <mark key="." line="12" column="49" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Areas/Requests/Controllers/HomeController.cs" timestamp="1545073823743">
         <mark key="'" line="13" column="51" />
@@ -13,11 +25,23 @@
         <mark key="]" line="48" column="15" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Core/Features/CommunityFeatures.cs" timestamp="1545074284742" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/BudgetingApiEnabledAttribute.cs" timestamp="1544125092436">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/templates/allocateToFinance.html" timestamp="1545066281486">
         <mark key="[" line="35" column="20" />
         <mark key="]" line="36" column="106" />
         <mark key="." line="36" column="106" />
         <mark key="^" line="36" column="106" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Reviews/SetTransferToFinanceRequestHandler.cs" timestamp="1544124703288">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+        <mark key="^" line="6" column="29" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Attributes/BudgetingEnabledAttribute.cs" timestamp="1544038594208">
         <mark key="[" line="27" column="0" />
@@ -44,12 +68,36 @@
         <mark key="]" line="15" column="43" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Areas/Requests/Views/Home/OrganizationIndex.cshtml" timestamp="1545073092563" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" timestamp="1544103092123">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+        <mark key="^" line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/SubmissionMapping.cs" timestamp="1544122171380">
+        <mark key="[" line="14" column="46" />
+        <mark key="]" line="14" column="65" />
+        <mark key="." line="14" column="65" />
+        <mark key="^" line="14" column="65" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Context/InstitutionContext.cs" timestamp="1544103215155">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="3" column="25" />
+      </file>
       <file name="/Dummy.txt" timestamp="1545072094632">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/userAccountService.js" timestamp="1545072140904" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/templates/confirmAction.html" timestamp="1545072623342">
         <mark key="[" line="56" column="79" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Reviews/SetTransferToFinanceRequest.cs" timestamp="1544124690494">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="29" />
+        <mark key="." line="2" column="29" />
+        <mark key="^" line="2" column="29" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/templates/review.html" timestamp="1545071389143">
         <mark key="[" line="162" column="51" />
@@ -183,11 +231,11 @@
       <register name="a" type="4">
         <text>dwx~</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>OrganizationFeatures</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfb3JnYW5pemF0aW9uRmVhdHVyZXNcPg==</text>
