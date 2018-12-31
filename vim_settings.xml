@@ -36,11 +36,11 @@
         <mark key="." line="27" column="60" />
         <mark key="^" line="27" column="60" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" timestamp="1546263097982">
-        <mark key="[" line="312" column="25" />
-        <mark key="]" line="312" column="25" />
-        <mark key="." line="312" column="25" />
-        <mark key="^" line="311" column="93" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" timestamp="1546265312192">
+        <mark key="[" line="309" column="0" />
+        <mark key="]" line="309" column="0" />
+        <mark key="." line="309" column="0" />
+        <mark key="^" line="309" column="93" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" timestamp="1546010343786">
         <mark key="[" line="27" column="30" />
@@ -114,11 +114,11 @@
         <mark key="." line="121" column="9" />
         <mark key="^" line="126" column="101" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Section.cs" timestamp="1546264511978">
-        <mark key="[" line="37" column="73" />
-        <mark key="]" line="37" column="73" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Section.cs" timestamp="1546265267575">
+        <mark key="[" line="97" column="93" />
+        <mark key="]" line="97" column="93" />
         <mark key="^" line="37" column="67" />
-        <mark key="." line="37" column="73" />
+        <mark key="." line="97" column="93" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/WebApi.csproj" timestamp="1545925619915">
         <mark key="[" line="636" column="18" />
@@ -162,7 +162,7 @@
         <mark key="." line="66" column="43" />
         <mark key="^" line="66" column="43" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.personal/templates/submission.html" timestamp="1546030784238">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.personal/templates/submission.html" timestamp="1546265774443">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="54" column="126" />
         <mark key="." line="53" column="68" />
@@ -174,10 +174,10 @@
         <mark key="." line="107" column="41" />
         <mark key="^" line="107" column="41" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.organization/templates/requestActions.html" timestamp="1546030793585">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="54" column="126" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.organization/templates/requestActions.html" timestamp="1546265842301">
+        <mark key="[" line="254" column="32" />
+        <mark key="]" line="254" column="32" />
+        <mark key="." line="254" column="32" />
         <mark key="^" line="224" column="23" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" timestamp="1546013979411">
@@ -193,7 +193,7 @@
         <mark key="." line="16" column="71" />
         <mark key="^" line="16" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546032076302">
+      <file name="/Dummy.txt" timestamp="1546265560088">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Global.asax.cs" timestamp="1545318856197">
@@ -362,10 +362,10 @@
         <text>dwx~</text>
       </register>
       <register name="&quot;" type="4">
-        <text>neItem</text>
+        <text>ng-show=&quot;showSubmitButton()&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>neItem</text>
+        <text>ng-show=&quot;showSubmitButton()&quot;</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -374,28 +374,28 @@
         <text>SubmissionValidationResult.IsValid</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKEJ1ZGdldFR5cGUuTWF4aW11bUl0ZW1Db3VudC5WYWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIC0tIHNwbGl0IHRoaXMgb3V0IGFuZCByZXR1cm4gdGhlIHZhbHVlcyB0byBmaWd1cmUgb3V0IHdoeSBpdCdzIHNheWluZyB0aGUgbWF4IGxpbmUgaXRlbXMgaXMgZXhjZWVkZWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKExpbmVJdGVtQ291bnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKEJ1ZGdldFR5cGUuTWF4aW11bUl0ZW1Db3VudC5WYWx1ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm90aWZpY2F0aW9uLXRleHQ9IidZb3UgaGF2ZSBub3QgY3JlYXRlZCBsaW5lIGl0ZW1zIGZvciBhbGwgcmVxdWlyZWQgc2VjdGlvbnMuJyI+PC9ub3RpZmljYXRpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKExpbmVJdGVtQ291bnQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxub3RpZmljYXRpb24gc2hvdz0iQ3JlYXRlRm9ybS5TdWJtaXNzaW9uSWQuJGVycm9yLm5vTGluZUl0ZW1zRm9yUmVxdWlyZWRTZWN0aW9uIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm90aWZpY2F0aW9uLXRleHQ9IidZb3UgaGF2ZSBub3QgY3JlYXRlZCBsaW5lIGl0ZW1zIGZvciBhbGwgcmVxdWlyZWQgc2VjdGlvbnMuJyI+PC9ub3RpZmljYXRpb24+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxub3RpZmljYXRpb24gc2hvdz0iQ3JlYXRlRm9ybS5TdWJtaXNzaW9uSWQuJGVycm9yLm5vTGluZUl0ZW1zRm9yUmVxdWlyZWRTZWN0aW9uIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm90aWZpY2F0aW9uLXRleHQ9IidZb3UgaGF2ZSBleGNlZWRlZCB0aGUgbWF4aW11bSBudW1iZXIgb2YgaXRlbXMgYWxsb3dlZCBieSB0aGlzIHByb2Nlc3MuJyI+PC9ub3RpZmljYXRpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm90aWZpY2F0aW9uLXRleHQ9IidZb3UgaGF2ZSBleGNlZWRlZCB0aGUgbWF4aW11bSBudW1iZXIgb2YgaXRlbXMgYWxsb3dlZCBieSB0aGlzIHByb2Nlc3MuJyI+PC9ub3RpZmljYXRpb24+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
