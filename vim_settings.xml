@@ -135,7 +135,11 @@
         <mark key="." line="66" column="43" />
         <mark key="^" line="66" column="43" />
       </file>
-      <file name="$USER_HOME$/Code/App.Configure/src/App.Configure/Startup.cs" timestamp="1546446386224" />
+      <file name="$USER_HOME$/Code/App.Configure/src/App.Configure/Startup.cs" timestamp="1546458439361">
+        <mark key="'" line="177" column="39" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="65" column="89" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.organization/submissions.organization.controllers.js" timestamp="1546007937134">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -299,8 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" />
-      <jump line="48" column="23" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" />
       <jump line="146" column="30" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" />
       <jump line="27" column="23" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" />
       <jump line="125" column="30" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" />
@@ -399,22 +401,24 @@
       <jump line="132" column="36" filename="$USER_HOME$/Code/App.Configure/src/App.Configure/Controllers/Api/EventPassController.cs" />
       <jump line="62" column="12" filename="$USER_HOME$/Code/App.Configure/src/App.Configure/Controllers/Api/EventPassController.cs" />
       <jump line="34" column="41" filename="$USER_HOME$/Code/App.Configure/src/App.Configure/Controllers/Api/EventPassController.cs" />
+      <jump line="62" column="10" filename="$USER_HOME$/Code/App.Configure/src/App.Configure/Startup.cs" />
+      <jump line="177" column="39" filename="$USER_HOME$/Code/App.Configure/src/App.Configure/Startup.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwx~</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IENvbmZpZ3VyZURhdGFTZXR0aW5ncyBfc2V0dGluZ3M7Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIGRhdGFQcm90ZWN0aW9uQ29udGFpbmVyID0gQ2xvdWRTdG9yYWdlQWNjb3VudAogICAgICAgICAgLlBhcnNlKF9jb25maWd1cmF0aW9uWyJBdXRoOkNvb2tpZXM6RGF0YVByb3RlY3Rpb25Db25uZWN0aW9uU3RyaW5nIl0pCiAgICAgICAgICAuQ3JlYXRlQ2xvdWRCbG9iQ2xpZW50KCkKICAgICAgICAgIC5HZXRDb250YWluZXJSZWZlcmVuY2UoX2NvbmZpZ3VyYXRpb25bIkF1dGg6Q29va2llczpEYXRhUHJvdGVjdGlvbkNvbnRhaW5lciJdKTsK</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc3RvcmFnZUNsaWVudFw+</text>
+        <text encoding="base64">XDxkYXRhUHJvdGVjdGlvbkNvbnRhaW5lclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IENvbmZpZ3VyZURhdGFTZXR0aW5ncyBfc2V0dGluZ3M7Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIGRhdGFQcm90ZWN0aW9uQ29udGFpbmVyID0gQ2xvdWRTdG9yYWdlQWNjb3VudAogICAgICAgICAgLlBhcnNlKF9jb25maWd1cmF0aW9uWyJBdXRoOkNvb2tpZXM6RGF0YVByb3RlY3Rpb25Db25uZWN0aW9uU3RyaW5nIl0pCiAgICAgICAgICAuQ3JlYXRlQ2xvdWRCbG9iQ2xpZW50KCkKICAgICAgICAgIC5HZXRDb250YWluZXJSZWZlcmVuY2UoX2NvbmZpZ3VyYXRpb25bIkF1dGg6Q29va2llczpEYXRhUHJvdGVjdGlvbkNvbnRhaW5lciJdKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CgkJW0h0dHBHZXRdCgkJW1JvbGVBdXRob3JpemUoUmVxdWlyZWRSb2xlID0gUm9sZS5BZG1pbmlzdHJhdG9yKV0KCQlwdWJsaWMgQWN0aW9uUmVzdWx0IERvd25sb2FkKCkKCQl7CgkJCXZhciBleHBvcnQgPSBfZGFvLkZpbmRPbmU8RXhwb3J0LCBHZXRFeHBvcnRRdWVyeT4ocSA9PiBxLkV4cG9ydFR5cGUgPSBFeHBvcnRUeXBlLlJldmlld3MpOwoKCQkJcmV0dXJuIEZpbGUoZXhwb3J0LkdldEZ1bGxGaWxlUGF0aCgpLCAiYXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtIiwgImJ1ZGdldGluZ19yZXF1ZXN0c19leHBvcnQuY3N2Iik7CgkJCg==</text>
@@ -448,9 +452,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfc3RvcmFnZUNsaWVudFw+</last-search>
+      <last-search encoding="base64">XDxkYXRhUHJvdGVjdGlvbkNvbnRhaW5lclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc3RvcmFnZUNsaWVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhUHJvdGVjdGlvbkNvbnRhaW5lclw+</last-pattern>
       <last-replace>2018-9</last-replace>
       <last-substitute>2018-0</last-substitute>
       <last-dir>-1</last-dir>
@@ -458,7 +462,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCYWRSZXF1ZXN0UmVzdWx0XD4=</entry>
         <entry encoding="base64">XDxjb3VudFNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxjb21tdW5pdHlDb250ZXh0XD4=</entry>
         <entry encoding="base64">XDxKc29uSHR0cFN0YXR1c1Jlc3VsdFw+</entry>
@@ -478,6 +481,7 @@
         <entry encoding="base64">XDxMaW5lSXRlbUNvdW50XD4=</entry>
         <entry encoding="base64">XDxfc2V0dGluZ3NcPg==</entry>
         <entry encoding="base64">XDxfc3RvcmFnZUNsaWVudFw+</entry>
+        <entry encoding="base64">XDxkYXRhUHJvdGVjdGlvbkNvbnRhaW5lclw+</entry>
       </history-search>
       <history-cmd>
         <entry>55</entry>
