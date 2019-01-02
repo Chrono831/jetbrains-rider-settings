@@ -60,22 +60,16 @@
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" timestamp="1546439459512">
         <mark key="'" line="63" column="32" />
-        <mark key="[" line="185" column="18" />
-        <mark key="]" line="185" column="18" />
-        <mark key="." line="185" column="18" />
-        <mark key="^" line="185" column="18" />
+        <mark key="[" line="66" column="18" />
+        <mark key="]" line="66" column="18" />
+        <mark key="." line="66" column="18" />
+        <mark key="^" line="66" column="18" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Controllers/BaseController.cs" timestamp="1546280137203">
         <mark key="[" line="14" column="4" />
         <mark key="]" line="14" column="5" />
         <mark key="^" line="14" column="5" />
         <mark key="." line="14" column="5" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" timestamp="1546439411421">
-        <mark key="[" line="119" column="42" />
-        <mark key="]" line="119" column="80" />
-        <mark key="." line="119" column="80" />
-        <mark key="^" line="119" column="80" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.personal/submissions.personal.router.js" timestamp="1546268896135">
         <mark key="[" line="3" column="0" />
@@ -118,6 +112,12 @@
         <mark key="^" line="28" column="45" />
         <mark key="." line="28" column="37" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/LineItems/CreateLineItemRequest.cs" timestamp="1546448513624">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="44" />
+        <mark key="^" line="32" column="43" />
+        <mark key="." line="32" column="43" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/AssetManager/javascript.json" timestamp="1546269170193">
         <mark key="'" line="195" column="29" />
         <mark key="[" line="177" column="27" />
@@ -127,9 +127,9 @@
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/SubmissionParams.cs" timestamp="1546438781040">
         <mark key="[" line="26" column="42" />
-        <mark key="]" line="28" column="45" />
-        <mark key="^" line="28" column="45" />
-        <mark key="." line="28" column="45" />
+        <mark key="]" line="30" column="45" />
+        <mark key="^" line="30" column="45" />
+        <mark key="." line="30" column="45" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1546271216393">
         <mark key="[" line="255" column="52" />
@@ -148,6 +148,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceApiController.cs" timestamp="1545335150713">
+        <mark key="'" line="15" column="6" />
+        <mark key="[" line="243" column="56" />
+        <mark key="]" line="243" column="85" />
+        <mark key="^" line="243" column="85" />
+        <mark key="." line="243" column="85" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting/Base/Domain/RequestHandlers/Reviews/GenerateReviewsExportFileRequestHandler.cs" timestamp="1546280534049" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Reviews/SetAllocatedToFinanceRequest.cs" timestamp="1545243933207">
@@ -190,6 +197,13 @@
         <mark key="^" line="25" column="128" />
         <mark key="." line="25" column="100" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/httpWrapper.js" timestamp="1545328290594">
+        <mark key="'" line="93" column="12" />
+        <mark key="[" line="121" column="9" />
+        <mark key="]" line="121" column="9" />
+        <mark key="." line="121" column="9" />
+        <mark key="^" line="126" column="101" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Section.cs" timestamp="1546435914096" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/WebApi.csproj" timestamp="1545925619915">
         <mark key="[" line="636" column="18" />
@@ -213,6 +227,13 @@
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" timestamp="1545328301843">
+        <mark key="'" line="392" column="6" />
+        <mark key="[" line="406" column="0" />
+        <mark key="]" line="406" column="0" />
+        <mark key="^" line="423" column="33" />
+        <mark key="." line="406" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Bootstrapper.cs" timestamp="1545332609524">
         <mark key="[" line="65" column="12" />
@@ -246,6 +267,13 @@
         <mark key="^" line="224" column="23" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/templates/sections.html" timestamp="1546435841683" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" timestamp="1546013979411">
+        <mark key="'" line="166" column="30" />
+        <mark key="[" line="313" column="0" />
+        <mark key="]" line="313" column="49" />
+        <mark key="." line="313" column="0" />
+        <mark key="^" line="313" column="19" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/SubmissionMapping.cs" timestamp="1545242884371">
         <mark key="[" line="16" column="55" />
         <mark key="]" line="16" column="71" />
@@ -323,6 +351,12 @@
       </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Attributes/ValidateHttpAntiForgeryTokenAttribute.cs" timestamp="1545314441057">
         <mark key="[" line="22" column="54" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/LineItems/EditLineItemRequest.cs" timestamp="1546448516630">
+        <mark key="[" line="30" column="45" />
+        <mark key="]" line="31" column="7" />
+        <mark key="." line="31" column="7" />
+        <mark key="^" line="31" column="7" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting/WebApi/Controllers/Reviews/ReviewsController.cs" timestamp="1546271208924">
         <mark key="[" line="262" column="64" />
@@ -450,8 +484,8 @@
       <register name="a" type="4">
         <text>dwx~</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIEZpbGVQYXRoIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -460,7 +494,7 @@
         <text encoding="base64">XDxfYWxsb2NhdGVkVG9GaW5hbmNlT25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKFByb2plY3RJZC5IYXNWYWx1ZSkgeyBxdWVyeS5XaGVyZShzdWJtaXNzaW9uID0+IHByb2Nlc3MuUHJvamVjdC5JZCA9PSBQcm9qZWN0SWQpOyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIEZpbGVQYXRoIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
