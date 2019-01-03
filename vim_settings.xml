@@ -157,11 +157,12 @@
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="83" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Tests/UnitTests/WebApi/Areas/Submissions/Controllers/LineItemsControllerUnitTest.cs" timestamp="1546455559486">
-        <mark key="[" line="160" column="97" />
-        <mark key="]" line="160" column="119" />
-        <mark key="^" line="160" column="119" />
-        <mark key="." line="160" column="119" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Tests/UnitTests/WebApi/Areas/Submissions/Controllers/LineItemsControllerUnitTest.cs" timestamp="1546522338418">
+        <mark key="'" line="135" column="12" />
+        <mark key="[" line="148" column="104" />
+        <mark key="]" line="148" column="106" />
+        <mark key="^" line="148" column="106" />
+        <mark key="." line="148" column="106" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Tests/UnitTests/Domain/RequestHandlers/LineItemTypes/CreateLineItemTypesRequestHandlerUnitTest.cs" timestamp="1546456007437">
         <mark key="'" line="182" column="41" />
@@ -210,8 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="26" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/templates/sections.html" />
-      <jump line="11" column="164" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/templates/sections.html" />
       <jump line="10" column="158" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/templates/sections.html" />
       <jump line="7" column="42" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/templates/sections.html" />
       <jump line="6" column="68" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/templates/sections.html" />
@@ -310,6 +309,8 @@
       <jump line="37" column="23" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Storage/FileStorage.cs" />
       <jump line="32" column="18" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Storage/FileStorage.cs" />
       <jump line="110" column="18" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsLineItemsController.cs" />
+      <jump line="148" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Tests/UnitTests/WebApi/Areas/Submissions/Controllers/LineItemsControllerUnitTest.cs" />
+      <jump line="135" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Tests/UnitTests/WebApi/Areas/Submissions/Controllers/LineItemsControllerUnitTest.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -322,7 +323,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZmlsZVN0b3JhZ2VcPg==</text>
+        <text encoding="base64">XDxfc3VibWlzc2lvbnNMaW5lSXRlbXNDb250cm9sbGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxzdHJpbmc+IFNhdmVCbG9iKGludCBpbnN0aXR1dGlvbklkLCBzdHJpbmcgZmlsZU5hbWUsIFN0cmVhbSBmaWxlU3RyZWFtKQo=</text>
@@ -359,9 +360,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZmlsZVN0b3JhZ2VcPg==</last-search>
+      <last-search encoding="base64">XDxfc3VibWlzc2lvbnNMaW5lSXRlbXNDb250cm9sbGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZmlsZVN0b3JhZ2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfc3VibWlzc2lvbnNMaW5lSXRlbXNDb250cm9sbGVyXD4=</last-pattern>
       <last-replace>2018-9</last-replace>
       <last-substitute>2018-0</last-substitute>
       <last-dir>-1</last-dir>
@@ -369,7 +370,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxncm91cGVkU2VjdGlvbnNcPg==</entry>
         <entry>TODO</entry>
         <entry encoding="base64">XDxzaG93U3VibWl0QnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxBY3RpdmVQcm9jZXNzZXNcPg==</entry>
@@ -389,6 +389,7 @@
         <entry encoding="base64">XDxfZG9jdW1lbnRDb250YWluZXJJZFw+</entry>
         <entry encoding="base64">XDxHZXRCbG9ja0Jsb2JcPg==</entry>
         <entry encoding="base64">XDxfZmlsZVN0b3JhZ2VcPg==</entry>
+        <entry encoding="base64">XDxfc3VibWlzc2lvbnNMaW5lSXRlbXNDb250cm9sbGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>55</entry>
