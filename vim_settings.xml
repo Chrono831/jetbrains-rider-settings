@@ -6,6 +6,13 @@
       <file name="/Dummy.txt" timestamp="1546867847373">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.services.js" timestamp="1546884356398" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/adjustmentService.js" timestamp="1546884077051">
+        <mark key="[" line="61" column="66" />
+        <mark key="]" line="61" column="72" />
+        <mark key="^" line="61" column="72" />
+        <mark key="." line="61" column="72" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/PurchaseRequest.aspx" timestamp="1546874262948" />
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Search/Finance/FinanceRequestStageCriteria.cs" timestamp="1546875573307" />
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceRequestStageService.cs" timestamp="1546873752281">
@@ -17,6 +24,12 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E459E39B-8E74-47CB-B6B2-809F0942BF27/7c/a704499c/IFinanceRequestStageService.cs" timestamp="1546874329921" />
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Models/Finance/EditPurchaseRequestOrganizationViewModel.cs" timestamp="1546874282437" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/templates/lineItemAdjustmentAmount.html" timestamp="1546884478065">
+        <mark key="[" line="79" column="83" />
+        <mark key="]" line="79" column="90" />
+        <mark key="." line="79" column="90" />
+        <mark key="^" line="79" column="90" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/UploadFileController.cs" timestamp="1546870869230" />
     </filemarks>
     <jumps>
@@ -24,6 +37,18 @@
       <jump line="47" column="53" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
     </jumps>
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>StoredFileName</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>StoredFileName</text>
+      </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZmluYW5jZVJlcXVlc3RTdGFnZVNlcnZpY2VcPg==</text>
       </register>
@@ -40,6 +65,9 @@
         <entry encoding="base64">XDxfY29tbXVuaXR5SXRlbVJlcG9zaXRvcnlcPg==</entry>
         <entry encoding="base64">XDxfZmluYW5jZVJlcXVlc3RTdGFnZVNlcnZpY2VcPg==</entry>
       </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
