@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" timestamp="1546886347495">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" timestamp="1546887352339">
         <mark key="[" line="285" column="0" />
         <mark key="]" line="285" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546886507364">
+      <file name="/Dummy.txt" timestamp="1546890263914">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.services.js" timestamp="1546884356398" />
@@ -29,63 +29,95 @@
         <mark key="'" line="16" column="50" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64734353-5E05-4653-A611-785111B92AC7/46/8db7a5f6/Group.cs" timestamp="1546873980831" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/FileController.cs" timestamp="1546890143857">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="48" column="50" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/section.js" timestamp="1546886444858">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="48" />
         <mark key="." line="23" column="47" />
         <mark key="^" line="24" column="9" />
       </file>
+      <file name="/Dummy.cs" timestamp="1546889298769">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" timestamp="1546874498810">
         <mark key="'" line="47" column="53" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E459E39B-8E74-47CB-B6B2-809F0942BF27/7c/a704499c/IFinanceRequestStageService.cs" timestamp="1546874329921" />
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Models/Finance/EditPurchaseRequestOrganizationViewModel.cs" timestamp="1546874282437" />
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/templates/lineItemAdjustmentAmount.html" timestamp="1546886324120">
-        <mark key="[" line="79" column="55" />
-        <mark key="]" line="79" column="55" />
-        <mark key="." line="79" column="55" />
-        <mark key="^" line="79" column="52" />
-      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/templates/lineItemAdjustmentAmount.html" timestamp="1546887975522" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/UploadFileController.cs" timestamp="1546870869230" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D42F0E0B-BFC7-4D33-B4B4-6DEEF693FD25/13/97b6c786/HttpStatusCode.cs" timestamp="1546889371425">
+        <mark key="'" line="64" column="87" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="16" column="50" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceRequestStageService.cs" />
       <jump line="47" column="53" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
+      <jump line="62" column="4" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D42F0E0B-BFC7-4D33-B4B4-6DEEF693FD25/13/97b6c786/HttpStatusCode.cs" />
+      <jump line="65" column="29" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D42F0E0B-BFC7-4D33-B4B4-6DEEF693FD25/13/97b6c786/HttpStatusCode.cs" />
+      <jump line="64" column="87" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D42F0E0B-BFC7-4D33-B4B4-6DEEF693FD25/13/97b6c786/HttpStatusCode.cs" />
     </jumps>
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB1cGxvYWQK</text>
+      </register>
+      <register name="-" type="4">
+        <text>|| string.IsNullOrEmpty(originalFileName))</text>
+      </register>
+      <register name="/" type="4">
+        <text>NotFound</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNjb3BlLmFwaVJvb3QgPSB3aW5kb3cuZW5nYWdlLmFwaVJvb3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0cmluZy5Jc051bGxPckVtcHR5KHN0b3JlZEZpbGVOYW1lKSB8fCBzdHJpbmcuSXNOdWxsT3JFbXB0eShvcmlnaW5hbEZpbGVOYW1lKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmVzcG9uc2UuU3RhdHVzQ29kZSA9IEh0dHBTdGF0dXNDb2RlLkJhZFJlcXVlc3Q7CiAgICAgICAgICAgICAgICByZXNwb25zZS5SZWFzb25QaHJhc2UgPSAiU3RvcmVkIGZpbGUgbmFtZSBub3Qgc3BlY2lmaWVkIjsKCiAgICAgICAgICAgICAgICByZXR1cm4gcmVzcG9uc2U7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICAvLyB1cGxvYWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUuCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXNwb25zZS5TdGF0dXNDb2RlID0gSHR0cFN0YXR1c0NvZGUuQmFkUmVxdWVzdDsKICAgICAgICAgICAgICAgICAgICByZXNwb25zZS5SZWFzb25QaHJhc2UgPSAiRmlsZSBub3QgZm91bmQiOwoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzcG9uc2U7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuQ29udGVudCA9IG5ldyBCeXRlQXJyYXlDb250ZW50KGJ5dGVzKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy92YXIgYnl0ZXMgPSBFbmNvZGluZy5BU0NJSS5HZXRCeXRlcyhzdG9yZWRGaWxlTmFtZSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIGdldCBvcmlnaW5hbCBmaWxlIG5kZGFtZQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvL1tIdHRwR2V0XQogICAgICAgIC8vIC9kb3dubG9hZAogICAgICAgIHB1YmxpYyBhc3luYyBUYXNrPGJ5dGVbXT4gRG93bmxvYWRGaWxlKHN0cmluZyBzdG9yZWRGaWxlTmFtZSkKICAgICAgICB7CiAgICAgICAgICAgIAoKCiAgICAgICAgICAgIHJldHVybiByZXNwb25zZTsKICAgICAgICB9CiAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxfZmluYW5jZVJlcXVlc3RTdGFnZVNlcnZpY2VcPg==</text>
-      </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZmluYW5jZVJlcXVlc3RTdGFnZVNlcnZpY2VcPg==</last-search>
+      <last-search>NotFound</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZmluYW5jZVJlcXVlc3RTdGFnZVNlcnZpY2VcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>NotFound</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxfY29tbXVuaXR5SXRlbVJlcG9zaXRvcnlcPg==</entry>
         <entry encoding="base64">XDxfZmluYW5jZVJlcXVlc3RTdGFnZVNlcnZpY2VcPg==</entry>
+        <entry>NotFound</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
