@@ -8,20 +8,15 @@
         <mark key="]" line="285" column="50" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.services.js" timestamp="1546884356398" />
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/adjustmentService.js" timestamp="1546884077051">
-        <mark key="[" line="61" column="66" />
-        <mark key="]" line="61" column="72" />
-        <mark key="^" line="61" column="72" />
-        <mark key="." line="61" column="72" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/PurchaseRequest.aspx" timestamp="1546874262948" />
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Search/Finance/FinanceRequestStageCriteria.cs" timestamp="1546875573307" />
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/LineItems/GetLineItemsQuery.cs" timestamp="1546957404220">
-        <mark key="[" line="60" column="22" />
-        <mark key="]" line="60" column="73" />
-        <mark key="." line="60" column="73" />
-        <mark key="^" line="60" column="73" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/LineItems/GetLineItemsQuery.cs" timestamp="1546957784305">
+        <mark key="[" line="60" column="12" />
+        <mark key="]" line="60" column="13" />
+        <mark key="." line="60" column="13" />
+        <mark key="^" line="60" column="13" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/StatusType.cs" timestamp="1546958056539" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1546893511814">
         <mark key="'" line="136" column="21" />
         <mark key="[" line="105" column="0" />
@@ -35,7 +30,13 @@
       <file name="/Dummy.cs" timestamp="1546889298769">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/LineItems/EditLineItemRequestHandler.cs" timestamp="1546955859263" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/LineItems/EditLineItemRequestHandler.cs" timestamp="1546957733307" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsLineItemsController.cs" timestamp="1546958398932">
+        <mark key="[" line="53" column="111" />
+        <mark key="]" line="53" column="105" />
+        <mark key="." line="53" column="105" />
+        <mark key="^" line="53" column="105" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E459E39B-8E74-47CB-B6B2-809F0942BF27/7c/a704499c/IFinanceRequestStageService.cs" timestamp="1546874329921" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/IsReviewerAttribute.cs" timestamp="1546953510224">
         <mark key="[" line="15" column="0" />
@@ -49,6 +50,10 @@
         <mark key="^" line="62" column="15" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/UploadFileController.cs" timestamp="1546870869230" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Submissions/EditSubmissionRequestHandler.cs" timestamp="1546958365442">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="109" />
+      </file>
       <file name="/Dummy.txt" timestamp="1546890263914">
         <mark key="[" line="0" column="0" />
       </file>
@@ -93,6 +98,7 @@
         <mark key="." line="79" column="88" />
         <mark key="^" line="79" column="88" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/LineItems/CreateLineItemRequestHandler.cs" timestamp="1546958081473" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D42F0E0B-BFC7-4D33-B4B4-6DEEF693FD25/13/97b6c786/HttpStatusCode.cs" timestamp="1546889371425">
         <mark key="'" line="64" column="87" />
       </file>
@@ -107,43 +113,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>StoredFileName</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>StoredFileName</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyQXV0aG9yaXplZEZvclJlcXVlc3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbGlkUXVlcnkgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN1Ym1pc3Npb24gPSBfcXVlcnlEYW8uRmluZE9uZTxTdWJtaXNzaW9uLCBHZXRTdWJtaXNzaW9uc1F1ZXJ5PihxID0+IHsgcS5JZCA9IHJlcXVlc3QuSWQ7IH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKElkLkhhc1ZhbHVlKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBxdWVyeSA9IHF1ZXJ5LldoZXJlKGxpID0+IGxpLklkID09IElkLlZhbHVlKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN1Ym1pc3Npb25zID0gX3F1ZXJ5RGFvLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gUmVTaGFycGVyIGRpc2FibGUgSW1wbGljaXRseUNhcHR1cmVkQ2xvc3VyZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKElkLkhhc1ZhbHVlKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBxdWVyeSA9IHF1ZXJ5LldoZXJlKGxpID0+IGxpLklkID09IElkLlZhbHVlKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gUmVTaGFycGVyIGRpc2FibGUgSW1wbGljaXRseUNhcHR1cmVkQ2xvc3VyZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFN1Ym1pc3Npb25JZCB7IGdldDsgc2V0OyB9Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFN1Ym1pc3Npb25JZCB7IGdldDsgc2V0OyB9Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFNlY3Rpb25JZCB7IGdldDsgc2V0OyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IEJ1ZGdldElkIHsgZ2V0OyBzZXQ7IH0K</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFNlY3Rpb25JZCB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIAo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IEJ1ZGdldElkIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -173,6 +179,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
