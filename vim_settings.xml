@@ -3,19 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Web.config" timestamp="1547059531431">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Web.config" timestamp="1547060972476">
         <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="49" />
-        <mark key="." line="4" column="0" />
+        <mark key="]" line="4" column="240" />
+        <mark key="." line="31" column="17" />
+        <mark key="^" line="31" column="17" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/LineItems/GetLineItemsQuery.cs" timestamp="1546961813189">
         <mark key="[" line="37" column="69" />
         <mark key="]" line="37" column="69" />
         <mark key="." line="37" column="69" />
         <mark key="^" line="60" column="13" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/ExportGeneratorService.cs" timestamp="1547045410012">
-        <mark key="'" line="124" column="56" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1547046589175">
         <mark key="[" line="109" column="0" />
@@ -28,9 +26,6 @@
         <mark key="]" line="41" column="15" />
         <mark key="^" line="41" column="15" />
         <mark key="." line="41" column="15" />
-      </file>
-      <file name="/Dummy.cs" timestamp="1546967226019">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/LineItemTypes/EditLineItemTypeRequestHandler.cs" timestamp="1546980576115">
         <mark key="[" line="38" column="56" />
@@ -55,8 +50,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547059538690">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Core/FinanceRegistry.cs" timestamp="1547060510600">
+        <mark key="[" line="36" column="54" />
+        <mark key="]" line="36" column="57" />
+        <mark key="." line="36" column="57" />
+        <mark key="^" line="36" column="57" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" timestamp="1546886468317">
         <mark key="[" line="169" column="31" />
@@ -107,11 +105,11 @@
         <mark key="." line="56" column="86" />
         <mark key="^" line="56" column="86" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.config" timestamp="1547043978181">
-        <mark key="[" line="69" column="56" />
-        <mark key="]" line="69" column="56" />
-        <mark key="." line="69" column="56" />
-        <mark key="^" line="69" column="56" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.config" timestamp="1547060975346">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="240" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="37" column="17" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/IsAllowedToDownloadAttribute.cs" timestamp="1546958915020">
         <mark key="[" line="19" column="12" />
@@ -135,9 +133,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="67" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/LineItemTypes/GetLineItemTypesQuery.cs" timestamp="1546978384059">
-        <mark key="[" line="46" column="29" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="16" column="50" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceRequestStageService.cs" />
@@ -152,28 +147,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LS0gTm90ZXMKLS0gIEFsc28gbXVzdCBkZWxldGUgZnJvbSBibG9iIHN0b3JhZ2UgYC9idWRnZXRpbmcvaW5zdGl0dXRpb257aWR9YAoK</text>
+        <text encoding="base64">ICAgIDxhZGQgbmFtZT0iQmxvYlN0b3JhZ2UiIGNvbm5lY3Rpb25TdHJpbmc9IkRlZmF1bHRFbmRwb2ludHNQcm90b2NvbD1odHRwcztBY2NvdW50TmFtZT1zZWluZnJhZmlsZXNkZXY7QWNjb3VudEtleT05azlOWkN2dmh3TGdmL0xFV0g2aXVyZzZ4eGtRQVFadnZLa1R0dFZTZVNMN2w1dkpCZGVFOEZ1VHg1MVFyd3FRR3NHNzI4R0kwc041WS9qTVZWeHZUQT09O0VuZHBvaW50U3VmZml4PWNvcmUud2luZG93cy5uZXQiIC8+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>DefaultEndpointsProtocol=https;AccountName=xxx;AccountKey=yyy</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYnVkZ2V0QW1vdW50c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxhZGQga2V5PSJGaWxlQ29udGFpbmVyIiB2YWx1ZT0iYnVkZ2V0aW5nIiAvPgo=</text>
+        <text encoding="base64">ICAgIDxhZGQgbmFtZT0iQmxvYlN0b3JhZ2UiIGNvbm5lY3Rpb25TdHJpbmc9IkRlZmF1bHRFbmRwb2ludHNQcm90b2NvbD1odHRwcztBY2NvdW50TmFtZT1zZWluZnJhZmlsZXNkZXY7QWNjb3VudEtleT05azlOWkN2dmh3TGdmL0xFV0g2aXVyZzZ4eGtRQVFadnZLa1R0dFZTZVNMN2w1dkpCZGVFOEZ1VHg1MVFyd3FRR3NHNzI4R0kwc041WS9qTVZWeHZUQT09O0VuZHBvaW50U3VmZml4PWNvcmUud2luZG93cy5uZXQiIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS0gTm90ZXMKLS0gIEFsc28gbXVzdCBkZWxldGUgZnJvbSBibG9iIHN0b3JhZ2UgYC9idWRnZXRpbmcvaW5zdGl0dXRpb257aWR9YAoK</text>
+        <text encoding="base64">ICAgIDxhZGQgbmFtZT0iRmlsZVVwbG9hZCIgY29ubmVjdGlvblN0cmluZz0iRGVmYXVsdEVuZHBvaW50c1Byb3RvY29sPWh0dHBzO0FjY291bnROYW1lPWNvbGxlZ2lhdGVsaW5rZGV2O0FjY291bnRLZXk9eXV6TkVYODliSm5XZkt0S0t5b29KTUFUMHBmS2lBa0tMdWlBODZsNlpQWDNaYk9LLzcycFpuVkFCN3h5NGg5SU82RGZJd1h3R0pEZVordGdYV3Uzc0E9PSIgLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gTm90ZXMKLS0gIEFsc28gbXVzdCBkZWxldGUgZnJvbSBibG9iIHN0b3JhZ2UgYC9idWRnZXRpbmcvaW5zdGl0dXRpb257aWR9YAoK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -188,7 +183,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFtTdWJtaXNzaW9uQWNjCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
