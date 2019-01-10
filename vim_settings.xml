@@ -57,8 +57,8 @@
         <mark key="." line="36" column="57" />
         <mark key="^" line="36" column="57" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" timestamp="1547129567286">
-        <mark key="'" line="233" column="8" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" timestamp="1547130553526">
+        <mark key="'" line="109" column="14" />
         <mark key="[" line="251" column="74" />
         <mark key="]" line="251" column="74" />
         <mark key="^" line="66" column="48" />
@@ -141,7 +141,9 @@
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/LineItemTypes/GetLineItemTypesQuery.cs" timestamp="1546978384059">
         <mark key="[" line="46" column="29" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/templates/lineItem.html" timestamp="1547129373110" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/templates/lineItem.html" timestamp="1547130560104">
+        <mark key="'" line="1" column="41" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="16" column="50" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceRequestStageService.cs" />
@@ -158,6 +160,10 @@
       <jump line="45" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/LineItems/EditLineItemRequestHandler.cs" />
       <jump line="199" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
       <jump line="238" column="8" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
+      <jump line="233" column="8" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
+      <jump line="109" column="14" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
+      <jump line="75" column="56" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/templates/lineItem.html" />
+      <jump line="1" column="41" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/templates/lineItem.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -167,7 +173,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYXZlXD4=</text>
+        <text encoding="base64">XDxzYXZlTGluZUl0ZW1cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlcXVlc3QuTmFtZS5MZW5ndGggPiAwKSB7IGxpbmVJdGVtLk5hbWUgPSByZXF1ZXN0Lk5hbWU7IH0K</text>
@@ -204,9 +210,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYXZlXD4=</last-search>
+      <last-search encoding="base64">XDxzYXZlTGluZUl0ZW1cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYXZlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzYXZlTGluZUl0ZW1cPg==</last-pattern>
       <last-replace>Description</last-replace>
       <last-substitute>Name</last-substitute>
       <last-dir>-1</last-dir>
@@ -225,6 +231,7 @@
         <entry>Name</entry>
         <entry>deleteFile</entry>
         <entry encoding="base64">XDxzYXZlXD4=</entry>
+        <entry encoding="base64">XDxzYXZlTGluZUl0ZW1cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>70</entry>
