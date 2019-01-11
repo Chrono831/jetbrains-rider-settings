@@ -77,10 +77,12 @@
         <mark key="." line="36" column="57" />
         <mark key="^" line="36" column="57" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" timestamp="1547215387952">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" timestamp="1547230793434">
+        <mark key="'" line="171" column="15" />
+        <mark key="[" line="172" column="8" />
+        <mark key="]" line="172" column="8" />
+        <mark key="." line="172" column="8" />
+        <mark key="^" line="172" column="21" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Processes/EditProcessRequestHandler.cs" timestamp="1547127651496" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/FileController.cs" timestamp="1547129331893">
@@ -204,9 +206,6 @@
       <jump line="200" column="29" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
       <jump line="198" column="27" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
       <jump line="253" column="8" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
-      <jump line="162" column="47" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
-      <jump line="165" column="14" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
-      <jump line="166" column="29" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
       <jump line="17" column="8" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
       <jump line="29" column="61" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
       <jump line="99" column="49" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
@@ -239,16 +238,23 @@
       <jump line="84" column="14" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
       <jump line="35" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/section.js" />
       <jump line="113" column="55" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/section.js" />
+      <jump line="165" column="14" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
+      <jump line="162" column="14" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
+      <jump line="100" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
+      <jump line="69" column="21" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
+      <jump line="68" column="29" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
+      <jump line="166" column="29" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
+      <jump line="171" column="15" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbGxMaW5lSXRlbXNcPg==</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YSBuZy1zaG93PSJsaW5lSXRlbS5JZCIgbmctaHJlZj0ie3thcGlSb290fX0vZmlsZS9kb3dubG9hZC9zdWJtaXNzaW9ucy97e3N1Ym1pc3Npb25JZH19L2xpbmVJdGVtcy97e2xpbmVJdGVtLklkfX0iPnt7bGluZUl0ZW0uT3JpZ2luYWxGaWxlTmFtZX19PC9hPgo=</text>
@@ -285,17 +291,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbGxMaW5lSXRlbXNcPg==</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbGxMaW5lSXRlbXNcPg==</last-pattern>
-      <last-replace>Description</last-replace>
-      <last-substitute>Name</last-substitute>
+      <last-pattern>,</last-pattern>
+      <last-replace>','</last-replace>
+      <last-substitute>,</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxVc2VyQXV0aG9yaXplZEZvclJlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxfcXVlcnlEYW9cPg==</entry>
         <entry encoding="base64">XDxfYnVkZ2V0QW1vdW50c1w+</entry>
         <entry encoding="base64">XDxHZXRGaWxlTmFtZXNcPg==</entry>
@@ -308,13 +313,14 @@
         <entry encoding="base64">XDxyZW1vdmVGaWxlXD4=</entry>
         <entry>lineItemType</entry>
         <entry encoding="base64">XDxTdG9yZWRGaWxlTmFtZVw+</entry>
-        <entry encoding="base64">XDxsaW5lSXRlbVR5cGVcPg==</entry>
         <entry encoding="base64">XDxsaW5lSXRlbVNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxzYXZlTGluZUl0ZW1cPg==</entry>
         <entry encoding="base64">XDxibG9ja2VyXD4=</entry>
         <entry encoding="base64">XDxodHRwXD4=</entry>
         <entry encoding="base64">XDx1cGxvYWRcPg==</entry>
         <entry encoding="base64">XDxhbGxMaW5lSXRlbXNcPg==</entry>
+        <entry encoding="base64">XDxsaW5lSXRlbVR5cGVcPg==</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
         <entry>70</entry>
@@ -332,6 +338,7 @@
         <entry>43</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>3</entry>
+        <entry>.s/,/','/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
