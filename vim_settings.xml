@@ -34,6 +34,13 @@
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Processes/EditProcessRequestHandler.cs" timestamp="1547127651496" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/budgetSummary.js" timestamp="1547562568630" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/process.js" timestamp="1547659557401" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/FileController.cs" timestamp="1547129331893">
+        <mark key="[" line="141" column="57" />
+        <mark key="]" line="141" column="57" />
+        <mark key="." line="141" column="57" />
+        <mark key="^" line="148" column="34" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/gdpr/hard_delete.sql" timestamp="1547059714227">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -58,6 +65,11 @@
         <mark key="." line="19" column="12" />
         <mark key="^" line="19" column="12" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/branchService.js" timestamp="1547659462860">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="30" />
+        <mark key="." line="5" column="30" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/dbo/Tables/LineItem.sql" timestamp="1547059288345">
         <mark key="[" line="11" column="43" />
         <mark key="]" line="11" column="43" />
@@ -67,17 +79,23 @@
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/LineItemTypes/GetLineItemTypesQuery.cs" timestamp="1546978384059">
         <mark key="[" line="46" column="29" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/LineItems/CreateLineItemRequestHandler.cs" timestamp="1547147966101">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="58" column="13" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Web.config" timestamp="1547062012867">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="26" />
         <mark key="." line="4" column="26" />
         <mark key="^" line="33" column="17" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.services.js" timestamp="1547656831299">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.services.js" timestamp="1547659521216">
         <mark key="[" line="11" column="52" />
-        <mark key="]" line="11" column="65" />
+        <mark key="]" line="11" column="52" />
         <mark key="^" line="11" column="65" />
-        <mark key="." line="11" column="65" />
+        <mark key="." line="11" column="52" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.csproj" timestamp="1547559756009">
         <mark key="[" line="829" column="0" />
@@ -90,17 +108,18 @@
         <mark key="." line="62" column="4" />
         <mark key="^" line="62" column="1" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/httpWrapper.js" timestamp="1547150905974" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/httpWrapper.js" timestamp="1547659332227">
+        <mark key="[" line="18" column="46" />
+        <mark key="]" line="19" column="29" />
+        <mark key="^" line="19" column="29" />
+        <mark key="." line="19" column="29" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" timestamp="1547658683512">
         <mark key="'" line="262" column="26" />
         <mark key="[" line="264" column="0" />
         <mark key="]" line="264" column="0" />
         <mark key="." line="264" column="0" />
         <mark key="^" line="338" column="24" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/node_modules/core4-assets/js/main/campuslabsBlocker.js" timestamp="1547151169464">
-        <mark key="[" line="2" column="52" />
-        <mark key="]" line="2" column="68" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1547062512017">
         <mark key="[" line="104" column="0" />
@@ -134,7 +153,7 @@
         <mark key="^" line="338" column="32" />
         <mark key="." line="298" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547658984877">
+      <file name="/Dummy.txt" timestamp="1547659113819">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/section.js" timestamp="1547653505719">
@@ -174,6 +193,18 @@
         <mark key="]" line="45" column="15" />
         <mark key="^" line="45" column="15" />
         <mark key="." line="45" column="15" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/LineItemTypeMapping.cs" timestamp="1547145991719">
+        <mark key="[" line="28" column="39" />
+        <mark key="]" line="28" column="42" />
+        <mark key="." line="28" column="42" />
+        <mark key="^" line="28" column="42" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/lineItemType.js" timestamp="1547148129627">
+        <mark key="[" line="58" column="53" />
+        <mark key="]" line="59" column="14" />
+        <mark key="." line="59" column="14" />
+        <mark key="^" line="59" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -256,10 +287,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbG9zZUVkaXRNb2RhbFw+</text>
