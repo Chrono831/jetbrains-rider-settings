@@ -21,10 +21,12 @@
         <mark key="^" line="62" column="1" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/httpWrapper.js" timestamp="1547150905974" />
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" timestamp="1547148512784">
-        <mark key="[" line="269" column="0" />
-        <mark key="]" line="269" column="0" />
-        <mark key="." line="269" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" timestamp="1547652461770">
+        <mark key="'" line="264" column="26" />
+        <mark key="[" line="310" column="0" />
+        <mark key="]" line="310" column="0" />
+        <mark key="." line="310" column="0" />
+        <mark key="^" line="265" column="5" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/node_modules/core4-assets/js/main/campuslabsBlocker.js" timestamp="1547151169464">
         <mark key="[" line="2" column="52" />
@@ -87,10 +89,10 @@
         <mark key="." line="36" column="57" />
         <mark key="^" line="36" column="57" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" timestamp="1547564663550">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" timestamp="1547653000660">
         <mark key="'" line="183" column="27" />
-        <mark key="[" line="232" column="65" />
-        <mark key="]" line="232" column="68" />
+        <mark key="[" line="44" column="9" />
+        <mark key="]" line="49" column="14" />
         <mark key="." line="232" column="68" />
         <mark key="^" line="232" column="68" />
       </file>
@@ -107,12 +109,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/section.js" timestamp="1547651101323">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/section.js" timestamp="1547653330844">
         <mark key="'" line="113" column="55" />
-        <mark key="[" line="89" column="49" />
-        <mark key="]" line="89" column="65" />
-        <mark key="." line="89" column="49" />
-        <mark key="^" line="82" column="89" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Reviews/EditLineItemUnderReviewRequestHandler.cs" timestamp="1546955208561">
         <mark key="[" line="32" column="34" />
@@ -250,64 +251,64 @@
       <jump line="186" column="27" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
       <jump line="183" column="27" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
       <jump line="67" column="46" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/templates/review.html" />
+      <jump line="335" column="26" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
+      <jump line="264" column="26" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gTi1HYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXy5maW5kKCkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>allLineItems</text>
       </register>
       <register name="/" type="4">
-        <text>Tab</text>
+        <text encoding="base64">XDwiXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZmlsZVVwbG9hZElucHV0JykubmFtZSA9IG51bGw7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgYTExeU1vZGFsLm9wZW4oewogICAgICAgICAgICAgIHRlbXBsYXRlVXJsOiB3aW5kb3cuZW5nYWdlLndlYlJvb3QgKyAiL2J1ZGdldGluZy9hc3NldHMvZmluYW5jZS9qcy9zdWJtaXNzaW9ucy5jb21tb24vdGVtcGxhdGVzL2xpbmVJdGVtUmV2aWV3Lmh0bWwiLAogICAgICAgICAgICAgIHNjb3BlOiBzY29wZSwKICAgICAgICAgICAgICBjb250cm9sbGVyOiAiTGluZUl0ZW1Nb2RhbENvbnRyb2xsZXIiLAogICAgICAgICAgICAgIGJhY2tkcm9wOiAnc3RhdGljJwogICAgICAgICAgICB9KTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gTi1HYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXy5maW5kKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIHdlJ3JlIHdvcmtpbmcgaGVyZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzY29wZS51cGxvYWQuZmlsZSA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzY29wZS5saW5lSXRlbS5PcmlnaW5hbEZpbGVOYW1lID0gbnVsbDsKICAgICAgICAgICAgICBzY29wZS5saW5lSXRlbS5TdG9yZWRGaWxlTmFtZSA9IG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvL2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdmaWxlVXBsb2FkSW5wdXQnKS5uYW1lID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgc2NvcGUuY29uc3RhbnRzID0ge3RhYk5hbWVzOiB0YWJOYW1lcywgYWN0aW9uczogYWN0aW9ucywgc3RhdHVzVHlwZXNGb3JSZXZpZXdzOiBzdGF0dXNUeXBlc0ZvclJldmlld3N9OwogICAgICBzY29wZS5jdXJyZW50VGFiID0gdGFiTmFtZXMucmVxdWVzdDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgLy9UT0RPIHdlJ3JlIHdvcmtpbmcgaGVyZQogICAgICBzY29wZS5jdXJyZW50VGFiID0gcm91dGVQYXJhbXMuc2VsZWN0ZWRUYWIgfHwgdGFiTmFtZXMucmVxdWVzdDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxDbEJ1ZGdldFN1bW1hcnk+PC9DbEJ1ZGdldFN1bW1hcnk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gTi1HYWdlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Tab</last-search>
+      <last-search encoding="base64">XDwiXD4=</last-search>
       <last-offset />
-      <last-pattern>Tab</last-pattern>
+      <last-pattern encoding="base64">XDwiXD4=</last-pattern>
       <last-replace>','</last-replace>
       <last-substitute>,</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Name</entry>
-        <entry>deleteFile</entry>
         <entry encoding="base64">XDxzYXZlXD4=</entry>
         <entry>removeFile</entry>
         <entry encoding="base64">XDxPcmlnaW5hbEZpbGVOYW1lXD4=</entry>
@@ -326,6 +327,8 @@
         <entry>console</entry>
         <entry>Section</entry>
         <entry>Tab</entry>
+        <entry encoding="base64">XDxyb3V0ZVBhcmFtc1w+</entry>
+        <entry encoding="base64">XDwiXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>70</entry>
