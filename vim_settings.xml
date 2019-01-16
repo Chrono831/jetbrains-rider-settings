@@ -115,6 +115,9 @@
         <mark key="^" line="34" column="15" />
         <mark key="." line="34" column="15" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/templates/review.html" timestamp="1547581822079">
+        <mark key="'" line="67" column="46" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/LineItems/EditLineItemRequest.cs" timestamp="1547127768276">
         <mark key="[" line="17" column="45" />
         <mark key="]" line="18" column="7" />
@@ -241,6 +244,7 @@
       <jump line="171" column="15" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
       <jump line="186" column="27" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
       <jump line="183" column="27" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
+      <jump line="67" column="46" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/templates/review.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -250,7 +254,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>Tab</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZmlsZVVwbG9hZElucHV0JykubmFtZSA9IG51bGw7Cg==</text>
@@ -287,9 +291,9 @@
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>Tab</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>Tab</last-pattern>
       <last-replace>','</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -297,8 +301,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxHZXRGaWxlTmFtZXNcPg==</entry>
-        <entry>Quantity</entry>
         <entry>Name</entry>
         <entry>deleteFile</entry>
         <entry encoding="base64">XDxzYXZlXD4=</entry>
@@ -317,6 +319,8 @@
         <entry>,</entry>
         <entry encoding="base64">XDxvcGVueG1sZm9ybWF0c1w+</entry>
         <entry>console</entry>
+        <entry>Section</entry>
+        <entry>Tab</entry>
       </history-search>
       <history-cmd>
         <entry>70</entry>
