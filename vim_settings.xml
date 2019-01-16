@@ -4,6 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.constants.js" timestamp="1547658284963" />
+      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/CoreRegistry.cs" timestamp="1547664723037">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="59" column="82" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="/Dummy.cs" timestamp="1546967226019">
         <mark key="[" line="0" column="0" />
       </file>
@@ -55,6 +61,11 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="58" column="13" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Controllers/AccountController.cs" timestamp="1547664804546">
+        <mark key="[" line="399" column="0" />
+        <mark key="]" line="399" column="0" />
+        <mark key="." line="399" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.services.js" timestamp="1547659521216">
         <mark key="[" line="11" column="52" />
         <mark key="]" line="11" column="52" />
@@ -89,6 +100,11 @@
       </file>
       <file name="/Dummy.txt" timestamp="1547659113819">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Global.asax.cs" timestamp="1547664384216">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/section.js" timestamp="1547653505719">
         <mark key="'" line="113" column="55" />
@@ -196,11 +212,11 @@
       <jump line="88" column="10" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJY29tbXVuaXR5TWVtYmVyLlVzZXIuUHJvZmlsZQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbG9zZUVkaXRNb2RhbFw+</text>
@@ -209,31 +225,31 @@
         <text encoding="base64">ICAgICAgICAgIHNjb3BlLmNvbnN0YW50cy50YWJOYW1lcyA9IHRhYk5hbWVzOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJY29tbXVuaXR5TWVtYmVyLlVzZXIuUHJvZmlsZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNjb3BlLmNvbnN0YW50cy50YWJOYW1lcyA9IHRhYk5hbWVzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2NvcGUuY29uc3RhbnRzID0ge3RhYk5hbWVzOiB0YWJOYW1lcywgYWN0aW9uczogYWN0aW9ucywgc3RhdHVzVHlwZXNGb3JSZXZpZXdzOiBzdGF0dXNUeXBlc0ZvclJldmlld3N9OwogICAgICBzY29wZS5jdXJyZW50VGFiID0gdGFiTmFtZXMucmVxdWVzdDsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciB1cmwgPQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCd1cmwgOiAnK3VybCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3R1ZGVudFZvaWNlR3JvdXBzLkNvcmUuRGF0YUFjY2Vzcy5Db21tb25zLlNlcnZpY2VzLklDb3JlQWNjb3VudFNlcnZpY2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vdmFyIHVybCA9ICdodHRwczovL2xvY2FsaG9zdC9idWRnZXRpbmcvcmV2aWV3cyMvZWRpdC84MjgwP3NlbGVjdGVkVGFiPWJ1ZGdldCc7Cg==</text>
+        <text encoding="base64">dXNpbmcgQ29sbGVnaWF0ZUxpbmsuV2ViLkFwcF9TdGFydDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdsaW5laXRlbS5qczo4NycpOwo=</text>
+        <text encoding="base64">dXNpbmcgQ29sbGVnaWF0ZUxpbmsuV2ViLkhlbHBlcnM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vc2NvcGUuZGVsZXRlRmFpbGVkID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LlByYWN0aWNlcy5TZXJ2aWNlTG9jYXRpb247Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
