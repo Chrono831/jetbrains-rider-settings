@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" timestamp="1547751019844">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" timestamp="1547751770438">
+        <mark key="'" line="370" column="12" />
         <mark key="[" line="122" column="33" />
         <mark key="]" line="122" column="47" />
         <mark key="." line="122" column="47" />
@@ -308,6 +309,7 @@
       <jump line="88" column="10" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" />
       <jump line="7" column="27" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/AssetManager/javascript.json" />
       <jump line="121" column="37" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/AssetManager/javascript.json" />
+      <jump line="370" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -317,7 +319,7 @@
         <text encoding="base64">Y3VycmVudFRhYiA=</text>
       </register>
       <register name="/" type="4">
-        <text>submissions.org</text>
+        <text encoding="base64">XDxjdXJyZW50VGFiXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgInJldmlld3MvcmV2aWV3cy5jb25zdGFudHMiCg==</text>
@@ -354,17 +356,16 @@
       </register>
     </registers>
     <search>
-      <last-search>submissions.org</last-search>
+      <last-search encoding="base64">XDxjdXJyZW50VGFiXD4=</last-search>
       <last-offset />
-      <last-pattern>submissions.org</last-pattern>
+      <last-pattern encoding="base64">XDxjdXJyZW50VGFiXD4=</last-pattern>
       <last-replace>','</last-replace>
       <last-substitute>,</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsaW5lSXRlbVNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxzYXZlTGluZUl0ZW1cPg==</entry>
         <entry encoding="base64">XDxibG9ja2VyXD4=</entry>
         <entry encoding="base64">XDxodHRwXD4=</entry>
@@ -384,6 +385,7 @@
         <entry encoding="base64">XDxjbG9zZUVkaXRNb2RhbFw+</entry>
         <entry>personal.index</entry>
         <entry>submissions.org</entry>
+        <entry encoding="base64">XDxjdXJyZW50VGFiXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>70</entry>
