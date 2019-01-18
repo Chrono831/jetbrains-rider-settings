@@ -25,11 +25,11 @@
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/templates/process.html" timestamp="1547824709247">
         <mark key="'" line="12" column="154" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/templates/submissionCreateAndEdit.html" timestamp="1547758144180">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/templates/submissionCreateAndEdit.html" timestamp="1547828412536">
         <mark key="'" line="70" column="67" />
-        <mark key="[" line="17" column="69" />
-        <mark key="]" line="17" column="69" />
-        <mark key="." line="17" column="69" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
         <mark key="^" line="17" column="69" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" timestamp="1547824518238">
@@ -78,8 +78,8 @@
         <mark key="." line="261" column="87" />
         <mark key="^" line="266" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547825024540">
-        <mark key="[" line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1547828435275">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -201,8 +201,8 @@
       <jump line="17" column="13" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/AssetManager/javascript.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cD57e3RhYi5jdXJyZW50fX08L3A+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -214,31 +214,31 @@
         <text>reviewsTabNames</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnc2V0dGluZyBzY29wZS50YWIuY3VycmVudCA9IHJvdXRlcGFyYW1zLnNlbGVjdGVkdGFiIDogJytyb3V0ZVBhcmFtcy5zZWxlY3RlZFRhYik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cD57e3RhYi5jdXJyZW50fX08L3A+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2V0dGluZyBzY29wZS50YWIuY3VycmVudCA9IGNvbGxlY3Rpb24nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnc2V0dGluZyBzY29wZS50YWIuY3VycmVudCA9IHJvdXRlcGFyYW1zLnNlbGVjdGVkdGFiIDogJytyb3V0ZVBhcmFtcy5zZWxlY3RlZFRhYik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3NldHRpbmcgc2NvcGUudGFiLmN1cnJlbnQgPSBzdWJtaXNzaW9uJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2V0dGluZyBzY29wZS50YWIuY3VycmVudCA9IGNvbGxlY3Rpb24nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzZXR0aW5nIHNjb3BlLnRhYi5jdXJyZW50ID0gb3JnYW5pemF0aW9uJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3NldHRpbmcgc2NvcGUudGFiLmN1cnJlbnQgPSBzdWJtaXNzaW9uJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzZXR0aW5nIHNjb3BlLnRhYi5jdXJyZW50ID0gcm91dGVQYXJhbXMuc2VsZWN0ZWRUYWIgfHwgc3VibWlzc2lvblRhYk5hbWVzLnN1Ym1pdHRlciA6Jytyb3V0ZVBhcmFtcy5zZWxlY3RlZFRhYiB8fCBzdWJtaXNzaW9uVGFiTmFtZXMuc3VibWl0dGVyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzZXR0aW5nIHNjb3BlLnRhYi5jdXJyZW50ID0gb3JnYW5pemF0aW9uJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzZXR0aW5nIHNjb3BlLnRhYi5jdXJyZW50ID0gY29sbGVjdGlvbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzZXR0aW5nIHNjb3BlLnRhYi5jdXJyZW50ID0gcm91dGVQYXJhbXMuc2VsZWN0ZWRUYWIgfHwgc3VibWlzc2lvblRhYk5hbWVzLnN1Ym1pdHRlciA6Jytyb3V0ZVBhcmFtcy5zZWxlY3RlZFRhYiB8fCBzdWJtaXNzaW9uVGFiTmFtZXMuc3VibWl0dGVyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NldHRpbmcgc2NvcGUudGFiLmN1cnJlbnQgPSBzdWJtaXNzaW9uJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzZXR0aW5nIHNjb3BlLnRhYi5jdXJyZW50ID0gY29sbGVjdGlvbicpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnc2V0dGluZyBzY29wZS50YWIuY3VycmVudCA9IHN1Ym1pc3Npb24nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NldHRpbmcgc2NvcGUudGFiLmN1cnJlbnQgPSBzdWJtaXNzaW9uJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnc2V0dGluZyBzY29wZS50YWIuY3VycmVudCA9IGJ1ZGdldCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnc2V0dGluZyBzY29wZS50YWIuY3VycmVudCA9IHN1Ym1pc3Npb24nKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/tabNames/processTabNames/g</text>
