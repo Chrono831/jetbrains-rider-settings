@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" timestamp="1547836837914">
-        <mark key="'" line="579" column="8" />
-        <mark key="[" line="498" column="6" />
-        <mark key="]" line="498" column="30" />
-        <mark key="^" line="498" column="30" />
-        <mark key="." line="498" column="30" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" timestamp="1547838353853">
+        <mark key="'" line="446" column="12" />
+        <mark key="[" line="393" column="33" />
+        <mark key="]" line="393" column="59" />
+        <mark key="^" line="393" column="59" />
+        <mark key="." line="393" column="59" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.constants.js" timestamp="1547824439993">
         <mark key="[" line="3" column="19" />
@@ -16,11 +16,11 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.constants.js" timestamp="1547756572097">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="24" />
-        <mark key="^" line="5" column="22" />
-        <mark key="." line="5" column="24" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.constants.js" timestamp="1547838071544">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="20" column="3" />
+        <mark key="^" line="20" column="3" />
+        <mark key="." line="20" column="3" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/templates/process.html" timestamp="1547824709247">
         <mark key="'" line="12" column="154" />
@@ -106,7 +106,6 @@
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.services.js" timestamp="1547821333003" />
     </filemarks>
     <jumps>
-      <jump line="202" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
       <jump line="293" column="14" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
       <jump line="328" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
       <jump line="164" column="78" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
@@ -206,19 +205,60 @@
       <jump line="337" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
       <jump line="316" column="10" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
       <jump line="580" column="8" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
+      <jump line="446" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="a" type="4">
+        <keys>
+          <key char="111" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVTdGF0dXNcPg==</text>
+        <text encoding="base64">XDxzYXZlUmVxdWVzdFw+</text>
       </register>
       <register name="0" type="4">
-        <text>reviewsTabNames</text>
+        <text encoding="base64">d2l0Y2hGdW5jIA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -252,9 +292,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVTdGF0dXNcPg==</last-search>
+      <last-search encoding="base64">XDxzYXZlUmVxdWVzdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVTdGF0dXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzYXZlUmVxdWVzdFw+</last-pattern>
       <last-replace>processTabNames</last-replace>
       <last-substitute>tabNames</last-substitute>
       <last-dir>-1</last-dir>
@@ -262,7 +302,6 @@
     </search>
     <history>
       <history-search>
-        <entry>!=</entry>
         <entry encoding="base64">IT0g</entry>
         <entry>scope.currentTab</entry>
         <entry encoding="base64">XDxjdXJyZW50VGFiXD4=</entry>
@@ -282,6 +321,7 @@
         <entry encoding="base64">XDxzd2l0Y2hUb0NvbGxlY3Rpb25cPg==</entry>
         <entry>scope.next</entry>
         <entry encoding="base64">XDx1cGRhdGVTdGF0dXNcPg==</entry>
+        <entry encoding="base64">XDxzYXZlUmVxdWVzdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>$</entry>
