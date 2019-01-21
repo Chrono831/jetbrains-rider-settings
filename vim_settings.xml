@@ -82,6 +82,9 @@
         <mark key="." line="141" column="57" />
         <mark key="^" line="148" column="34" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" timestamp="1548083397752">
+        <mark key="'" line="1455" column="87" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/AssetManager/javascript.json" timestamp="1547840966844">
         <mark key="'" line="179" column="44" />
         <mark key="[" line="166" column="35" />
@@ -226,13 +229,6 @@
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Finance/FinanceAccount.cs" timestamp="1548082691185">
         <mark key="'" line="169" column="12" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/templates/review.html" timestamp="1547824555644">
-        <mark key="'" line="16" column="56" />
-        <mark key="[" line="22" column="47" />
-        <mark key="]" line="22" column="123" />
-        <mark key="^" line="15" column="113" />
-        <mark key="." line="22" column="47" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.services.js" timestamp="1547821333003" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/LineItems/EditLineItemRequest.cs" timestamp="1547127768276">
         <mark key="[" line="17" column="45" />
@@ -266,7 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="382" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
       <jump line="331" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
       <jump line="296" column="14" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
       <jump line="205" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
@@ -366,6 +361,7 @@
       <jump line="351" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
       <jump line="21" column="22" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Finance/FinanceAccount.cs" />
       <jump line="169" column="12" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Finance/FinanceAccount.cs" />
+      <jump line="1455" column="87" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -415,7 +411,7 @@
         <text>submissionTabNames.budget</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfb3duZXJcPg==</text>
+        <text>reviews</text>
       </register>
       <register name="0" type="4">
         <text>routeParams.selectedTab</text>
@@ -452,17 +448,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfb3duZXJcPg==</last-search>
+      <last-search>reviews</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfb3duZXJcPg==</last-pattern>
+      <last-pattern>reviews</last-pattern>
       <last-replace>currentTab</last-replace>
       <last-substitute>tab.current</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YWJOYW1lc1w+</entry>
         <entry encoding="base64">XDxwcm9jZXNzVGFiTmFtZXNcPg==</entry>
         <entry>tabNames</entry>
         <entry>moment</entry>
@@ -482,6 +477,7 @@
         <entry>reload</entry>
         <entry>console</entry>
         <entry encoding="base64">XDxfb3duZXJcPg==</entry>
+        <entry>reviews</entry>
       </history-search>
       <history-cmd>
         <entry>173</entry>
