@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.constants.js" timestamp="1547841611180">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Web.config" timestamp="1547736593149">
         <mark key="[" line="173" column="1" />
         <mark key="]" line="173" column="1" />
@@ -60,6 +66,12 @@
         <mark key="]" line="349" column="27" />
         <mark key="." line="349" column="27" />
         <mark key="^" line="349" column="27" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Views/Shared/_BuilderLayout.cshtml" timestamp="1547744761014">
+        <mark key="[" line="34" column="13" />
+        <mark key="]" line="34" column="22" />
+        <mark key="." line="34" column="22" />
+        <mark key="^" line="34" column="22" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/FileController.cs" timestamp="1547129331893">
         <mark key="[" line="141" column="57" />
@@ -156,8 +168,23 @@
         <mark key="." line="62" column="4" />
         <mark key="^" line="62" column="1" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceAccountController.cs" timestamp="1548095328590">
-        <mark key="[" line="81" column="35" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/httpWrapper.js" timestamp="1547823626054">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="48" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="25" column="32" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceAccountController.cs" timestamp="1548097239599">
+        <mark key="[" line="85" column="19" />
+        <mark key="]" line="87" column="15" />
+        <mark key="^" line="87" column="15" />
+        <mark key="." line="87" column="15" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/UsersController.cs" timestamp="1548097266679">
+        <mark key="[" line="315" column="23" />
+        <mark key="]" line="317" column="19" />
+        <mark key="^" line="317" column="19" />
+        <mark key="." line="317" column="19" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" timestamp="1547831962310">
         <mark key="'" line="281" column="27" />
@@ -218,6 +245,12 @@
         <mark key="[" line="127" column="0" />
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/section.js" timestamp="1547843282142">
+        <mark key="[" line="145" column="35" />
+        <mark key="]" line="145" column="37" />
+        <mark key="." line="145" column="37" />
+        <mark key="^" line="145" column="37" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Views/Main/Summary.cshtml" timestamp="1547829032679">
         <mark key="'" line="125" column="41" />
@@ -418,10 +451,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>reviews</text>
