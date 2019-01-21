@@ -93,8 +93,12 @@
         <mark key="." line="141" column="57" />
         <mark key="^" line="148" column="34" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" timestamp="1548084282427">
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" timestamp="1548087638637">
         <mark key="'" line="1455" column="87" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="98" />
+        <mark key="." line="120" column="0" />
+        <mark key="^" line="119" column="67" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/AssetManager/javascript.json" timestamp="1547840966844">
         <mark key="'" line="179" column="44" />
@@ -221,11 +225,6 @@
         <mark key="]" line="298" column="16" />
         <mark key="^" line="338" column="32" />
         <mark key="." line="298" column="16" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1548079142831">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
       </file>
       <file name="/submissions.common.controllers.js" timestamp="1547841411860" />
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Global.asax.cs" timestamp="1547737363880">
@@ -436,10 +435,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgIDxhZGQga2V5PSJFbmdhZ2VMaW5rOkJ1ZGdldGluZ1JldmlldyIgdmFsdWU9Ii9idWRnZXRpbmcvcmVxdWVzdHMjL2VkaXQvezB9P3NlbGVjdGVkVGFiPXsxfSIgLz4K</text>
       </register>
       <register name="-" type="4">
-        <text>submissionTabNames.budget</text>
+        <text>views</text>
       </register>
       <register name="/" type="4">
         <text>reviews</text>
@@ -448,31 +447,31 @@
         <text>routeParams.selectedTab</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgIDxhZGQga2V5PSJFbmdhZ2VMaW5rOkJ1ZGdldGluZ1JldmlldyIgdmFsdWU9Ii9idWRnZXRpbmcvcmVxdWVzdHMjL2VkaXQvezB9P3NlbGVjdGVkVGFiPXsxfSIgLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY29udGludWUnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3dpdGNoVG9Gb3JtJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY29udGludWUnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3dpdGNoVG9CdWRnZXQnKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3dpdGNoVG9Gb3JtJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2NvcGUuY3VycmVudFRhYiA9IGNvbGxlY3Rpb24nKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3dpdGNoVG9CdWRnZXQnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2NvcGUudGFiIERORScpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2NvcGUuY3VycmVudFRhYiA9IGNvbGxlY3Rpb24nKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2VudGVyaW5nIHN1Ym1pc3Npb24gZWRpdCBjb250cm9sbGVyJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2NvcGUudGFiIERORScpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2VudGVyaW5nIHN1Ym1pc3Npb24gY3JlYXRlIGNvbnRyb2xsZXInKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2VudGVyaW5nIHN1Ym1pc3Npb24gZWRpdCBjb250cm9sbGVyJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
