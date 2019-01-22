@@ -43,11 +43,11 @@
         <mark key="^" line="35" column="5" />
         <mark key="." line="35" column="5" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Controllers/HomeController.cs" timestamp="1548165995404">
-        <mark key="[" line="38" column="28" />
-        <mark key="]" line="38" column="48" />
-        <mark key="^" line="40" column="36" />
-        <mark key="." line="40" column="36" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Controllers/HomeController.cs" timestamp="1548166974090">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="12" />
+        <mark key="." line="63" column="12" />
+        <mark key="^" line="50" column="15" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/LineItems/GetLineItemsUnderReviewQuery.cs" timestamp="1546954768077">
         <mark key="[" line="60" column="29" />
@@ -154,7 +154,10 @@
         <mark key="." line="87" column="15" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting/WebApi/Web.Release.config" timestamp="1548104271650" />
-      <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Attributes/IsEngageBudgetingEnabled.cs" timestamp="1548164303739" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Attributes/IsEngageBudgetingEnabled.cs" timestamp="1548166715283">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="23" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1547062512017">
         <mark key="[" line="104" column="0" />
         <mark key="]" line="112" column="9" />
@@ -186,6 +189,10 @@
         <mark key="]" line="38" column="56" />
         <mark key="^" line="38" column="56" />
         <mark key="." line="38" column="56" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting/Base/Cache/EngageBudgetConfigCache.cs" timestamp="1548166905413">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="51" column="32" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" timestamp="1547146024582">
         <mark key="[" line="298" column="16" />
@@ -256,6 +263,7 @@
         <mark key="." line="28" column="42" />
         <mark key="^" line="28" column="42" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FFD9D026-3962-4E0E-A22A-98FBE09FC546/ef/dead4066/EngageHelper.cs" timestamp="1548167018996" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/lineItemType.js" timestamp="1547148129627">
         <mark key="[" line="58" column="53" />
         <mark key="]" line="59" column="14" />
@@ -407,46 +415,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text>Cm</text>
       </register>
-      <register name="0" type="4">
-        <text>EnableEngageBudgeting</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuR2V0QXdhaXRlcigpCiAgICAgICAgICAgICAgICAgICAgLkdldFJlc3VsdCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gaWQ9ImVuYWJsZU5ld1dvcmtmbG93IiB0eXBlPSJzdWJtaXQiIGNsYXNzPSJidXR0b24gYnV0dG9uLXByaW1hcnkiPjxpIGNsYXNzPSJpY29uLW5leHQgaWNvblJpZ2h0IiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9pPkVuYWJsZSBOZXcgV29ya2Zsb3c8L2J1dHRvbj4gLS0+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS0gPGJ1dHRvbiBpZD0iZW5hYmxlTmV3V29ya2Zsb3ciIHR5cGU9InN1Ym1pdCIgY2xhc3M9ImJ1dHRvbiBidXR0b24tcHJpbWFyeSI+PGkgY2xhc3M9Imljb24tbmV4dCBpY29uUmlnaHQiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+RW5hYmxlIE5ldyBXb3JrZmxvdzwvYnV0dG9uPiAtLT4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZm9ybT4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxmb3JtPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEB1c2luZyAoRm9ybSkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRodHRwLnB1dAo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBSZWRpcmVjdCgiLyIpOyAvL1JlZGlyZWN0KFVybC5FbmdhZ2VMaW5rKCIvIikpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgLyoKICAgICAgICAgICAgaWYgKCFpZC5IYXNWYWx1ZSkKICAgICAgICAgICAgICAgIHJldHVybiBIdHRwTm90Rm91bmQoKTsKCiAgICAgICAgICAgIHZhciBhY2NvdW50ID0gX2ZpbmFuY2VBY2NvdW50U2VydmljZS5HZXQoaWQuVmFsdWUpOwogICAgICAgICAgICBpZiAoYWNjb3VudCA9PSBudWxsKQogICAgICAgICAgICAgICAgcmV0dXJuIEh0dHBOb3RGb3VuZCgpOwoKICAgICAgICAgICAgdmFyIG1vZGVsID0gTWFwcGVyLk1hcDxGaW5hbmNlQWRtaW5BY2NvdW50Vmlld01vZGVsPihhY2NvdW50KTsKICAgICAgICAgICAgbW9kZWwuU2VsZWN0ZWRUYWIgPSB0YWI7CgogICAgICAgICAgICByZXR1cm4gVmlldyhtb2RlbCk7CiAgICAgICAgICAgICov</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>18</text>
       </register>
     </registers>
     <search>
@@ -482,7 +490,6 @@
         <entry>Cm</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>3</entry>
         <entry>.s/,/','/g</entry>
         <entry>236</entry>
@@ -502,6 +509,7 @@
         <entry>2284</entry>
         <entry>w</entry>
         <entry>:w</entry>
+        <entry>18</entry>
       </history-cmd>
       <history-expr />
       <history-input />
