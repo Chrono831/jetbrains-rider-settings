@@ -219,11 +219,12 @@
         <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Models/Finance/AccountSeachGridResponseModel.cs" timestamp="1548095344174" />
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" timestamp="1548174180358">
-        <mark key="[" line="3" column="115" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" timestamp="1548176738497">
+        <mark key="'" line="650" column="61" />
+        <mark key="[" line="654" column="119" />
+        <mark key="]" line="654" column="125" />
+        <mark key="." line="654" column="119" />
+        <mark key="^" line="654" column="124" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/SubmissionAccessAllowedAttribute.cs" timestamp="1547044131713">
         <mark key="[" line="39" column="98" />
@@ -333,13 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="296" column="14" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
-      <jump line="205" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
-      <jump line="547" column="21" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
-      <jump line="78" column="39" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/templates/submissionCreateAndEdit.html" />
-      <jump line="17" column="57" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/templates/submissionCreateAndEdit.html" />
-      <jump line="248" column="38" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/templates/submissionCreateAndEdit.html" />
-      <jump line="223" column="55" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/templates/submissionCreateAndEdit.html" />
       <jump line="188" column="77" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/templates/submissionCreateAndEdit.html" />
       <jump line="144" column="53" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/templates/submissionCreateAndEdit.html" />
       <jump line="80" column="53" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/templates/submissionCreateAndEdit.html" />
@@ -433,6 +427,13 @@
       <jump line="169" column="12" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Finance/FinanceAccount.cs" />
       <jump line="1455" column="87" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" />
       <jump line="197" column="6" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/css/scss/components/_form.scss" />
+      <jump line="833" column="20" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
+      <jump line="886" column="17" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
+      <jump line="848" column="24" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
+      <jump line="654" column="100" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
+      <jump line="679" column="20" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
+      <jump line="652" column="63" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
+      <jump line="650" column="61" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -475,17 +476,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bWludXMg</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text encoding="base64">bWludXMg</text>
       </register>
       <register name="/" type="4">
-        <text>Cm</text>
+        <text encoding="base64">XDxSZXF1ZXN0ZWRBbW91bnRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKE5vU3luY2hyb25pemF0aW9uQ29udGV4dFNjb3BlLkVudGVyKCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciBjb25maWd1cmF0aW9uID0gRGVwZW5kZW5jeVJlc29sdmVyLkN1cnJlbnQuR2V0U2VydmljZTxFbmdhZ2VCdWRnZXRDb25maWdDYWNoZT4oKQogICAgICAgICAgICAgICAgICAgIC5HZXQoKTsKCiAgICAgICAgICAgICAgICByZXR1cm4gY29uZmlndXJhdGlvbi5CdWRnZXRpbmdFbmFibGVkOwogICAgICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>{{purchase-requests-total-pending-and-approved-for-this-line-item minus budget-requested-amount}}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -515,23 +516,20 @@
         <text encoding="base64">QHVzaW5nIENhbXB1c0xhYnMuRmluYW5jZS5XZWIuQ29udHJvbGxlcnMK</text>
       </register>
       <register name=":" type="4">
-        <text>655</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Cm</last-search>
+      <last-search encoding="base64">XDxSZXF1ZXN0ZWRBbW91bnRcPg==</last-search>
       <last-offset />
-      <last-pattern>Cm</last-pattern>
+      <last-pattern encoding="base64">XDxSZXF1ZXN0ZWRBbW91bnRcPg==</last-pattern>
       <last-replace>currentTab</last-replace>
       <last-substitute>tab.current</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tabNames</entry>
-        <entry>moment</entry>
-        <entry>temporary</entry>
         <entry>style</entry>
         <entry>next</entry>
         <entry encoding="base64">XDxzd2l0Y2hUb0NvbGxlY3Rpb25cPg==</entry>
@@ -549,9 +547,11 @@
         <entry encoding="base64">XDxfb3duZXJcPg==</entry>
         <entry>reviews</entry>
         <entry>Cm</entry>
+        <entry encoding="base64">XDxmaWxsT3V0Rm9ybVdpdGhBcHByb3ZlZEJ1ZGdldEl0ZW1cPg==</entry>
+        <entry>$100</entry>
+        <entry encoding="base64">XDxSZXF1ZXN0ZWRBbW91bnRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>.s/,/','/g</entry>
         <entry>236</entry>
         <entry>wq</entry>
         <entry>0</entry>
@@ -569,8 +569,9 @@
         <entry>2284</entry>
         <entry>:w</entry>
         <entry>18</entry>
-        <entry>w</entry>
+        <entry>897</entry>
         <entry>655</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
