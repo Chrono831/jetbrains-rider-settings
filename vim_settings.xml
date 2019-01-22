@@ -9,6 +9,12 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting/Base/Services/ICommunityPillarClient.cs" timestamp="1548162921477">
+        <mark key="[" line="16" column="94" />
+        <mark key="]" line="16" column="138" />
+        <mark key="." line="16" column="138" />
+        <mark key="^" line="16" column="138" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Web.config" timestamp="1547736593149">
         <mark key="[" line="173" column="1" />
         <mark key="]" line="173" column="1" />
@@ -436,16 +442,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>configurationId</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>configurationId</text>
       </register>
       <register name="/" type="4">
         <text>Cm</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PCVAIEltcG9ydCBOYW1lc3BhY2U9IkNhbXB1c0xhYnMuV2ViLkNkbi5IZWxwZXJzIiAlPgo8JUAgSW1wb3J0IE5hbWVzcGFjZT0iQ29sbGVnaWF0ZUxpbmsuV2ViLkhlbHBlcnMiICU+CjwlQCBJbXBvcnQgTmFtZXNwYWNlPSJTdHVkZW50Vm9pY2VHcm91cHMuQ29yZSIgJT4KPCVAIEltcG9ydCBOYW1lc3BhY2U9Ik12Y0NvbnRyaWIuVUkuR3JpZCIgJT4=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBbR2V0KCJjb21tdW5pdHkve2NvbW11bml0eUlkfS9jb25maWd1cmF0aW9uL3tjb25maWd1cmF0aW9uSWR9IildCiAgICAgICAgVGFzazxDb21tdW5pdHlDb25maWd1cmF0aW9uPiBHZXRDb25maWd1cmF0aW9uKFtQYXRoXSBpbnQgY29tbXVuaXR5SWQsIFtQYXRoXSBpbnQgY29uZmlndXJhdGlvbklkKTsK</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICAgICAgICAgICAgLyoKICAgICAgICAgICAgaWYgKCFpZC5IYXNWYWx1ZSkKICAgICAgICAgICAgICAgIHJldHVybiBIdHRwTm90Rm91bmQoKTsKCiAgICAgICAgICAgIHZhciBhY2NvdW50ID0gX2ZpbmFuY2VBY2NvdW50U2VydmljZS5HZXQoaWQuVmFsdWUpOwogICAgICAgICAgICBpZiAoYWNjb3VudCA9PSBudWxsKQogICAgICAgICAgICAgICAgcmV0dXJuIEh0dHBOb3RGb3VuZCgpOwoKICAgICAgICAgICAgdmFyIG1vZGVsID0gTWFwcGVyLk1hcDxGaW5hbmNlQWRtaW5BY2NvdW50Vmlld01vZGVsPihhY2NvdW50KTsKICAgICAgICAgICAgbW9kZWwuU2VsZWN0ZWRUYWIgPSB0YWI7CgogICAgICAgICAgICByZXR1cm4gVmlldyhtb2RlbCk7CiAgICAgICAgICAgICov</text>
