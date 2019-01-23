@@ -35,11 +35,11 @@
         <mark key="." line="34" column="22" />
         <mark key="^" line="34" column="22" />
       </file>
-      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" timestamp="1548258268223">
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" timestamp="1548261123756">
         <mark key="'" line="161" column="38" />
-        <mark key="[" line="306" column="105" />
-        <mark key="]" line="306" column="105" />
-        <mark key="." line="306" column="105" />
+        <mark key="[" line="306" column="91" />
+        <mark key="]" line="306" column="91" />
+        <mark key="." line="306" column="91" />
         <mark key="^" line="306" column="105" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Settings/SettingsLineItemTypesController.cs" timestamp="1546980263414">
@@ -55,9 +55,12 @@
         <mark key="^" line="12" column="81" />
         <mark key="." line="12" column="83" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" timestamp="1548257401794">
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" timestamp="1548261711645">
         <mark key="'" line="132" column="25" />
-        <mark key="^" line="116" column="39" />
+        <mark key="[" line="557" column="99" />
+        <mark key="]" line="559" column="15" />
+        <mark key="^" line="559" column="15" />
+        <mark key="." line="559" column="15" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/IsAllowedToDownloadAttribute.cs" timestamp="1546958915020">
         <mark key="[" line="19" column="12" />
@@ -292,6 +295,10 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="58" column="13" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Security/CommunityAuthorizeAttribute.cs" timestamp="1548261853810">
+        <mark key="[" line="70" column="39" />
+        <mark key="." line="70" column="38" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceAccountController.cs" timestamp="1548097239599">
         <mark key="[" line="85" column="19" />
         <mark key="]" line="87" column="15" />
@@ -302,7 +309,8 @@
         <mark key="[" line="611" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Models/Finance/AccountSeachGridResponseModel.cs" timestamp="1548095344174" />
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" timestamp="1548252357768">
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" timestamp="1548261553603">
+        <mark key="'" line="915" column="25" />
         <mark key="[" line="929" column="115" />
         <mark key="]" line="929" column="125" />
         <mark key="^" line="929" column="125" />
@@ -332,7 +340,7 @@
         <mark key="." line="64" column="115" />
         <mark key="^" line="64" column="127" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548260675736">
+      <file name="/Dummy.txt" timestamp="1548261807764">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Views/Shared/_AngularLayout.cshtml" timestamp="1548195453753">
@@ -369,7 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="365" column="17" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
       <jump line="376" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
       <jump line="390" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
       <jump line="393" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
@@ -469,6 +476,7 @@
       <jump line="174" column="71" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" />
       <jump line="167" column="71" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" />
       <jump line="161" column="38" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" />
+      <jump line="915" column="25" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -512,13 +520,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>?? 0;</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>?? 0;</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZXN0cmljdGlvbnNcPg==</text>
+        <text>always</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGQoUmVzdHJpY3Rpb25zLk5vdChSZXN0cmljdGlvbnMuRXEoInRoaXMuU3RhdHVzIiwgUmVxdWVzdFN0YXR1cy5VbmFwcHJvdmVkLlRvU3RyaW5nKCkpKSkK</text>
@@ -555,17 +563,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZXN0cmljdGlvbnNcPg==</last-search>
+      <last-search>always</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZXN0cmljdGlvbnNcPg==</last-pattern>
+      <last-pattern>always</last-pattern>
       <last-replace>currentTab</last-replace>
       <last-substitute>tab.current</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Subject</entry>
         <entry encoding="base64">XDxmaWxsT3V0Rm9ybVdpdGhBcHByb3ZlZEJ1ZGdldEl0ZW1cPg==</entry>
         <entry encoding="base64">XDxidWRnZXRDbGVhclNlbGVjdGVkXD4=</entry>
         <entry encoding="base64">XDxidXR0b25cPg==</entry>
@@ -585,6 +592,7 @@
         <entry>FinanceRequest</entry>
         <entry encoding="base64">XDxFeHByZXNzaW9uXD4=</entry>
         <entry encoding="base64">XDxSZXN0cmljdGlvbnNcPg==</entry>
+        <entry>always</entry>
       </history-search>
       <history-cmd>
         <entry>0</entry>
