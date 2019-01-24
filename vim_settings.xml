@@ -275,10 +275,12 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="58" column="13" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Security/CommunityAuthorizeAttribute.cs" timestamp="1548337481362">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Security/CommunityAuthorizeAttribute.cs" timestamp="1548338760108">
+        <mark key="'" line="189" column="15" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
+        <mark key="^" line="121" column="34" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceAccountController.cs" timestamp="1548097239599">
         <mark key="[" line="85" column="19" />
@@ -355,8 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="654" column="100" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
-      <jump line="679" column="20" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
       <jump line="650" column="61" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
       <jump line="911" column="17" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
       <jump line="886" column="17" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
@@ -455,6 +455,8 @@
       <jump line="810" column="16" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
       <jump line="1059" column="12" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
       <jump line="1054" column="12" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
+      <jump line="187" column="17" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Security/CommunityAuthorizeAttribute.cs" />
+      <jump line="189" column="15" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Security/CommunityAuthorizeAttribute.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -498,19 +500,19 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT3JnYW5pemF0aW9uQWNjZXNzUm9sZXMK</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>user.Identity.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkQnVkZ2V0c1w+</text>
+        <text encoding="base64">XDxDaGFsbGVuZ2VSZXN1bHRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>FinanceService.FinanceRequestSubmissionTotalSlim</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT3JnYW5pemF0aW9uQWNjZXNzUm9sZXMK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -528,22 +530,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL3N1bW1hcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RoZSBpbmRleE1vZGVsIHdhcyBjaGFuZ2VkLkluc3RlYWQgdGhlIEluZGV4IHBhZ2UgY2FsbHMgaW4gUmVuZGVyQWN0aW9uIDpJbmRleEZ1bmRpbmdSZXF1ZXN0cyxJbmRleFB1cmNoYXNlUmVxdWVzdHMgYW5kIEluZGV4QWNjb3VudHMK</text>
+        <text encoding="base64">ICAgICAgICAvL3N1bW1hcnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL1RoZSBpbmRleE1vZGVsIHdhcyBjaGFuZ2VkLkluc3RlYWQgdGhlIEluZGV4IHBhZ2UgY2FsbHMgaW4gUmVuZGVyQWN0aW9uIDpJbmRleEZ1bmRpbmdSZXF1ZXN0cyxJbmRleFB1cmNoYXNlUmVxdWVzdHMgYW5kIEluZGV4QWNjb3VudHMK</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2FkQnVkZ2V0c1w+</last-search>
+      <last-search encoding="base64">XDxDaGFsbGVuZ2VSZXN1bHRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkQnVkZ2V0c1w+</last-pattern>
+      <last-pattern encoding="base64">XDxDaGFsbGVuZ2VSZXN1bHRcPg==</last-pattern>
       <last-replace>currentTab</last-replace>
       <last-substitute>tab.current</last-substitute>
       <last-dir>-1</last-dir>
@@ -551,7 +553,6 @@
     </search>
     <history>
       <history-search>
-        <entry>user</entry>
         <entry>User</entry>
         <entry>let</entry>
         <entry encoding="base64">bGV0IA==</entry>
@@ -571,6 +572,7 @@
         <entry>GetPur</entry>
         <entry encoding="base64">XDxmaWxsT3V0Rm9ybVdpdGhBcHByb3ZlZEJ1ZGdldEl0ZW1cPg==</entry>
         <entry encoding="base64">XDxsb2FkQnVkZ2V0c1w+</entry>
+        <entry encoding="base64">XDxDaGFsbGVuZ2VSZXN1bHRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>)</entry>
