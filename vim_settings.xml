@@ -59,6 +59,12 @@
         <mark key="^" line="12" column="81" />
         <mark key="." line="12" column="83" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" timestamp="1548336340217">
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="0" />
+        <mark key="." line="205" column="0" />
+        <mark key="^" line="750" column="15" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/IsAllowedToDownloadAttribute.cs" timestamp="1546958915020">
         <mark key="[" line="19" column="12" />
         <mark key="]" line="19" column="12" />
@@ -269,6 +275,11 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="58" column="13" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Security/CommunityAuthorizeAttribute.cs" timestamp="1548337481362">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceAccountController.cs" timestamp="1548097239599">
         <mark key="[" line="85" column="19" />
         <mark key="]" line="87" column="15" />
@@ -307,7 +318,7 @@
         <mark key="." line="64" column="115" />
         <mark key="^" line="64" column="127" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548277515087">
+      <file name="/Dummy.txt" timestamp="1548336450655">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Views/Shared/_AngularLayout.cshtml" timestamp="1548195453753">
@@ -486,8 +497,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>y</text>
@@ -499,31 +510,31 @@
         <text>FinanceService.FinanceRequestSubmissionTotalSlim</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy92YXIgbGluZUl0ZW1zQXJyYXkgPSAobGluZUl0ZW1zID09IG51bGwpID8gbmV3IExpc3Q8RmluYW5jZVNlcnZpY2UuRmluYW5jZVJlcXVlc3RTdWJtaXNzaW9uVG90YWxTbGltPigpLlRvQXJyYXkoKSA6IGxpbmVJdGVtcy5Ub0FycmF5KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBMaXN0PEZpbmFuY2VSZXF1ZXN0U3VibWlzc2lvblRvdGFsU2xpbT4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBMaXN0PEZpbmFuY2VSZXF1ZXN0U3VibWlzc2lvblRvdGFsU2xpbT4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9pZiAocmVxdWVzdHMuVG9MaXN0KCkuQ291bnQgPT0gMCkKICAgICAgICAgICAgLy97CiAgICAgICAgICAgIC8vICAgIHJldHVybiBuZXcgTGlzdDxGaW5hbmNlUmVxdWVzdFN1Ym1pc3Npb25Ub3RhbFNsaW0+KCk7CiAgICAgICAgICAgIC8vfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxpbmVJdGVtSWRzLlRvTGlzdCgpLkNvdW50ID09IDApCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgTGlzdDxGaW5hbmNlUmVxdWVzdFN1Ym1pc3Npb25Ub3RhbFNsaW0+KCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGl0ZW1JZHMgPSBsaW5lSXRlbUlkcy5Ub0xpc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAvL3N1bW1hcnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxpbmVJdGVtcyAhPSBudWxsKSB7IGxpbmVJdGVtc0FycmF5ID0gbGluZUl0ZW1zLlRvQXJyYXkoKTsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvL1RoZSBpbmRleE1vZGVsIHdhcyBjaGFuZ2VkLkluc3RlYWQgdGhlIEluZGV4IHBhZ2UgY2FsbHMgaW4gUmVuZGVyQWN0aW9uIDpJbmRleEZ1bmRpbmdSZXF1ZXN0cyxJbmRleFB1cmNoYXNlUmVxdWVzdHMgYW5kIEluZGV4QWNjb3VudHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>331</text>
