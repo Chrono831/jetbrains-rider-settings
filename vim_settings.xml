@@ -143,9 +143,9 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Process/Tables/StepReviewerTemplate.sql" timestamp="1548867726311">
-        <mark key="[" line="27" column="78" />
-        <mark key="]" line="27" column="86" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Process/Tables/StepReviewerTemplate.sql" timestamp="1548868891982">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="40" column="2" />
         <mark key="^" line="39" column="1" />
         <mark key="." line="27" column="86" />
       </file>
@@ -302,6 +302,13 @@
       <file name="/Dummy.txt" timestamp="1548867808081">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Submission/Tables/StepReviewer.sql" timestamp="1548869225068">
+        <mark key="'" line="12" column="11" />
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="91" />
+        <mark key="^" line="12" column="91" />
+        <mark key="." line="12" column="91" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1548686894814">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="20" />
@@ -372,13 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1073" column="21" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" />
-      <jump line="1066" column="21" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" />
-      <jump line="1059" column="70" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" />
-      <jump line="950" column="12" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" />
-      <jump line="308" column="20" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" />
-      <jump line="307" column="20" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" />
-      <jump line="306" column="20" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" />
       <jump line="305" column="21" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" />
       <jump line="304" column="21" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" />
       <jump line="303" column="21" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" />
@@ -472,6 +472,13 @@
       <jump line="295" column="27" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/process.js" />
       <jump line="278" column="47" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/process.js" />
       <jump line="291" column="63" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/process.js" />
+      <jump line="2" column="14" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Submission/Tables/StepReviewer.sql" />
+      <jump line="32" column="4" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Submission/Tables/StepReviewer.sql" />
+      <jump line="24" column="13" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Submission/Tables/StepReviewer.sql" />
+      <jump line="19" column="13" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Submission/Tables/StepReviewer.sql" />
+      <jump line="1" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Submission/Tables/StepReviewer.sql" />
+      <jump line="9" column="42" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Submission/Tables/StepReviewer.sql" />
+      <jump line="12" column="11" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Submission/Tables/StepReviewer.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -505,62 +512,59 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWNoZWRcPg==</text>
+        <text>Template</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFzY29wZS5jYWNoZWQpIHsK</text>
+        <text encoding="base64">LS1DUkVBVEUgU0NIRU1BIFtQcm9jZXNzXQoKQ1JFQVRFIFRBQkxFIFtQcm9jZXNzXS5bU3RlcFJldmlld2VyVGVtcGxhdGVdKAogIFtJZF0gW2ludF0gSURFTlRJVFkoMTIzNDU2LDEpIE5PVCBOVUxMLAoKICBbUHJvY2Vzc0lkXSBbaW50XSBOT1QgTlVMTCwKICBbU3RlcElkXSBbaW50XSBOT1QgTlVMTCwKICBbQ3JlYXRlZE9uXSBbZGF0ZXRpbWVvZmZzZXRdKDcpIE5PVCBOVUxMLAogIFtNb2RpZmllZE9uXSBbZGF0ZXRpbWVvZmZzZXRdKDcpIE5VTEwsCiAgW0RlbGV0ZWRPbl0gW2RhdGV0aW1lb2Zmc2V0XSg3KSBOVUxMLAogIFtBY2NvdW50SWRdIFt1bmlxdWVpZGVudGlmaWVyXSBOVUxMLAogIFtCcmFuY2hJZF0gW2ludF0gTlVMTCwKICBbUG9zaXRpb25UZW1wbGF0ZUlkXSBbaW50XSBOVUxMLAogIAogIENPTlNUUkFJTlQgW1BLX19Qcm9jZXNzX1N0ZXBSZXZpZXdlclRlbXBsYXRlXSBQUklNQVJZIEtFWSBDTFVTVEVSRUQgKCBbSWRdIEFTQyApCiAgICBXSVRIIChTVEFUSVNUSUNTX05PUkVDT01QVVRFID0gT0ZGLCBJR05PUkVfRFVQX0tFWSA9IE9GRikgT04gW1BSSU1BUlldCikgT04gW1BSSU1BUlldCkdPCgpBTFRFUiBUQUJMRSBbUHJvY2Vzc10uW1N0ZXBSZXZpZXdlclRlbXBsYXRlXSAKQUREIENPTlNUUkFJTlQgW0RGX19Qcm9jZXNzX1N0ZXBSZXZpZXdlclRlbXBsYXRlX19DcmVhdGVkT25dIApERUZBVUxUIChzeXNkYXRldGltZW9mZnNldCgpKSBGT1IgW0NyZWF0ZWRPbl0KR08KCkFMVEVSIFRBQkxFIFtQcm9jZXNzXS5bU3RlcFJldmlld2VyVGVtcGxhdGVdIApBREQgQ09OU1RSQUlOVCBbQ0tfX1Byb2Nlc3NfU3RlcFJldmlld2VyVGVtcGxhdGVfX0FjY291bnRfb3JfUG9zaXRpb25UZW1wbGF0ZV0KQ0hFQ0sgKAogICAgIChbQWNjb3VudElkXSBJUyBOT1QgTlVMTCBBTkQgW0JyYW5jaElkXSBJUyBOVUxMIEFORCBbUG9zaXRpb25UZW1wbGF0ZUlkXSBJUyBOVUxMKQogIE9SIChbQWNjb3VudElkXSBJUyBOVUxMIEFORCBbQnJhbmNoSWRdIElTIE5PVCBOVUxMIEFORCBbUG9zaXRpb25UZW1wbGF0ZUlkXSBJUyBOT1QgTlVMTCkKKQoKQ1JFQVRFIFVOSVFVRSBOT05DTFVTVEVSRUQgSU5ERVggW1VYX19Qcm9jZXNzX1N0ZXBSZXZpZXdlclRlbXBsYXRlXSAKT04gW1Byb2Nlc3NdLltTdGVwUmV2aWV3ZXJUZW1wbGF0ZV0gKAogIFtQcm9jZXNzSWRdIEFTQywKICBbU3RlcElkXSBBU0MsCiAgW0FjY291bnRJZF0gQVNDLAogIFtCcmFuY2hJZF0gQVNDLAogIFtQb3NpdGlvblRlbXBsYXRlSWRdIEFTQwopCiAgV0lUSCAoU1RBVElTVElDU19OT1JFQ09NUFVURSA9IE9GRiwgSUdOT1JFX0RVUF9LRVkgPSBPRkYsIERST1BfRVhJU1RJTkcgPSBPRkYsIE9OTElORSA9IE9GRikgT04gW1BSSU1BUlldCkdPCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z28K</text>
+        <text encoding="base64">ICBbUG9zaXRpb25UZW1wbGF0ZUlkXSBBU0MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBbQnJhbmNoSWRdIEFTQywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">R08K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">U0VUIFFVT1RFRF9JREVOVElGSUVSIE9OCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">R08K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">U0VUIEFOU0lfTlVMTFMgT04K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">QUxURVIgVEFCTEUgW1N1Ym1pc3Npb25dLltTdGVwUmV2aWV3ZXJdIApBREQgQ09OU1RSQUlOVCBbQ0tfX1N1Ym1pc3Npb25fU3RlcFJldmlld2VyX19BY2NvdW50X29yX1Bvc2l0aW9uVGVtcGxhdGVdCkNIRUNLICgKICAgICAoW0FjY291bnRJZF0gSVMgTk9UIE5VTEwgQU5EIFtCcmFuY2hJZF0gSVMgTlVMTCBBTkQgW1Bvc2l0aW9uVGVtcGxhdGVJZF0gSVMgTlVMTCkKICBPUiAoW0FjY291bnRJZF0gSVMgTlVMTCBBTkQgW0JyYW5jaElkXSBJUyBOT1QgTlVMTCBBTkQgW1Bvc2l0aW9uVGVtcGxhdGVJZF0gSVMgTk9UIE5VTEwpCikK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBbQnJhbmNoSWRdIFtpbnRdIE5VTEwsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBbQWNjb3VudElkXSBbdW5pcXVlaWRlbnRpZmllcl0gTlVMTCwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Z28K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">R08K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RFJPUCBUQUJMRSBbUHJvY2Vzc10uW1N0ZXBSZXZpZXdlclRlbXBsYXRlXQo=</text>
+        <text encoding="base64">R08K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYWNoZWRcPg==</last-search>
+      <last-search>Template</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWNoZWRcPg==</last-pattern>
-      <last-replace>&quot;</last-replace>
-      <last-substitute>'</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-pattern>Template</last-pattern>
+      <last-replace>Submission</last-replace>
+      <last-substitute>Process</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0bXBsSXRlbVw+</entry>
-        <entry encoding="base64">XDxsb2FkQnVkZ2V0U3VibWlzc2lvbkRldGFpbHNcPg==</entry>
-        <entry>budget-selector-toggle</entry>
         <entry>$.map</entry>
         <entry>&quot;num&quot;</entry>
         <entry>map</entry>
@@ -578,27 +582,30 @@
         <entry encoding="base64">XDxzYXZlUHJvY2Vzc1w+</entry>
         <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
         <entry encoding="base64">XDxjYWNoZWRcPg==</entry>
+        <entry encoding="base64">XDxQcm9jZXNzXD4=</entry>
+        <entry>Process</entry>
+        <entry>Template</entry>
       </history-search>
       <history-cmd>
-        <entry>198</entry>
         <entry>2284</entry>
         <entry>:w</entry>
         <entry>18</entry>
         <entry>897</entry>
         <entry>655</entry>
         <entry>899</entry>
-        <entry>q</entry>
         <entry>120</entry>
         <entry>.,$s/'/&quot;/g</entry>
-        <entry>%y</entry>
         <entry>$</entry>
-        <entry>0</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>339</entry>
         <entry>29</entry>
         <entry>331</entry>
         <entry>1042</entry>
         <entry>109</entry>
+        <entry>%y</entry>
+        <entry>q</entry>
+        <entry>%s/Process/Submission/g</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
