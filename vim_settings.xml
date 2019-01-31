@@ -89,11 +89,11 @@
         <mark key="." line="19" column="12" />
         <mark key="^" line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/BranchController.cs" timestamp="1548960697655">
-        <mark key="[" line="49" column="73" />
-        <mark key="]" line="49" column="73" />
-        <mark key="." line="49" column="73" />
-        <mark key="^" line="49" column="73" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/BranchController.cs" timestamp="1548964923611">
+        <mark key="[" line="60" column="12" />
+        <mark key="]" line="60" column="12" />
+        <mark key="^" line="60" column="13" />
+        <mark key="." line="60" column="12" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/branchService.js" timestamp="1548960137442">
         <mark key="[" line="21" column="18" />
@@ -616,46 +616,46 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">W1BhdGhdIA==</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcHJvY2Vzc29yXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">W1BhdGhdIA==</text>
+        <text encoding="base64">ZXhjbHVkZWRQb3NpdGlvblRlbXBsYXRlTmFtZXMg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3Byb2Nlc3NvciA9IHByb2Nlc3NvcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaGVyZSh4ID0+IHguTmFtZSAhPSAiT3JnYW5pemF0aW9uQ3JlYXRlZCIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElSZXF1ZXN0UHJvY2Vzc29yIF9wcm9jZXNzb3I7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjbHVkZWRQb3NpdGlvblRlbXBsYXRlTmFtZXMgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaGVyZSh4ID0+IHguTmFtZSAhPSAiTWVtYmVyIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIGNsZWFudXAgaGFuZGxpbmcgb2YgbWlzc2luZyBmaWxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIHRlc3Qgd2l0aCB1cGxvYWRpbmcgfjE1LzIwTUIgZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbUm91dGUoInBvc2l0aW9uVGVtcGxhdGUiKV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3Byb2Nlc3NvciA9IHByb2Nlc3NvcjsK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -692,7 +692,6 @@
       </history-search>
       <history-cmd>
         <entry>.,$s/'/&quot;/g</entry>
-        <entry>$</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>339</entry>
         <entry>29</entry>
@@ -709,8 +708,9 @@
         <entry>.s/Step/Branch/g</entry>
         <entry>.s/Step/PositionTemplate/g</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>$</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
