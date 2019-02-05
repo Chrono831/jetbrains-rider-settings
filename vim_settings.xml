@@ -82,12 +82,12 @@
         <mark key="^" line="2" column="53" />
         <mark key="." line="2" column="53" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/step.js" timestamp="1549379583997">
-        <mark key="'" line="127" column="12" />
-        <mark key="[" line="69" column="73" />
-        <mark key="]" line="70" column="72" />
-        <mark key="." line="72" column="60" />
-        <mark key="^" line="72" column="60" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/step.js" timestamp="1549388344651">
+        <mark key="'" line="159" column="30" />
+        <mark key="[" line="140" column="13" />
+        <mark key="]" line="141" column="60" />
+        <mark key="." line="141" column="60" />
+        <mark key="^" line="141" column="60" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Process/Tables/StepReviewerTemplate.sql" timestamp="1548876081509">
         <mark key="[" line="0" column="0" />
@@ -113,6 +113,12 @@
         <mark key="]" line="19" column="2" />
         <mark key="^" line="23" column="0" />
         <mark key="." line="19" column="2" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Settings/SettingsProcessesController.cs" timestamp="1549386658390">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="15" column="19" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/branchService.js" timestamp="1549040837219">
         <mark key="[" line="27" column="0" />
@@ -581,16 +587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Steps/CreatePositionTemplateRequestHandler.cs" />
-      <jump line="39" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Steps/CreatePositionTemplateRequestHandler.cs" />
-      <jump line="38" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Steps/CreatePositionTemplateRequestHandler.cs" />
-      <jump line="37" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Steps/CreatePositionTemplateRequestHandler.cs" />
-      <jump line="36" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Steps/CreatePositionTemplateRequestHandler.cs" />
-      <jump line="96" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Settings/Step.cs" />
-      <jump line="87" column="35" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Settings/Step.cs" />
-      <jump line="81" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Settings/Step.cs" />
-      <jump line="79" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Settings/Step.cs" />
-      <jump line="63" column="25" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Settings/Step.cs" />
       <jump line="52" column="57" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Settings/Step.cs" />
       <jump line="25" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Settings/Step.cs" />
       <jump line="97" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Settings/Step.cs" />
@@ -617,7 +613,6 @@
       <jump line="97" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/step.js" />
       <jump line="65" column="10" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/step.js" />
       <jump line="43" column="38" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/step.js" />
-      <jump line="42" column="35" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/step.js" />
       <jump line="197" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/step.js" />
       <jump line="180" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/step.js" />
       <jump line="96" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/step.js" />
@@ -681,6 +676,17 @@
       <jump line="8" column="28" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Process/Tables/StepPositionTemplate.sql" />
       <jump line="3" column="3" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Process/Tables/StepPositionTemplate.sql" />
       <jump line="21" column="3" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Process/Tables/StepPositionTemplate.sql" />
+      <jump line="141" column="9" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/step.js" />
+      <jump line="138" column="11" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/step.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/step.js" />
+      <jump line="165" column="50" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/step.js" />
+      <jump line="218" column="57" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/step.js" />
+      <jump line="226" column="49" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/step.js" />
+      <jump line="228" column="23" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/step.js" />
+      <jump line="235" column="53" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/step.js" />
+      <jump line="239" column="51" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/step.js" />
+      <jump line="42" column="28" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/step.js" />
+      <jump line="158" column="30" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/step.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -714,13 +720,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>PositionTemplate</text>
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text>PositionTemplate</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQb3NpdGlvblRlbXBsYXRlSWRcPg==</text>
+        <text>Reviewers</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">YnVkZ2V0VHlwZXMg</text>
@@ -757,17 +763,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQb3NpdGlvblRlbXBsYXRlSWRcPg==</last-search>
+      <last-search>Reviewers</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQb3NpdGlvblRlbXBsYXRlSWRcPg==</last-pattern>
+      <last-pattern>Reviewers</last-pattern>
       <last-replace>PositionTemplate</last-replace>
       <last-substitute>Account</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfc3VibWlzc2lvbnNcPg==</entry>
         <entry>flow</entry>
         <entry encoding="base64">XDxzYXZlUG9zaXRpb25UZW1wbGF0ZXNcPg==</entry>
         <entry>Step</entry>
@@ -787,6 +792,7 @@
         <entry>Reviewer</entry>
         <entry>Account</entry>
         <entry encoding="base64">XDxQb3NpdGlvblRlbXBsYXRlSWRcPg==</entry>
+        <entry>Reviewers</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
@@ -807,8 +813,8 @@
         <entry>%d</entry>
         <entry>%s/Account/PositionTemplate/g</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
