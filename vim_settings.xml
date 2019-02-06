@@ -8,11 +8,11 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Steps/EditStepRequestHandler.cs" timestamp="1549467719140">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="75" column="73" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Steps/EditStepRequestHandler.cs" timestamp="1549470659159">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="31" column="13" />
+        <mark key="." line="32" column="11" />
+        <mark key="^" line="32" column="11" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Web.config" timestamp="1547736593149">
         <mark key="[" line="173" column="1" />
@@ -129,10 +129,11 @@
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/LineItemTypes/GetLineItemTypesQuery.cs" timestamp="1546978384059">
         <mark key="[" line="46" column="29" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Steps/CreateStepRequest.cs" timestamp="1549383648555">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="20" column="69" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Steps/CreateStepRequest.cs" timestamp="1549470809256">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="9" />
+        <mark key="." line="4" column="9" />
+        <mark key="^" line="4" column="9" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Settings/ProcessPositionTemplate.cs" timestamp="1549466159532">
         <mark key="[" line="13" column="47" />
@@ -313,6 +314,12 @@
         <mark key="." line="16" column="87" />
         <mark key="^" line="16" column="116" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Core/Exceptions/StepValidationResult.cs" timestamp="1549470262168">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Steps/EditProcessStepReviewerTemplateRequestHandler.cs" timestamp="1548947573212">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -485,12 +492,6 @@
         <mark key="." line="15" column="94" />
         <mark key="^" line="15" column="94" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Steps/CreateStepRequestHandler.cs" timestamp="1549465747830">
-        <mark key="[" line="74" column="77" />
-        <mark key="]" line="74" column="78" />
-        <mark key="." line="74" column="78" />
-        <mark key="^" line="74" column="77" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/LineItemTypes/EditLineItemTypeRequestHandler.cs" timestamp="1546980576115">
         <mark key="[" line="38" column="56" />
         <mark key="]" line="38" column="56" />
@@ -580,16 +581,22 @@
         <mark key="." line="28" column="42" />
         <mark key="^" line="28" column="42" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Core/Exceptions/StepInvalidException.cs" timestamp="1549470313165">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="19" column="61" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/lineItemType.js" timestamp="1547148129627">
         <mark key="[" line="58" column="53" />
         <mark key="]" line="59" column="14" />
         <mark key="." line="59" column="14" />
         <mark key="^" line="59" column="14" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Steps/EditStepRequest.cs" timestamp="1549383644994">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="28" column="69" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Steps/EditStepRequest.cs" timestamp="1549470805882">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="35" />
+        <mark key="." line="27" column="0" />
         <mark key="^" line="36" column="34" />
       </file>
     </filemarks>
@@ -726,17 +733,17 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Creat</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Creat</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcmV2aWV3ZXJzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CVtJbnN0aXR1dGlvbklkXSBbaW50XSBOT1QgTlVMTCwK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IElkIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -745,28 +752,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIFtQcm9jZXNzXS5bUG9zaXRpb25UZW1wbGF0ZV0oCglbSWRdIFtpbnRdIE5PVCBOVUxMLAoJW0luc3RpdHV0aW9uSWRdIFtpbnRdIE5PVCBOVUxMLAoJW0JyYW5jaElkXSBbaW50XSBOT1QgTlVMTCwKCVtOYW1lXSBbbnZhcmNoYXJdKDI1NSkgTk9UIE5VTEwsCglbQ3JlYXRlZE9uXSBbZGF0ZXRpbWVvZmZzZXRdKDcpIE5PVCBOVUxMLAoJW01vZGlmaWVkT25dIFtkYXRldGltZW9mZnNldF0oNykgTlVMTCwKCVtEZWxldGVkT25dIFtkYXRldGltZW9mZnNldF0oNykgTlVMTCwKIENPTlNUUkFJTlQgW1BLX19Qcm9jZXNzX1Bvc2l0aW9uVGVtcGxhdGVdIFBSSU1BUlkgS0VZIENMVVNURVJFRCAKKAoJW0lkXSBBU0MKKVdJVEggKFNUQVRJU1RJQ1NfTk9SRUNPTVBVVEUgPSBPRkYsIElHTk9SRV9EVVBfS0VZID0gT0ZGKSBPTiBbUFJJTUFSWV0KKSBPTiBbUFJJTUFSWV0KR08KCkFMVEVSIFRBQkxFIFtQcm9jZXNzXS5bUG9zaXRpb25UZW1wbGF0ZV0gQUREICBDT05TVFJBSU5UIFtERl9fUHJvY2Vzc19Qb3NpdGlvblRlbXBsYXRlX19DcmVhdGVkT25dICBERUZBVUxUIChzeXNkYXRldGltZW9mZnNldCgpKSBGT1IgW0NyZWF0ZWRPbl0KR08K</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFByb2Nlc3NJZCB7IGdldDsgc2V0OyB9CgogICAgICAgIHB1YmxpYyBMaXN0PEFjY291bnRSZXF1ZXN0PiBSZXZpZXdlcnMgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBMaXN0PEFjY291bnRSZXF1ZXN0PiBQcm9jZXNzUmV2aWV3ZXJzIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgTGlzdDxQb3NpdGlvblRlbXBsYXRlPiBQb3NpdGlvblRlbXBsYXRlcyB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vdGhyb3cgbmV3IFByb2Nlc3NQb3NpdGlvblRlbXBsYXRlTm90Rm91bmRFeGNlcHRpb24ocG9zaXRpb25UZW1wbGF0ZS5JZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeQogICAgICAgICAgICAgICAgewo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJvcGVydHkoeCA9PiB4Lk5hbWUpOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGNhdGNoIChFeGNlcHRpb24gZSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShlKTsKICAgICAgICAgICAgICAgICAgICB0aHJvdzsKICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJvcGVydHkoIHggPT4geC5JbnN0aXR1dGlvbklkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL3Rocm93IG5ldyBQcm9jZXNzUG9zaXRpb25UZW1wbGF0ZU5vdEZvdW5kRXhjZXB0aW9uKHBvc2l0aW9uVGVtcGxhdGUuSWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlcXVlc3QuUG9zaXRpb25UZW1wbGF0ZXMuQW55KCkgJiYgIXJlcXVlc3QuUHJvY2Vzc1Jldmlld2Vycy5BbnkoKSAmJiAhcmVxdWVzdC5SZXZpZXdlcnMuQW55KCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBTdGVwSW52YWxpZEV4Y2VwdGlvbihTdGVwVmFsaWRhdGlvblJlc3VsdC5Ob0JhY2t1cFJldmlld2VyKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcHBlciA9PgogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIG1hcHBlci5Ob3ROdWxsYWJsZSh0cnVlKTsKICAgICAgICAgICAgICAgICAgICBtYXBwZXIuQWNjZXNzKEFjY2Vzc29yLkZpZWxkKTsKICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlcXVlc3QuUG9zaXRpb25UZW1wbGF0ZXMuQW55KCkgJiYgIXJlcXVlc3QuUHJvY2Vzc1Jldmlld2Vycy5BbnkoKSAmJiAhcmVxdWVzdC5SZXZpZXdlcnMuQW55KCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBTdGVwSW52YWxpZEV4Y2VwdGlvbihTdGVwVmFsaWRhdGlvblJlc3VsdC5Ob0JhY2t1cFJldmlld2VyKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -817,11 +824,11 @@
         <entry>%s/Reviewer//g</entry>
         <entry>%d</entry>
         <entry>%s/Account/PositionTemplate/g</entry>
-        <entry>q</entry>
         <entry>0</entry>
         <entry>93</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
