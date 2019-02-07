@@ -16,6 +16,13 @@
         <mark key="^" line="49" column="35" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionStepReviewerQuery.cs" timestamp="1549553945412">
+        <mark key="'" line="35" column="8" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="15" column="18" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Web.config" timestamp="1547736593149">
         <mark key="[" line="173" column="1" />
         <mark key="]" line="173" column="1" />
@@ -34,11 +41,11 @@
         <mark key="^" line="43" column="70" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/SubmissionStepReviewer.cs" timestamp="1549549959929">
-        <mark key="[" line="26" column="34" />
-        <mark key="]" line="27" column="93" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/SubmissionStepReviewer.cs" timestamp="1549553111287">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
         <mark key="^" line="27" column="93" />
-        <mark key="." line="27" column="93" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/Dummy.cs" timestamp="1549550946980">
         <mark key="[" line="0" column="0" />
@@ -459,6 +466,12 @@
         <mark key="^" line="41" column="25" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/ICoreDataApi.cs" timestamp="1549548467030" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/SubmissionStepReviewerMapping.cs" timestamp="1549553099857">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="16" column="45" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/IFinanceService.cs" timestamp="1548269337639">
         <mark key="[" line="60" column="127" />
         <mark key="]" line="61" column="35" />
@@ -564,7 +577,7 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549549751731">
+      <file name="/Dummy.txt" timestamp="1549552579276">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1548686894814">
@@ -634,12 +647,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="35" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Settings/SettingsProcessStepReviewerTemplateController.cs" />
-      <jump line="78" column="26" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/step.js" />
-      <jump line="212" column="8" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/step.js" />
-      <jump line="42" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Steps/CreatePositionTemplateRequestHandler.cs" />
-      <jump line="43" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Steps/CreatePositionTemplateRequestHandler.cs" />
-      <jump line="64" column="25" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Settings/Step.cs" />
       <jump line="98" column="14" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Settings/Step.cs" />
       <jump line="93" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Settings/Step.cs" />
       <jump line="62" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Settings/Step.cs" />
@@ -734,6 +741,12 @@
       <jump line="164" column="41" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="40" column="51" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="50" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
+      <jump line="15" column="8" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionStepReviewerQuery.cs" />
+      <jump line="34" column="8" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionStepReviewerQuery.cs" />
+      <jump line="35" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionStepReviewerQuery.cs" />
+      <jump line="16" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionStepReviewerQuery.cs" />
+      <jump line="18" column="19" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionStepReviewerQuery.cs" />
+      <jump line="37" column="8" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionStepReviewerQuery.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -766,61 +779,60 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>ProcessPositionTemplate</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfb3JnYW5pemF0aW9uUGlsbGFyQ2xpZW50XD4=</text>
+        <text>SubmissionId</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy90cmFjZSBiYWNrIHRvIHRoZSBQcm9jZXNzCiAgICAgICAgICAgIC8vICAgIGZvciBlYWNoIFN0ZXAKICAgICAgICAgICAgLy8gICAgICAgIGNyZWF0ZSBlbXB0eSBsaXN0IG9mIFN1Ym1pc3Npb24uU3RlcFJldmlld2VyCiAgICAgICAgICAgIC8vICAgICAgICAKICAgICAgICAgICAgLy8gICAgICAgIGdldCB0aGUgUHJvY2Vzcy5TdGVwQWNjb3VudAogICAgICAgICAgICAvLyAgICAgICAgCiAgICAgICAgICAgIC8vICAgICAgICBpZiBzdWJtaXNzaW9uIGlzIGZvciBhbiBPUkdBTklaQVRJT04KICAgICAgICAgICAgLy8gICAgICAgICAgICBnZXQgdGhlIFByb2Nlc3MuU3RlcFBvc2l0aW9uVGVtcGxhdGUKICAgICAgICAgICAgLy8gICAgICAgICAgICBmb3IgdGhlIHN1Ym1pdHRpbmcgb3JnYW5pemF0aW9uCiAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgIGZpbmQgYWxsIHRoZSBBY2NvdW50cyBmb3IgYWxsIFBvc2l0aW9uIFR5cGVzIGltcGxlbWVudGluZyBhbGwgdGhlIHBvc2l0aW9uIHRlbXBsYXRlcwogICAgICAgICAgICAvLyAgICAgICAgCiAgICAgICAgICAgIC8vICAgICAgICB1bmlmeSB0aGUgdHdvIGxpc3RzCiAgICAgICAgICAgIC8vICAgICAgICAgICAgZGlzdGluY3QKICAgICAgICAgICAgLy8gICAgICAgICAgICBpZiBzYW1lIGFjY291bnQgZXhpc3RzIGluIGJvdGgsIGp1c3QgYWRkIHRoZSBwb3NpdGlvblRlbXBsYXRlSWQgCiAgICAgICAgICAgIC8vICAgICAgICBzYXZlIHRvIFN1Ym1pc3Npb24uU3RlcFJldmlld2VyCiAgICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
+      <register name="0" type="4">
+        <text>SubmissionStepReviewer</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgIHNhdmUgdG8gU3VibWlzc2lvbi5TdGVwUmV2aWV3ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAgICBpZiBzYW1lIGFjY291bnQgZXhpc3RzIGluIGJvdGgsIGp1c3QgYWRkIHRoZSBwb3NpdGlvblRlbXBsYXRlSWQgCg==</text>
+        <text encoding="base64">ICAgICAgICAvL3B1YmxpYyBpbnQ/IElkIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAgICBkaXN0aW5jdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9pZiAoSWQuSGFzVmFsdWUpIHsgcXVlcnkuV2hlcmUoeCA9PiB4LklkID09IElkLlZhbHVlKTsgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgIHVuaWZ5IHRoZSB0d28gbGlzdHMK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50PyBJZCB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIGludD8gU3VibWlzc2lvbklkIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50PyBTdWJtaXNzaW9uSWQgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgZmluZCBhbGwgdGhlIEFjY291bnRzIGZvciBhbGwgUG9zaXRpb24gVHlwZXMgaW1wbGVtZW50aW5nIGFsbCB0aGUgcG9zaXRpb24gdGVtcGxhdGVzCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50PyBJZCB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAgICBmb3IgdGhlIHN1Ym1pdHRpbmcgb3JnYW5pemF0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAgICBnZXQgdGhlIFByb2Nlc3MuU3RlcFBvc2l0aW9uVGVtcGxhdGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmFnPFN0ZXA+KAogICAgICAgICAgICAgICAgIl9zdGVwcyIsCiAgICAgICAgICAgICAgICBtYXBwZXIgPT4KICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBtYXBwZXIuU2NoZW1hKCJQcm9jZXNzIik7CiAgICAgICAgICAgICAgICAgICAgbWFwcGVyLlRhYmxlKCJTdGVwUG9zaXRpb25UZW1wbGF0ZSIpOwogICAgICAgICAgICAgICAgICAgIG1hcHBlci5BY2Nlc3MoQWNjZXNzb3IuRmllbGQpOwogICAgICAgICAgICAgICAgICAgIG1hcHBlci5NdXRhYmxlKGZhbHNlKTsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICByZWxhdGlvbiA9PiByZWxhdGlvbi5NYW55VG9NYW55KAogICAgICAgICAgICAgICAgICAgIG1hcHBlciA9PiBtYXBwZXIuQ29sdW1uKCJTdGVwSWQiKSkKICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgIGlmIHN1Ym1pc3Npb24gaXMgZm9yIGFuIE9SR0FOSVpBVElPTgo=</text>
+        <text encoding="base64">dXNpbmcgQ2FtcHVzTGFicy5CdWRnZXRpbmcuRG9tYWluLk1vZGVsLlNldHRpbmdzOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>.s/SubmissionId/PositionTemplateId/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfb3JnYW5pemF0aW9uUGlsbGFyQ2xpZW50XD4=</last-search>
+      <last-search>SubmissionId</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfb3JnYW5pemF0aW9uUGlsbGFyQ2xpZW50XD4=</last-pattern>
-      <last-replace>PositionTemplate</last-replace>
-      <last-substitute>Account</last-substitute>
+      <last-pattern>SubmissionId</last-pattern>
+      <last-replace>PositionTemplateId</last-replace>
+      <last-substitute>SubmissionId</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQcm9jZXNzU3RlcFJldmlld2VyVGVtcGxhdGVcPg==</entry>
         <entry encoding="base64">XDxQb3NpdGlvblRlbXBsYXRlXD4=</entry>
         <entry encoding="base64">XDxzdGVwU2VydmljZVw+</entry>
         <entry encoding="base64">XDxfcG9zaXRpb25UZW1wbGF0ZXNcPg==</entry>
@@ -840,11 +852,9 @@
         <entry encoding="base64">XDw7XD4=</entry>
         <entry encoding="base64">XDxHZXRPcmdhbml6YXRpb25cPg==</entry>
         <entry encoding="base64">XDxfb3JnYW5pemF0aW9uUGlsbGFyQ2xpZW50XD4=</entry>
+        <entry>SubmissionId</entry>
       </history-search>
       <history-cmd>
-        <entry>1042</entry>
-        <entry>109</entry>
-        <entry>%y</entry>
         <entry>%s/Process/Submission/g</entry>
         <entry>55</entry>
         <entry>42</entry>
@@ -862,6 +872,9 @@
         <entry>0</entry>
         <entry>107</entry>
         <entry>w</entry>
+        <entry>.s/SubmissionId/StepId/g</entry>
+        <entry>.s/SubmissionId/AccountId/g</entry>
+        <entry>.s/SubmissionId/PositionTemplateId/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
