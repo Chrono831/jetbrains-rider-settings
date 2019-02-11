@@ -73,6 +73,10 @@
         <mark key="^" line="12" column="91" />
         <mark key="." line="12" column="91" />
       </file>
+      <file name="$USER_HOME$/Code/Pillar.Organizations/src/Pillar.Organizations.Services/Implementations/PositionHolderService.cs" timestamp="1549892043738">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="113" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Attributes/OrganizationAccessAuthorizedAttribute.cs" timestamp="1548348053899">
         <mark key="[" line="28" column="74" />
         <mark key="]" line="28" column="74" />
@@ -250,6 +254,7 @@
         <mark key="." line="150" column="0" />
         <mark key="^" line="139" column="58" />
       </file>
+      <file name="$USER_HOME$/Code/Pillar.Organizations/src/Pillar.Organizations.Api/Controllers/PositionHolderController.cs" timestamp="1549892014015" />
       <file name="$USER_HOME$/source/repos/App.Budgeting/Base/Services/ICommunityPillarClient.cs" timestamp="1548167844171">
         <mark key="[" line="16" column="87" />
         <mark key="]" line="16" column="87" />
@@ -426,7 +431,6 @@
         <mark key="." line="349" column="27" />
         <mark key="^" line="349" column="27" />
       </file>
-      <file name="/IOrganizationsClient.cs" timestamp="1549659337485" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.constants.js" timestamp="1547841611180">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="19" />
@@ -737,8 +741,8 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxQYWdlZFJlc3VsdDxQb3NpdGlvbkhvbGRlcj4+IEZpbmRQYWdlZChQb3NpdGlvbkhvbGRlclNlYXJjaFBhcmFtZXRlcnMgc2VhcmNoUGFyYW1ldGVycykK</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -747,7 +751,7 @@
         <text encoding="base64">XDxjYWNoZWRCcmFuY2hlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBSZW1vdmVNaXNzaW5nUHJvY2Vzc1Jldmlld2VycyhMaXN0PEd1aWQ+IHJldmlld2VycykKICAgICAgICB7CiAgICAgICAgICAgIHZhciBtaXNzaW5nUmV2aWV3ZXJzID0gX3Byb2Nlc3NSZXZpZXdlcnMuRXhjZXB0KF9wcm9jZXNzUmV2aWV3ZXJzLldoZXJlKHIgPT4gcmV2aWV3ZXJzLkNvbnRhaW5zKHIuSWQpKSkuVG9MaXN0KCk7CiAgICAgICAgICAgIGZvcmVhY2ggKHZhciBtaXNzaW5nUmV2aWV3ZXIgaW4gbWlzc2luZ1Jldmlld2VycykgeyBfcHJvY2Vzc1Jldmlld2Vycy5SZW1vdmUobWlzc2luZ1Jldmlld2VyKTsgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxQYWdlZFJlc3VsdDxQb3NpdGlvbkhvbGRlcj4+IEZpbmRQYWdlZChQb3NpdGlvbkhvbGRlclNlYXJjaFBhcmFtZXRlcnMgc2VhcmNoUGFyYW1ldGVycykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFtJZF0gICAgICAgICAgICAgICAgSU5UICAgICAgICAgICAgICBJREVOVElUWSAoMSwgMSkgTk9UIEZPUiBSRVBMSUNBVElPTiBOT1QgTlVMTCwKICAgIFtEZWxldGVkXSAgICAgICAgICAgQklUICAgICAgICAgICAgICBDT05TVFJBSU5UIFtERl9fRXhwb3J0X19EZWxldGVkX180NzNDOEZDN10gREVGQVVMVCAoKDApKSBOT1QgTlVMTCwKICAgIFtFeHBvcnRUeXBlXSAgICAgICAgTlZBUkNIQVIgKDMwKSAgICBOT1QgTlVMTCwKICAgIFtDcmVhdGVkQnldICAgICAgICAgVU5JUVVFSURFTlRJRklFUiBOT1QgTlVMTCwKICAgIFtTdGFydGVkT25dICAgICAgICAgREFURVRJTUUgICAgICAgICBOVUxMLAogICAgW0ZpbGVOYW1lXSAgICAgICAgICBOVkFSQ0hBUiAoMjU1KSAgIE5VTEwsCiAgICBbRmlsZVBhdGhdICAgICAgICAgIE5WQVJDSEFSICgyNTUpICAgTlVMTCwKICAgIFtJbnN0aXR1dGlvbklkXSAgICAgSU5UICAgICAgICAgICAgICBOT1QgTlVMTCwKICAgIFtDb21wbGV0ZWRPbl0gICAgICAgREFURVRJTUUgICAgICAgICBOVUxMLAogICAgW0JlZ2FuUHJvY2Vzc2luZ09uXSBEQVRFVElNRSAgICAgICAgIE5VTEwsCiAgICBbRXJyb3JEZXNjcmlwdGlvbl0gIE5WQVJDSEFSICgyNTUpICAgTlVMTCwKICAgIFtTdGF0dXNdICAgICAgICAgICAgTlZBUkNIQVIgKDIwKSAgICBOT1QgTlVMTCwKICAgIENPTlNUUkFJTlQgW1BLX19FeHBvcnRfXzMyMTRFQzA3ODI5RTYyRDldIFBSSU1BUlkgS0VZIENMVVNURVJFRCAoW0lkXSBBU0MpCik7CgoKR08KQ1JFQVRFIE5PTkNMVVNURVJFRCBJTkRFWCBbSVhfRXhwb3J0X0luc3RpdHV0aW9uSWRdIE9OIFtkYm9dLltFeHBvcnRdIChbSW5zdGl0dXRpb25JZF0pCkdPCkNSRUFURSBOT05DTFVTVEVSRUQgSU5ERVggW0lYX0V4cG9ydF9DcmVhdGVkQnldIE9OIFtkYm9dLltFeHBvcnRdIChbQ3JlYXRlZEJ5XSkK</text>
