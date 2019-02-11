@@ -276,12 +276,12 @@
         <mark key="." line="59" column="17" />
         <mark key="^" line="59" column="24" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/SubmissionReviewer.cs" timestamp="1549899832231">
-        <mark key="'" line="63" column="64" />
-        <mark key="[" line="78" column="106" />
-        <mark key="]" line="78" column="90" />
-        <mark key="^" line="78" column="112" />
-        <mark key="." line="78" column="90" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/SubmissionReviewer.cs" timestamp="1549903697838">
+        <mark key="'" line="69" column="34" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="62" column="13" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Steps/GetProcessStepAccountsQuery.cs" timestamp="1549567771095">
         <mark key="[" line="26" column="90" />
@@ -661,10 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Settings/Process.cs" />
-      <jump line="11" column="37" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Settings/Process.cs" />
-      <jump line="22" column="42" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Settings/Step.cs" />
-      <jump line="11" column="40" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Settings/Step.cs" />
       <jump line="90" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Settings/Step.cs" />
       <jump line="84" column="64" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Settings/Step.cs" />
       <jump line="83" column="35" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Settings/Step.cs" />
@@ -761,6 +757,10 @@
       <jump line="99" column="63" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/SubmissionReviewer.cs" />
       <jump line="40" column="54" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/SubmissionReviewer.cs" />
       <jump line="63" column="64" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/SubmissionReviewer.cs" />
+      <jump line="46" column="42" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/SubmissionReviewer.cs" />
+      <jump line="47" column="40" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/SubmissionReviewer.cs" />
+      <jump line="119" column="63" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/SubmissionReviewer.cs" />
+      <jump line="69" column="34" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/SubmissionReviewer.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -793,53 +793,53 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PT0g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PT0g</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHZXRQb3NpdGlvblRlbXBsYXRlUmV2aWV3ZXJzXD4=</text>
+        <text encoding="base64">XDxHZXRBc3NpZ25lZFJldmlld2Vyc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBuYW1lZFJldmlld2VycyA9IHBvc2l0aW9uSG9sZGVycy5XaGVyZSh4ID0+IHguVGVtcGxhdGVJZCA9PSBzdGVwLlBvc2l0aW9uVGVtcGxhdGVzLldoZXJlKHkgPT4geS5JZCA9PSB4LlRlbXBsYXRlSWQpKS5TZWxlY3QoeCA9Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBuYW1lZFJldmlld2VycyA9IHN0ZXAuUHJvY2Vzc1Jldmlld2Vycy5TZWxlY3QoeCA9PgogICAgICAgICAgICAgICAgICAgIG5ldyBTdWJtaXNzaW9uU3RlcFJldmlld2VyKF9pbnN0aXR1dGlvbkNvbnRleHQuSW5zdGl0dXRpb25JZCwgc3VibWlzc2lvbklkLCBzdGVwLklkLCB4LklkKSk7CiAgICAgICAgICAgICAgICByZXZpZXdlcnMuVW5pb25XaXRoKG5hbWVkUmV2aWV3ZXJzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvc2l0aW9uSG9sZGVycy5Db250YWlucygxKX07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JnYW5pemF0aW9uL3tvcmdhbml6YXRpb25JZDppbnR9L2hvbGRlcnMiKV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvc2l0aW9uSG9sZGVycy5Db250YWlucygxKX07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvc2l0aW9uVGVtcGxhdGVzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JnYW5pemF0aW9uL3tvcmdhbml6YXRpb25JZDppbnR9L2hvbGRlcnMiKV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvc2l0aW9uVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBuYW1lZFJldmlld2VyQWNjb3VudHMgPSBzdGVwLlByb2Nlc3NSZXZpZXdlcnM7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxvY2FsU3RlcHMgPSBzdGVwczsKICAgICAgICAgICAgaWYgKHN0ZXBzID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciBzdWJtaXNzaW9uID0gX3F1ZXJ5RGFvLkZpbmRPbmU8U3VibWlzc2lvbiwgR2V0U3VibWlzc2lvbnNRdWVyeT4oeCA9PiB7IHguSWQgPSBzdWJtaXNzaW9uSWQ7IH0pOwogICAgICAgICAgICAgICAgbG9jYWxTdGVwcyA9IHN1Ym1pc3Npb24uUHJvY2Vzcy5HZXRGbG93KCkuU3RlcHM7CiAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0ZXBzOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBuYW1lZFJldmlld2VyQWNjb3VudHMgPSBzdGVwLlByb2Nlc3NSZXZpZXdlcnM7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxvY2FsU3RlcHMgPSBzdGVwczsKICAgICAgICAgICAgaWYgKHN0ZXBzID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciBzdWJtaXNzaW9uID0gX3F1ZXJ5RGFvLkZpbmRPbmU8U3VibWlzc2lvbiwgR2V0U3VibWlzc2lvbnNRdWVyeT4oeCA9PiB7IHguSWQgPSBzdWJtaXNzaW9uSWQ7IH0pOwogICAgICAgICAgICAgICAgbG9jYWxTdGVwcyA9IHN1Ym1pc3Npb24uUHJvY2Vzcy5HZXRGbG93KCkuU3RlcHM7CiAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0ZXBzOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSUVudW1lcmFibGU8U3RlcD4gc3RlcHM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHZXRQb3NpdGlvblRlbXBsYXRlUmV2aWV3ZXJzXD4=</last-search>
+      <last-search encoding="base64">XDxHZXRBc3NpZ25lZFJldmlld2Vyc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHZXRQb3NpdGlvblRlbXBsYXRlUmV2aWV3ZXJzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxHZXRBc3NpZ25lZFJldmlld2Vyc1w+</last-pattern>
       <last-replace>PositionTemplateId</last-replace>
       <last-substitute>SubmissionId</last-substitute>
       <last-dir>-1</last-dir>
@@ -847,7 +847,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Account</entry>
         <entry encoding="base64">XDxQb3NpdGlvblRlbXBsYXRlSWRcPg==</entry>
         <entry>Reviewers</entry>
         <entry encoding="base64">XDxwb3NpdGlvbkRpc3BsYXlcPg==</entry>
@@ -865,8 +864,9 @@
         <entry>Delete</entry>
         <entry encoding="base64">XDxfY2FjaGVkSGFzaGNvZGVcPg==</entry>
         <entry encoding="base64">XDxVbmlvbldpdGhcPg==</entry>
-        <entry encoding="base64">XDxHZXRBc3NpZ25lZFJldmlld2Vyc1w+</entry>
         <entry encoding="base64">XDxHZXRQb3NpdGlvblRlbXBsYXRlUmV2aWV3ZXJzXD4=</entry>
+        <entry encoding="base64">XDxHZXRCYWNrdXBSZXZpZXdlcnNcPg==</entry>
+        <entry encoding="base64">XDxHZXRBc3NpZ25lZFJldmlld2Vyc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>55</entry>
