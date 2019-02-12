@@ -3,18 +3,36 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1549988673820">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/StepMapping.cs" timestamp="1549999822375" />
+      <file name="/Dummy.txt" timestamp="1549999035414">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Submission/Tables/StepReviewer.sql" timestamp="1549987888759">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="23" column="2" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionStepReviewerQuery.cs" timestamp="1549999677002">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Process/Tables/StepPositionTemplate.sql" timestamp="1549998710601">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="23" column="18" />
         <mark key="^" line="23" column="12" />
         <mark key="." line="23" column="12" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Steps/GetProcessStepAccountsQuery.cs" timestamp="1549999489938">
+        <mark key="'" line="27" column="30" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Settings/ProcessStepAccount.cs" timestamp="1549999475471">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="19" column="41" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Process/Tables/StepAccount.sql" timestamp="1549998883961">
         <mark key="[" line="23" column="1" />
@@ -39,10 +57,21 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Processes/GetProcessesQuery.cs" timestamp="1549999736042">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/dbo/Scripts/Account.AddCreatedOn.sql" timestamp="1549987827105">
         <mark key="[" line="0" column="64" />
         <mark key="]" line="0" column="68" />
         <mark key="." line="0" column="68" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Steps/GetStepsQuery.cs" timestamp="1549999656326">
+        <mark key="[" line="39" column="57" />
+        <mark key="]" line="39" column="73" />
+        <mark key="." line="39" column="73" />
+        <mark key="^" line="39" column="73" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/dbo/Tables/Account.sql" timestamp="1549987903790">
         <mark key="[" line="21" column="0" />
@@ -53,19 +82,21 @@
     <jumps>
       <jump line="23" column="11" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Process/Scripts/StepAccount.Backfill.sql" />
       <jump line="24" column="2" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Process/Scripts/StepAccount.Backfill.sql" />
+      <jump line="20" column="19" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Steps/GetProcessStepAccountsQuery.cs" />
+      <jump line="28" column="30" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Steps/GetProcessStepAccountsQuery.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBbSW5zdGl0dXRpb25JZF0gQVNDLAogIFtQcm9jZXNzSWRdIEFTQywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>StepId</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>account</text>
+        <text encoding="base64">XDxJbnN0aXR1dGlvbklkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBbSW5zdGl0dXRpb25JZF0gQVNDLAogIFtQcm9jZXNzSWRdIEFTQywK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50PyBJZCB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -74,22 +105,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bm5lciBqb2luIGRiby4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmFsdGVyIHRhYmxlIFtkYm9dLltBY2NvdW50XSBhZGQgW0NyZWF0ZWRPbl0gW2RhdGV0aW1lb2Zmc2V0XSg3KSBOVUxMOwphbHRlciB0YWJsZSBbZGJvXS5bQWNjb3VudF0gYWRkIFtNb2RpZmllZE9uXSBbZGF0ZXRpbWVvZmZzZXRdKDcpIE5VTEw7Cgp1cGRhdGUgW2Rib10uW0FjY291bnRdIHNldCBbQ3JlYXRlZE9uXSA9ICcwMS0wMS0yMDAwJzsKCkFMVEVSIFRBQkxFIFtkYm9dLltBY2NvdW50XSBBREQgIENPTlNUUkFJTlQgW0RGX19kYm9fQWNjb3VudF9fQ3JlYXRlZE9uXSAgREVGQVVMVCAoc3lzZGF0ZXRpbWVvZmZzZXQoKSkgRk9SIFtDcmVhdGVkT25dCkdPCgphbHRlciB0YWJsZSBbZGJvXS5bQWNjb3VudF0gYWx0ZXIgY29sdW1uIFtDcmVhdGVkT25dIFtkYXRldGltZW9mZnNldF0oNykgTk9UIE5VTEw7CgoKQUxURVIgVEFCTEUgW1N1Ym1pc3Npb25dLltTdGVwUmV2aWV3ZXJdIApBREQgQ09OU1RSQUlOVCBbREZfX1N1Ym1pc3Npb25fU3RlcFJldmlld2VyX19DcmVhdGVkT25dIApERUZBVUxUIChzeXNkYXRldGltZW9mZnNldCgpKSBGT1IgW0NyZWF0ZWRPbl0KR08K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgW2Rib10uW0FjY291bnRdIGFsdGVyIGNvbHVtbiBbQ3JlYXRlZE9uXSBbZGF0ZXRpbWVvZmZzZXRdKDcpIE5PVCBOVUxMOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmFsdGVyIHRhYmxlIFtkYm9dLltBY2NvdW50XSBhZGQgW0NyZWF0ZWRPbl0gW2RhdGV0aW1lb2Zmc2V0XSg3KSBOVUxMOwphbHRlciB0YWJsZSBbZGJvXS5bQWNjb3VudF0gYWRkIFtNb2RpZmllZE9uXSBbZGF0ZXRpbWVvZmZzZXRdKDcpIE5VTEw7Cgp1cGRhdGUgW2Rib10uW0FjY291bnRdIHNldCBbQ3JlYXRlZE9uXSA9ICcwMS0wMS0yMDAwJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -99,16 +130,18 @@
       </register>
     </registers>
     <search>
-      <last-search>account</last-search>
-      <last-pattern>account</last-pattern>
+      <last-search encoding="base64">XDxJbnN0aXR1dGlvbklkXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxJbnN0aXR1dGlvbklkXD4=</last-pattern>
       <last-replace>process</last-replace>
       <last-substitute>account</last-substitute>
-      <last-dir>0</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>account</entry>
+        <entry encoding="base64">XDxJbnN0aXR1dGlvbklkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>.s/account/institution/g</entry>
