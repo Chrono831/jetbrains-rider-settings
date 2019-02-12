@@ -506,6 +506,12 @@
         <mark key="." line="61" column="35" />
         <mark key="^" line="61" column="35" />
       </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.MessageHandlers/Handlers/Branches/OrganizationsTopicSubscriber.cs" timestamp="1549985863528">
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="18" column="49" />
+        <mark key="." line="18" column="49" />
+        <mark key="^" line="18" column="49" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Processes/GetProcessesQuery.cs" timestamp="1548771766515">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -775,17 +781,17 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">U0VMRUNUIFt4XS5bSWRdLCBbeF0uW0FjY291bnRJZF0sIFt4XS5bQWRqdXN0bWVudEFtb3VudF0sIFt4XS5bQWxsb2NhdGVkVG9BY2NvdW50SWRdLCBbeF0uW0FsbG9jYXRlZFRvRmluYW5jZU9uXSwgW3hdLltBbGxvY2F0ZWRUcmFuc2FjdGlvbk51bWJlcl0sIFt4XS5bQW1vdW50XSwgW3hdLltDb2xsZWdpYXRlTGlua09yZ2FuaXphdGlvbklkXSwgW3hdLltDcmVhdGVkT25dLCBbeF0uW0RlbGV0ZWRdLCBbeF0uW0Rlc2NyaXB0aW9uXSwgW3hdLltGbG93SWRdLCBbeF0uW0luc3RpdHV0aW9uSWRdLCBbeF0uW05hbWVdLCBbeF0uW09yZ2FuaXphdGlvbklkXSwgW3hdLltPcmdhbml6YXRpb25OYW1lXSwgW3hdLltQcm9jZXNzSWRdLCBbeF0uW1N0YXR1c0lkXSwgW3guQWNjb3VudF0uW0lkXSwgW3guQWNjb3VudF0uW0RlbGV0ZWRdLCBbeC5BY2NvdW50XS5bRGlzYWJsZVN0ZXBOb3RpZmljYXRpb25zXSwgW3guQWNjb3VudF0uW0VtYWlsXSwgW3guQWNjb3VudF0uW0ZpcnN0TmFtZV0sIFt4LkFjY291bnRdLltJbnN0aXR1dGlvbklkXSwgW3guQWNjb3VudF0uW0xhc3ROYW1lXSwgW3guQWNjb3VudF0uW1JvbGVdLCBbeC5TdGF0dXNdLltJZF0sIFt4LlN0YXR1c10uW0FjY291bnRJZF0sIFt4LlN0YXR1c10uW0Ftb3VudF0sIFt4LlN0YXR1c10uW0NyZWF0ZWRPbl0sIFt4LlN0YXR1c10uW0RlbGV0ZWRdLCBbeC5TdGF0dXNdLltTdGF0dXNUeXBlXSwgW3guU3RhdHVzXS5bU3RlcElkXSwgW3guU3RhdHVzXS5bU3VibWlzc2lvbklkXQo=</text>
+      <register name="&quot;" type="4">
+        <text>Organization</text>
       </register>
       <register name="-" type="4">
-        <text>int64</text>
+        <text>Organization</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRRdWVyeWFibGVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">I2lmIERFQlVHCiAgICAgICAgICAgIHZhciB1bnVzZWQgPSBzdWJtaXNzaW9uc1F1ZXJ5YWJsZS5Ub1NxbCgpOwojZW5kaWYK</text>
+      <register name="0" type="4">
+        <text encoding="base64">QnJhbmNoZXNUb3BpY1N1YnNjcmliZXIg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">U0VMRUNUIFt4XS5bSWRdLCBbeF0uW0FjY291bnRJZF0sIFt4XS5bQWRqdXN0bWVudEFtb3VudF0sIFt4XS5bQWxsb2NhdGVkVG9BY2NvdW50SWRdLCBbeF0uW0FsbG9jYXRlZFRvRmluYW5jZU9uXSwgW3hdLltBbGxvY2F0ZWRUcmFuc2FjdGlvbk51bWJlcl0sIFt4XS5bQW1vdW50XSwgW3hdLltDb2xsZWdpYXRlTGlua09yZ2FuaXphdGlvbklkXSwgW3hdLltDcmVhdGVkT25dLCBbeF0uW0RlbGV0ZWRdLCBbeF0uW0Rlc2NyaXB0aW9uXSwgW3hdLltGbG93SWRdLCBbeF0uW0luc3RpdHV0aW9uSWRdLCBbeF0uW05hbWVdLCBbeF0uW09yZ2FuaXphdGlvbklkXSwgW3hdLltPcmdhbml6YXRpb25OYW1lXSwgW3hdLltQcm9jZXNzSWRdLCBbeF0uW1N0YXR1c0lkXSwgW3guQWNjb3VudF0uW0lkXSwgW3guQWNjb3VudF0uW0RlbGV0ZWRdLCBbeC5BY2NvdW50XS5bRGlzYWJsZVN0ZXBOb3RpZmljYXRpb25zXSwgW3guQWNjb3VudF0uW0VtYWlsXSwgW3guQWNjb3VudF0uW0ZpcnN0TmFtZV0sIFt4LkFjY291bnRdLltJbnN0aXR1dGlvbklkXSwgW3guQWNjb3VudF0uW0xhc3ROYW1lXSwgW3guQWNjb3VudF0uW1JvbGVdLCBbeC5TdGF0dXNdLltJZF0sIFt4LlN0YXR1c10uW0FjY291bnRJZF0sIFt4LlN0YXR1c10uW0Ftb3VudF0sIFt4LlN0YXR1c10uW0NyZWF0ZWRPbl0sIFt4LlN0YXR1c10uW0RlbGV0ZWRdLCBbeC5TdGF0dXNdLltTdGF0dXNUeXBlXSwgW3guU3RhdHVzXS5bU3RlcElkXSwgW3guU3RhdHVzXS5bU3VibWlzc2lvbklkXQo=</text>
