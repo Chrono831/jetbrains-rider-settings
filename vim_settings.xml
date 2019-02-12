@@ -9,12 +9,18 @@
         <mark key="^" line="62" column="47" />
         <mark key="." line="62" column="47" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Submission/Scripts/Submission.CreateSchema.sql" timestamp="1550003430847">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionStepReviewerQuery.cs" timestamp="1549999677002">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Process/Tables/StepPositionTemplate.sql" timestamp="1550002485188">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Process/Tables/StepPositionTemplate.sql" timestamp="1550003387059">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="23" column="18" />
         <mark key="^" line="23" column="12" />
@@ -73,30 +79,28 @@
       <file name="/Dummy.txt" timestamp="1550002365477">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Submission/Tables/StepReviewer.sql" timestamp="1549987888759">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Submission/Tables/StepReviewer.sql" timestamp="1550003445470">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="23" column="2" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Steps/GetProcessStepAccountsQuery.cs" timestamp="1549999489938">
-        <mark key="'" line="27" column="30" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Process/Tables/PositionTemplate.sql" timestamp="1550003309005" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Settings/ProcessStepAccount.cs" timestamp="1549999475471">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
         <mark key="^" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Process/Tables/StepAccount.sql" timestamp="1550002513843">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Submission/Scripts/StepReviewer.Backfill.sql" timestamp="1550003400678" />
+      <file name="/Account.AddCreatedOn.sql" timestamp="1550003214446" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Process/Scripts/Process.CreateSchema.sql" timestamp="1550003268021" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Process/Tables/StepAccount.sql" timestamp="1550003376658">
         <mark key="[" line="23" column="1" />
         <mark key="]" line="22" column="1" />
         <mark key="." line="23" column="1" />
         <mark key="^" line="22" column="1" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F2FE07FE-F4FA-4811-8A3A-0A4855BEE49E/96/f69c5763/IColumnMapper.cs" timestamp="1550000919532" />
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/dbo/Scripts/Account.AddCreatedOn.sql" timestamp="1549987827105">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/dbo/Scripts/Account.AddCreatedOn.sql" timestamp="1550003227117">
         <mark key="[" line="0" column="64" />
         <mark key="]" line="0" column="68" />
         <mark key="." line="0" column="68" />
@@ -182,6 +186,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
