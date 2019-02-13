@@ -36,6 +36,13 @@
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" timestamp="1550072407445">
         <mark key="'" line="55" column="21" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/step.js" timestamp="1550080565991">
+        <mark key="'" line="100" column="36" />
+        <mark key="[" line="25" column="54" />
+        <mark key="]" line="25" column="54" />
+        <mark key="^" line="25" column="89" />
+        <mark key="." line="25" column="54" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="82" column="46" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" />
@@ -55,16 +62,17 @@
       <jump line="2" column="17" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/SubmissionCalculatedAmountViewMapping.cs" />
       <jump line="7" column="15" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/SubmissionCalculatedAmountViewMapping.cs" />
       <jump line="5" column="17" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/SubmissionCalculatedAmountViewMapping.cs" />
+      <jump line="100" column="36" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/step.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTdWJtaXNzaW9uQ2FsY3VsYXRlZEFtb3VudFZpZXdNYXBwaW5nXD4=</text>
+        <text>scope.branches =</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWZhdWx0OiB0aHJvdyBuZXcgQXJndW1lbnRPdXRPZlJhbmdlRXhjZXB0aW9uKCk7Cg==</text>
@@ -96,12 +104,15 @@
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTdWJtaXNzaW9uQ2FsY3VsYXRlZEFtb3VudFZpZXdNYXBwaW5nXD4=</last-search>
+      <last-search>scope.branches =</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTdWJtaXNzaW9uQ2FsY3VsYXRlZEFtb3VudFZpZXdNYXBwaW5nXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>scope.branches =</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -113,7 +124,11 @@
         <entry encoding="base64">XDxTZXRRdWVyeVNvcnRpbmdcPg==</entry>
         <entry encoding="base64">XDxHZXRCYXNlUXVlcnlcPg==</entry>
         <entry encoding="base64">XDxTdWJtaXNzaW9uQ2FsY3VsYXRlZEFtb3VudFZpZXdNYXBwaW5nXD4=</entry>
+        <entry>scope.branches =</entry>
       </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
     </history>
     <shortcut-conflicts />
   </component>
