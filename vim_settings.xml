@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Functions/Functions/HttpPdfDownload.cs" timestamp="1550508564914">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="54" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.services.js" timestamp="1550497199115">
         <mark key="[" line="51" column="56" />
         <mark key="]" line="51" column="56" />
@@ -25,10 +29,10 @@
         <mark key="^" line="46" column="102" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Functions/Services/PdfGenerator.cs" timestamp="1550507196230">
-        <mark key="[" line="27" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Functions/Services/PdfGenerator.cs" timestamp="1550508580912">
+        <mark key="[" line="33" column="8" />
         <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+        <mark key="." line="33" column="10" />
         <mark key="^" line="28" column="64" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" timestamp="1550500010967">
@@ -122,8 +126,8 @@
       <jump line="46" column="35" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentsForReviewerQuery.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0ZXN0ID0gUGRmR2VuZXJhdG9yLkdlbmVyYXRlUGRmKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -131,8 +135,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwUmV2aWV3ZXJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>reviewers</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0ZXN0ID0gUGRmR2VuZXJhdG9yLkdlbmVyYXRlUGRmKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IFBkZkZvbnRFbWJlZGRpbmcgZW1iZWRkaW5nID0gUGRmRm9udEVtYmVkZGluZy5BbHdheXM7Cg==</text>
@@ -202,6 +206,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
