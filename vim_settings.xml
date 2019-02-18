@@ -25,10 +25,11 @@
         <mark key="^" line="46" column="102" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Functions/Services/PdfGenerator.cs" timestamp="1550505722866">
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="22" column="16" />
-        <mark key="." line="22" column="16" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Functions/Services/PdfGenerator.cs" timestamp="1550507196230">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="28" column="64" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" timestamp="1550500010967">
         <mark key="'" line="105" column="20" />
@@ -81,6 +82,12 @@
         <mark key="^" line="66" column="20" />
         <mark key="." line="66" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Functions/App.Budgeting.Functions.csproj" timestamp="1550507428250">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+        <mark key="^" line="2" column="26" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Functions/local.settings.json" timestamp="1550505222860">
         <mark key="[" line="3" column="193" />
         <mark key="]" line="3" column="193" />
@@ -116,10 +123,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGVwUmV2aWV3ZXJcPg==</text>
@@ -128,31 +135,31 @@
         <text>reviewers</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiRlVOQ1RJT05TX1dPUktFUl9SVU5USU1FIjogIkNmREo4R1ZrTFh6cTFzTk5xMFIyVnh1MkNEMXdQbjZFN1NldWVaMGxVdzNYeEwrYVBhTXRIT3N1TUFOWWdzTExmR2c3ZXVTc05EYnhmc0piZlUyTXlHcUFLNlhlWUYwaEZKSitmVnlSVGlFOE5MUUZzR3grdVdNbFNKN2pzYmhOUGthbnh3PT0iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IFBkZkZvbnRFbWJlZGRpbmcgZW1iZWRkaW5nID0gUGRmRm9udEVtYmVkZGluZy5BbHdheXM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ewogIAp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwZGYgPSBuZXcgUGRmRG8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIC8vQmFnKAogICAgICAgICAgICAvLyAgICBzdWJtaXNzaW9uID0+IHN1Ym1pc3Npb24uU3RlcFJldmlld2VycywKICAgICAgICAgICAgLy8gICAgbWFwcGVyID0+CiAgICAgICAgICAgIC8vICAgIHsKICAgICAgICAgICAgLy8gICAgICAgIG1hcHBlci5BY2Nlc3MoQWNjZXNzb3IuRmllbGQpOwogICAgICAgICAgICAvLyAgICAgICAgbWFwcGVyLkNhc2NhZGUoQ2FzY2FkZS5BbGwpOwogICAgICAgICAgICAvLyAgICAgICAgbWFwcGVyLkludmVyc2UodHJ1ZSk7CiAgICAgICAgICAgIC8vICAgIH0sCiAgICAgICAgICAgIC8vICAgIHJlbGF0aW9uID0+IHJlbGF0aW9uLk9uZVRvTWFueSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIEFkZCBzb21lIHRleHQgdG8gdGhlIHBhcmFncmFwaAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIEFkZCBhIHBhcmFncmFwaCB0byB0aGUgc2VjdGlvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgSUVudW1lcmFibGU8U3VibWlzc2lvblN0ZXBSZXZpZXdlcj4gU3RlcFJldmlld2VycwogICAgICAgIHsKICAgICAgICAgICAgZ2V0IHsgcmV0dXJuIF9zdGVwUmV2aWV3ZXJzOyB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBxLlN1Ym1pc3Npb25JZCA9IHN1Ym1pc3Npb24uSWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1ZXJ5LldoZXJlKGxpID0+IHJldmlld2Vycy5BbnkoeCA9Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIEFkZCBhIHNlY3Rpb24gdG8gdGhlIGRvY3VtZW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIENyZWF0ZSBhIG5ldyBNaWdyYURvYyBkb2N1bWVudAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -192,6 +199,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
