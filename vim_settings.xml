@@ -16,12 +16,12 @@
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Areas/Requests/Controllers/HomeController.cs" timestamp="1550597501440">
         <mark key="[" line="28" column="9" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" timestamp="1550606935994">
-        <mark key="'" line="39" column="23" />
-        <mark key="[" line="133" column="66" />
-        <mark key="]" line="133" column="75" />
-        <mark key="^" line="133" column="75" />
-        <mark key="." line="133" column="75" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" timestamp="1550607854828">
+        <mark key="'" line="143" column="29" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="^" line="150" column="61" />
+        <mark key="." line="152" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1550598534737">
         <mark key="[" line="77" column="113" />
@@ -30,9 +30,9 @@
         <mark key="^" line="77" column="160" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/SubmissionAccessAllowedAttribute.cs" timestamp="1550606649056" />
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" timestamp="1550587444334">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" timestamp="1550607795749">
         <mark key="[" line="180" column="0" />
-        <mark key="]" line="186" column="30" />
+        <mark key="]" line="186" column="29" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentsForReviewerQuery.cs" timestamp="1550582259018">
         <mark key="[" line="77" column="28" />
@@ -69,6 +69,10 @@
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" timestamp="1550512101030">
         <mark key="'" line="108" column="18" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/FileController.cs" timestamp="1550607539898">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="111" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/templates/submissionHistory.html" timestamp="1550586439843">
         <mark key="'" line="160" column="93" />
@@ -156,56 +160,58 @@
       <jump line="49" column="25" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Account.cs" />
       <jump line="78" column="18" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissionHistory.js" />
       <jump line="37" column="48" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
+      <jump line="124" column="27" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
       <jump line="39" column="23" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
+      <jump line="135" column="29" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>lineItem</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuU2VsZWN0KHggPT4geC5TdGVwSWQpCiAgICAgICAgICAgICAgICAgICAgLkRpc3RpbmN0KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>lineItem</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHZXRGaWxlTmFtZVw+</text>
+        <text encoding="base64">XDxfcXVlcnlEYW9cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>submission</text>
+        <text encoding="base64">c3VibWlzc2lvbkdlbmVyYXRlZFBkZnMg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9yaWdpbmFsRmlsZU5hbWUgPSBsaW5lSXRlbS5PcmlnaW5hbEZpbGVOYW1lLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuU2VsZWN0KHggPT4geC5TdGVwSWQpCiAgICAgICAgICAgICAgICAgICAgLkRpc3RpbmN0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIE9yaWdpbmFsRmlsZU5hbWUgeyBnZXQ7IHNldDsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFQYXRoLkdldEV4dGVuc2lvbih1cGxvYWRlZEZpbGVOYW1lKS5FcXVhbHMoIi5wZGYiLCBTdHJpbmdDb21wYXJpc29uLk9yZGluYWxJZ25vcmVDYXNlKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBxdWVyeS5JZCA9IGxpbmVJdGVtSWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIi5wcHQiLAogICAgICAgICAgICAiLnBwdHgiLAogICAgICAgICAgICAiLnR4dCIsCiAgICAgICAgICAgICIuY3N2IiwKICAgICAgICAgICAgIi5qcGVnIiwKICAgICAgICAgICAgIi5qcGciLAogICAgICAgICAgICAiLnBuZyIsCiAgICAgICAgICAgICIuZ2lmIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIi54bHMiLAogICAgICAgICAgICAiLnhsc3giLAogICAgICAgICAgICAiLmRvYyIsCiAgICAgICAgICAgICIuZG9jeCIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBzdHJpbmdbXSBWYWxpZEZpbGVUeXBlRXh0ZW5zaW9ucyA9CiAgICAgICAgewogICAgICAgICAgICAiLnhscyIsCiAgICAgICAgICAgICIueGxzeCIsCiAgICAgICAgICAgICIuZG9jIiwKICAgICAgICAgICAgIi5kb2N4IiwKICAgICAgICAgICAgIi5wZGYiLAogICAgICAgICAgICAiLnBwdCIsCiAgICAgICAgICAgICIucHB0eCIsCiAgICAgICAgICAgICIudHh0IiwKICAgICAgICAgICAgIi5jc3YiLAogICAgICAgICAgICAiLmpwZWciLAogICAgICAgICAgICAiLmpwZyIsCiAgICAgICAgICAgICIucG5nIiwKICAgICAgICAgICAgIi5naWYiCiAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpbGVFeHRlbnNpb24gPSBQYXRoLkdldEV4dGVuc2lvbih1cGxvYWRlZEZpbGVOYW1lKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL3ByaXZhdGUgcmVhZG9ubHkgSUluc3RpdHV0aW9uQ29udGV4dCBfaW5zdGl0dXRpb25Db250ZXh0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9yaWdpbmFsRmlsZU5hbWUgPSBsaW5lSXRlbS5PcmlnaW5hbEZpbGVOYW1lLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9faW5zdGl0dXRpb25Db250ZXh0ID0gaW5zdGl0dXRpb25Db250ZXh0Owo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIE9yaWdpbmFsRmlsZU5hbWUgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBxdWVyeS5JZCA9IGxpbmVJdGVtSWQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxJRW51bWVyYWJsZTxDb21tdW5pdHk+PiBMaXN0Q29tbXVuaXRpZXMoaW50IGluc3RpdHV0aW9uSWQpCiAgICAgICAgewogICAgICAgICAgICB2YXIgY29tbXVuaXRpZXMgPSBkZWZhdWx0KElFbnVtZXJhYmxlPENvbW11bml0eT4pOwogICAgICAgICAgICB2YXIga2V5ID0gJCJ7S2V5UHJlZml4fTpJbnN0aXR1dGlvblt7aW5zdGl0dXRpb25JZH1dOkNvbW11bml0aWVzIjsKICAgICAgICAgICAgdmFyIGNhY2hlZFJlc3VsdCA9IGF3YWl0IERhdGFiYXNlLlN0cmluZ0dldEFzeW5jKGtleSk7CiAgICAgICAgICAgIGlmIChjYWNoZWRSZXN1bHQuSGFzVmFsdWUpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGNvbW11bml0aWVzID0gSnNvbkNvbnZlcnQuRGVzZXJpYWxpemVPYmplY3Q8SUVudW1lcmFibGU8Q29tbXVuaXR5Pj4oY2FjaGVkUmVzdWx0LlRvU3RyaW5nKCkpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBpZiAoY2FjaGVkUmVzdWx0Lkhhc1ZhbHVlICYmIGNvbW11bml0aWVzLkFueSgpKSB7IHJldHVybiBjb21tdW5pdGllczsgfQoKICAgICAgICAgICAgdHJ5CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciByZXN1bHQgPSBhd2FpdCBfY29tbXVuaXR5UGlsbGFyQ2xpZW50Lkxpc3RDb21tdW5pdGllcyhpbnN0aXR1dGlvbklkKTsKICAgICAgICAgICAgICAgIGNvbW11bml0aWVzID0gcmVzdWx0Lkl0ZW1zOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGNhdGNoIHsgY29tbXVuaXRpZXMgPSBkZWZhdWx0KElFbnVtZXJhYmxlPENvbW11bml0eT4pOyB9CgogICAgICAgICAgICB2YXIgYnJhbmNoTGlzdEpzb24gPSBKc29uQ29udmVydC5TZXJpYWxpemVPYmplY3QoY29tbXVuaXRpZXMpOwogICAgICAgICAgICBhd2FpdCBEYXRhYmFzZS5TdHJpbmdTZXRBc3luYyhrZXksIGJyYW5jaExpc3RKc29uKTsKICAgICAgICAgICAgYXdhaXQgRGF0YWJhc2UuS2V5RXhwaXJlQXN5bmMoa2V5LCBUaW1lU3Bhbi5Gcm9tTWludXRlcyg1KSk7CgogICAgICAgICAgICByZXR1cm4gY29tbXVuaXRpZXM7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHZXRGaWxlTmFtZVw+</last-search>
+      <last-search encoding="base64">XDxfcXVlcnlEYW9cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHZXRGaWxlTmFtZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxfcXVlcnlEYW9cPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -216,7 +222,6 @@
         <entry encoding="base64">XDxTZW5kU3RlcE5vdGlmaWNhdGlvbnNUb1Jldmlld2Vyc1w+</entry>
         <entry encoding="base64">XDx1cGxvYWRGaWxlXD4=</entry>
         <entry encoding="base64">XDxXa0h0bWxUb1BkZlNlcnZpY2VcPg==</entry>
-        <entry encoding="base64">XDxfcXVlcnlEYW9cPg==</entry>
         <entry encoding="base64">XDxfc3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxfcHJvY2Vzc1w+</entry>
         <entry encoding="base64">XDxzdGVwUmV2aWV3ZXJcPg==</entry>
@@ -231,6 +236,7 @@
         <entry encoding="base64">XDxnZXROYW1lXD4=</entry>
         <entry encoding="base64">XDxfY29tbXVuaXR5UGlsbGFyQ2xpZW50XD4=</entry>
         <entry encoding="base64">XDxHZXRGaWxlTmFtZVw+</entry>
+        <entry encoding="base64">XDxfcXVlcnlEYW9cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>$</entry>
@@ -239,6 +245,7 @@
         <entry>166</entry>
         <entry>w</entry>
         <entry>q</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -258,6 +265,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
