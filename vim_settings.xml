@@ -25,11 +25,11 @@
         <mark key="^" line="3" column="42" />
         <mark key="." line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1550593033973">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="119" column="59" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1550594326655">
+        <mark key="[" line="110" column="21" />
+        <mark key="]" line="110" column="22" />
+        <mark key="." line="110" column="22" />
+        <mark key="^" line="110" column="24" />
       </file>
       <file name="$USER_HOME$/source/repos/BudgetingPdfTest/BudgetingPdfTest/BudgetingPdfTest.csproj" timestamp="1550515824769">
         <mark key="[" line="2" column="26" />
@@ -37,8 +37,12 @@
         <mark key="." line="2" column="27" />
         <mark key="^" line="13" column="37" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissionHistory.js" timestamp="1550586760221">
-        <mark key="'" line="15" column="14" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissionHistory.js" timestamp="1550594304515">
+        <mark key="'" line="78" column="18" />
+        <mark key="[" line="37" column="46" />
+        <mark key="]" line="37" column="47" />
+        <mark key="^" line="37" column="47" />
+        <mark key="." line="37" column="47" />
       </file>
       <file name="/Dummy.cs" timestamp="1550540281308">
         <mark key="[" line="0" column="0" />
@@ -202,19 +206,20 @@
       <jump line="11" column="29" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Account.cs" />
       <jump line="75" column="44" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Account.cs" />
       <jump line="49" column="25" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Account.cs" />
+      <jump line="78" column="18" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissionHistory.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkLkFjY291bnRJZCwK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfaW5zdGl0dXRpb25JZFw+</text>
+        <text encoding="base64">XDxnZXROYW1lXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">SW5zdGl0dXRpb25JZAogICAgICAgIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkLkFjY291bnRJZCwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -248,15 +253,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfaW5zdGl0dXRpb25JZFw+</last-search>
+      <last-search encoding="base64">XDxnZXROYW1lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfaW5zdGl0dXRpb25JZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXROYW1lXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxicmFuY2hTZXJ2aWNlXD4=</entry>
         <entry>stepRe</entry>
         <entry encoding="base64">XDxfYWRqdXN0bWVudHNcPg==</entry>
         <entry encoding="base64">XDxfc3RlcHNcPg==</entry>
@@ -276,6 +280,7 @@
         <entry encoding="base64">XDxzZWFyY2hQYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxjb21tdW5pdHlJZFw+</entry>
         <entry encoding="base64">XDxfaW5zdGl0dXRpb25JZFw+</entry>
+        <entry encoding="base64">XDxnZXROYW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>$</entry>
