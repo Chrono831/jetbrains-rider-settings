@@ -31,33 +31,34 @@
       <file name="/Dummy.cs" timestamp="1550540281308">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" timestamp="1550580994271">
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" timestamp="1550582133991">
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="176" column="89" />
         <mark key="^" line="178" column="61" />
         <mark key="." line="177" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentsForReviewerQuery.cs" timestamp="1550522596681">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentsForReviewerQuery.cs" timestamp="1550582259018">
+        <mark key="[" line="77" column="28" />
+        <mark key="]" line="77" column="37" />
+        <mark key="." line="77" column="37" />
+        <mark key="^" line="77" column="37" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" timestamp="1550541168756">
-        <mark key="'" line="231" column="16" />
-        <mark key="[" line="187" column="13" />
-        <mark key="]" line="187" column="38" />
-        <mark key="." line="187" column="38" />
-        <mark key="^" line="187" column="38" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" timestamp="1550582067183">
+        <mark key="'" line="226" column="16" />
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
+        <mark key="." line="184" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Reviews/CreateAdjustmentRequestHandler.cs" timestamp="1550499763820">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/LineItems/GetLineItemsUnderReviewQuery.cs" timestamp="1550522633962">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/LineItems/GetLineItemsUnderReviewQuery.cs" timestamp="1550582236064">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="78" column="81" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="78" column="36" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Functions/local.settings.json" timestamp="1550505222860">
         <mark key="[" line="3" column="193" />
@@ -74,7 +75,7 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550542245731">
+      <file name="/Dummy.txt" timestamp="1550582343125">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/lineItem.js" timestamp="1550512101030">
@@ -168,44 +169,44 @@
       <jump line="226" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETyBtYWtlIHRoaXMgbm90IGEgZ2lhbnQgcGlsZSBvZiBzaGl0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfc3RhdHVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuV2hlcmUoeCA9PiB4LlN1Ym1pc3Npb24uQWNjb3VudC5JZCA9PSBfYWNjb3VudFByb3ZpZGVyLkFjY291bnQuSWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzdWJtaXNzaW9uU3RlcFJldmlld2VycyA9IF9zZXNzaW9uLlF1ZXJ5T3ZlcjxTdWJtaXNzaW9uU3RlcFJldmlld2VyPigpCiAgICAgICAgICAgICAgICAgICAgLldoZXJlKHggPT4geC5JbnN0aXR1dGlvbklkID09IF9pbnN0aXR1dGlvbkNvbnRleHQuSW5zdGl0dXRpb25JZCkKICAgICAgICAgICAgICAgICAgICAuV2hlcmUoeCA9PiB4LkFjY291bnRJZCA9PSBfYWNjb3VudFByb3ZpZGVyLkFjY291bnQuSWQpCiAgICAgICAgICAgICAgICAgICAgLkxpc3QoKQogICAgICAgICAgICAgICAgICAgIC5TZWxlY3QoeCA9PiB4LlN0ZXBJZCkKICAgICAgICAgICAgICAgICAgICAuRGlzdGluY3QoKQogICAgICAgICAgICAgICAgICAgIC5Ub0xpc3QoKTsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgdmFyIHN1Ym1pc3Npb25TdGF0dXNlcyA9IF9zZXNzaW9uLlF1ZXJ5T3ZlcjxTdGF0dXM+KCkKICAgICAgICAgICAgICAgICAgICAuV2hlcmUoeCA9PiB4LlN0ZXAuSWQuSXNJbihzdWJtaXNzaW9uU3RlcFJldmlld2VycykpCiAgICAgICAgICAgICAgICAgICAgLkxpc3QoKQogICAgICAgICAgICAgICAgICAgIC5TZWxlY3QoeCA9PiB4LklkKQogICAgICAgICAgICAgICAgICAgIC5EaXN0aW5jdCgpCiAgICAgICAgICAgICAgICAgICAgLlRvTGlzdCgpOwoKICAgICAgICAgICAgICAgIHF1ZXJ5LldoZXJlKGxpID0+IHN1Ym1pc3Npb24uU3RhdHVzLklkLklzSW4oc3VibWlzc2lvblN0YXR1c2VzKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETyBtYWtlIHRoaXMgbm90IGEgZ2lhbnQgcGlsZSBvZiBzaGl0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciByZXZpZXdlcnMgPSBfcXVlcnlEYW8uRmluZDxTdWJtaXNzaW9uU3RlcFJldmlld2VyLCBHZXRTdWJtaXNzaW9uU3RlcFJldmlld2VyUXVlcnk+KHEgPT4KICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBxLlN1Ym1pc3Npb25JZCA9IHN1Ym1pc3Npb24uSWQ7CiAgICAgICAgICAgICAgICAgICAgcS5TdGVwSWQgPSBzdWJtaXNzaW9uLlN0YXR1cy5TdGVwLklkOwogICAgICAgICAgICAgICAgICAgIHEuQWNjb3VudElkID0gX2FjY291bnRQcm92aWRlci5BY2NvdW50LklkOwogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICBpZiAocmV2aWV3ZXJzICE9IG51bGwpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgcXVlcnkuV2hlcmUoYWRqdXN0bWVudCA9PiByZXZpZXdlcnMuQW55KHggPT4KICAgICAgICAgICAgICAgICAgICAgICAgeC5BY2NvdW50SWQgPT0gX2FjY291bnRQcm92aWRlci5BY2NvdW50LklkICYmCiAgICAgICAgICAgICAgICAgICAgICAgIHguU3RlcElkID09IHN0ZXAuSWQgJiYKICAgICAgICAgICAgICAgICAgICAgICAgeC5JbnN0aXR1dGlvbklkID09IHN1Ym1pc3Npb24uSW5zdGl0dXRpb25JZCkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZWxzZSB7IHF1ZXJ5LldoZXJlKHggPT4gMSA9PSAwKTsgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuV2hlcmUoeCA9PiB4LlN1Ym1pc3Npb24uSW5zdGl0dXRpb25JZCA9PSBfaW5zdGl0dXRpb25Db250ZXh0Lkluc3RpdHV0aW9uSWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETyBtYWtlIHRoaXMgbm90IGEgZ2lhbnQgcGlsZSBvZiBzaGl0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciByZXZpZXdlcnMgPSBfcXVlcnlEYW8uRmluZDxTdWJtaXNzaW9uU3RlcFJldmlld2VyLCBHZXRTdWJtaXNzaW9uU3RlcFJldmlld2VyUXVlcnk+KHEgPT4KICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBxLlN1Ym1pc3Npb25JZCA9IHN1Ym1pc3Npb24uSWQ7CiAgICAgICAgICAgICAgICAgICAgcS5TdGVwSWQgPSBzdWJtaXNzaW9uLlN0YXR1cy5TdGVwLklkOwogICAgICAgICAgICAgICAgICAgIHEuQWNjb3VudElkID0gX2FjY291bnRQcm92aWRlci5BY2NvdW50LklkOwogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICBpZiAocmV2aWV3ZXJzICE9IG51bGwpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgcXVlcnkuV2hlcmUobGkgPT4gcmV2aWV3ZXJzLkFueSh4ID0+CiAgICAgICAgICAgICAgICAgICAgICAgIHguQWNjb3VudElkID09IF9hY2NvdW50UHJvdmlkZXIuQWNjb3VudC5JZCAmJgogICAgICAgICAgICAgICAgICAgICAgICB4LlN0ZXBJZCA9PSBzdGVwLklkICYmCiAgICAgICAgICAgICAgICAgICAgICAgIHguSW5zdGl0dXRpb25JZCA9PSBzdWJtaXNzaW9uLkluc3RpdHV0aW9uSWQpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGVsc2UgeyBxdWVyeS5XaGVyZSh4ID0+IDEgPT0gMCk7IH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuV2hlcmUoeCA9PiB4LlN1Ym1pc3Npb24uQWNjb3VudC5JZCA9PSBfYWNjb3VudFByb3ZpZGVyLkFjY291bnQuSWQpCg==</text>
+        <text encoding="base64">CiAgICAgICAgcHVibGljIGludCBHZXRTdGVwSWQoKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIF9zdGF0dXM/LlN0ZXAuSWQgPz8gaW50Lk1pblZhbHVlOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuV2hlcmUoeCA9PiB4Lkluc3RpdHV0aW9uSWQgPT0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETyBtYWtlIHRoaXMgbm90IGEgZ2lhbnQgcGlsZSBvZiBzaGl0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuSW5uZXIoKS5Kb2luQWxpYXMoeCA9PiB4LlN1Ym1pc3Npb25JZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuV2hlcmUoeCA9PiB4LlN1Ym1pc3Npb24uSW5zdGl0dXRpb25JZCA9PSBfaW5zdGl0dXRpb25Db250ZXh0Lkluc3RpdHV0aW9uSWQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1ZXJ5LldoZXJlKHN1Ym1pc3Npb24gPT4gc3VibWlzc2lvbi4hPSBudWxsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETyBtYWtlIHRoaXMgbm90IGEgZ2lhbnQgcGlsZSBvZiBzaGl0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1ZXJ5LldoZXJlKHN1Ym1pc3Npb24gPT4gc3RlcC5JZC5Jc0luKHN1Ym1pc3Npb25TdGVwUmV2aWV3ZXJzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuV2hlcmUoeCA9PiB4LlN1Ym1pc3Npb24uQWNjb3VudC5JZCA9PSBfYWNjb3VudFByb3ZpZGVyLkFjY291bnQuSWQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuV2hlcmUoeCA9PiB4Lkluc3RpdHV0aW9uSWQgPT0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
