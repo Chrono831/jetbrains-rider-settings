@@ -33,6 +33,10 @@
         <mark key="^" line="3" column="42" />
         <mark key="." line="3" column="42" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Views/BulkUser/Index.aspx" timestamp="1551717439869">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="231" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/SystemController.cs" timestamp="1551714044610">
         <mark key="'" line="105" column="41" />
         <mark key="^" line="105" column="106" />
@@ -101,11 +105,12 @@
         <mark key="." line="82" column="57" />
         <mark key="^" line="82" column="57" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Views/System/ManageCommunityConfiguration.aspx" timestamp="1551713980475">
-        <mark key="'" line="443" column="47" />
-        <mark key="[" line="362" column="0" />
-        <mark key="]" line="362" column="0" />
-        <mark key="." line="362" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Views/System/ManageCommunityConfiguration.aspx" timestamp="1551717559169">
+        <mark key="'" line="448" column="47" />
+        <mark key="[" line="22" column="160" />
+        <mark key="]" line="22" column="166" />
+        <mark key="." line="22" column="166" />
+        <mark key="^" line="22" column="166" />
       </file>
       <file name="$USER_HOME$/source/repos/BudgetingPdfTest/BudgetingPdfTest/PdfGenerator.cs" timestamp="1550517203255">
         <mark key="[" line="3" column="0" />
@@ -248,6 +253,10 @@
         <mark key="." line="17" column="36" />
         <mark key="^" line="17" column="36" />
       </file>
+      <file name="/Index.aspx" timestamp="1551716575989">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="20" column="13" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting/Base/Core/FinanceRegistry.cs" timestamp="1550760769141">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -374,47 +383,47 @@
       <jump line="443" column="47" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Views/System/ManageCommunityConfiguration.aspx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>_context</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Budget</text>
       </register>
-      <register name="0" type="4">
-        <text>CommunityRequestContext</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCTxsaT48YSBocmVmPSI8JT0gQ29uZmlndXJhdGlvbk1hbmFnZXIuQXBwU2V0dGluZ3NbIlJvdW5kaG91c2VCYXNlVXJsIl0gJT4vY29tbXVuaXR5LzwlPSBNb2RlbC5Db21tdW5pdHkuSWQgJT4vaW1wb3J0cy9jb21tdW5pdHltZW1iZXIiIHRhcmdldD0iX2JsYW5rIj48aSBjbGFzcz0iZmEgZmEtZXh0ZXJuYWwtbGluayI+PC9pPiBDcmVhdGUvVXBkYXRlIFVzZXJzPC9hPjwvbGk+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0ibm90aWZpY2F0aW9uIGluZm8iIHN0eWxlPSJiYWNrZ3JvdW5kLWNvbG9yOiMzMTVkYTQ7IGNvbG9yOiNmZmY7Ij4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly91c2luZyBIaWJlcm5hdGluZ1JoaW5vcy5Qcm9maWxlci5BcHBlbmRlci5OSGliZXJuYXRlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8jaWYgREVCVUcKLy8gICAgICAgICAgICBOSGliZXJuYXRlUHJvZmlsZXIuSW5pdGlhbGl6ZSgpOwovLyNlbmRpZgo=</text>
+        <text encoding="base64">Ly91c2luZyBIaWJlcm5hdGluZ1JoaW5vcy5Qcm9maWxlci5BcHBlbmRlci5OSGliZXJuYXRlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8jaWYgREVCVUcKLy8gICAgICAgICAgICBOSGliZXJuYXRlUHJvZmlsZXIuSW5pdGlhbGl6ZSgpOwovLyNlbmRpZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmlld0JhZy5DYW5BY2Nlc3NCdWRnZXRpbmcgPSBDb21tdW5pdHlSZXF1ZXN0Q29udGV4dC5Db21tdW5pdHkuQ29uZmlndXJhdGlvbi5CdWRnZXRpbmdFbmFibGVkOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVmlld0JhZy5DYW5BY2Nlc3NCdWRnZXRpbmcgPSBDb21tdW5pdHlSZXF1ZXN0Q29udGV4dC5Db21tdW5pdHkuQ29uZmlndXJhdGlvbi5CdWRnZXRpbmdFbmFibGVkOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCTwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlIH0gJT4K</text>
+        <text encoding="base64">CQkJCTwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZpZWxkIHNpbmdsZS1jaGVja2JveCBjbGVhcmZpeCI+CgkJCQkJPGRpdiBjbGFzcz0iY29udHJvbHMiPgoJCQkJCQk8bGFiZWwgY2xhc3M9ImNoZWNrYm94Ij4KCQkJCQkJCTwlPUh0bWwuQ2hlY2tCb3hGb3IobW9kZWwgPT4gbW9kZWwuQnVkZ2V0aW5nUmVxdWVzdHNFbmFibGVkKSU+CgkJCQkJCQk8JT1IdG1sLkRpc3BsYXlOYW1lRm9yKG1vZGVsID0+IG1vZGVsLkJ1ZGdldGluZ1JlcXVlc3RzRW5hYmxlZCkgJT4KCQkJCQkJPC9sYWJlbD4KCQkJCQk8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlIH0gJT4K</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -460,8 +469,8 @@
         <entry>q</entry>
         <entry>$</entry>
         <entry>102</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
