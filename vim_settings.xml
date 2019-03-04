@@ -24,16 +24,16 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="231" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/SystemController.cs" timestamp="1551714044610">
-        <mark key="'" line="105" column="41" />
-        <mark key="^" line="105" column="106" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" timestamp="1551721321251">
         <mark key="'" line="183" column="16" />
         <mark key="[" line="182" column="91" />
         <mark key="]" line="182" column="91" />
         <mark key="." line="182" column="91" />
         <mark key="^" line="241" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Views/Home/Index.cshtml" timestamp="1551723391827">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="66" />
       </file>
       <file name="/Dummy.cs" timestamp="1550686000316">
         <mark key="[" line="0" column="0" />
@@ -55,11 +55,11 @@
         <mark key="]" line="211" column="0" />
         <mark key="." line="211" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Controllers/HomeController.cs" timestamp="1551722713321">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="44" column="143" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Controllers/HomeController.cs" timestamp="1551723467506">
+        <mark key="[" line="56" column="94" />
+        <mark key="]" line="56" column="94" />
+        <mark key="." line="56" column="94" />
+        <mark key="^" line="56" column="100" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Controllers/BaseController.cs" timestamp="1550765109136">
         <mark key="[" line="14" column="4" />
@@ -72,6 +72,12 @@
         <mark key="]" line="22" column="166" />
         <mark key="." line="22" column="166" />
         <mark key="^" line="22" column="166" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting/Web/ViewModels/Navigation/IndexViewModel.cs" timestamp="1551723439136">
+        <mark key="[" line="14" column="44" />
+        <mark key="]" line="14" column="44" />
+        <mark key="^" line="14" column="49" />
+        <mark key="." line="14" column="44" />
       </file>
       <file name="/Clipboard.txt" timestamp="1550695894318">
         <mark key="[" line="0" column="0" />
@@ -94,6 +100,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="64" column="55" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Attributes/IsEngageBudgetingEnabled.cs" timestamp="1551723913405">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="12" />
+        <mark key="^" line="14" column="12" />
+        <mark key="." line="14" column="12" />
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/SystemController.cs" timestamp="1551721334438">
         <mark key="[" line="479" column="0" />
@@ -128,11 +140,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Views/Shared/_AngularLayout.cshtml" timestamp="1551722477948">
-        <mark key="[" line="17" column="90" />
-        <mark key="]" line="17" column="90" />
-        <mark key="^" line="17" column="74" />
-        <mark key="." line="17" column="90" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Views/Shared/_AngularLayout.cshtml" timestamp="1551724175454">
+        <mark key="[" line="75" column="47" />
+        <mark key="]" line="75" column="47" />
+        <mark key="." line="75" column="47" />
+        <mark key="^" line="13" column="22" />
       </file>
       <file name="/Index.aspx" timestamp="1551716575989">
         <mark key="[" line="17" column="0" />
@@ -252,44 +264,44 @@
       <jump line="54" column="36" filename="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Controllers/Base/BaseController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>DisplayName</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfbGRDbGllbnRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">QnVkZ2V0aW5nU2hvd09wdEluTGF1bmNoRGFya2x5S2V5IA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">QG1vZGVsIENhbXB1c0xhYnMuRmluYW5jZS5XZWIuVmlld01vZGVscy5OYXZpZ2F0aW9uLkluZGV4Vmlld01vZGVsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9AbW9kZWwgQ2FtcHVzTGFicy5GaW5hbmNlLldlYi5WaWV3TW9kZWxzLk5hdmlnYXRpb24uSW5kZXhWaWV3TW9kZWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QHVzaW5nIENhbXB1c0xhYnMuRmluYW5jZS5DYWNoZQpAdXNpbmcgQ2FtcHVzTGFicy5GaW5hbmNlLkNvcmUKQHVzaW5nIENhbXB1c0xhYnMuRmluYW5jZS5Eb21haW4uQ29udGV4dAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QHVzaW5nIENhbXB1c0xhYnMuRmluYW5jZS5XZWIuVmlld01vZGVscy5OYXZpZ2F0aW9uCkB1c2luZyBDYW1wdXNMYWJzLkluc3RpdHV0aW9uUmVzb2x1dGlvbk1vZHVsZS5Db21tb25zLkluc3RpdHV0aW9uQWNjZXNzLkluc3RpdHV0aW9ucwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgaW5zdGl0dXRpb25Db250ZXh0ID0gRGVwZW5kZW5jeVJlc29sdmVyLkN1cnJlbnQuR2V0U2VydmljZTxJSW5zdGl0dXRpb25Db250ZXh0PigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgX2xkQ2xpZW50ID0gRGVwZW5kZW5jeVJlc29sdmVyLkN1cnJlbnQuR2V0U2VydmljZTxMYXVuY2hEYXJrbHkuQ2xpZW50PigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYWNjb3VudFByb3ZpZGVyID0gRGVwZW5kZW5jeVJlc29sdmVyLkN1cnJlbnQuR2V0U2VydmljZTxJQWNjb3VudFByb3ZpZGVyPigpOwogICAgICAgIHZhciBhY2NvdW50ID0gYWNjb3VudFByb3ZpZGVyLkFjY291bnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgbGRVc2VyID0gTGF1bmNoRGFya2x5LkNsaWVudC5Vc2VyLldpdGhLZXkoaW5zdGl0dXRpb25Db250ZXh0Lkluc3RpdHV0aW9uSWQuVG9TdHJpbmcoKSkuQW5kTmFtZShpbnN0aXR1dGlvbkNvbnRleHQuSW5zdGl0dXRpb25OYW1lKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgY2FuQWNjZXNzQnVkZ2V0aW5nID0gX2xkQ2xpZW50LkJvb2xWYXJpYXRpb24oImJ1ZGdldGluZy1zaG93LW9wdC1pbiIsIGxkVXNlciwgZmFsc2UpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IHN0cmluZyBCdWRnZXRpbmdTaG93T3B0SW5MYXVuY2hEYXJrbHlLZXkgPSAiYnVkZ2V0aW5nLXNob3ctb3B0LWluIjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -333,12 +345,13 @@
         <entry>166</entry>
         <entry>%s/Account/Submission</entry>
         <entry>%s/CreatedOn/SubmittedOn/g</entry>
-        <entry>0</entry>
         <entry>179</entry>
         <entry>q</entry>
         <entry>$</entry>
         <entry>102</entry>
         <entry>wq</entry>
+        <entry>8</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
