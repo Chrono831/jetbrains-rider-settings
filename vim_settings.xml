@@ -226,11 +226,11 @@
         <mark key="^" line="482" column="60" />
         <mark key="." line="479" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" timestamp="1551812824362">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="66" column="9" />
-        <mark key="^" line="66" column="9" />
-        <mark key="." line="66" column="9" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" timestamp="1551815381263">
+        <mark key="[" line="32" column="12" />
+        <mark key="]" line="32" column="13" />
+        <mark key="^" line="32" column="13" />
+        <mark key="." line="32" column="13" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1DCDE29E-6E0C-4E29-BD77-2151B2B76034/bb/309249d5/HttpStatusCode.cs" timestamp="1551730519464">
         <mark key="'" line="10" column="14" />
@@ -431,11 +431,11 @@
       <jump line="89" column="35" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>document</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDcmVhdGVEb2N1bWVudFw+</text>
@@ -444,34 +444,34 @@
         <text>Processing Failed</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYm9vbCB1bmljb2RlID0gZmFsc2U7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgUGRmRm9udEVtYmVkZGluZyBlbWJlZGRpbmcgPSBQZGZGb250RW1iZWRkaW5nLkFsd2F5czsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRvY3VtZW50ID0gbmV3IERvY3VtZW50CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFVzZUNteWtDb2xvciA9IHRydWUKICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIEFkZCBzb21lIHRleHQgdG8gdGhlIHBhcmFncmFwaAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRvY3VtZW50ID0gbmV3IERvY3VtZW50CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFVzZUNteWtDb2xvciA9IHRydWUKICAgICAgICAgICAgfTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIEFkZCBzb21lIHRleHQgdG8gdGhlIHBhcmFncmFwaAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIEFkZCBhIHBhcmFncmFwaCB0byB0aGUgc2VjdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>78</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -520,12 +520,12 @@
         <entry>33</entry>
         <entry>w</entry>
         <entry>19</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>0</entry>
         <entry>29</entry>
         <entry>502</entry>
         <entry>78</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
