@@ -80,6 +80,16 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" timestamp="1551795382279">
+        <mark key="[" line="1605" column="0" />
+        <mark key="]" line="1605" column="0" />
+        <mark key="." line="1605" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/IFinanceService.cs" timestamp="1551795509868">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/BranchController.cs" timestamp="1551733039166">
         <mark key="[" line="22" column="57" />
         <mark key="]" line="22" column="57" />
@@ -103,10 +113,10 @@
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/ValueTypes/ImportedFinanceBatchStatus.cs" timestamp="1551793775768">
-        <mark key="[" line="12" column="67" />
-        <mark key="]" line="12" column="67" />
-        <mark key="." line="12" column="67" />
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/ValueTypes/ImportedFinanceBatchStatus.cs" timestamp="1551794499984">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
         <mark key="^" line="12" column="67" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/BudgetingApiEnabledAttribute.cs" timestamp="1551789880199">
@@ -149,7 +159,7 @@
         <mark key="^" line="188" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1C93C73A-3BFF-44E5-BB4E-50BEE85AF89A/58/e3ac0cd9/FinanceImportCommand.cs" timestamp="1551792583469" />
-      <file name="/Dummy.txt" timestamp="1551730567552">
+      <file name="/Dummy.txt" timestamp="1551795630458">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Global.asax.cs" timestamp="1551714674312">
@@ -284,11 +294,11 @@
       <jump line="73" column="65" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/IFinanceService.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>urn false;</text>
       </register>
       <register name="/" type="4">
         <text>ProcessB</text>
@@ -297,34 +307,34 @@
         <text>Processing Failed</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9jZXNzaW5nRmFpbGVkID0gdHJ1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElJbnN0aXR1dGlvbkNvbnRleHQgX2luc3RpdHV0aW9uQ29udGV4dDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2luc3RpdHV0aW9uQ29udGV4dCA9IERlcGVuZGVuY3lSZXNvbHZlci5DdXJyZW50LkdldFNlcnZpY2U8SW5zdGl0dXRpb25Db250ZXh0PigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>19</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -368,14 +378,14 @@
         <entry>179</entry>
         <entry>$</entry>
         <entry>102</entry>
-        <entry>wq</entry>
         <entry>8</entry>
-        <entry>0</entry>
         <entry>76</entry>
         <entry>33</entry>
-        <entry>q</entry>
         <entry>w</entry>
         <entry>19</entry>
+        <entry>q</entry>
+        <entry>wq</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
