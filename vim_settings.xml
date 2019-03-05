@@ -3,6 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Accounts/EnsureAccountExistsRequestHandler.cs" timestamp="1550598512300">
+        <mark key="[" line="38" column="113" />
+        <mark key="]" line="38" column="160" />
+        <mark key="^" line="38" column="160" />
+        <mark key="." line="38" column="160" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Web.Release.config" timestamp="1550763903710">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Views/GroupType/Edit.cshtml" timestamp="1551721232965">
         <mark key="[" line="213" column="8" />
         <mark key="]" line="213" column="8" />
@@ -14,9 +26,11 @@
         <mark key="^" line="59" column="93" />
         <mark key="." line="59" column="45" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Views/BulkUser/Index.aspx" timestamp="1551717439869">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="231" />
+      <file name="$USER_HOME$/source/repos/BudgetingPdfTest/BudgetingPdfTest/local.settings.json" timestamp="1550512510526">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="3" column="42" />
+        <mark key="^" line="3" column="42" />
+        <mark key="." line="3" column="42" />
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/GroupTypeController.cs" timestamp="1551721321251">
         <mark key="'" line="183" column="16" />
@@ -26,12 +40,20 @@
         <mark key="^" line="241" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/dbo/Scripts/SubmissionSetDefaultSubmittedOn.sql" timestamp="1550775075866" />
-      <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Views/Home/Index.cshtml" timestamp="1551723391827">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="66" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Web.config" timestamp="1550763839058">
+        <mark key="[" line="35" column="101" />
+        <mark key="]" line="36" column="3" />
+        <mark key="^" line="36" column="3" />
+        <mark key="." line="36" column="3" />
       </file>
       <file name="/Dummy.cs" timestamp="1550686000316">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/dbo/Tables/Submission.sql" timestamp="1550670096472">
+        <mark key="[" line="19" column="55" />
+        <mark key="]" line="19" column="55" />
+        <mark key="^" line="19" column="34" />
+        <mark key="." line="19" column="55" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/dbo/Scripts/BudgetingDataMirror.sql" timestamp="1550775159775">
         <mark key="[" line="9" column="6" />
@@ -45,10 +67,22 @@
         <mark key="." line="173" column="77" />
         <mark key="^" line="173" column="77" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentsForReviewerQuery.cs" timestamp="1550582259018">
+        <mark key="[" line="77" column="28" />
+        <mark key="]" line="77" column="37" />
+        <mark key="." line="77" column="37" />
+        <mark key="^" line="77" column="37" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Models/CommunityConfigurationModel.cs" timestamp="1551721276598">
         <mark key="[" line="211" column="0" />
         <mark key="]" line="211" column="0" />
         <mark key="." line="211" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Controllers/Base/BaseController.cs" timestamp="1551798024547">
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="36" column="5" />
+        <mark key="^" line="36" column="5" />
+        <mark key="." line="36" column="5" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Controllers/HomeController.cs" timestamp="1551727241056">
         <mark key="'" line="54" column="75" />
@@ -56,6 +90,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="56" column="100" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/LineItems/GetLineItemsUnderReviewQuery.cs" timestamp="1550582236064">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="78" column="81" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="78" column="36" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Controllers/NavigationController.cs" timestamp="1551726991506">
         <mark key="[" line="23" column="76" />
@@ -68,6 +108,12 @@
         <mark key="." line="14" column="4" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceImportController.cs" timestamp="1551792650396" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Core/FinanceRegistry.cs" timestamp="1550679057128">
+        <mark key="[" line="82" column="46" />
+        <mark key="]" line="82" column="57" />
+        <mark key="." line="82" column="57" />
+        <mark key="^" line="82" column="57" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Views/System/ManageCommunityConfiguration.aspx" timestamp="1551717559169">
         <mark key="'" line="448" column="47" />
         <mark key="[" line="22" column="160" />
@@ -75,15 +121,51 @@
         <mark key="." line="22" column="166" />
         <mark key="^" line="22" column="166" />
       </file>
+      <file name="$USER_HOME$/source/repos/BudgetingPdfTest/BudgetingPdfTest/PdfGenerator.cs" timestamp="1550517203255">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting/Web/ViewModels/Navigation/IndexViewModel.cs" timestamp="1551726969593">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/SubmissionParams.cs" timestamp="1550670745087">
+        <mark key="[" line="29" column="21" />
+        <mark key="]" line="29" column="30" />
+        <mark key="." line="29" column="30" />
+        <mark key="^" line="29" column="30" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/SubmissionStepGeneratedPdfMapping.cs" timestamp="1550774002079">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="18" column="38" />
+      </file>
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" timestamp="1551795382279">
         <mark key="[" line="1605" column="0" />
         <mark key="]" line="1605" column="0" />
         <mark key="." line="1605" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Cache/CommunityCache.cs" timestamp="1550598566092">
+        <mark key="[" line="73" column="40" />
+        <mark key="]" line="73" column="41" />
+        <mark key="^" line="55" column="115" />
+        <mark key="." line="73" column="41" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Statuses/CreateStatusRequestHandler.cs" timestamp="1550498535651">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="50" column="32" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsStatusesController.cs" timestamp="1550679067673">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="65" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="28" column="57" />
       </file>
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/IFinanceService.cs" timestamp="1551795509868">
         <mark key="[" line="61" column="0" />
@@ -104,14 +186,16 @@
       <file name="/Clipboard.txt" timestamp="1550695894318">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/dbo/Tables/Account.sql" timestamp="1550772014364">
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="1" column="45" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Models/Types/GroupTypeModel.cs" timestamp="1551721281676">
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.services.js" timestamp="1550497199115">
+        <mark key="[" line="51" column="56" />
+        <mark key="]" line="51" column="56" />
+        <mark key="^" line="51" column="56" />
+        <mark key="." line="51" column="56" />
       </file>
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/ValueTypes/ImportedFinanceBatchStatus.cs" timestamp="1551794499984">
         <mark key="[" line="10" column="0" />
@@ -137,20 +221,34 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
       </file>
+      <file name="$USER_HOME$/source/repos/BudgetingPdfTest/BudgetingPdfTest/BudgetingPdfTest.csproj" timestamp="1550515824769">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+        <mark key="^" line="13" column="37" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Controllers/SystemController.cs" timestamp="1551721334438">
         <mark key="[" line="479" column="0" />
         <mark key="]" line="479" column="0" />
         <mark key="^" line="482" column="60" />
         <mark key="." line="479" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" timestamp="1550767586887">
+        <mark key="[" line="53" column="12" />
+        <mark key="]" line="54" column="11" />
+        <mark key="." line="54" column="11" />
+        <mark key="^" line="54" column="11" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1DCDE29E-6E0C-4E29-BD77-2151B2B76034/bb/309249d5/HttpStatusCode.cs" timestamp="1551730519464">
         <mark key="'" line="10" column="14" />
         <mark key="[" line="63" column="29" />
         <mark key="]" line="63" column="38" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting/Base/Cache/EngageBudgetConfigCache.cs" timestamp="1550762889219">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="65" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/IPdfGenerator.cs" timestamp="1550678581206">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="7" column="20" />
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Views/GroupType/Create.cshtml" timestamp="1551721201590">
         <mark key="[" line="201" column="8" />
@@ -158,7 +256,19 @@
         <mark key="." line="201" column="9" />
         <mark key="^" line="188" column="9" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Functions/local.settings.json" timestamp="1550505222860">
+        <mark key="[" line="3" column="193" />
+        <mark key="]" line="3" column="193" />
+        <mark key="." line="3" column="193" />
+        <mark key="^" line="3" column="193" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1C93C73A-3BFF-44E5-BB4E-50BEE85AF89A/58/e3ac0cd9/FinanceImportCommand.cs" timestamp="1551792583469" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/SubmissionMapping.cs" timestamp="1550670610008">
+        <mark key="[" line="17" column="46" />
+        <mark key="]" line="17" column="56" />
+        <mark key="." line="17" column="56" />
+        <mark key="^" line="17" column="56" />
+      </file>
       <file name="/Dummy.txt" timestamp="1551796443476">
         <mark key="[" line="0" column="0" />
       </file>
@@ -167,10 +277,22 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/SubmissionReviewer.cs" timestamp="1550672755820">
+        <mark key="[" line="53" column="13" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/dbo/Scripts/Submission.AddSubmittedOn.sql" timestamp="1550774849730">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Functions/Services/PdfGenerator.cs" timestamp="1550508580912">
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="33" column="10" />
+        <mark key="^" line="28" column="64" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Views/Shared/_AngularLayout.cshtml" timestamp="1551727092354">
         <mark key="[" line="9" column="0" />
@@ -179,11 +301,35 @@
         <mark key="^" line="23" column="81" />
       </file>
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/Services/Collegiatelnk.ImporterService/ImporterMessageConsumer.cs" timestamp="1551792826423" />
+      <file name="$USER_HOME$/source/repos/BudgetingPdfTest/BudgetingPdfTest/Function1.cs" timestamp="1550514535054">
+        <mark key="[" line="23" column="53" />
+        <mark key="]" line="24" column="15" />
+        <mark key="." line="24" column="15" />
+        <mark key="^" line="24" column="15" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/SubmissionStepGeneratedPdf.cs" timestamp="1550684367327">
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="17" column="36" />
+        <mark key="." line="17" column="36" />
+        <mark key="^" line="17" column="36" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting/Base/Core/FinanceRegistry.cs" timestamp="1551726806527">
         <mark key="'" line="51" column="47" />
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Functions/App.Budgeting.Functions.csproj" timestamp="1550507428250">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+        <mark key="^" line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Storage/IFileStorage.cs" timestamp="1550680186695">
+        <mark key="[" line="11" column="78" />
+        <mark key="]" line="11" column="78" />
+        <mark key="." line="11" column="78" />
+        <mark key="^" line="11" column="78" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/FinanceApiBootstrap.cs" timestamp="1550597152066">
         <mark key="[" line="74" column="0" />
@@ -294,11 +440,11 @@
       <jump line="73" column="65" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/IFinanceService.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>urn false;</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>ProcessB</text>
