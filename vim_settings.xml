@@ -32,12 +32,12 @@
         <mark key="^" line="3" column="42" />
         <mark key="." line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" timestamp="1551886992808">
-        <mark key="'" line="215" column="33" />
-        <mark key="[" line="232" column="91" />
-        <mark key="]" line="232" column="102" />
-        <mark key="." line="232" column="102" />
-        <mark key="^" line="232" column="102" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" timestamp="1551888292879">
+        <mark key="'" line="57" column="27" />
+        <mark key="[" line="57" column="65" />
+        <mark key="]" line="57" column="77" />
+        <mark key="." line="57" column="77" />
+        <mark key="^" line="57" column="77" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Web.config" timestamp="1550763839058">
         <mark key="[" line="35" column="101" />
@@ -176,6 +176,7 @@
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/852FB868-0C79-4F2D-87E3-82BD7F61825A/11/ZipOutputStream.cs" timestamp="1551887776051" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.services.js" timestamp="1550497199115">
         <mark key="[" line="51" column="56" />
         <mark key="]" line="51" column="56" />
@@ -318,7 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/GetUserAccountDetailsQuery.cs" />
       <jump line="51" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/GetUserAccountDetailsQuery.cs" />
       <jump line="15" column="25" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/ICommunityPillarClient.cs" />
       <jump line="16" column="74" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/ICommunityPillarClient.cs" />
@@ -418,55 +418,56 @@
       <jump line="205" column="26" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
       <jump line="381" column="17" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
       <jump line="215" column="33" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
+      <jump line="57" column="27" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>file</text>
+        <text>DisplayedFileName</text>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text>DisplayedFileName</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHZW5lcmF0ZWRaaXBTbGltXD4=</text>
+        <text encoding="base64">XDxEb3dubG9hZEZpbGVJbnRlcm5hbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBHZW5lcmF0ZWRQZGZTbGltCiAgICB7CiAgICAgICAgcHVibGljIGludCBJbnN0aXR1dGlvbklkIHsgZ2V0OyBzZXQ7IH0gPSBpbnQuTWluVmFsdWU7CiAgICAgICAgcHVibGljIGludCBTdWJtaXNzaW9uSWQgeyBnZXQ7IHNldDsgfSA9IGludC5NaW5WYWx1ZTsKICAgICAgICBwdWJsaWMgaW50IFZlcnNpb24geyBnZXQ7IHNldDsgfSA9IDA7CiAgICAgICAgcHVibGljIEd1aWQgUmVxdWVzdGVkQnkgeyBnZXQ7IHNldDsgfSA9IEd1aWQuRW1wdHk7CiAgICAgICAgcHVibGljIHN0cmluZyBEaXNwbGF5ZWRGaWxlTmFtZSB7IGdldDsgc2V0OyB9ID0gc3RyaW5nLkVtcHR5OwogICAgICAgIHB1YmxpYyBzdHJpbmcgU3RvcmVkRmlsZU5hbWUgeyBnZXQ7IHNldDsgfSA9IHN0cmluZy5FbXB0eTsKCiAgICAgICAgcHVibGljIEdlbmVyYXRlZFBkZlNsaW0oKQogICAgICAgIHsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBHZW5lcmF0ZWRQZGZTbGltKFN1Ym1pc3Npb25HZW5lcmF0ZWRQZGYgc3VibWlzc2lvbkdlbmVyYXRlZFBkZikKICAgICAgICB7CiAgICAgICAgICAgIEluc3RpdHV0aW9uSWQgPSBzdWJtaXNzaW9uR2VuZXJhdGVkUGRmLkluc3RpdHV0aW9uSWQ7CiAgICAgICAgICAgIFN1Ym1pc3Npb25JZCA9IHN1Ym1pc3Npb25HZW5lcmF0ZWRQZGYuU3VibWlzc2lvbklkOwogICAgICAgICAgICBWZXJzaW9uID0gc3VibWlzc2lvbkdlbmVyYXRlZFBkZi5WZXJzaW9uOwogICAgICAgICAgICBSZXF1ZXN0ZWRCeSA9IHN1Ym1pc3Npb25HZW5lcmF0ZWRQZGYuUmVxdWVzdGVkQnk7CiAgICAgICAgICAgIERpc3BsYXllZEZpbGVOYW1lID0gc3VibWlzc2lvbkdlbmVyYXRlZFBkZi5EaXNwbGF5ZWRGaWxlTmFtZTsKICAgICAgICAgICAgU3RvcmVkRmlsZU5hbWUgPSBzdWJtaXNzaW9uR2VuZXJhdGVkUGRmLlN0b3JlZEZpbGVOYW1lOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZXMuQWRkKHJlc3VsdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG91dHB1dE1lbVN0cmVhbTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEluc3RpdHV0aW9uSWQgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFN1Ym1pc3Npb25JZCB7IGdldDsgc2V0OyB9ID0gaW50Lk1pblZhbHVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFZlcnNpb24geyBnZXQ7IHNldDsgfSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJ5dGVBcnJheU91dCA9IG91dHB1dE1lbVN0cmVhbS5Ub0FycmF5KCk7IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHZlcnNpb24gPSBHZXROZXh0VmVyc2lvbihzdWJtaXNzaW9uSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFZlcnNpb24gPSB2ZXJzaW9uLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgR2VuZXJhdGVkUGRmU2xpbShTdWJtaXNzaW9uR2VuZXJhdGVkUGRmIHN1Ym1pc3Npb25HZW5lcmF0ZWRQZGYpCiAgICAgICAgewogICAgICAgICAgICBJbnN0aXR1dGlvbklkID0gc3VibWlzc2lvbkdlbmVyYXRlZFBkZi5JbnN0aXR1dGlvbklkOwogICAgICAgICAgICBTdWJtaXNzaW9uSWQgPSBzdWJtaXNzaW9uR2VuZXJhdGVkUGRmLlN1Ym1pc3Npb25JZDsKICAgICAgICAgICAgVmVyc2lvbiA9IHN1Ym1pc3Npb25HZW5lcmF0ZWRQZGYuVmVyc2lvbjsKICAgICAgICAgICAgUmVxdWVzdGVkQnkgPSBzdWJtaXNzaW9uR2VuZXJhdGVkUGRmLlJlcXVlc3RlZEJ5OwogICAgICAgICAgICBEaXNwbGF5ZWRGaWxlTmFtZSA9IHN1Ym1pc3Npb25HZW5lcmF0ZWRQZGYuRGlzcGxheWVkRmlsZU5hbWU7CiAgICAgICAgICAgIFN0b3JlZEZpbGVOYW1lID0gc3VibWlzc2lvbkdlbmVyYXRlZFBkZi5TdG9yZWRGaWxlTmFtZTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG91dHB1dE1lbVN0cmVhbTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHZW5lcmF0ZWRaaXBTbGltXD4=</last-search>
+      <last-search encoding="base64">XDxEb3dubG9hZEZpbGVJbnRlcm5hbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHZW5lcmF0ZWRaaXBTbGltXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxEb3dubG9hZEZpbGVJbnRlcm5hbFw+</last-pattern>
       <last-replace>SubmittedOn</last-replace>
       <last-substitute>CreatedOn</last-substitute>
       <last-dir>-1</last-dir>
@@ -490,10 +491,10 @@
         <entry encoding="base64">XDxDcmVhdGVEb2N1bWVudFw+</entry>
         <entry encoding="base64">XDxHZXRCbG9iUmVmZXJlbmNlXD4=</entry>
         <entry encoding="base64">XDxHZXRTdWJtaXNzaW9uR2VuZXJhdGVkUGRmXD4=</entry>
-        <entry encoding="base64">XDxEb3dubG9hZEZpbGVJbnRlcm5hbFw+</entry>
         <entry encoding="base64">XDx6aXBGaWxlTmFtZVw+</entry>
         <entry encoding="base64">XDxHZW5lcmF0ZURpc3BsYXllZEZpbGVOYW1lXD4=</entry>
         <entry encoding="base64">XDxHZW5lcmF0ZWRaaXBTbGltXD4=</entry>
+        <entry encoding="base64">XDxEb3dubG9hZEZpbGVJbnRlcm5hbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
