@@ -251,14 +251,14 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" timestamp="1552055768502">
-        <mark key="[" line="59" column="68" />
-        <mark key="]" line="59" column="78" />
-        <mark key="." line="59" column="78" />
-        <mark key="^" line="59" column="78" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" timestamp="1552065874603">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="58" column="62" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/IPdfGenerator.cs" timestamp="1551815907961">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/IPdfGenerator.cs" timestamp="1552065886932">
+        <mark key="[" line="7" column="51" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
@@ -464,44 +464,44 @@
       <jump line="133" column="45" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>new GeneratedPdfSlim(submissionGeneratedPdf);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>new GeneratedPdfSlim(submissionGeneratedPdf);</text>
+        <text>.FromCmyk(100, 30, 20, 50);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRHZW5lcmF0ZVBkZlw+</text>
       </register>
-      <register name="0" type="4">
-        <text>new GeneratedPdfSlim(</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFyYWdyYXBoLkFkZEZvcm1hdHRlZFRleHQoJCJIZWxsbywgV29ybGQgZnJvbSBzdWJtaXNzaW9uIC0gJHtzdWJtaXNzaW9uLk5hbWV9IiwgVGV4dEZvcm1hdC5Cb2xkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyYWdyYXBoLkFkZEZvcm1hdHRlZFRleHQoJCJkZXNjcmlwdGlvbiAtICR7c3VibWlzc2lvbi5EZXNjcmlwdGlvbn0iLCBUZXh0Rm9ybWF0LkJvbGQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VibWlzc2lvbi5HZXRIYXNoQ29kZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQuSW5mby5Db21tZW50IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChvbGRQZGYuU2VxdWVuY2VFcXVhbChuZXdQZGYpKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBvbGRTbGltOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBuZXdQZGZIYXNoQ29kZSA9IG5ld1BkZi5HZXRIYXNoQ29kZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQuVXNlQ215a0NvbG9yID0gdHJ1ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBvbGRQZGZIYXNoQ29kZSA9IG9sZFBkZi5HZXRIYXNoQ29kZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGFzeW5jIFRhc2s8R2VuZXJhdGVkUGRmU2xpbT4gR2V0R2VuZXJhdGVkUGRmKGludCBzdWJtaXNzaW9uSWQpCiAgICAgICAgewogICAgICAgICAgICB2YXIgZmlsZSA9IEdldEdlbmVyYXRlZFBkZlNsaW0oc3VibWlzc2lvbklkKTsKICAgICAgICAgICAgaWYgKGZpbGUuU3RvcmVkRmlsZU5hbWUgIT0gc3RyaW5nLkVtcHR5KSB7IHJldHVybiBmaWxlOyB9CgogICAgICAgICAgICByZXR1cm4gYXdhaXQgR2VuZXJhdGVQZGYoc3VibWlzc2lvbklkKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
