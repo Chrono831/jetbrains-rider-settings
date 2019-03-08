@@ -32,12 +32,12 @@
         <mark key="^" line="3" column="42" />
         <mark key="." line="3" column="42" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" timestamp="1552060837256">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" timestamp="1552067291681">
         <mark key="'" line="133" column="45" />
-        <mark key="[" line="182" column="19" />
-        <mark key="]" line="182" column="23" />
-        <mark key="." line="182" column="23" />
-        <mark key="^" line="182" column="23" />
+        <mark key="[" line="173" column="36" />
+        <mark key="]" line="173" column="44" />
+        <mark key="." line="173" column="44" />
+        <mark key="^" line="173" column="44" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting/Web/Web.config" timestamp="1550763839058">
         <mark key="[" line="35" column="101" />
@@ -251,16 +251,17 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" timestamp="1552065874603">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="58" column="62" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" timestamp="1552067349976">
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="17" column="44" />
+        <mark key="." line="17" column="44" />
+        <mark key="^" line="36" column="38" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/IPdfGenerator.cs" timestamp="1552065886932">
-        <mark key="[" line="7" column="51" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/IPdfGenerator.cs" timestamp="1552067089185">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+        <mark key="^" line="8" column="32" />
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Branch/App.CC.Branch/Areas/Admin/Views/GroupType/Create.cshtml" timestamp="1551721201590">
         <mark key="[" line="201" column="8" />
@@ -464,44 +465,44 @@
       <jump line="133" column="45" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQuCg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>.FromCmyk(100, 30, 20, 50);</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRHZW5lcmF0ZVBkZlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyYWdyYXBoLkFkZEZvcm1hdHRlZFRleHQoJCJIZWxsbywgV29ybGQgZnJvbSBzdWJtaXNzaW9uIC0gJHtzdWJtaXNzaW9uLk5hbWV9IiwgVGV4dEZvcm1hdC5Cb2xkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyYWdyYXBoLkFkZEZvcm1hdHRlZFRleHQoJCJzdWJtaXNzaW9uIGhhc2ggY29kZSAtIHtzdWJtaXNzaW9uLkdldEhhc2hDb2RlKCkuVG9TdHJpbmcoKX0iKTsKICAgICAgICAgICAgcGFyYWdyYXBoLkFkZExpbmVCcmVhaygpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyYWdyYXBoLkFkZEZvcm1hdHRlZFRleHQoJCJkZXNjcmlwdGlvbiAtICR7c3VibWlzc2lvbi5EZXNjcmlwdGlvbn0iLCBUZXh0Rm9ybWF0LkJvbGQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyYWdyYXBoLkFkZExpbmVCcmVhaygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VibWlzc2lvbi5HZXRIYXNoQ29kZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyYWdyYXBoLkFkZEZvcm1hdHRlZFRleHQoJCJwZGYgZ2VuZXJhdG9yIHNlbSB2ZXIgLSB7dGhpcy4uU2VtYW50aWNWZXJzaW9uKCl9Iik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQuSW5mby5Db21tZW50IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyYWdyYXBoLkFkZEZvcm1hdHRlZFRleHQoJCJkZXNjcmlwdGlvbiAtICR7c3VibWlzc2lvbi5EZXNjcmlwdGlvbn0iLCBUZXh0Rm9ybWF0LkJvbGQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQuVXNlQ215a0NvbG9yID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VibWlzc2lvbi5HZXRIYXNoQ29kZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQuSW5mby5Db21tZW50IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQuVXNlQ215a0NvbG9yID0gdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
