@@ -94,7 +94,8 @@
         <mark key="^" line="36" column="5" />
         <mark key="." line="36" column="5" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" timestamp="1552332773412">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" timestamp="1552395424970">
+        <mark key="'" line="41" column="32" />
         <mark key="[" line="265" column="0" />
         <mark key="]" line="265" column="0" />
         <mark key="^" line="31" column="69" />
@@ -115,6 +116,9 @@
         <mark key="[" line="14" column="4" />
         <mark key="]" line="14" column="4" />
         <mark key="." line="14" column="4" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" timestamp="1551967856090">
+        <mark key="'" line="205" column="26" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Core/FinanceRegistry.cs" timestamp="1550679057128">
         <mark key="[" line="82" column="46" />
@@ -270,6 +274,12 @@
         <mark key="^" line="90" column="91" />
         <mark key="." line="90" column="91" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/css/scss/old/_CDNcoreicons.scss" timestamp="1552308739088">
+        <mark key="'" line="302" column="9" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" timestamp="1552395481324">
+        <mark key="'" line="79" column="16" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Comment.cs" timestamp="1552332797892">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
@@ -305,7 +315,7 @@
         <mark key="^" line="33" column="52" />
         <mark key="." line="33" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552334606384">
+      <file name="/Dummy.txt" timestamp="1552394007162">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Global.asax.cs" timestamp="1551714674312">
@@ -376,15 +386,11 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/css/scss/components/_form.scss" timestamp="1552308718104">
+        <mark key="'" line="248" column="16" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="22" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
-      <jump line="115" column="15" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
-      <jump line="119" column="19" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
-      <jump line="123" column="44" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
-      <jump line="32" column="54" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
-      <jump line="45" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
-      <jump line="62" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
       <jump line="54" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
       <jump line="302" column="15" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
       <jump line="293" column="19" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
@@ -478,6 +484,13 @@
       <jump line="209" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
       <jump line="164" column="55" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
       <jump line="214" column="56" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
+      <jump line="238" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
+      <jump line="233" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
+      <jump line="163" column="31" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
+      <jump line="41" column="32" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
+      <jump line="80" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
+      <jump line="78" column="22" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
+      <jump line="79" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -487,7 +500,7 @@
         <text>.First();</text>
       </register>
       <register name="/" type="4">
-        <text>Length</text>
+        <text encoding="base64">XDxoZWFkZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">cmV2aWV3ZXJzUXVlcnkg</text>
@@ -524,18 +537,16 @@
       </register>
     </registers>
     <search>
-      <last-search>Length</last-search>
+      <last-search encoding="base64">XDxoZWFkZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>Length</last-pattern>
+      <last-pattern encoding="base64">XDxoZWFkZXJcPg==</last-pattern>
       <last-replace>SubmittedOn</last-replace>
       <last-substitute>CreatedOn</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>generate\/subm</entry>
-        <entry encoding="base64">XDxHZW5lcmF0ZWRQZGZTbGltXD4=</entry>
         <entry encoding="base64">XDxHZXRTdWJtaXNzaW9uR2VuZXJhdGVkUGRmXD4=</entry>
         <entry encoding="base64">XDxHZXRGaWxlQnl0ZXNcPg==</entry>
         <entry encoding="base64">XDxvbGRTbGltXD4=</entry>
@@ -554,6 +565,8 @@
         <entry>Comment</entry>
         <entry encoding="base64">XDxfY29tbWVudHNcPg==</entry>
         <entry>Length</entry>
+        <entry encoding="base64">XDxfc3VibWl0dGVkT25cPg==</entry>
+        <entry encoding="base64">XDxoZWFkZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>8</entry>
