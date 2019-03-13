@@ -128,6 +128,12 @@
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/css/scss/old/_CDNcoreicons.scss" timestamp="1552308739088">
         <mark key="'" line="302" column="9" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" timestamp="1552476394815">
+        <mark key="[" line="121" column="27" />
+        <mark key="]" line="121" column="26" />
+        <mark key="." line="121" column="26" />
+        <mark key="^" line="121" column="26" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/IsReviewerAttribute.cs" timestamp="1552424185794">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="16" column="57" />
@@ -552,10 +558,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>AccessAllowed</text>
+        <text>Account</text>
       </register>
       <register name="-" type="4">
-        <text>AccessAllowed</text>
+        <text>Account</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcmV2aWV3ZXJTdGVwc1w+</text>
