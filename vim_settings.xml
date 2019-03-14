@@ -51,6 +51,9 @@
         <mark key="." line="11" column="81" />
         <mark key="^" line="11" column="81" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" timestamp="1551967856090">
+        <mark key="'" line="205" column="26" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/FileController.cs" timestamp="1552475529704">
         <mark key="[" line="53" column="43" />
         <mark key="]" line="53" column="43" />
@@ -74,6 +77,9 @@
         <mark key="]" line="22" column="32" />
         <mark key="^" line="29" column="71" />
         <mark key="." line="22" column="32" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Account.cs" timestamp="1552481503696">
+        <mark key="'" line="60" column="25" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/DisplayedPageSlim.cs" timestamp="1552571451876">
         <mark key="[" line="10" column="34" />
@@ -130,12 +136,15 @@
         <mark key="^" line="9" column="8" />
         <mark key="." line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" timestamp="1552577825923">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/css/scss/old/_CDNcoreicons.scss" timestamp="1552308739088">
+        <mark key="'" line="302" column="9" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" timestamp="1552586326140">
         <mark key="'" line="154" column="52" />
-        <mark key="[" line="310" column="63" />
-        <mark key="]" line="310" column="64" />
-        <mark key="." line="310" column="64" />
-        <mark key="^" line="310" column="62" />
+        <mark key="[" line="299" column="20" />
+        <mark key="]" line="299" column="20" />
+        <mark key="." line="299" column="20" />
+        <mark key="^" line="299" column="20" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Comment.cs" timestamp="1552332797892">
         <mark key="[" line="93" column="0" />
@@ -173,6 +182,9 @@
         <mark key="]" line="16" column="44" />
         <mark key="." line="16" column="44" />
         <mark key="^" line="16" column="44" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/SubmissionMapping.cs" timestamp="1552586211722">
+        <mark key="'" line="7" column="17" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Validation/Attributes/UserCanReplyToCommentAttribute.cs" timestamp="1552334435724">
         <mark key="[" line="33" column="52" />
@@ -213,9 +225,11 @@
         <mark key="^" line="33" column="44" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/css/scss/components/_form.scss" timestamp="1552308718104">
+        <mark key="'" line="248" column="16" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/css/scss/components/_form.scss" />
       <jump line="518" column="15" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/css/scss/old/_CDNcoreicons.scss" />
       <jump line="522" column="1" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/css/scss/old/_CDNcoreicons.scss" />
       <jump line="526" column="1" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/css/scss/old/_CDNcoreicons.scss" />
@@ -315,6 +329,7 @@
       <jump line="77" column="18" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="68" column="42" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="66" column="27" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
+      <jump line="7" column="17" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/SubmissionMapping.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -333,14 +348,14 @@
           <key char="98" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgU3RhdHVzVHlwZS5Ob3RTdWJtaXR0ZWQ6IGJyZWFrOwo=</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb21tZW50c1w+</text>
+        <text>Commen</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbW1lbnRzVGV4dCA9IHN0cmluZy5FbXB0eTsKICAgICAgICAgICAgaWYgKHN1Ym1pc3Npb24uQ29tbWVudHMuQW55KCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciBjb21tZW50cyA9IHN1Ym1pc3Npb24uQ29tbWVudHMKICAgICAgICAgICAgICAgICAgICAuV2hlcmUoeCA9PiB4LkF1ZGllbmNlID09IEF1ZGllbmNlLlJlcXVlc3RlcnNBbmRSZXZpZXdlcnMpCiAgICAgICAgICAgICAgICAgICAgLlNlbGVjdCh4ID0+IHguVGV4dCk7CiAgICAgICAgICAgICAgICBjb21tZW50c1RleHQgPSBzdHJpbmcuSm9pbigiXG4iLCBjb21tZW50cyk7CiAgICAgICAgICAgIH0K</text>
@@ -377,17 +392,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb21tZW50c1w+</last-search>
+      <last-search>Commen</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb21tZW50c1w+</last-pattern>
+      <last-pattern>Commen</last-pattern>
       <last-replace>SubmittedOn</last-replace>
       <last-substitute>CreatedOn</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSZW1vdmVkXD4=</entry>
         <entry encoding="base64">XDxPcmlnaW5hbEZpbGVOYW1lXD4=</entry>
         <entry encoding="base64">XDwsXD4=</entry>
         <entry encoding="base64">XDx9XD4=</entry>
@@ -407,6 +421,7 @@
         <entry encoding="base64">XDxTZW5kU3RhdHVzTm90aWZpY2F0aW9uVG9TdWJtaXR0ZXJcPg==</entry>
         <entry encoding="base64">XDxjb21tZW50c1w+</entry>
         <entry encoding="base64">XDxDb21tZW50c1w+</entry>
+        <entry>Commen</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
