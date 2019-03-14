@@ -139,7 +139,7 @@
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/css/scss/old/_CDNcoreicons.scss" timestamp="1552308739088">
         <mark key="'" line="302" column="9" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" timestamp="1552586326140">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" timestamp="1552587830180">
         <mark key="'" line="154" column="52" />
         <mark key="[" line="299" column="20" />
         <mark key="]" line="299" column="20" />
@@ -192,7 +192,7 @@
         <mark key="^" line="33" column="52" />
         <mark key="." line="33" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552583849782">
+      <file name="/Dummy.txt" timestamp="1552588140655">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/SectionSlim.cs" timestamp="1552570606975">
@@ -348,8 +348,14 @@
           <key char="98" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -360,11 +366,17 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbW1lbnRzVGV4dCA9IHN0cmluZy5FbXB0eTsKICAgICAgICAgICAgaWYgKHN1Ym1pc3Npb24uQ29tbWVudHMuQW55KCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciBjb21tZW50cyA9IHN1Ym1pc3Npb24uQ29tbWVudHMKICAgICAgICAgICAgICAgICAgICAuV2hlcmUoeCA9PiB4LkF1ZGllbmNlID09IEF1ZGllbmNlLlJlcXVlc3RlcnNBbmRSZXZpZXdlcnMpCiAgICAgICAgICAgICAgICAgICAgLlNlbGVjdCh4ID0+IHguVGV4dCk7CiAgICAgICAgICAgICAgICBjb21tZW50c1RleHQgPSBzdHJpbmcuSm9pbigiXG4iLCBjb21tZW50cyk7CiAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgU3RhdHVzVHlwZS5Ob3RTdWJtaXR0ZWQ6IGJyZWFrOwo=</text>
+      <register name="1" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgU3RhdHVzVHlwZS5Ob3RTdWJtaXR0ZWQ6IGJyZWFrOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -376,16 +388,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDogc3RyaW5nLkVtcHR5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgID8gc3RyaW5nLkpvaW4oIlxuIiwgc3VibWlzc2lvbi5Db21tZW50cy5TZWxlY3QoeCA9PiB4LlRleHQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDogc3RyaW5nLkVtcHR5Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkKICAgICAgICAgICAgICAgIHN1Ym1pc3Npb24uQ29tbWVudHMuQW55KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgID8gc3RyaW5nLkpvaW4oIlxuIiwgc3VibWlzc2lvbi5Db21tZW50cy5TZWxlY3QoeCA9PiB4LlRleHQpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFtTdWJtaXNzaW9uQWNjZXNzQWxsb3dlZF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkKICAgICAgICAgICAgICAgIHN1Ym1pc3Npb24uQ29tbWVudHMuQW55KCkK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
