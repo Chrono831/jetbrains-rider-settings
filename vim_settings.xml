@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/CommentReplySlim.cs" timestamp="1552591557880">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="17" column="13" />
-        <mark key="." line="15" column="36" />
-        <mark key="^" line="15" column="36" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/CommentReplySlim.cs" timestamp="1552592735836">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="28" column="12" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/LineItemMapping.cs" timestamp="1552483459681">
         <mark key="[" line="42" column="0" />
@@ -47,11 +47,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/StatusSlim.cs" timestamp="1552591481728">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="13" column="13" />
-        <mark key="." line="14" column="11" />
-        <mark key="^" line="14" column="11" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/StatusSlim.cs" timestamp="1552592532267">
+        <mark key="[" line="20" column="68" />
+        <mark key="]" line="20" column="74" />
+        <mark key="." line="20" column="74" />
+        <mark key="^" line="20" column="74" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Submissions/Section.cs" timestamp="1552502512433">
         <mark key="[" line="12" column="0" />
@@ -129,11 +129,11 @@
         <mark key="." line="17" column="25" />
         <mark key="^" line="17" column="25" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/CommentSlim.cs" timestamp="1552591586626">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="19" column="13" />
-        <mark key="." line="20" column="11" />
-        <mark key="^" line="20" column="11" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/CommentSlim.cs" timestamp="1552592779769">
+        <mark key="[" line="26" column="48" />
+        <mark key="]" line="28" column="25" />
+        <mark key="." line="28" column="25" />
+        <mark key="^" line="28" column="25" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/OrganizationSlim.cs" timestamp="1552591660247">
         <mark key="[" line="15" column="0" />
@@ -177,11 +177,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/BudgetSlim.cs" timestamp="1552591526005">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="27" column="13" />
-        <mark key="^" line="25" column="30" />
-        <mark key="." line="25" column="30" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/BudgetSlim.cs" timestamp="1552592667878">
+        <mark key="[" line="48" column="13" />
+        <mark key="]" line="49" column="39" />
+        <mark key="." line="49" column="39" />
+        <mark key="^" line="49" column="39" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/ResponseSlim.cs" timestamp="1552591980990">
         <mark key="[" line="21" column="0" />
@@ -382,7 +382,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRXZlbnRUeXBlID0gQnVkZ2V0RXZlbnRUeXBlLkNvbW1lbnQ7Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -399,7 +399,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>Commen</text>
@@ -408,31 +408,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHNlY3Rpb24/LlNlY3Rpb25UeXBlID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG5ldyBTZWN0aW9uU2xpbSgpOwogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRXZlbnRUeXBlID0gQnVkZ2V0RXZlbnRUeXBlLkNvbW1lbnQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWNjb3VudElkID0gY29tbWVudC5BY2NvdW50LklkOwogICAgICAgICAgICBBY2NvdW50TmFtZSA9ICQie2NvbW1lbnQuQWNjb3VudC5GaXJzdE5hbWV9IHtjb21tZW50LkFjY291bnQuTGFzdE5hbWV9IjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFjY291bnQgPSBudWxsKSB7IG5ldyBBY2NvdW50U2xpbSgpOwogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmICgpIHsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWNjb3VudElkID0gcmVwbHkuQWNjb3VudC5JZDsKICAgICAgICAgICAgQWNjb3VudE5hbWUgPSAkIntyZXBseS5BY2NvdW50LkZpcnN0TmFtZX0ge3JlcGx5LkFjY291bnQuTGFzdE5hbWV9IjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgYWNjb3VudCgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkge30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VjdGlvbnMgPSBidWRnZXQuU2VjdGlvbnMuU2VsZWN0KHNlY3Rpb24gPT4gbmV3IFNlY3Rpb25TbGltKHNlY3Rpb24pKQogICAgICAgICAgICAgICAgLk9yZGVyQnkoeCA9PiB4LklkKQogICAgICAgICAgICAgICAgLlRvTGlzdCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICApCiAgICAgICAgID09IG51bGwpIHsKICAgICAgICAgbmV3ICBBY2NvdW50U2xpbSgpOwogICAgICAgICByZXR1cm47CiAgICAgICAgIH0KICAgICAgICAgICAgaWYgKAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFjY291bnQgPT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbmV3IEFjY291bnRTbGltKCk7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgYWNjb3VudCA9PSBudWxsKSB7CiAgICAgICAgICAgIG5ldyBYWFg7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
