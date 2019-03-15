@@ -19,7 +19,8 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" timestamp="1552582874475">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" timestamp="1552676627378">
+        <mark key="'" line="37" column="39" />
         <mark key="[" line="30" column="4" />
         <mark key="]" line="30" column="4" />
         <mark key="^" line="31" column="27" />
@@ -186,12 +187,12 @@
         <mark key="^" line="16" column="34" />
         <mark key="." line="16" column="34" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" timestamp="1552676413811">
-        <mark key="'" line="508" column="20" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="508" column="20" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" timestamp="1552678228405">
+        <mark key="'" line="60" column="16" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="60" column="60" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Comment.cs" timestamp="1552332797892">
         <mark key="[" line="93" column="0" />
@@ -237,7 +238,7 @@
         <mark key="^" line="33" column="52" />
         <mark key="." line="33" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552676017699">
+      <file name="/Dummy.txt" timestamp="1552676485401">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Submissions/Status.cs" timestamp="1552502502231">
@@ -314,23 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="43" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" />
-      <jump line="38" column="28" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" />
-      <jump line="424" column="19" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" />
-      <jump line="382" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" />
-      <jump line="214" column="39" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" />
-      <jump line="427" column="28" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" />
-      <jump line="223" column="34" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" />
-      <jump line="205" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" />
-      <jump line="411" column="26" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" />
-      <jump line="412" column="26" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" />
-      <jump line="359" column="23" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" />
-      <jump line="404" column="36" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" />
-      <jump line="171" column="23" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" />
-      <jump line="169" column="23" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" />
-      <jump line="464" column="19" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" />
-      <jump line="636" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" />
-      <jump line="392" column="55" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" />
       <jump line="458" column="19" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" />
       <jump line="470" column="15" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" />
       <jump line="629" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Models/SubmissionModel.cs" />
@@ -411,9 +395,26 @@
       <jump line="483" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
       <jump line="489" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
       <jump line="496" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
-      <jump line="398" column="21" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
       <jump line="503" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
       <jump line="510" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
+      <jump line="37" column="39" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
+      <jump line="33" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
+      <jump line="398" column="24" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
+      <jump line="61" column="28" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
+      <jump line="78" column="32" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
+      <jump line="66" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
+      <jump line="323" column="28" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
+      <jump line="337" column="28" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
+      <jump line="70" column="49" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
+      <jump line="183" column="21" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
+      <jump line="74" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
+      <jump line="394" column="21" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
+      <jump line="77" column="53" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
+      <jump line="324" column="28" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
+      <jump line="79" column="51" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
+      <jump line="338" column="28" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
+      <jump line="94" column="28" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
+      <jump line="65" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -507,49 +508,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb2N1bWVudFw+</text>
+        <text encoding="base64">XDxBZGRIZWFkZXJUb0RvY3VtZW50U2VjdGlvblw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2F0Y2ggKEV4Y2VwdGlvbikgeyBHZXRFeGNlcHRpb25Eb2N1bWVudChzdWJtaXNzaW9uLk5hbWUpOyB9Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">TGluZUl0ZW1UeXBlU2xpbSA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vcmV0dXJuIGRvY3VtZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgUGRmR2VuZXJhdG9yKFN1Ym1pc3Npb25TbGltIHN1Ym1pc3Npb24pCiAgICAgICAgewogICAgICAgICAgICBfc3VibWlzc2lvbiA9IHN1Ym1pc3Npb247CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJ1ZGdldExpbmVJdGVtVHlwZSA9CiAgICAgICAgICAgICAgICBidWRnZXRTZWN0aW9uVHlwZS5MaW5lSXRlbVR5cGVzLkZpcnN0T3JEZWZhdWx0KHggPT4KICAgICAgICAgICAgICAgICAgICB4LklkID09IGJ1ZGdldExpbmVJdGVtLkxpbmVJdGVtVHlwZUlkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJ1ZGdldFNlY3Rpb25UeXBlID0gc3VibWl0dGVkQnVkZ2V0LlNlY3Rpb25UeXBlcwogICAgICAgICAgICAgICAgLkZpcnN0KHggPT4geC5TZWN0aW9uVHlwZUlkID09IGJ1ZGdldFNlY3Rpb24uU2VjdGlvblR5cGVJZCk7Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2F0Y2ggKEV4Y2VwdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN1Ym1pdHRlZEJ1ZGdldCA9IF9zdWJtaXNzaW9uLkJ1ZGdldHMuRmlyc3RPckRlZmF1bHQoKTsKICAgICAgICAgICAgaWYgKCFzdWJtaXR0ZWRCdWRnZXQuU2VjdGlvbnMuQW55KCkgfHwgIXN1Ym1pdHRlZEJ1ZGdldC5TZWN0aW9uVHlwZXMuQW55KCkpIHsgcmV0dXJuOyB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2RvY3VtZW50ID0gQ3JlYXRlTWlncmFEb2NEb2N1bWVudChzdWJtaXNzaW9uU2xpbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENyZWF0ZU1pZ3JhRG9jRG9jdW1lbnQoc3VibWlzc2lvblNsaW0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>.,$s/submissionSlim/submission</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkb2N1bWVudFw+</last-search>
+      <last-search encoding="base64">XDxBZGRIZWFkZXJUb0RvY3VtZW50U2VjdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb2N1bWVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxBZGRIZWFkZXJUb0RvY3VtZW50U2VjdGlvblw+</last-pattern>
       <last-replace>submission</last-replace>
       <last-substitute>submissionSlim</last-substitute>
       <last-dir>-1</last-dir>
@@ -557,11 +558,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Sections</entry>
-        <entry encoding="base64">XDxHZXRIaXN0b3J5VjJcPg==</entry>
-        <entry encoding="base64">XDxHZXRVc2VyXD4=</entry>
-        <entry encoding="base64">XDxTZW5kU3RhdHVzTm90aWZpY2F0aW9uVG9TdWJtaXR0ZXJcPg==</entry>
-        <entry encoding="base64">XDxjb21tZW50c1w+</entry>
         <entry encoding="base64">XDxDb21tZW50c1w+</entry>
         <entry>Commen</entry>
         <entry encoding="base64">XDxTdWJtaXNzaW9uSGFyZERlbGV0ZVw+</entry>
@@ -570,13 +566,18 @@
         <entry>.Any()</entry>
         <entry>submissionSlim</entry>
         <entry>var document</entry>
-        <entry encoding="base64">XDxBZGRIZWFkZXJUb0RvY3VtZW50U2VjdGlvblw+</entry>
         <entry encoding="base64">XDxBZGRSZXF1ZXN0U3VtbWFyeVRvRG9jdW1lbnRTZWN0aW9uXD4=</entry>
-        <entry encoding="base64">XDxDcmVhdGVNaWdyYURvY0RvY3VtZW50XD4=</entry>
         <entry encoding="base64">XDxHZXRFeGNlcHRpb25Eb2N1bWVudFw+</entry>
-        <entry encoding="base64">XDxDcmVhdGVFeGNlcHRpb25Eb2N1bWVudFw+</entry>
         <entry encoding="base64">XDxEZWZpbmVTdHlsZXNcPg==</entry>
         <entry encoding="base64">XDxkb2N1bWVudFw+</entry>
+        <entry encoding="base64">XDxfcGRmR2VuZXJhdG9yXD4=</entry>
+        <entry encoding="base64">XDxDcmVhdGVNaWdyYURvY0RvY3VtZW50XD4=</entry>
+        <entry encoding="base64">XDxDcmVhdGVEb2N1bWVudFw+</entry>
+        <entry encoding="base64">XDxBZGRCdWRnZXRUb0RvY3VtZW50U2VjdGlvblw+</entry>
+        <entry encoding="base64">XDxDcmVhdGVFeGNlcHRpb25Eb2N1bWVudFw+</entry>
+        <entry encoding="base64">XDxBZGRSZXNwb25zZXNUb0RvY3VtZW50U2VjdGlvblw+</entry>
+        <entry encoding="base64">XDxBZGRIaXN0b3J5VG9Eb2N1bWVudFNlY3Rpb25cPg==</entry>
+        <entry encoding="base64">XDxBZGRIZWFkZXJUb0RvY3VtZW50U2VjdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>56</entry>
