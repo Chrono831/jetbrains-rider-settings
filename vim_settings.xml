@@ -167,6 +167,13 @@
         <mark key="^" line="165" column="84" />
         <mark key="." line="165" column="86" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" timestamp="1552585865479">
+        <mark key="'" line="67" column="27" />
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="169" column="0" />
+        <mark key="." line="169" column="0" />
+        <mark key="^" line="71" column="40" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/process.js" timestamp="1552479429701">
         <mark key="[" line="93" column="74" />
         <mark key="]" line="94" column="10" />
@@ -188,6 +195,13 @@
         <mark key="]" line="18" column="13" />
         <mark key="^" line="16" column="34" />
         <mark key="." line="16" column="34" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" timestamp="1552665254325">
+        <mark key="'" line="54" column="16" />
+        <mark key="[" line="154" column="93" />
+        <mark key="]" line="154" column="106" />
+        <mark key="." line="154" column="106" />
+        <mark key="^" line="154" column="106" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Comment.cs" timestamp="1552332797892">
         <mark key="[" line="93" column="0" />
@@ -314,7 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="530" column="1" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/css/scss/old/_CDNcoreicons.scss" />
       <jump line="510" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/css/scss/old/_CDNcoreicons.scss" />
       <jump line="346" column="11" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/css/scss/old/_CDNcoreicons.scss" />
       <jump line="302" column="9" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/css/scss/old/_CDNcoreicons.scss" />
@@ -414,6 +427,7 @@
       <jump line="140" column="43" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Database.sqlproj" />
       <jump line="141" column="43" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Database.sqlproj" />
       <jump line="138" column="43" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Database.sqlproj" />
+      <jump line="54" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -489,8 +503,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgY3VycmVudFNlcXVlbmNlID0gc3RhdHVzU2xpbS5TdGVwPy5TZXF1ZW5jZSA/PyBpbnQuTWluVmFsdWU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -507,10 +521,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCdWRnZXRpbmdEYXRhTWlycm9yXD4=</text>
+        <text encoding="base64">XDxEZWZpbmVTdHlsZXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3RhdHVzVHlwZSA9IHN0YXR1cy5TdGF0dXNUeXBlLlRvU3RyaW5nKCk7Cg==</text>
@@ -543,13 +557,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzdGVwVGV4dCA9IHN0cmluZy5FbXB0eTsKICAgICAgICAgICAgICAgIGlmICghc3RyaW5nLklzTnVsbE9yRW1wdHkoU3RlcD8uTmFtZSkpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgc3RlcFRleHQgPSAkIlxuXHRTdGVwIC0ge1N0ZXAuTmFtZX0iOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmV0dXJuICQie1N0YXR1c1R5cGV9e3N0ZXBUZXh0fSI7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>122</text>
+        <text>50</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCdWRnZXRpbmdEYXRhTWlycm9yXD4=</last-search>
+      <last-search encoding="base64">XDxEZWZpbmVTdHlsZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCdWRnZXRpbmdEYXRhTWlycm9yXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxEZWZpbmVTdHlsZXNcPg==</last-pattern>
       <last-replace>SubmittedOn</last-replace>
       <last-substitute>CreatedOn</last-substitute>
       <last-dir>-1</last-dir>
@@ -557,7 +571,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCdWRnZXRMaW5lSXRlbVNsaW1cPg==</entry>
         <entry encoding="base64">XDxTdGF0dXNTbGltXD4=</entry>
         <entry encoding="base64">XDxTdGVwU2xpbVw+</entry>
         <entry encoding="base64">XDxTdWJtaXNzaW9uU291cmNlXD4=</entry>
@@ -577,9 +590,9 @@
         <entry encoding="base64">XDxTdWJtaXNzaW9uSGFyZERlbGV0ZVw+</entry>
         <entry encoding="base64">XDxTdWJtaXNzaW9uU2V0RGVmYXVsdFN1Ym1pdHRlZE9uXD4=</entry>
         <entry encoding="base64">XDxCdWRnZXRpbmdEYXRhTWlycm9yXD4=</entry>
+        <entry encoding="base64">XDxEZWZpbmVTdHlsZXNcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>502</entry>
         <entry>78</entry>
         <entry>214</entry>
         <entry>44</entry>
@@ -599,6 +612,7 @@
         <entry>q</entry>
         <entry>w</entry>
         <entry>122</entry>
+        <entry>50</entry>
       </history-cmd>
       <history-expr />
       <history-input />
