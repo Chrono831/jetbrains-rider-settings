@@ -48,6 +48,12 @@
         <mark key="." line="34" column="12" />
         <mark key="^" line="34" column="12" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/dbo/StoredProcedures/SubmissionHardDelete.sql" timestamp="1552654375728">
+        <mark key="[" line="39" column="4" />
+        <mark key="]" line="39" column="5" />
+        <mark key="^" line="39" column="5" />
+        <mark key="." line="39" column="5" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Settings/SubmissionSource.cs" timestamp="1552592110548">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -106,6 +112,12 @@
         <mark key="^" line="27" column="11" />
         <mark key="." line="27" column="11" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/dbo/StoredProcedures/BudgetingDataMirror.sql" timestamp="1552653365033">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="2" />
+        <mark key="." line="39" column="2" />
+        <mark key="^" line="32" column="5" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/DisplayedPageSlim.cs" timestamp="1552593278063">
         <mark key="[" line="16" column="29" />
         <mark key="]" line="16" column="34" />
@@ -155,12 +167,6 @@
         <mark key="]" line="165" column="86" />
         <mark key="^" line="165" column="84" />
         <mark key="." line="165" column="86" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1552417354647">
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="131" column="118" />
-        <mark key="^" line="131" column="116" />
-        <mark key="." line="131" column="114" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/process.js" timestamp="1552479429701">
         <mark key="[" line="93" column="74" />
@@ -225,7 +231,7 @@
         <mark key="^" line="33" column="52" />
         <mark key="." line="33" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552593975534">
+      <file name="/Dummy.txt" timestamp="1552654353524">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Submissions/Status.cs" timestamp="1552502502231">
@@ -282,6 +288,12 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/dbo/StoredProcedures/SubmissionSetDefaultSubmittedOn.sql" timestamp="1552653225915">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="2" column="1" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Account.cs" timestamp="1552502593070">
         <mark key="[" line="15" column="0" />
@@ -471,7 +483,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>?</text>
+        <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -488,7 +500,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text>Commen</text>
@@ -497,31 +509,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHNlY3Rpb24/LlNlY3Rpb25UeXBlID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG5ldyBTZWN0aW9uU2xpbSgpOwogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZSB7IFNlY3Rpb25UeXBlcyA9IG51bGw7IH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZSB7IFNlY3Rpb25zID0gbnVsbDsgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="4" type="8">
+        <text encoding="base64">IAogCiAKIA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGlzcGxheWVkUGFnZXMgPSByZXNwb25kZW50LkRpc3BsYXllZFBhZ2VzLlNlbGVjdChkaXNwbGF5ZWRQYWdlID0+IG5ldyBEaXNwbGF5ZWRQYWdlU2xpbShkaXNwbGF5ZWRQYWdlKSkKICAgICAgICAgICAgICAgIC5PcmRlckJ5KHggPT4geC5TZXF1ZW5jZSkKICAgICAgICAgICAgICAgIC5Ub0xpc3QoKTsK</text>
+      <register name="5" type="8">
+        <text encoding="base64">IAogCiAKIAogCiA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbW1lbnQuUmUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRXZlbnRUeXBlID0gQnVkZ2V0RXZlbnRUeXBlLkNvbW1lbnQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQWNjb3VudElkID0gY29tbWVudC5BY2NvdW50LklkOwogICAgICAgICAgICBBY2NvdW50TmFtZSA9ICQie2NvbW1lbnQuQWNjb3VudC5GaXJzdE5hbWV9IHtjb21tZW50LkFjY291bnQuTGFzdE5hbWV9IjsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">U0VUIEFOU0lfTlVMTFMgT04KR08KClNFVCBRVU9URURfSURFTlRJRklFUiBPTgpHTwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSB7IFNlY3Rpb25UeXBlcyA9IG51bGw7IH0K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -574,11 +586,11 @@
         <entry>4</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>173</entry>
-        <entry>$</entry>
         <entry>245</entry>
         <entry>0</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>$</entry>
+        <entry>w</entry>
         <entry>q</entry>
       </history-cmd>
       <history-expr />
