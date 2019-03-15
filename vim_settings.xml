@@ -179,12 +179,10 @@
         <mark key="^" line="16" column="34" />
         <mark key="." line="16" column="34" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" timestamp="1552670731584">
-        <mark key="a" line="47" column="12" />
-        <mark key="[" line="353" column="12" />
-        <mark key="]" line="353" column="12" />
-        <mark key="^" line="353" column="12" />
-        <mark key="." line="353" column="12" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" timestamp="1552675299278">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Comment.cs" timestamp="1552332797892">
         <mark key="[" line="93" column="0" />
@@ -230,7 +228,7 @@
         <mark key="^" line="33" column="52" />
         <mark key="." line="33" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552671103413">
+      <file name="/Dummy.txt" timestamp="1552674923658">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Submissions/Status.cs" timestamp="1552502502231">
@@ -307,8 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="40" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
-      <jump line="209" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
       <jump line="164" column="55" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
       <jump line="214" column="56" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
       <jump line="238" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" />
@@ -407,6 +403,8 @@
       <jump line="22" column="4" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
       <jump line="25" column="4" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
       <jump line="346" column="19" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
+      <jump line="282" column="30" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
+      <jump line="262" column="49" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -482,8 +480,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9PVkVSVklFVyBUQUJMRSBDT05URU5UCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -500,28 +498,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>.Any()</text>
+        <text>submissionSlim</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzdWJtaXR0ZWRCdWRnZXQgPSBzdWJtaXNzaW9uLkJ1ZGdldHMuRmlyc3RPckRlZmF1bHQoKTsK</text>
       </register>
-      <register name="1" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9PVkVSVklFVyBUQUJMRSBDT05URU5UCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -530,50 +516,38 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzdWJtaXR0ZWRCdWRnZXQgPSBzdWJtaXNzaW9uLkJ1ZGdldHMuRmlyc3RPckRlZmF1bHQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocHJldmlvdXNTZXF1ZW5jZSAhPSBpbnQuTWluVmFsdWUgJiYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBVbmRlZmluZWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>350</text>
+        <text>.,$s/submissionSlim/submission</text>
       </register>
     </registers>
     <search>
-      <last-search>.Any()</last-search>
+      <last-search>submissionSlim</last-search>
       <last-offset />
-      <last-pattern>.Any()</last-pattern>
-      <last-replace>SubmittedOn</last-replace>
-      <last-substitute>CreatedOn</last-substitute>
+      <last-pattern>submissionSlim</last-pattern>
+      <last-replace>submission</last-replace>
+      <last-substitute>submissionSlim</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTdGVwU2xpbVw+</entry>
         <entry encoding="base64">XDxTdWJtaXNzaW9uU291cmNlXD4=</entry>
         <entry encoding="base64">XDxHZXRSZXNwb25zZXNWMlw+</entry>
         <entry encoding="base64">XDxHZXRTdWJtaXR0ZXJcPg==</entry>
@@ -593,9 +567,9 @@
         <entry encoding="base64">XDxCdWRnZXRpbmdEYXRhTWlycm9yXD4=</entry>
         <entry encoding="base64">XDxEZWZpbmVTdHlsZXNcPg==</entry>
         <entry>.Any()</entry>
+        <entry>submissionSlim</entry>
       </history-search>
       <history-cmd>
-        <entry>44</entry>
         <entry>56</entry>
         <entry>26</entry>
         <entry>166</entry>
@@ -615,6 +589,7 @@
         <entry>+150</entry>
         <entry>50</entry>
         <entry>350</entry>
+        <entry>.,$s/submissionSlim/submission</entry>
       </history-cmd>
       <history-expr />
       <history-input />
