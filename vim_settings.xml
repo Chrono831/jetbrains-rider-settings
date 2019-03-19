@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" timestamp="1553009651327">
+        <mark key="'" line="219" column="10" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/BudgetType.cs" timestamp="1552914081420">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -220,11 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="24" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
-      <jump line="63" column="39" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
-      <jump line="384" column="21" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
-      <jump line="24" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
-      <jump line="52" column="21" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
       <jump line="389" column="21" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
       <jump line="26" column="32" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
       <jump line="388" column="21" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
@@ -320,6 +318,11 @@
       <jump line="20" column="64" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Collection/FinanceProjectDao.cs" />
       <jump line="27" column="13" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/collection/collection.js" />
       <jump line="12" column="135" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/collection/collection.js" />
+      <jump line="499" column="15" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
+      <jump line="314" column="6" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
+      <jump line="301" column="63" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
+      <jump line="300" column="68" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
+      <jump line="219" column="10" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -416,7 +419,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>routeParams</text>
+        <text encoding="base64">XDxzdWJtaXNzaW9uU2VydmljZVw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Zm9yY2VSZWxvYWQg</text>
@@ -449,22 +452,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>522</text>
       </register>
     </registers>
     <search>
-      <last-search>routeParams</last-search>
+      <last-search encoding="base64">XDxzdWJtaXNzaW9uU2VydmljZVw+</last-search>
       <last-offset />
-      <last-pattern>routeParams</last-pattern>
+      <last-pattern encoding="base64">XDxzdWJtaXNzaW9uU2VydmljZVw+</last-pattern>
       <last-replace>submission</last-replace>
       <last-substitute>submissionSlim</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBZGRCdWRnZXRTZWN0aW9uc1RvRG9jdW1lbnRTZWN0aW9uXD4=</entry>
-        <entry encoding="base64">XDxBZGRTZWN0aW9uVG9Eb2N1bWVudFNlY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxBZGRCdWRnZXRUb0RvY3VtZW50U2VjdGlvblw+</entry>
         <entry encoding="base64">XDxfcmV2aWV3ZXJTdGVwc1w+</entry>
         <entry encoding="base64">XDxEZWZpbmVTdHlsZXNcPg==</entry>
@@ -483,11 +484,10 @@
         <entry encoding="base64">XDxfZmxvd1w+</entry>
         <entry encoding="base64">XDx1c2VyQ29udGV4dFw+</entry>
         <entry>routeParams</entry>
+        <entry encoding="base64">XDxwcm9jZXNzU3VibWlzc2lvblw+</entry>
+        <entry encoding="base64">XDxzdWJtaXNzaW9uU2VydmljZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>26</entry>
-        <entry>166</entry>
-        <entry encoding="base64">JzwsJz4yNjA=</entry>
         <entry>260</entry>
         <entry>223</entry>
         <entry>4</entry>
@@ -505,6 +505,9 @@
         <entry>60</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>55</entry>
+        <entry>555</entry>
+        <entry>522</entry>
       </history-cmd>
       <history-expr />
       <history-input />
