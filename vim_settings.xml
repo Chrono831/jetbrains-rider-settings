@@ -70,7 +70,12 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Collection/CollectionUserContext.cs" timestamp="1553000826916" />
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/process.js" timestamp="1553106188336" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/settings.process/process.js" timestamp="1553109848103">
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
+        <mark key="^" line="181" column="143" />
+        <mark key="." line="184" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/collection/templates/collection.html" timestamp="1552931266835">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="3" column="4" />
@@ -177,13 +182,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1553088014303">
-        <mark key="'" line="2501" column="18" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="^" line="135" column="0" />
-        <mark key="." line="135" column="0" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/Adjustment.cs" timestamp="1553025266231">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -288,6 +286,12 @@
         <mark key="]" line="39" column="5" />
         <mark key="^" line="39" column="5" />
         <mark key="." line="39" column="5" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/templates/datewidget.html" timestamp="1553109206471">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="27" column="49" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Settings/Project.cs" timestamp="1552502397708">
         <mark key="[" line="4" column="11" />
@@ -442,6 +446,9 @@
         <mark key="]" line="11" column="25" />
         <mark key="." line="11" column="25" />
         <mark key="^" line="11" column="25" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1553109856505">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Submissions/Status.cs" timestamp="1552502502231">
         <mark key="[" line="15" column="0" />
@@ -685,8 +692,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>StatusType</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -703,43 +710,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>StatusType</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>StatusType</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDogc3RhdHVzLlN0YXR1c1R5cGUuVG9TdHJpbmcoKTsK</text>
+      <register name="0" type="4">
+        <text>formatDateString</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIFN0YXR1c1R5cGVUZXh0IHsgZ2V0OyBzZXQ7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RhdHVzVHlwZSA9IHN0YXR1c1RleHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gZm9ybWF0RGF0ZVN0cmluZyhjdXJyZW50RGF0ZSkgewogICAgICAgICAgICAgIHZhciBvZmZzZXQgPSBjdXJyZW50RGF0ZS5nZXRUaW1lem9uZU9mZnNldCgpOwogICAgICAgICAgICAgIGN1cnJlbnREYXRlLnNldE1pbnV0ZXMoY3VycmVudERhdGUuZ2V0TWludXRlcygpICsgb2Zmc2V0KTsKICAgICAgICAgICAgICByZXR1cm4gY3VycmVudERhdGUudG9Mb2NhbGVTdHJpbmcoKQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA8cD5PcGVuRGF0ZSA6ICB7e1Byb2Nlc3MuQWN0aXZlUmFuZ2UuT3BlbkRhdGV9fTwvcD4KICAgICAgICA8cD5DbG9zZURhdGUgOiB7e1Byb2Nlc3MuQWN0aXZlUmFuZ2UuQ2xvc2VEYXRlfX08L3A+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXVkaWVuY2UgPSBjb21tZW50LkF1ZGllbmNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIFN0YXR1c1R5cGVUZXh0IHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RhdHVzVHlwZSA9IHN0YXR1c1RleHQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0YXR1c1RleHQgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RhdHVzVHlwZSA9IHN0YXR1cy5TdGF0dXNUeXBlLlRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQW1vdW50ID0gc3RhdHVzLkFtb3VudDsKICAgICAgICAgICAgU3RlcCA9IChzdGF0dXMuU3RlcCAhPSBudWxsKSA/IG5ldyBTdGVwU2xpbShzdGF0dXMuU3RlcCkgOiBudWxsOwogICAgICAgICAgICBFdmVudFR5cGUgPSBCdWRnZXRFdmVudFR5cGUuU3RhdHVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXVkaWVuY2UgPSBjb21tZW50LkF1ZGllbmNlOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -786,7 +793,6 @@
         <entry>.,$s/submissionSlim/submission</entry>
         <entry>wq</entry>
         <entry>60</entry>
-        <entry>w</entry>
         <entry>55</entry>
         <entry>555</entry>
         <entry>522</entry>
@@ -795,6 +801,7 @@
         <entry>$</entry>
         <entry>149</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
