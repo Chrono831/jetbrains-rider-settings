@@ -165,6 +165,12 @@
         <mark key="." line="154" column="66" />
         <mark key="^" line="154" column="66" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Collection.CreateSchema.sql" timestamp="1553169224159">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/AccountSlim.cs" timestamp="1552591446216">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="21" column="13" />
@@ -692,8 +698,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>Process</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -710,7 +716,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Process</text>
       </register>
       <register name="/" type="4">
         <text>StatusType</text>
