@@ -93,6 +93,12 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Collection/CollectionUserContext.cs" timestamp="1553000826916" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/Page.sql" timestamp="1553175979434">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="79" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/DisplayedPage.sql" timestamp="1553175360914">
         <mark key="[" line="9" column="1" />
         <mark key="]" line="15" column="54" />
@@ -738,7 +744,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqKioqKiBPYmplY3Q6ICBUYWJsZSBbZGJvXS5bUGFnZV0gICAgU2NyaXB0IERhdGU6IDMvMjEvMTkgOTo0NTo1NCBBTSAqKioqKiovCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -764,7 +770,7 @@
         <text encoding="base64">ICAsRGVsZXRlZAogICxRdWVzdGlvbklkCiAgLERpc3BsYXllZFBhZ2VJZAogICxDcmVhdGVkT24KICAsUmVwZWF0Q29uZGl0aW9uSWQKICAsUmVwZWF0Q29uZGl0aW9uVHlwZQogICxNb2RpZmllZE9uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqKioqKiBPYmplY3Q6ICBUYWJsZSBbZGJvXS5bUGFnZV0gICAgU2NyaXB0IERhdGU6IDMvMjEvMTkgOTo0NTo1NCBBTSAqKioqKiovCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -844,9 +850,9 @@
         <entry>q</entry>
         <entry>%s/xxx/condition/g</entry>
         <entry>%s/xxx/DisplayedPage/g</entry>
-        <entry>0</entry>
         <entry>%s/dbo/Collection/g</entry>
         <entry>%s/xxx/DisplayedQuestion/g</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
