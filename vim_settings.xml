@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/Question.sql" timestamp="1553257159085">
-        <mark key="'" line="9" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/Question.sql" timestamp="1553260969672">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="67" column="54" />
-        <mark key="^" line="99" column="45" />
+        <mark key="]" line="101" column="0" />
+        <mark key="^" line="94" column="70" />
+        <mark key="." line="99" column="22" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/DisplayedPageMapping.cs" timestamp="1553175489603">
         <mark key="[" line="10" column="0" />
@@ -22,69 +21,45 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="24" column="73" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Collection.CreateAll.sql" timestamp="1553261611844">
+        <mark key="[" line="1339" column="2" />
+        <mark key="]" line="1340" column="0" />
+        <mark key="^" line="1340" column="0" />
+        <mark key="." line="1340" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Collection/Domain/DataAccess/Mappings/NHibernate/Respondents/ResponseMapping.cs" timestamp="1553172868636">
         <mark key="[" line="11" column="29" />
         <mark key="]" line="11" column="29" />
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/CommentReplySlim.cs" timestamp="1552592735836">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="28" column="12" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Response.Backfill.sql" timestamp="1553172133884">
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="14" column="9" />
-        <mark key="." line="14" column="9" />
-        <mark key="^" line="26" column="18" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/SectionTypeSlim.cs" timestamp="1552593441341">
-        <mark key="[" line="33" column="26" />
-        <mark key="]" line="34" column="12" />
-        <mark key="." line="34" column="12" />
-        <mark key="^" line="34" column="12" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Response.Backfill.sql" timestamp="1553261270562">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="31" column="2" />
+        <mark key="." line="30" column="43" />
+        <mark key="^" line="25" column="38" />
       </file>
       <file name="/Dummy.cs" timestamp="1553092539738">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Storage/FileStorage.cs" timestamp="1552396656836">
-        <mark key="[" line="86" column="12" />
-        <mark key="]" line="86" column="18" />
-        <mark key="^" line="86" column="18" />
-        <mark key="." line="86" column="18" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/Answer.sql" timestamp="1553260871792">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="75" column="4" />
+        <mark key="^" line="63" column="96" />
+        <mark key="." line="63" column="96" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Submission.cs" timestamp="1552395424970">
-        <mark key="[" line="254" column="0" />
-        <mark key="]" line="254" column="0" />
-        <mark key="^" line="31" column="69" />
-        <mark key="." line="254" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Collection/Domain/DataAccess/Mappings/NHibernate/Projects/ProjectMapping.cs" timestamp="1553256490863">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="13" column="11" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/Page.sql" timestamp="1553255745736">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/Page.sql" timestamp="1553260929945">
         <mark key="'" line="76" column="4" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="78" column="4" />
+        <mark key="^" line="72" column="51" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/DisplayedPage.sql" timestamp="1553175360914">
-        <mark key="[" line="9" column="1" />
-        <mark key="]" line="15" column="54" />
-        <mark key="^" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/collection/templates/collection.html" timestamp="1552931266835">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="3" column="4" />
-        <mark key="^" line="3" column="4" />
-        <mark key="." line="3" column="4" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/DisplayedPage.sql" timestamp="1553260902993">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="42" column="4" />
+        <mark key="^" line="36" column="60" />
+        <mark key="." line="41" column="22" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Collection/Domain/DataAccess/Mappings/NHibernate/Respondents/DisplayedQuestionMapping.cs" timestamp="1553175817909">
         <mark key="[" line="11" column="38" />
@@ -92,92 +67,63 @@
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="38" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/ProjectConfiguration.sql" timestamp="1553256661358">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/ProjectConfiguration.sql" timestamp="1553260956926">
         <mark key="'" line="60" column="2" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="19" column="59" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="62" column="0" />
         <mark key="^" line="28" column="54" />
-        <mark key="." line="60" column="54" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/DisplayedPage.Backfill.sql" timestamp="1553175372834">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="28" column="2" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="6" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/DisplayedPage.Backfill.sql" timestamp="1553261175376">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="6" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/RegularExpression.Backfill.sql" timestamp="1553257954917">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/RegularExpression.Backfill.sql" timestamp="1553261247960">
         <mark key="'" line="14" column="7" />
-        <mark key="[" line="14" column="7" />
-        <mark key="]" line="14" column="7" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="27" column="2" />
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/SkipLogicCondition.sql" timestamp="1553258838712">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/SkipLogicCondition.sql" timestamp="1553261037007">
         <mark key="'" line="6" column="14" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="13" column="57" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="50" column="4" />
         <mark key="^" line="25" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/dbo/StoredProcedures/BudgetingDataMirror.sql" timestamp="1552653365033">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="2" />
-        <mark key="." line="39" column="2" />
-        <mark key="^" line="32" column="5" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/StepSlim.cs" timestamp="1552660731158">
-        <mark key="[" line="12" column="42" />
-        <mark key="]" line="12" column="42" />
-        <mark key="." line="12" column="42" />
-        <mark key="^" line="12" column="45" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Answer.Backfill.sql" timestamp="1553172119289">
-        <mark key="[" line="33" column="7" />
-        <mark key="]" line="33" column="7" />
-        <mark key="." line="33" column="7" />
-        <mark key="^" line="33" column="7" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Answer.Backfill.sql" timestamp="1553261148614">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="69" column="2" />
+        <mark key="." line="65" column="8" />
+        <mark key="^" line="62" column="17" />
       </file>
       <file name="/Clipboard.txt" timestamp="1553090127540">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/statusTypes.js" timestamp="1553098390005">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="35" />
-        <mark key="^" line="7" column="35" />
-        <mark key="." line="7" column="35" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Page.Backfill.sql" timestamp="1553255655967">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Page.Backfill.sql" timestamp="1553261194713">
         <mark key="'" line="34" column="11" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="41" column="2" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="6" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/ProjectConfiguration.Backfill.sql" timestamp="1553256733454">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/ProjectConfiguration.Backfill.sql" timestamp="1553261212148">
         <mark key="'" line="28" column="6" />
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="14" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="37" column="2" />
         <mark key="." line="14" column="14" />
         <mark key="^" line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Collection/Domain/DataAccess/Mappings/NHibernate/Projects/SkipLogic/SkipLogicRuleMapping.cs" timestamp="1553259146350">
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="10" column="32" />
-        <mark key="." line="10" column="19" />
-        <mark key="^" line="10" column="18" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/Respondent.sql" timestamp="1553258406280">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/Respondent.sql" timestamp="1553261007531">
         <mark key="'" line="50" column="13" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="15" column="43" />
-        <mark key="^" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Collection/Domain/DataAccess/Mappings/NHibernate/Respondents/RespondentMapping.cs" timestamp="1553258520669">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="19" column="123" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="52" column="4" />
+        <mark key="^" line="45" column="69" />
+        <mark key="." line="51" column="22" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Collection/Domain/DataAccess/Daos/ProjectDao.cs" timestamp="1553000755910">
         <mark key="[" line="46" column="33" />
@@ -188,17 +134,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/com-42084-pre-approval.json" timestamp="1553086215812">
         <mark key="[" line="358" column="4" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/RegularExpression.sql" timestamp="1553257935778">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="14" column="61" />
-        <mark key="^" line="15" column="17" />
-        <mark key="." line="15" column="17" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" timestamp="1552503965473">
-        <mark key="[" line="165" column="86" />
-        <mark key="]" line="165" column="86" />
-        <mark key="^" line="165" column="84" />
-        <mark key="." line="165" column="86" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/RegularExpression.sql" timestamp="1553260994152">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="24" column="2" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1553192126329">
         <mark key="[" line="133" column="17" />
@@ -206,12 +146,12 @@
         <mark key="." line="134" column="42" />
         <mark key="^" line="134" column="42" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Question.Backfill.sql" timestamp="1553257178239">
-        <mark key="'" line="39" column="7" />
-        <mark key="[" line="33" column="7" />
-        <mark key="]" line="33" column="7" />
-        <mark key="." line="33" column="7" />
-        <mark key="^" line="33" column="7" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Question.Backfill.sql" timestamp="1553261230197">
+        <mark key="'" line="40" column="7" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="67" column="2" />
+        <mark key="." line="34" column="7" />
+        <mark key="^" line="34" column="7" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissionHistory.js" timestamp="1553098690411">
         <mark key="'" line="40" column="27" />
@@ -219,12 +159,6 @@
         <mark key="]" line="42" column="55" />
         <mark key="^" line="42" column="55" />
         <mark key="." line="42" column="55" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/ReplyMapping.cs" timestamp="1552912086266">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="11" column="23" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Collection/FinanceProjectDao.cs" timestamp="1553000854046">
         <mark key="'" line="20" column="64" />
@@ -239,17 +173,6 @@
         <mark key="." line="154" column="66" />
         <mark key="^" line="154" column="66" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Collection.CreateSchema.sql" timestamp="1553170450749">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/AccountSlim.cs" timestamp="1552591446216">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="21" column="13" />
-        <mark key="." line="17" column="25" />
-        <mark key="^" line="17" column="25" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/CommentSlim.cs" timestamp="1553096026335">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -262,41 +185,12 @@
         <mark key="." line="11" column="35" />
         <mark key="^" line="11" column="35" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/SkipLogicRule.Backfill.sql" timestamp="1553259103010">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/SkipLogicRule.Backfill.sql" timestamp="1553261290621">
         <mark key="'" line="14" column="8" />
-        <mark key="[" line="13" column="6" />
-        <mark key="]" line="13" column="8" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="2" />
         <mark key="." line="13" column="8" />
         <mark key="^" line="13" column="8" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/Adjustment.cs" timestamp="1553025266231">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/AccountMapping.cs" timestamp="1552915171274">
-        <mark key="[" line="14" column="28" />
-        <mark key="]" line="15" column="11" />
-        <mark key="^" line="15" column="11" />
-        <mark key="." line="15" column="11" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/SectionSlim.cs" timestamp="1552665696170">
-        <mark key="[" line="46" column="16" />
-        <mark key="]" line="46" column="16" />
-        <mark key="." line="46" column="16" />
-        <mark key="^" line="46" column="56" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/IBudgetEvent.cs" timestamp="1552574168787">
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="11" column="27" />
-        <mark key="^" line="11" column="27" />
-        <mark key="." line="11" column="27" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Collection/Domain/DataAccess/Mappings/NHibernate/Projects/DisplayLogic/DisplayConditionMapping.cs" timestamp="1553175114759">
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="10" column="32" />
-        <mark key="^" line="10" column="32" />
-        <mark key="." line="10" column="32" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Collection/Domain/DataAccess/Mappings/NHibernate/Projects/SkipLogic/SkipLogicConditionMapping.cs" timestamp="1553258926756">
         <mark key="[" line="11" column="19" />
@@ -311,18 +205,12 @@
         <mark key="^" line="250" column="70" />
         <mark key="." line="237" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Project.Backfill.sql" timestamp="1553256248889">
-        <mark key="'" line="19" column="6" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="6" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/templates/review.html" timestamp="1552480341213">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="3" column="30" />
-        <mark key="^" line="3" column="48" />
-        <mark key="." line="3" column="30" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Project.Backfill.sql" timestamp="1553261202290">
+        <mark key="'" line="20" column="6" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="33" column="2" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="6" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.services.js" timestamp="1553191972841">
         <mark key="[" line="27" column="0" />
@@ -330,23 +218,11 @@
         <mark key="^" line="28" column="14" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/BudgetSlim.cs" timestamp="1552665790769">
-        <mark key="[" line="49" column="13" />
-        <mark key="]" line="50" column="56" />
-        <mark key="." line="50" column="56" />
-        <mark key="^" line="50" column="56" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Collection/Domain/DataAccess/Mappings/NHibernate/Projects/QuestionGroups/QuestionGroupMapping.cs" timestamp="1553257595115">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
         <mark key="^" line="12" column="31" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/ResponseSlim.cs" timestamp="1552591980990">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="25" column="13" />
-        <mark key="." line="21" column="47" />
-        <mark key="^" line="21" column="47" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" timestamp="1553196221171">
         <mark key="'" line="219" column="10" />
@@ -355,11 +231,11 @@
         <mark key="^" line="314" column="67" />
         <mark key="." line="315" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/Condition.sql" timestamp="1553175153746">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="11" column="45" />
-        <mark key="." line="20" column="32" />
-        <mark key="^" line="20" column="32" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/Condition.sql" timestamp="1553260888777">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="2" />
+        <mark key="." line="12" column="28" />
+        <mark key="^" line="12" column="28" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" timestamp="1553093988638">
         <mark key="'" line="188" column="27" />
@@ -368,37 +244,25 @@
         <mark key="^" line="154" column="15" />
         <mark key="." line="149" column="16" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/LineItemSlim.cs" timestamp="1552593296718">
-        <mark key="[" line="28" column="24" />
-        <mark key="]" line="28" column="37" />
-        <mark key="^" line="28" column="37" />
-        <mark key="." line="28" column="37" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/RespondentMapping.cs" timestamp="1553258500006">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="13" column="12" />
         <mark key="." line="15" column="21" />
         <mark key="^" line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/DisplayedQuestion.sql" timestamp="1553175704016">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/DisplayedQuestion.sql" timestamp="1553260916604">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="15" column="54" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="45" column="45" />
+        <mark key="." line="50" column="22" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/QuestionGroup.Backfill.sql" timestamp="1553257514406">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/QuestionGroup.Backfill.sql" timestamp="1553261237590">
         <mark key="'" line="27" column="7" />
-        <mark key="[" line="21" column="7" />
-        <mark key="]" line="21" column="7" />
-        <mark key="." line="21" column="7" />
-        <mark key="^" line="21" column="7" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/dbo/StoredProcedures/SubmissionHardDelete.sql" timestamp="1552654375728">
-        <mark key="[" line="39" column="4" />
-        <mark key="]" line="39" column="5" />
-        <mark key="^" line="39" column="5" />
-        <mark key="." line="39" column="5" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="41" column="2" />
+        <mark key="." line="24" column="17" />
+        <mark key="^" line="24" column="17" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/templates/datewidget.html" timestamp="1553109206471">
         <mark key="[" line="25" column="0" />
@@ -406,23 +270,12 @@
         <mark key="^" line="27" column="49" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Settings/Project.cs" timestamp="1552502397708">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="17" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/DisplayedQuestion.Backfill.sql" timestamp="1553175756552">
-        <mark key="'" line="15" column="7" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="14" column="7" />
-        <mark key="." line="14" column="7" />
-        <mark key="^" line="14" column="7" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/StatusSlim.cs" timestamp="1553098849418">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/DisplayedQuestion.Backfill.sql" timestamp="1553261184488">
+        <mark key="'" line="16" column="7" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="29" column="2" />
+        <mark key="." line="15" column="7" />
+        <mark key="^" line="15" column="7" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/Status.cs" timestamp="1552997420974">
         <mark key="'" line="14" column="0" />
@@ -431,23 +284,11 @@
         <mark key="." line="97" column="36" />
         <mark key="^" line="97" column="35" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/FileController.cs" timestamp="1552475529704">
-        <mark key="[" line="53" column="43" />
-        <mark key="]" line="53" column="43" />
-        <mark key="^" line="53" column="42" />
-        <mark key="." line="53" column="43" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1553082991453">
         <mark key="[" line="556" column="15" />
         <mark key="]" line="556" column="51" />
         <mark key="." line="781" column="0" />
         <mark key="^" line="781" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/SubmitterAndReviewerAccessAllowedAttribute.cs" timestamp="1552579716806">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="60" />
-        <mark key="." line="9" column="37" />
-        <mark key="^" line="9" column="37" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Collection/Domain/DataAccess/Mappings/NHibernate/Projects/Answers/AnswerMapping.cs" timestamp="1553172934967">
         <mark key="[" line="11" column="28" />
@@ -455,18 +296,12 @@
         <mark key="." line="12" column="11" />
         <mark key="^" line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/Project.sql" timestamp="1553256209813">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/Project.sql" timestamp="1553260946517">
         <mark key="'" line="59" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="17" column="53" />
-        <mark key="^" line="53" column="0" />
-        <mark key="." line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/ProcessSlim.cs" timestamp="1552591834844">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="26" column="13" />
-        <mark key="^" line="27" column="11" />
-        <mark key="." line="27" column="11" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="54" column="54" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Collection/Domain/DataAccess/Mappings/NHibernate/Projects/Pages/PageMapping.cs" timestamp="1553255909995">
         <mark key="[" line="15" column="26" />
@@ -474,10 +309,10 @@
         <mark key="." line="16" column="11" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Respondent.Backfill.sql" timestamp="1553258422178">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Respondent.Backfill.sql" timestamp="1553261261225">
         <mark key="'" line="18" column="7" />
-        <mark key="[" line="15" column="7" />
-        <mark key="]" line="15" column="7" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="29" column="2" />
         <mark key="." line="15" column="7" />
         <mark key="^" line="15" column="7" />
       </file>
@@ -486,18 +321,6 @@
         <mark key="]" line="11" column="28" />
         <mark key="." line="10" column="29" />
         <mark key="^" line="10" column="29" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/DisplayedPageSlim.cs" timestamp="1552593278063">
-        <mark key="[" line="16" column="29" />
-        <mark key="]" line="16" column="34" />
-        <mark key="^" line="16" column="34" />
-        <mark key="." line="16" column="34" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/RespondentSlim.cs" timestamp="1552593566211">
-        <mark key="[" line="28" column="41" />
-        <mark key="]" line="28" column="45" />
-        <mark key="^" line="28" column="45" />
-        <mark key="." line="28" column="45" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Collection/Domain/DataAccess/Mappings/NHibernate/Respondents/DisplayedPageMapping.cs" timestamp="1553175505008">
         <mark key="[" line="24" column="0" />
@@ -511,60 +334,11 @@
         <mark key="." line="62" column="80" />
         <mark key="^" line="62" column="80" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/SubmissionGeneratedPdf.cs" timestamp="1552404759762">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="67" column="28" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="64" column="55" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/QuestionGroup.sql" timestamp="1553257511164">
-        <mark key="'" line="6" column="14" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="21" column="53" />
-        <mark key="^" line="53" column="0" />
-        <mark key="." line="70" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/process.js" timestamp="1552479429701">
-        <mark key="[" line="93" column="74" />
-        <mark key="]" line="94" column="10" />
-        <mark key="." line="94" column="10" />
-        <mark key="^" line="94" column="10" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/SubmissionAccessAllowedAttribute.cs" timestamp="1552423537722">
-        <mark key="[" line="45" column="16" />
-        <mark key="]" line="45" column="17" />
-        <mark key="." line="45" column="17" />
-        <mark key="^" line="45" column="17" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/AdjustmentSlim.cs" timestamp="1552591496447">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="18" column="13" />
-        <mark key="^" line="16" column="34" />
-        <mark key="." line="16" column="34" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" timestamp="1553084944973">
-        <mark key="[" line="19" column="38" />
-        <mark key="]" line="505" column="0" />
-        <mark key="^" line="505" column="0" />
-        <mark key="." line="505" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/Comment.cs" timestamp="1552332797892">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-        <mark key="^" line="100" column="66" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/Response.sql" timestamp="1553172006894">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="16" column="50" />
-        <mark key="." line="29" column="21" />
-        <mark key="^" line="29" column="21" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/LineItemTypeSlim.cs" timestamp="1552593318676">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="22" column="13" />
-        <mark key="^" line="23" column="11" />
-        <mark key="." line="23" column="11" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/Response.sql" timestamp="1553261018373">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="52" column="22" />
+        <mark key="^" line="46" column="67" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/PageMapping.cs" timestamp="1553255906941">
         <mark key="[" line="9" column="0" />
@@ -572,23 +346,12 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/Flow.cs" timestamp="1552998739078">
-        <mark key="[" line="53" column="27" />
-        <mark key="]" line="53" column="27" />
-        <mark key="." line="53" column="27" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/SkipLogicCondition.Backfill.sql" timestamp="1553258850244">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/SkipLogicCondition.Backfill.sql" timestamp="1553261280356">
         <mark key="'" line="17" column="7" />
-        <mark key="[" line="13" column="7" />
-        <mark key="]" line="13" column="7" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="25" column="2" />
         <mark key="." line="13" column="7" />
         <mark key="^" line="13" column="7" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/OrganizationSlim.cs" timestamp="1552591660247">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="19" column="13" />
-        <mark key="." line="20" column="11" />
-        <mark key="^" line="20" column="11" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Collection/NavigationApiController.cs" timestamp="1553003222204">
         <mark key="[" line="31" column="75" />
@@ -596,26 +359,14 @@
         <mark key="^" line="31" column="120" />
         <mark key="." line="31" column="75" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Validation/Attributes/UserCanReplyToCommentAttribute.cs" timestamp="1552334435724">
-        <mark key="[" line="33" column="52" />
-        <mark key="]" line="33" column="52" />
-        <mark key="^" line="33" column="52" />
-        <mark key="." line="33" column="52" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Condition.Backfill.sql" timestamp="1553175164112">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Condition.Backfill.sql" timestamp="1553261163287">
         <mark key="'" line="1" column="25" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="12" column="10" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="2" />
+        <mark key="^" line="13" column="10" />
+        <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/ProcessMapping.cs" timestamp="1552912057845">
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="11" column="25" />
-        <mark key="." line="11" column="25" />
-        <mark key="^" line="11" column="25" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1553259155662">
+      <file name="/Dummy.txt" timestamp="1553261301681">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/ResponseMapping.cs" timestamp="1553172206710">
@@ -624,17 +375,11 @@
         <mark key="." line="10" column="26" />
         <mark key="^" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/SkipLogicRule.sql" timestamp="1553259096875">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="52" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/SkipLogicRule.sql" timestamp="1553261048357">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="30" column="4" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/SubmissionModel.cs" timestamp="1552573155772">
-        <mark key="[" line="19" column="52" />
-        <mark key="]" line="19" column="52" />
-        <mark key="^" line="17" column="74" />
-        <mark key="." line="19" column="52" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/ProjectMapping.cs" timestamp="1553256484201">
         <mark key="[" line="10" column="0" />
@@ -647,12 +392,6 @@
         <mark key="]" line="11" column="30" />
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/dbo/StoredProcedures/SubmissionSetDefaultSubmittedOn.sql" timestamp="1552653225915">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="15" />
-        <mark key="." line="4" column="15" />
-        <mark key="^" line="2" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -767,8 +506,8 @@
           <key char="101" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>SkipLogicRule</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Z28Kc2V0IGlkZW50aXR5X2luc2VydCBDb2xsZWN0aW9uLlNraXBMb2dpY1J1bGUgT24KZ28KCmluc2VydCBpbnRvIGNvbGxlY3Rpb24uU2tpcExvZ2ljUnVsZQooIElkCiwgRGVsZXRlZAosIFNraXBMb2dpY1J1bGVUeXBlCiwgTmV4dFBhZ2VJZAopCnNlbGVjdCBhYS5JZAogICAgICwgYWEuRGVsZXRlZAogICAgICwgYWEuU2tpcExvZ2ljUnVsZVR5cGUKICAgICAsIGFhLk5leHRQYWdlSWQKZnJvbSBkYm8uU2tpcExvZ2ljUnVsZSBhYQogICAgICAgbGVmdCBqb2luIGNvbGxlY3Rpb24uU2tpcExvZ2ljUnVsZSBiYgogICAgICAgICAgICAgICAgIG9uIGJiLmlkID0gYWEuaWQKd2hlcmUgYmIuaWQgaXMgbnVsbAoKZ28Kc2V0IGlkZW50aXR5X2luc2VydCBDb2xsZWN0aW9uLlNraXBMb2dpY1J1bGUgT2ZmCmdvCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -785,43 +524,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>xxx</text>
       </register>
-      <register name="0" type="4">
-        <text>SkipLogicRule</text>
+      <register name="0" type="2">
+        <text encoding="base64">Z28Kc2V0IGlkZW50aXR5X2luc2VydCBDb2xsZWN0aW9uLlNraXBMb2dpY1J1bGUgT24KZ28KCmluc2VydCBpbnRvIGNvbGxlY3Rpb24uU2tpcExvZ2ljUnVsZQooIElkCiwgRGVsZXRlZAosIFNraXBMb2dpY1J1bGVUeXBlCiwgTmV4dFBhZ2VJZAopCnNlbGVjdCBhYS5JZAogICAgICwgYWEuRGVsZXRlZAogICAgICwgYWEuU2tpcExvZ2ljUnVsZVR5cGUKICAgICAsIGFhLk5leHRQYWdlSWQKZnJvbSBkYm8uU2tpcExvZ2ljUnVsZSBhYQogICAgICAgbGVmdCBqb2luIGNvbGxlY3Rpb24uU2tpcExvZ2ljUnVsZSBiYgogICAgICAgICAgICAgICAgIG9uIGJiLmlkID0gYWEuaWQKd2hlcmUgYmIuaWQgaXMgbnVsbAoKZ28Kc2V0IGlkZW50aXR5X2luc2VydCBDb2xsZWN0aW9uLlNraXBMb2dpY1J1bGUgT2ZmCmdvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBbU2tpcExvZ2ljUnVsZVR5cGVdIFtudmFyY2hhcl0oMjUpICAgICAgIE5PVCBOVUxMLAo=</text>
+        <text encoding="base64">OiQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBbU2tpcExvZ2ljUnVsZVR5cGVdIFtudmFyY2hhcl0oMjUpICAgICAgIE5PVCBOVUxMLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LAo=</text>
+        <text encoding="base64">ICBbRnJlZVRleHRWYWx1ZV0gICAgICAgW252YXJjaGFyXShtYXgpICAgICAgTlVMTCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqKioqKiBPYmplY3Q6ICBUYWJsZSBbZGJvXS5bU2tpcExvZ2ljUnVsZV0gICAgU2NyaXB0IERhdGU6IDMvMjIvMTkgODo0OTozNyBBTSAqKioqKiovCg==</text>
+        <text encoding="base64">ICBbVXNlcklkXSAgICAgICBbdW5pcXVlaWRlbnRpZmllcl0gICBOT1QgTlVMTCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBbUHJvamVjdElkXSAgICBbaW50XSAgICAgICAgICAgICAgICBOT1QgTlVMTCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBbQ29tcGxldGVkT25dICBbZGF0ZXRpbWVdICAgICAgICAgICBOVUxMLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBbUmVndWxhckV4cHJlc3Npb25UZXh0XSAgICAgIFtudmFyY2hhcl0oMjAwMCkgICAgIE5PVCBOVUxMLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAsIGFhLgo=</text>
+        <text encoding="base64">ICBbSXNOdW1lcmljUmVndWxhckV4cHJlc3Npb25dIFtiaXRdICAgICAgICAgICAgICAgIE5VTEwsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/xxx/SkipLogicRule/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -857,10 +596,6 @@
         <entry>xxx</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/xxx/Page/g</entry>
-        <entry>.s/dbo/Collection</entry>
-        <entry>%s/xxx/Project/g</entry>
-        <entry>%s/_Proj/_Collection_Proj</entry>
         <entry>%s/_Proj/__Collection_Proj</entry>
         <entry>%s/xxx/ProjectConfiguration/g</entry>
         <entry encoding="base64">JzwsJz4w</entry>
@@ -872,11 +607,15 @@
         <entry>%s/xxx/RegularExpression/g</entry>
         <entry>%s/_Respo/__Collection_Respo</entry>
         <entry>%s/xxx/Respondent/g</entry>
-        <entry>q</entry>
         <entry>%s/dbo/Collection</entry>
         <entry>%s/xxx/SkipLogicCondition/g</entry>
         <entry>0</entry>
         <entry>%s/xxx/SkipLogicRule/g</entry>
+        <entry>5y</entry>
+        <entry>q</entry>
+        <entry>%y</entry>
+        <entry>$</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
