@@ -327,7 +327,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Views/Shared/CampuslabsCore4Main.cshtml" timestamp="1553192700602" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Views/Shared/CampuslabsCore4Main.cshtml" timestamp="1553253702362">
+        <mark key="'" line="173" column="32" />
+        <mark key="[" line="185" column="36" />
+        <mark key="]" line="185" column="36" />
+        <mark key="^" line="185" column="36" />
+        <mark key="." line="185" column="36" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" timestamp="1553196221171">
         <mark key="'" line="219" column="10" />
         <mark key="[" line="315" column="0" />
@@ -646,8 +652,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="10" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
-      <jump line="135" column="45" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
       <jump line="93" column="78" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
       <jump line="510" column="18" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" />
       <jump line="175" column="31" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
@@ -746,6 +750,8 @@
       <jump line="5" column="28" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Views/Shared/CampuslabsCore4Main.cshtml" />
       <jump line="4" column="23" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Views/Shared/CampuslabsCore4Main.cshtml" />
       <jump line="241" column="109" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Views/Shared/CampuslabsCore4Main.cshtml" />
+      <jump line="167" column="32" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Views/Shared/CampuslabsCore4Main.cshtml" />
+      <jump line="173" column="32" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Views/Shared/CampuslabsCore4Main.cshtml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -778,7 +784,7 @@
         <text>))));</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxXD4=</text>
+        <text encoding="base64">XDxuZWVkVG9QdXNoXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBASHRtbC5QYXJ0aWFsKCJDYW1wdXNsYWJzQ29yZTRNYWluIikK</text>
@@ -815,9 +821,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxxXD4=</last-search>
+      <last-search encoding="base64">XDxuZWVkVG9QdXNoXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxuZWVkVG9QdXNoXD4=</last-pattern>
       <last-replace>DisplayedQuestion</last-replace>
       <last-substitute>xxx</last-substitute>
       <last-dir>-1</last-dir>
@@ -825,7 +831,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQcm9jZXNzXD4=</entry>
         <entry encoding="base64">XDxJZFw+</entry>
         <entry encoding="base64">XDxCdWRnZXRzXD4=</entry>
         <entry encoding="base64">XDxBZGp1c3RtZW50QW1vdW50XD4=</entry>
@@ -845,6 +850,7 @@
         <entry>Core</entry>
         <entry encoding="base64">XDx1XD4=</entry>
         <entry encoding="base64">XDxxXD4=</entry>
+        <entry encoding="base64">XDxuZWVkVG9QdXNoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>350</entry>
