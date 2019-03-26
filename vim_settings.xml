@@ -508,10 +508,12 @@
         <mark key="." line="12" column="25" />
         <mark key="^" line="12" column="25" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" timestamp="1553542857609">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" timestamp="1553544644843">
+        <mark key="'" line="107" column="45" />
+        <mark key="[" line="171" column="62" />
+        <mark key="]" line="171" column="62" />
+        <mark key="^" line="171" column="64" />
+        <mark key="." line="171" column="62" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Collection/Domain/Model/Respondents/Respondent.cs" timestamp="1553270433696">
         <mark key="[" line="240" column="0" />
@@ -926,10 +928,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="13" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/QuestionGroup.sql" />
-      <jump line="38" column="72" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/QuestionGroup.sql" />
-      <jump line="37" column="13" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/QuestionGroup.sql" />
-      <jump line="33" column="13" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/QuestionGroup.sql" />
       <jump line="29" column="13" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/QuestionGroup.sql" />
       <jump line="6" column="14" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/QuestionGroup.sql" />
       <jump line="27" column="7" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/QuestionGroup.Backfill.sql" />
@@ -1010,7 +1008,6 @@
       <jump line="239" column="55" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
       <jump line="166" column="27" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
       <jump line="181" column="33" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
-      <jump line="177" column="23" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
       <jump line="175" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
       <jump line="200" column="23" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
       <jump line="11" column="19" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/SubmissionGeneratedPdf.cs" />
@@ -1026,6 +1023,11 @@
       <jump line="33" column="42" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
       <jump line="128" column="30" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
       <jump line="116" column="84" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
+      <jump line="177" column="26" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
+      <jump line="171" column="46" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
+      <jump line="167" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
+      <jump line="156" column="23" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
+      <jump line="107" column="45" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1037,8 +1039,8 @@
           <key char="101" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1055,49 +1057,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RvcmVkRmlsZU5hbWUg</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfYWNjb3VudFByb3ZpZGVyXD4=</text>
+        <text encoding="base64">XDxHZXRHZW5lcmF0ZWRQZGZcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBbU3lzdGVtLldlYi5IdHRwLkh0dHBQb3N0XQogICAgICAgIFtTeXN0ZW0uV2ViLkh0dHAuUm91dGUoImRvd25sb2FkL3ppcC9zdWJtaXNzaW9ucy8iKV0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxIdHRwUmVzcG9uc2VNZXNzYWdlPiBEb3dubG9hZEZpbGVaaXAoW0Zyb21Cb2R5XSBMaXN0PHN0cmluZz4gc3VibWlzc2lvbklkcykKICAgICAgICB7CiAgICAgICAgICAgIHZhciB6aXBGaWxlID0gYXdhaXQgR2VuZXJhdGVQZGZaaXAoc3VibWlzc2lvbklkcyk7CiAgICAgICAgICAgIHJldHVybiBhd2FpdCBEb3dubG9hZEZpbGVJbnRlcm5hbCh6aXBGaWxlLCBEb3dubG9hZFppcEZpbGVOYW1lKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBuYW1lRm9ybWF0dGVkID0gc3VibWlzc2lvbi5OYW1lLlRyaW0oKQogICAgICAgICAgICAgICAgICAgIC5TdWJzdHJpbmcoMCwgKHN1Ym1pc3Npb24uTmFtZS5MZW5ndGggPiA2MCkgPyA2MCA6IHN1Ym1pc3Npb24uTmFtZS5MZW5ndGgpCiAgICAgICAgICAgICAgICAgICAgLlJlcGxhY2UoJyAnLCAnLScpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBbU3lzdGVtLldlYi5IdHRwLkh0dHBQb3N0XQogICAgICAgIFtTeXN0ZW0uV2ViLkh0dHAuUm91dGUoImRvd25sb2FkL3ppcC9zdWJtaXNzaW9ucy8iKV0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxIdHRwUmVzcG9uc2VNZXNzYWdlPiBEb3dubG9hZEZpbGVaaXAoW0Zyb21Cb2R5XSBMaXN0PHN0cmluZz4gc3VibWlzc2lvbklkcykKICAgICAgICB7CiAgICAgICAgICAgIHZhciB6aXBGaWxlID0gYXdhaXQgR2VuZXJhdGVQZGZaaXAoc3VibWlzc2lvbklkcyk7CiAgICAgICAgICAgIHJldHVybiBhd2FpdCBEb3dubG9hZEZpbGVJbnRlcm5hbCh6aXBGaWxlLCBEb3dubG9hZFppcEZpbGVOYW1lKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBuYW1lRm9ybWF0dGVkID0gc3VibWlzc2lvbi5OYW1lLlRyaW0oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pLmVycm9yKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgYWxlcnQoIkVycm9yIGRvd25sb2FkaW5nIHppcCBmaWxlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHJpbmcgbXlDcmF6eU5hbWUgPSAicWB3XmUhckB0I3kkdSVpXm8mcCphKHMpZF9mLWcraD1qe2t9bHx6OnhcImM8dj5iP25bbV1xXFx3O2Uncix0LnkvdSI7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBbU3lzdGVtLldlYi5IdHRwLkh0dHBQb3N0XQogICAgICAgIFtTeXN0ZW0uV2ViLkh0dHAuUm91dGUoImRvd25sb2FkL3ppcC9zdWJtaXNzaW9ucy8iKV0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxIdHRwUmVzcG9uc2VNZXNzYWdlPiBEb3dubG9hZEZpbGVaaXAoW0Zyb21Cb2R5XSBMaXN0PHN0cmluZz4gc3VibWlzc2lvbklkcykKICAgICAgICB7CiAgICAgICAgICAgIHZhciB6aXBGaWxlID0gYXdhaXQgR2VuZXJhdGVQZGZaaXAoc3VibWlzc2lvbklkcyk7CiAgICAgICAgICAgIHJldHVybiBhd2FpdCBEb3dubG9hZEZpbGVJbnRlcm5hbCh6aXBGaWxlLCBEb3dubG9hZFppcEZpbGVOYW1lKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIFN0b3JlZEZpbGVOYW1lIHsgZ2V0OyBwcml2YXRlIHNldDsgfSA9ICQie0d1aWQuTmV3R3VpZCgpfXtHdWlkLk5ld0d1aWQoKX17VmFsaWRGaWxlVHlwZUV4dGVuc2lvbn0iOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0pLmVycm9yKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgYWxlcnQoIkVycm9yIGRvd25sb2FkaW5nIHppcCBmaWxlIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJvcGVydHkoeCA9PiB4LlN0b3JlZEZpbGVOYW1lKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RvcmVkRmlsZU5hbWUgPSBzdWJtaXNzaW9uR2VuZXJhdGVkUGRmLlN0b3JlZEZpbGVOYW1lOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIFN0b3JlZEZpbGVOYW1lIHsgZ2V0OyBwcml2YXRlIHNldDsgfSA9ICQie0d1aWQuTmV3R3VpZCgpfXtHdWlkLk5ld0d1aWQoKX17VmFsaWRGaWxlVHlwZUV4dGVuc2lvbn0iOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfYWNjb3VudFByb3ZpZGVyXD4=</last-search>
+      <last-search encoding="base64">XDxHZXRHZW5lcmF0ZWRQZGZcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfYWNjb3VudFByb3ZpZGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxHZXRHZW5lcmF0ZWRQZGZcPg==</last-pattern>
       <last-replace>SkipLogicRule</last-replace>
       <last-substitute>xxx</last-substitute>
       <last-dir>-1</last-dir>
@@ -1105,12 +1107,10 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUT0RPXD4=</entry>
         <entry encoding="base64">XDxBcHBsaWNhdGlvbl9FcnJvclw+</entry>
         <entry encoding="base64">XDx2aWV3YWJsZVN1Ym1pc3Npb25JZHNcPg==</entry>
         <entry encoding="base64">XDxHZW5lcmF0ZVBkZlppcFw+</entry>
         <entry encoding="base64">XDxzdWJtaXNzaW9uSWRcPg==</entry>
-        <entry encoding="base64">XDxHZXRHZW5lcmF0ZWRQZGZcPg==</entry>
         <entry encoding="base64">XDxmaWxlbmFtZVw+</entry>
         <entry encoding="base64">XDxBcHBlbmRIZWFkZXJcPg==</entry>
         <entry encoding="base64">XDxhcHBsaWNhdGlvblw+</entry>
@@ -1120,11 +1120,13 @@
         <entry encoding="base64">XDxEb3dubG9hZEZpbGVJbnRlcm5hbFYyXD4=</entry>
         <entry encoding="base64">XDxEb3dubG9hZEZpbGVJbnRlcm5hbFw+</entry>
         <entry encoding="base64">XDxHZXROZXh0VmVyc2lvblw+</entry>
-        <entry encoding="base64">XDxHZW5lcmF0ZURpc3BsYXllZEZpbGVOYW1lXD4=</entry>
         <entry encoding="base64">XDxWZXJzaW9uXD4=</entry>
         <entry encoding="base64">XDxHZXRHZW5lcmF0ZWRQZGZTbGltXD4=</entry>
         <entry encoding="base64">XDxfZmlsZVN0b3JhZ2VcPg==</entry>
         <entry encoding="base64">XDxfYWNjb3VudFByb3ZpZGVyXD4=</entry>
+        <entry encoding="base64">XDxuYW1lRm9ybWF0dGVkXD4=</entry>
+        <entry encoding="base64">XDxHZW5lcmF0ZURpc3BsYXllZEZpbGVOYW1lXD4=</entry>
+        <entry encoding="base64">XDxHZXRHZW5lcmF0ZWRQZGZcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/xxx/Respondent/g</entry>
