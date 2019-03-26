@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/templates/reviews.html" timestamp="1553618574136">
+        <mark key="[" line="122" column="30" />
+        <mark key="]" line="122" column="30" />
+        <mark key="^" line="122" column="29" />
+        <mark key="." line="122" column="30" />
+      </file>
       <file name="/Dummy.cs" timestamp="1553611957746">
         <mark key="[" line="0" column="0" />
       </file>
@@ -46,18 +52,15 @@
         <mark key="." line="38" column="42" />
         <mark key="^" line="38" column="33" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/templates/gridCellHeaderTemplate.html" timestamp="1553609753372">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/com-42084-pre-approval.json" timestamp="1553086215812">
         <mark key="[" line="358" column="4" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" timestamp="1553614033924">
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="187" column="0" />
-        <mark key="." line="187" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" timestamp="1553618659881">
+        <mark key="'" line="445" column="14" />
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="0" />
+        <mark key="." line="205" column="0" />
+        <mark key="^" line="205" column="41" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.constants.tabnames.js" timestamp="1553614920679">
         <mark key="[" line="11" column="0" />
@@ -72,11 +75,18 @@
         <mark key="^" line="83" column="72" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1553617728427">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1553617819098">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="/fragment.js" timestamp="1553600475593">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/templates/allocateToFinance.html" timestamp="1553618541014">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="64" column="14" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/templates/gridStatusCell.html" timestamp="1553609836298">
         <mark key="[" line="0" column="0" />
@@ -121,9 +131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="68" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/Respondent.sql" />
-      <jump line="31" column="13" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/Respondent.sql" />
-      <jump line="28" column="68" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/Respondent.sql" />
       <jump line="27" column="13" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/Respondent.sql" />
       <jump line="23" column="13" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/Respondent.sql" />
       <jump line="6" column="14" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/Respondent.sql" />
@@ -221,6 +228,9 @@
       <jump line="269" column="56" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
       <jump line="264" column="86" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
       <jump line="228" column="19" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
+      <jump line="422" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
+      <jump line="462" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
+      <jump line="440" column="14" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -250,49 +260,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWxlRG93bmxvYWRSb290XD4=</text>
+        <text encoding="base64">XDxpc1N1Ym1pdHRpbmdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxhZGQga2V5PSJFbmdhZ2VMaW5rOkFwaVJvb3QiIHZhbHVlPSIvYnVkZ2V0aW5nYXBpIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICBzY29wZS5pc0Rvd25sb2FkaW5nWmlwID0gdHJ1ZTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy92YXIgcGFyYWdyYXBoID0gc2VjdGlvbi5BZGRQYXJhZ3JhcGgoJCJCdWRnZXQgUmVxdWVzdDoge3N1Ym1pc3Npb24uTmFtZX0iLCAiSGVhZGluZzEiKTsKCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyID0gcm93LkNlbGxzWzBdCiAgICAgICAgICAgICAgICAuQWRkUGFyYWdyYXBoKCkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy92YXIgcGFyYWdyYXBoID0gc2VjdGlvbi5BZGRQYXJhZ3JhcGgoJCJCdWRnZXQgUmVxdWVzdDoge3N1Ym1pc3Npb24uTmFtZX0iLCAiSGVhZGluZzEiKTsKCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyID0gcm93LkNlbGxzWzBdCiAgICAgICAgICAgICAgICAuQWRkUGFyYWdyYXBoKCkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhbmd1bGFyCiAgICAubW9kdWxlKCJyZXZpZXdzLmNvbnN0YW50cyIpCiAgICAuY29uc3RhbnQoImFjdGlvbnMiLCB7CiAgICAgIGFwcHJvdmU6ICJBcHByb3ZlZCIsCiAgICAgIHJlamVjdDogIlJlamVjdGVkIiwKICAgICAgcmV0dXJuRm9yUmV2aXNpb246ICJSZXR1cm5lZEZvclJldmlzaW9uIiwKICAgICAgbW92ZUJhY2t3YXJkOiAiTW92ZUJhY2t3YXJkIiwKICAgICAgbW92ZUZvcndhcmQ6ICJNb3ZlRm9yd2FyZCIKICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YW5ndWxhci5tb2R1bGUoInJldmlld3MuY29uc3RhbnRzIikK</text>
+        <text encoding="base64">ICBhbmd1bGFyCiAgICAubW9kdWxlKCJyZXZpZXdzLmNvbnN0YW50cyIpCiAgICAuY29uc3RhbnQoImFjdGlvbnMiLCB7CiAgICAgIGFwcHJvdmU6ICJBcHByb3ZlZCIsCiAgICAgIHJlamVjdDogIlJlamVjdGVkIiwKICAgICAgcmV0dXJuRm9yUmV2aXNpb246ICJSZXR1cm5lZEZvclJldmlzaW9uIiwKICAgICAgbW92ZUJhY2t3YXJkOiAiTW92ZUJhY2t3YXJkIiwKICAgICAgbW92ZUZvcndhcmQ6ICJNb3ZlRm9yd2FyZCIKICAgIH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">InVzZSBzdHJpY3QiOwo=</text>
+        <text encoding="base64">YW5ndWxhci5tb2R1bGUoInJldmlld3MuY29uc3RhbnRzIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAuY29uc3RhbnQoInJldmlld1RhYk5hbWVzIiwgewogICAgcmVxdWVzdDogInJlcXVlc3QiLAogICAgYnVkZ2V0OiAiYnVkZ2V0IiwKICAgIHJldmlld2VyYWN0aW9uczogInJldmlld2VyYWN0aW9ucyIsCiAgICBhZGRpdGlvbmFsSW5mb3JtYXRpb246ICJhZGRpdGlvbmFsSW5mb3JtYXRpb24iCiAgfSkKICAuY29uc3RhbnQoImFjdGlvbnMiLCB7CiAgICBhcHByb3ZlOiAiQXBwcm92ZWQiLAogICAgcmVqZWN0OiAiUmVqZWN0ZWQiLAogICAgcmV0dXJuRm9yUmV2aXNpb246ICJSZXR1cm5lZEZvclJldmlzaW9uIiwKICAgIG1vdmVCYWNrd2FyZDogIk1vdmVCYWNrd2FyZCIsCiAgICBtb3ZlRm9yd2FyZDogIk1vdmVGb3J3YXJkIgogIH0pOwo=</text>
+        <text encoding="base64">InVzZSBzdHJpY3QiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWxlRG93bmxvYWRSb290XD4=</last-search>
+      <last-search encoding="base64">XDxpc1N1Ym1pdHRpbmdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWxlRG93bmxvYWRSb290XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpc1N1Ym1pdHRpbmdcPg==</last-pattern>
       <last-replace>push</last-replace>
       <last-substitute>add</last-substitute>
       <last-dir>-1</last-dir>
@@ -300,7 +310,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBcHBlbmRIZWFkZXJcPg==</entry>
         <entry encoding="base64">XDxhcHBsaWNhdGlvblw+</entry>
         <entry encoding="base64">XDxwZGZGaWxlU3RyZWFtXD4=</entry>
         <entry encoding="base64">XDxHZXRaaXBGaWxlXD4=</entry>
@@ -320,6 +329,7 @@
         <entry>Link</entry>
         <entry encoding="base64">XDx1cmlcPg==</entry>
         <entry encoding="base64">XDxmaWxlRG93bmxvYWRSb290XD4=</entry>
+        <entry encoding="base64">XDxpc1N1Ym1pdHRpbmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/dbo/Collection</entry>
