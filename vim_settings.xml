@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/templates/reviews.html" timestamp="1553618574136">
-        <mark key="[" line="122" column="30" />
-        <mark key="]" line="122" column="30" />
-        <mark key="^" line="122" column="29" />
-        <mark key="." line="122" column="30" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/templates/reviews.html" timestamp="1553620688906">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="^" line="123" column="54" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="/Dummy.cs" timestamp="1553611957746">
         <mark key="[" line="0" column="0" />
@@ -110,15 +110,18 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/AssetManager/javascript.json" timestamp="1553620382713" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.constants.actions.js" timestamp="1553614948606">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="12" column="5" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="4" column="1" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/IPdfGenerator.cs" timestamp="1553536930251" />
       <file name="/Dummy.txt" timestamp="1553617520070">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3F27DF6A-B521-4CBA-A231-5A677CC1A917/a7/07c7afa6/RouteAttribute.cs" timestamp="1553540395182" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/templates/gridHeaderRowTemplate.html" timestamp="1553609819172">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -243,7 +246,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InRvcEJhciBibG9ja2VyLWJhY2tkcm9wIiBzdHlsZT0icG9zaXRpb246YWJzb2x1dGUiPjwvZGl2Pgo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -260,7 +263,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">IiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1N1Ym1pdHRpbmdcPg==</text>
@@ -269,31 +272,31 @@
         <text encoding="base64">ICAgICAgICBzY29wZS5pc0Rvd25sb2FkaW5nWmlwID0gdHJ1ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InRvcEJhciBibG9ja2VyLWJhY2tkcm9wIiBzdHlsZT0icG9zaXRpb246YWJzb2x1dGUiPjwvZGl2Pgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy92YXIgcGFyYWdyYXBoID0gc2VjdGlvbi5BZGRQYXJhZ3JhcGgoJCJCdWRnZXQgUmVxdWVzdDoge3N1Ym1pc3Npb24uTmFtZX0iLCAiSGVhZGluZzEiKTsKCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyID0gcm93LkNlbGxzWzBdCiAgICAgICAgICAgICAgICAuQWRkUGFyYWdyYXBoKCkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy92YXIgcGFyYWdyYXBoID0gc2VjdGlvbi5BZGRQYXJhZ3JhcGgoJCJCdWRnZXQgUmVxdWVzdDoge3N1Ym1pc3Npb24uTmFtZX0iLCAiSGVhZGluZzEiKTsKCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyID0gcm93LkNlbGxzWzBdCiAgICAgICAgICAgICAgICAuQWRkUGFyYWdyYXBoKCkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhbmd1bGFyCiAgICAubW9kdWxlKCJyZXZpZXdzLmNvbnN0YW50cyIpCiAgICAuY29uc3RhbnQoImFjdGlvbnMiLCB7CiAgICAgIGFwcHJvdmU6ICJBcHByb3ZlZCIsCiAgICAgIHJlamVjdDogIlJlamVjdGVkIiwKICAgICAgcmV0dXJuRm9yUmV2aXNpb246ICJSZXR1cm5lZEZvclJldmlzaW9uIiwKICAgICAgbW92ZUJhY2t3YXJkOiAiTW92ZUJhY2t3YXJkIiwKICAgICAgbW92ZUZvcndhcmQ6ICJNb3ZlRm9yd2FyZCIKICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YW5ndWxhci5tb2R1bGUoInJldmlld3MuY29uc3RhbnRzIikK</text>
+        <text encoding="base64">ICBhbmd1bGFyCiAgICAubW9kdWxlKCJyZXZpZXdzLmNvbnN0YW50cyIpCiAgICAuY29uc3RhbnQoImFjdGlvbnMiLCB7CiAgICAgIGFwcHJvdmU6ICJBcHByb3ZlZCIsCiAgICAgIHJlamVjdDogIlJlamVjdGVkIiwKICAgICAgcmV0dXJuRm9yUmV2aXNpb246ICJSZXR1cm5lZEZvclJldmlzaW9uIiwKICAgICAgbW92ZUJhY2t3YXJkOiAiTW92ZUJhY2t3YXJkIiwKICAgICAgbW92ZUZvcndhcmQ6ICJNb3ZlRm9yd2FyZCIKICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">InVzZSBzdHJpY3QiOwo=</text>
+        <text encoding="base64">YW5ndWxhci5tb2R1bGUoInJldmlld3MuY29uc3RhbnRzIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
