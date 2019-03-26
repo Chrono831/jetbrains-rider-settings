@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.cs" timestamp="1553600478937">
+      <file name="/Dummy.cs" timestamp="1553611957746">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Storage/FileStorage.cs" timestamp="1553534302018">
@@ -34,10 +34,10 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.services.js" timestamp="1553529686246">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.services.js" timestamp="1553611480382">
         <mark key="[" line="7" column="53" />
         <mark key="]" line="7" column="53" />
-        <mark key="^" line="51" column="35" />
+        <mark key="^" line="55" column="35" />
         <mark key="." line="7" column="53" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/templates/gridCellHeaderTemplate.html" timestamp="1553609753372">
@@ -48,26 +48,39 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/com-42084-pre-approval.json" timestamp="1553086215812">
         <mark key="[" line="358" column="4" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" timestamp="1553609544155">
-        <mark key="[" line="42" column="22" />
-        <mark key="]" line="42" column="22" />
-        <mark key="." line="42" column="22" />
-        <mark key="^" line="42" column="22" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" timestamp="1553613599669">
+        <mark key="'" line="188" column="22" />
+        <mark key="[" line="193" column="8" />
+        <mark key="]" line="193" column="8" />
+        <mark key="." line="193" column="8" />
+        <mark key="^" line="189" column="9" />
       </file>
       <file name="/fragment.js" timestamp="1553600475593">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" timestamp="1553603475072">
-        <mark key="'" line="107" column="45" />
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="^" line="169" column="0" />
-        <mark key="." line="171" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" timestamp="1553613308483">
+        <mark key="'" line="103" column="45" />
+        <mark key="[" line="82" column="55" />
+        <mark key="]" line="82" column="54" />
+        <mark key="." line="82" column="54" />
+        <mark key="^" line="82" column="54" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/templates/gridStatusCell.html" timestamp="1553609836298">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/FileController.cs" timestamp="1553612477087">
+        <mark key="[" line="53" column="43" />
+        <mark key="]" line="53" column="43" />
+        <mark key="^" line="53" column="42" />
+        <mark key="." line="53" column="43" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/SubmitterAndReviewerAccessAllowedAttribute.cs" timestamp="1553611050023">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="60" />
+        <mark key="." line="9" column="37" />
+        <mark key="^" line="9" column="37" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/SubmissionStepGeneratedPdfMapping.cs" timestamp="1553540787014">
         <mark key="[" line="17" column="0" />
@@ -88,9 +101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="13" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/QuestionGroup.sql" />
-      <jump line="6" column="14" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/QuestionGroup.sql" />
-      <jump line="27" column="7" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/QuestionGroup.Backfill.sql" />
       <jump line="14" column="7" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/RegularExpression.Backfill.sql" />
       <jump line="51" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/Respondent.sql" />
       <jump line="24" column="13" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/Respondent.sql" />
@@ -188,6 +198,9 @@
       <jump line="167" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
       <jump line="156" column="23" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
       <jump line="107" column="45" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
+      <jump line="187" column="34" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
+      <jump line="188" column="22" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
+      <jump line="103" column="45" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -199,8 +212,8 @@
           <key char="101" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -217,25 +230,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRHZW5lcmF0ZWRQZGZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaGVyZShjID0+IGNoYXIuSXNMZXR0ZXJPckRpZ2l0KGMpIHx8IGMgPT0gJ18nIHx8IGMgPT0gJy0nKQogICAgICAgICAgICAgICAgLlRvQXJyYXkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVzLkFkZChhd2FpdCBHZXRHZW5lcmF0ZWRQZGYoc3VibWlzc2lvbklkKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgICAgICBjYXRjaCAoRXhjZXB0aW9uKSB7IHJldHVybiBuZXcgYnl0ZVtdIHsgfTsgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5CiAgICAgICAgICAgIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vW1N1Ym1pdHRlckFuZFJldmlld2VyQWNjZXNzQWxsb3dlZF0gVE9ETyAtIG1ha2UgdGhpcyB3b3JrIGZvciBkb3dubG9hZAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -260,15 +273,13 @@
       <last-search encoding="base64">XDxHZXRHZW5lcmF0ZWRQZGZcPg==</last-search>
       <last-offset />
       <last-pattern encoding="base64">XDxHZXRHZW5lcmF0ZWRQZGZcPg==</last-pattern>
-      <last-replace>SkipLogicRule</last-replace>
-      <last-substitute>xxx</last-substitute>
+      <last-replace>push</last-replace>
+      <last-substitute>add</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBcHBsaWNhdGlvbl9FcnJvclw+</entry>
-        <entry encoding="base64">XDx2aWV3YWJsZVN1Ym1pc3Npb25JZHNcPg==</entry>
         <entry encoding="base64">XDxHZW5lcmF0ZVBkZlppcFw+</entry>
         <entry encoding="base64">XDxzdWJtaXNzaW9uSWRcPg==</entry>
         <entry encoding="base64">XDxmaWxlbmFtZVw+</entry>
@@ -286,10 +297,11 @@
         <entry encoding="base64">XDxfYWNjb3VudFByb3ZpZGVyXD4=</entry>
         <entry encoding="base64">XDxuYW1lRm9ybWF0dGVkXD4=</entry>
         <entry encoding="base64">XDxHZW5lcmF0ZURpc3BsYXllZEZpbGVOYW1lXD4=</entry>
+        <entry encoding="base64">XDx2aWV3YWJsZVN1Ym1pc3Npb25JZHNcPg==</entry>
+        <entry>add</entry>
         <entry encoding="base64">XDxHZXRHZW5lcmF0ZWRQZGZcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/xxx/Respondent/g</entry>
         <entry>%s/dbo/Collection</entry>
         <entry>%s/xxx/SkipLogicCondition/g</entry>
         <entry>%s/xxx/SkipLogicRule/g</entry>
@@ -308,6 +320,7 @@
         <entry>88</entry>
         <entry>99</entry>
         <entry>q</entry>
+        <entry>.,+10s/add/push</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
