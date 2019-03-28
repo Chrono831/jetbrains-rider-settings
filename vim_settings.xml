@@ -300,6 +300,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Collection.MigrateData.sql" timestamp="1553692520303">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="37" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting/Base/Domain/DataAccess/Mappings/DisplayedPageMapping.cs" timestamp="1553278304402">
         <mark key="[" line="11" column="35" />
         <mark key="]" line="12" column="11" />
@@ -429,9 +435,6 @@
         <mark key="^" line="33" column="52" />
         <mark key="." line="33" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553704941407">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/ResponseMapping.cs" timestamp="1553278315994">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="30" />
@@ -518,7 +521,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Settings/SettingsProcessesController.cs" timestamp="1553774834837" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Settings/SettingsProcessesController.cs" timestamp="1553779642758">
+        <mark key="'" line="20" column="40" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/StepSlim.cs" timestamp="1552660731158">
         <mark key="[" line="12" column="42" />
         <mark key="]" line="12" column="42" />
@@ -859,11 +867,15 @@
         <mark key="." line="12" column="11" />
         <mark key="^" line="12" column="11" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Collection.MigrateDataCheck.sql" timestamp="1553691421378">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/angularUi.js" timestamp="1553703752891" />
     </filemarks>
     <jumps>
-      <jump line="128" column="30" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
-      <jump line="116" column="84" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
       <jump line="177" column="26" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
       <jump line="171" column="46" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
       <jump line="167" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" />
@@ -962,6 +974,8 @@
       <jump line="116" column="21" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Views/Shared/CampuslabsCore4Main.cshtml" />
       <jump line="112" column="14" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Views/Shared/CampuslabsCore4Main.cshtml" />
       <jump line="26" column="36" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9A46F36A-A569-495B-BA93-5022FAC9F85D/fd/fa8e54e7/ProjectController.cs" />
+      <jump line="26" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Settings/SettingsProcessesController.cs" />
+      <jump line="19" column="40" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Settings/SettingsProcessesController.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -974,7 +988,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwcGVyLkFkZFByb2ZpbGUobmV3IEF1dG9NYXBwZXJQcm9maWxlKCkpOwo=</text>
+        <text encoding="base64">dXNpbmcgQXV0b01hcHBlcjsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1000,31 +1014,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHByb2Nlc3NNb2RlbCA9IG5ldyBQcm9jZXNzTW9kZWwocHJvY2Vzcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwcGVyLkFkZFByb2ZpbGUobmV3IEF1dG9NYXBwZXJQcm9maWxlKCkpOwo=</text>
+        <text encoding="base64">dXNpbmcgQXV0b01hcHBlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4Lklnbm9yZVN0cnVjdHVyZU1hcEF0dHJpYnV0ZXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwcGVyLkFkZFByb2ZpbGUobmV3IEF1dG9NYXBwZXJQcm9maWxlKCkpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4Lklnbm9yZVN0cnVjdHVyZU1hcEF0dHJpYnV0ZXMoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4Lklnbm9yZVN0cnVjdHVyZU1hcEF0dHJpYnV0ZXMoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRm9yPElNYXBwaW5nRW5naW5lPigpLlVzZSgoKSA9PiBNYXBwZXIuRW5naW5lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4Lgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRm9yPElNYXBwaW5nRW5naW5lPigpLlVzZSgoKSA9PiBNYXBwZXIuRW5naW5lKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXJlQWxsRmxvd3NWYWxpZCA9IHByb2Nlc3MuQXJlQWxsRmxvd3NWYWxpZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IElkIHsgZ2V0OyBzZXQ7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXJlQWxsRmxvd3NWYWxpZCA9IHByb2Nlc3MuQXJlQWxsRmxvd3NWYWxpZDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSWQgPSBwcm9jZXNzLklkOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IElkIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
