@@ -49,12 +49,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="12" column="43" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/SubmissionSlim.cs" timestamp="1554207989440">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/SubmissionSlim.cs" timestamp="1554215929788">
         <mark key="'" line="28" column="26" />
-        <mark key="[" line="89" column="86" />
-        <mark key="]" line="89" column="88" />
-        <mark key="." line="89" column="88" />
-        <mark key="^" line="89" column="88" />
+        <mark key="[" line="92" column="96" />
+        <mark key="]" line="92" column="95" />
+        <mark key="." line="92" column="95" />
+        <mark key="^" line="92" column="95" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/FlowMapping.cs" timestamp="1553262613412">
         <mark key="[" line="10" column="0" />
@@ -485,7 +485,7 @@
         <mark key="^" line="505" column="0" />
         <mark key="." line="505" column="0" />
       </file>
-      <file name="/SubmissionSlim.cs" timestamp="1554209891412" />
+      <file name="/SubmissionSlim.cs" timestamp="1554215551986" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/LineItemTypeSlim.cs" timestamp="1552593318676">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="22" column="13" />
@@ -524,7 +524,7 @@
         <mark key="^" line="14" column="10" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554210693948">
+      <file name="/Dummy.txt" timestamp="1554215943720">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/ResponseMapping.cs" timestamp="1553278315994">
@@ -802,8 +802,8 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" timestamp="1553196221171">
-        <mark key="'" line="219" column="10" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" timestamp="1554215787436">
+        <mark key="'" line="507" column="19" />
         <mark key="[" line="315" column="0" />
         <mark key="]" line="315" column="0" />
         <mark key="^" line="314" column="67" />
@@ -1045,12 +1045,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="21" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Collection.MigrateDataCheck.sql" />
-      <jump line="55" column="36" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Collection.MigrateDataCheck.sql" />
-      <jump line="64" column="32" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Collection.MigrateDataCheck.sql" />
-      <jump line="68" column="36" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Collection.MigrateDataCheck.sql" />
-      <jump line="72" column="40" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Collection.MigrateDataCheck.sql" />
-      <jump line="76" column="27" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Collection.MigrateDataCheck.sql" />
       <jump line="80" column="30" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Collection.MigrateDataCheck.sql" />
       <jump line="84" column="43" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Collection.MigrateDataCheck.sql" />
       <jump line="88" column="31" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Collection.MigrateDataCheck.sql" />
@@ -1145,6 +1139,12 @@
       <jump line="11" column="37" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/Account.cs" />
       <jump line="12" column="37" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/Account.cs" />
       <jump line="24" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/Account.cs" />
+      <jump line="468" column="64" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
+      <jump line="503" column="34" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
+      <jump line="504" column="33" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
+      <jump line="505" column="19" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
+      <jump line="506" column="19" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
+      <jump line="507" column="19" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1157,7 +1157,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>: null;</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1174,10 +1174,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>: null;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcHJvY2Vzc1N0ZXBBY2NvdW50c1w+</text>
+        <text encoding="base64">XDxTdGF0dXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZ2V0IHsgcmV0dXJuIEhhc1JvbGUoUm9sZS5BZG1pbmlzdHJhdG9yKSB8fCBfcmV2aWV3ZXJTdGVwcy5BbnkoKTsgfQo=</text>
@@ -1214,9 +1214,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcHJvY2Vzc1N0ZXBBY2NvdW50c1w+</last-search>
+      <last-search encoding="base64">XDxTdGF0dXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcHJvY2Vzc1N0ZXBBY2NvdW50c1w+</last-pattern>
+      <last-pattern encoding="base64">XDxTdGF0dXNcPg==</last-pattern>
       <last-replace>dbo</last-replace>
       <last-substitute>xxx</last-substitute>
       <last-dir>-1</last-dir>
@@ -1241,9 +1241,9 @@
         <entry>Editable</entry>
         <entry encoding="base64">XDxFZGl0YWJsZVN0YXR1c1R5cGVzXD4=</entry>
         <entry encoding="base64">XDxhbmd1bGFyXD4=</entry>
-        <entry encoding="base64">XDxTdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxfcmV2aWV3ZXJTdGVwc1w+</entry>
         <entry encoding="base64">XDxfcHJvY2Vzc1N0ZXBBY2NvdW50c1w+</entry>
+        <entry encoding="base64">XDxTdGF0dXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>88</entry>
