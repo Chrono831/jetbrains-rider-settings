@@ -108,7 +108,7 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="25" column="141" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/LineItem.cs" timestamp="1554228605249">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/LineItem.cs" timestamp="1554234132832">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="64" column="29" />
         <mark key="." line="66" column="99" />
@@ -244,6 +244,9 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/templates/budgetSummary.html" timestamp="1554234308581">
+        <mark key="'" line="19" column="92" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Project.Backfill.sql" timestamp="1553688976664">
         <mark key="'" line="21" column="6" />
         <mark key="[" line="0" column="0" />
@@ -282,6 +285,7 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="26" column="17" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/budgetSummary.js" timestamp="1554234199523" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Tables/Project.sql" timestamp="1553260946517">
         <mark key="'" line="59" column="0" />
         <mark key="[" line="0" column="0" />
@@ -305,9 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Collection.MigrateData.sql" />
-      <jump line="13" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Collection.MigrateData.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Collection.MigrateData.sql" />
       <jump line="1" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Collection.MigrateData.sql" />
       <jump line="2" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Collection.MigrateData.sql" />
       <jump line="3" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Database/Collection/Scripts/Collection.MigrateData.sql" />
@@ -405,6 +406,9 @@
       <jump line="223" column="38" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
       <jump line="264" column="81" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
       <jump line="260" column="50" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
+      <jump line="18" column="74" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/templates/budgetSummary.html" />
+      <jump line="17" column="94" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/templates/budgetSummary.html" />
+      <jump line="19" column="92" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/templates/budgetSummary.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -437,7 +441,7 @@
         <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidWRnZXRMaW5lSXRlbVw+</text>
+        <text encoding="base64">XDxhZGp1c3RtZW50QW1vdW50XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGluY29tZVBhcmVudGhlc2lzID0gR2V0UGFyZW50aGVzaXMoIWJ1ZGdldExpbmVJdGVtLklzRXhwZW5zZSk7Cg==</text>
@@ -474,9 +478,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidWRnZXRMaW5lSXRlbVw+</last-search>
+      <last-search encoding="base64">XDxhZGp1c3RtZW50QW1vdW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidWRnZXRMaW5lSXRlbVw+</last-pattern>
+      <last-pattern encoding="base64">XDxhZGp1c3RtZW50QW1vdW50XD4=</last-pattern>
       <last-replace>dbo</last-replace>
       <last-substitute>xxx</last-substitute>
       <last-dir>-1</last-dir>
@@ -484,7 +488,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVSZXZpZXdTdGF0dXNDaGFuZ2VcPg==</entry>
         <entry encoding="base64">XDxjb25maXJtQWN0aW9uTW9kYWxTY29wZVw+</entry>
         <entry encoding="base64">XDxjb25maXJtQWN0aW9uTW9kYWxcPg==</entry>
         <entry encoding="base64">XDxJbmNsdWRlTm9uU3VibWl0dGVkXD4=</entry>
@@ -504,6 +507,7 @@
         <entry encoding="base64">XDxBZGRMaW5lSXRlbVRvVGFibGVcPg==</entry>
         <entry encoding="base64">XDxsaW5lSXRlbVRhYmxlXD4=</entry>
         <entry encoding="base64">XDxidWRnZXRMaW5lSXRlbVw+</entry>
+        <entry encoding="base64">XDxhZGp1c3RtZW50QW1vdW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>88</entry>
