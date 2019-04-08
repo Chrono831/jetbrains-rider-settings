@@ -162,6 +162,9 @@
         <mark key="." line="12" column="11" />
         <mark key="^" line="12" column="11" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/Account.cs" timestamp="1554737074080">
+        <mark key="'" line="23" column="12" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/lib/campuslabs.core4.main/campuslabsBlocker.js" timestamp="1553628112344">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="85" column="5" />
@@ -1117,9 +1120,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="468" column="64" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
-      <jump line="503" column="34" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
-      <jump line="504" column="33" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
       <jump line="505" column="19" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
       <jump line="506" column="19" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
       <jump line="507" column="19" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" />
@@ -1217,6 +1217,9 @@
       <jump line="421" column="24" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
       <jump line="320" column="43" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
       <jump line="306" column="21" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
+      <jump line="11" column="37" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/Account.cs" />
+      <jump line="57" column="56" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/Account.cs" />
+      <jump line="23" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/Account.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1266,7 +1269,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQdXJjaGFzZVJlcXVlc3RJc1ZhbGlkRm9yQXV0b0FwcHJvdmFsXD4=</text>
+        <text encoding="base64">XDxfcmV2aWV3ZXJTdGVwc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICAgICAgICAgIEJhZzxTdGVwPigKICAgICAgICAgICAgICAgICJfc3RlcHMiLAogICAgICAgICAgICAgICAgbWFwcGVyID0+CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgbWFwcGVyLlNjaGVtYSgiUHJvY2VzcyIpOwogICAgICAgICAgICAgICAgICAgIG1hcHBlci5UYWJsZSgiU3RlcFBvc2l0aW9uVGVtcGxhdGUiKTsKICAgICAgICAgICAgICAgICAgICBtYXBwZXIuQWNjZXNzKEFjY2Vzc29yLkZpZWxkKTsKICAgICAgICAgICAgICAgICAgICBtYXBwZXIuTXV0YWJsZShmYWxzZSk7CiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgcmVsYXRpb24gPT4gcmVsYXRpb24uTWFueVRvTWFueSgKICAgICAgICAgICAgICAgICAgICBtYXBwZXIgPT4gbWFwcGVyLkNvbHVtbigiU3RlcElkIikpCiAgICAgICAgICAgICk7Cg==</text>
@@ -1303,9 +1306,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQdXJjaGFzZVJlcXVlc3RJc1ZhbGlkRm9yQXV0b0FwcHJvdmFsXD4=</last-search>
+      <last-search encoding="base64">XDxfcmV2aWV3ZXJTdGVwc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQdXJjaGFzZVJlcXVlc3RJc1ZhbGlkRm9yQXV0b0FwcHJvdmFsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfcmV2aWV3ZXJTdGVwc1w+</last-pattern>
       <last-replace>dbo</last-replace>
       <last-substitute>xxx</last-substitute>
       <last-dir>-1</last-dir>
@@ -1313,7 +1316,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tinymce</entry>
         <entry encoding="base64">XDxBY2NvdW50RGV0YWlsc1NsaW1cPg==</entry>
         <entry encoding="base64">XDxHZXRTdWJtaXNzaW9uXD4=</entry>
         <entry encoding="base64">XDxTdWJtaXNzaW9uUmV2aWV3U2xpbVw+</entry>
@@ -1333,6 +1335,7 @@
         <entry encoding="base64">XDxsaW5lSXRlbU5hbWVcPg==</entry>
         <entry encoding="base64">XDxsaW5lSXRlbUFsbG9jYXRlZEFtb3VudFw+</entry>
         <entry encoding="base64">XDxQdXJjaGFzZVJlcXVlc3RJc1ZhbGlkRm9yQXV0b0FwcHJvdmFsXD4=</entry>
+        <entry encoding="base64">XDxfcmV2aWV3ZXJTdGVwc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>96</entry>
