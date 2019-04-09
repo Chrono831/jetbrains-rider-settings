@@ -418,6 +418,12 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="34" column="73" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Models/Finance/PrintFinanceRequestAdminViewModel.cs" timestamp="1554836529080">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="45" />
+        <mark key="." line="33" column="31" />
+        <mark key="^" line="33" column="31" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/NameIdSlim.cs" timestamp="1554317277047">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="22" />
@@ -501,6 +507,13 @@
         <mark key="]" line="10" column="3" />
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Views/Finance/EditPurchaseRequest.aspx" timestamp="1554836921179">
+        <mark key="'" line="98" column="41" />
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="239" column="23" />
+        <mark key="." line="235" column="68" />
+        <mark key="^" line="235" column="68" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/AdjustmentSlim.cs" timestamp="1552591496447">
         <mark key="[" line="14" column="0" />
@@ -617,6 +630,12 @@
         <mark key="]" line="11" column="30" />
         <mark key="^" line="27" column="11" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Models/Finance/ViewPurchaseRequestViewModel.cs" timestamp="1554836535626">
+        <mark key="[" line="39" column="50" />
+        <mark key="]" line="40" column="7" />
+        <mark key="." line="40" column="7" />
+        <mark key="^" line="40" column="7" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/SectionTypeMapping.cs" timestamp="1553262898537">
         <mark key="[" line="10" column="0" />
@@ -858,6 +877,11 @@
         <mark key="." line="11" column="28" />
         <mark key="^" line="11" column="28" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Views/Finance/PrintFinanceRequestPartial.ascx" timestamp="1554837182205">
+        <mark key="[" line="464" column="0" />
+        <mark key="]" line="464" column="0" />
+        <mark key="." line="464" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/budgetSummary.js" timestamp="1554235228537">
         <mark key="'" line="41" column="76" />
         <mark key="[" line="21" column="43" />
@@ -1069,7 +1093,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="81" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
       <jump line="260" column="50" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
       <jump line="18" column="74" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/templates/budgetSummary.html" />
       <jump line="17" column="94" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/templates/budgetSummary.html" />
@@ -1169,6 +1192,7 @@
       <jump line="325" column="107" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
       <jump line="313" column="42" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
       <jump line="225" column="21" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" />
+      <jump line="98" column="41" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Views/Finance/EditPurchaseRequest.aspx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1198,7 +1222,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlIH0gJT4K</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1215,28 +1239,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;Off&quot;</text>
+        <text>Approve</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHguQXBwcm92ZWRBbW91bnQuSGFzVmFsdWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/IENvbnZlcnQuVG9EZWNpbWFsKHguQXBwcm92ZWRBbW91bnQuVmFsdWUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOiAoaW5jbHVkZVJlcXVlc3RlZEFtb3VudEluVG90YWwgPyBDb252ZXJ0LlRvRGVjaW1hbCh4LlJlcXVlc3RlZEFtb3VudCkgOiAwTSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlIH0gZWxzZSBpZiAoTW9kZWwuRGF0ZUFwcHJvdmVkLkhhc1ZhbHVlICYmIE1vZGVsLkF1dG9BcHByb3ZlKSB7ICU+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZpZWxkIGNsZWFyZml4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9IkFwcHJvdmVkQnkiPiBBcHByb3ZlZCBCeSA8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPCU9IEh0bWwuTGFiZWxGb3IobW9kZWwgPT4gbW9kZWwuQXBwcm92ZWRCeSkgJT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbnRyb2xzIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQXV0byBBcHByb3ZlZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwlPSBIdG1sLkhpZGRlbkZvcihtID0+IG0uQXV0b0FwcHJvdmUpICU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPCUgfSAlPgogICAgICAgICAgICAgICAgPCUgfSAlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlIH0gJT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlIH0gJT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8JT0gSHRtbC5IaWRkZW5Gb3IobSA9PiBtLkFwcHJvdmVkQW1vdW50KSAlPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbnRyb2xzIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8JT0gSHRtbC5SZW5kZXJEaXJlY3RvcnlMaW5rKE1vZGVsLkFwcHJvdmVkQnlJZC5WYWx1ZSwgTW9kZWwuQXBwcm92ZWRCeSwgTW9kZWwuQ29tbXVuaXR5RGlyZWN0b3J5RW5hYmxlZCkgJT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlIH0gJT4K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1255,9 +1279,9 @@
       </register>
     </registers>
     <search>
-      <last-search>&quot;Off&quot;</last-search>
+      <last-search>Approve</last-search>
       <last-offset />
-      <last-pattern>&quot;Off&quot;</last-pattern>
+      <last-pattern>Approve</last-pattern>
       <last-replace>dbo</last-replace>
       <last-substitute>xxx</last-substitute>
       <last-dir>1</last-dir>
@@ -1265,7 +1289,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidWRnZXRTdWJtaXNzaW9uSWRcPg==</entry>
         <entry encoding="base64">XDxhdXRvQXBwcm92ZVw+</entry>
         <entry encoding="base64">XDxpbXBvcnRhbnRcPg==</entry>
         <entry encoding="base64">XDxDb250ZW50XD4=</entry>
@@ -1285,6 +1308,7 @@
         <entry encoding="base64">XDxHZXRSZXF1ZXN0U3VibWlzc2lvblRvdGFsXD4=</entry>
         <entry encoding="base64">XDxUb0RlY2ltYWxcPg==</entry>
         <entry>&quot;Off&quot;</entry>
+        <entry>Approve</entry>
       </history-search>
       <history-cmd>
         <entry>96</entry>
