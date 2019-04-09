@@ -224,10 +224,6 @@
         <mark key="." line="11" column="35" />
         <mark key="^" line="11" column="35" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/ProcessPositionTemplateMapping.cs" timestamp="1554727049434">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="33" column="14" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/_LayoutSPA.cshtml" timestamp="1554380999745">
         <mark key="'" line="28" column="17" />
         <mark key="[" line="28" column="15" />
@@ -631,7 +627,7 @@
         <mark key="^" line="27" column="11" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Models/Finance/ViewPurchaseRequestViewModel.cs" timestamp="1554836535626">
+      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Models/Finance/ViewPurchaseRequestViewModel.cs" timestamp="1554837694875">
         <mark key="[" line="39" column="50" />
         <mark key="]" line="40" column="7" />
         <mark key="." line="40" column="7" />
@@ -1242,7 +1238,7 @@
         <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>Approve</text>
+        <text>AutoApp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwlIH0gZWxzZSBpZiAoTW9kZWwuRGF0ZUFwcHJvdmVkLkhhc1ZhbHVlICYmIE1vZGVsLkF1dG9BcHByb3ZlKSB7ICU+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZpZWxkIGNsZWFyZml4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9IkFwcHJvdmVkQnkiPiBBcHByb3ZlZCBCeSA8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPCU9IEh0bWwuTGFiZWxGb3IobW9kZWwgPT4gbW9kZWwuQXBwcm92ZWRCeSkgJT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbnRyb2xzIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQXV0byBBcHByb3ZlZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwlPSBIdG1sLkhpZGRlbkZvcihtID0+IG0uQXV0b0FwcHJvdmUpICU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPCUgfSAlPgogICAgICAgICAgICAgICAgPCUgfSAlPgo=</text>
@@ -1279,9 +1275,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Approve</last-search>
+      <last-search>AutoApp</last-search>
       <last-offset />
-      <last-pattern>Approve</last-pattern>
+      <last-pattern>AutoApp</last-pattern>
       <last-replace>dbo</last-replace>
       <last-substitute>xxx</last-substitute>
       <last-dir>1</last-dir>
@@ -1289,7 +1285,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdXRvQXBwcm92ZVw+</entry>
         <entry encoding="base64">XDxpbXBvcnRhbnRcPg==</entry>
         <entry encoding="base64">XDxDb250ZW50XD4=</entry>
         <entry encoding="base64">XDxjb250ZW50UGxhY2Vob2xkZXJcPg==</entry>
@@ -1309,6 +1304,7 @@
         <entry encoding="base64">XDxUb0RlY2ltYWxcPg==</entry>
         <entry>&quot;Off&quot;</entry>
         <entry>Approve</entry>
+        <entry>AutoApp</entry>
       </history-search>
       <history-cmd>
         <entry>96</entry>
