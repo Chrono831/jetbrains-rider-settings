@@ -556,7 +556,7 @@
         <mark key="^" line="33" column="52" />
         <mark key="." line="33" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554815984055">
+      <file name="/Dummy.txt" timestamp="1554818756976">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/ResponseMapping.cs" timestamp="1553278315994">
@@ -903,11 +903,12 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" timestamp="1554390480553">
-        <mark key="[" line="458" column="0" />
-        <mark key="]" line="458" column="0" />
-        <mark key="." line="458" column="0" />
-        <mark key="^" line="1418" column="59" />
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" timestamp="1554818747257">
+        <mark key="'" line="225" column="21" />
+        <mark key="[" line="1418" column="58" />
+        <mark key="]" line="1418" column="58" />
+        <mark key="." line="1418" column="58" />
+        <mark key="^" line="1418" column="58" />
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/_ChromeLayoutSPA.cshtml" timestamp="1554380823796">
         <mark key="[" line="108" column="0" />
@@ -1090,7 +1091,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="38" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
       <jump line="264" column="81" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
       <jump line="260" column="50" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
       <jump line="18" column="74" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/templates/budgetSummary.html" />
@@ -1190,6 +1190,7 @@
       <jump line="103" column="45" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
       <jump line="325" column="107" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
       <jump line="313" column="42" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Controllers/FinanceController.cs" />
+      <jump line="225" column="21" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1219,7 +1220,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>f</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1236,10 +1237,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUb0RlY2ltYWxcPg==</text>
+        <text>&quot;Off&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHguQXBwcm92ZWRBbW91bnQuSGFzVmFsdWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/IENvbnZlcnQuVG9EZWNpbWFsKHguQXBwcm92ZWRBbW91bnQuVmFsdWUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOiAoaW5jbHVkZVJlcXVlc3RlZEFtb3VudEluVG90YWwgPyBDb252ZXJ0LlRvRGVjaW1hbCh4LlJlcXVlc3RlZEFtb3VudCkgOiAwTSkpCg==</text>
@@ -1276,17 +1277,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUb0RlY2ltYWxcPg==</last-search>
+      <last-search>&quot;Off&quot;</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUb0RlY2ltYWxcPg==</last-pattern>
+      <last-pattern>&quot;Off&quot;</last-pattern>
       <last-replace>dbo</last-replace>
       <last-substitute>xxx</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>uto</entry>
         <entry encoding="base64">XDxidWRnZXRTdWJtaXNzaW9uSWRcPg==</entry>
         <entry encoding="base64">XDxhdXRvQXBwcm92ZVw+</entry>
         <entry encoding="base64">XDxpbXBvcnRhbnRcPg==</entry>
@@ -1306,6 +1306,7 @@
         <entry encoding="base64">XDxHZXRSZXF1ZXN0U3VibWlzc2lvblw+</entry>
         <entry encoding="base64">XDxHZXRSZXF1ZXN0U3VibWlzc2lvblRvdGFsXD4=</entry>
         <entry encoding="base64">XDxUb0RlY2ltYWxcPg==</entry>
+        <entry>&quot;Off&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>96</entry>
