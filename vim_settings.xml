@@ -21,6 +21,12 @@
         <mark key="." line="11" column="69" />
         <mark key="^" line="11" column="69" />
       </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.MessageHandlers/appsettings.json" timestamp="1555607762598">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="4" />
+        <mark key="." line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+      </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/CategoryRepository.cs" timestamp="1555601982756">
         <mark key="'" line="21" column="35" />
         <mark key="[" line="125" column="45" />
@@ -189,11 +195,11 @@
         <mark key="]" line="12" column="39" />
         <mark key="." line="12" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.MessageHandlers/Startup.cs" timestamp="1555606217859">
-        <mark key="[" line="55" column="115" />
-        <mark key="]" line="55" column="121" />
-        <mark key="^" line="55" column="121" />
-        <mark key="." line="55" column="121" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.MessageHandlers/Startup.cs" timestamp="1555607423932">
+        <mark key="[" line="55" column="144" />
+        <mark key="]" line="55" column="144" />
+        <mark key="^" line="59" column="154" />
+        <mark key="." line="55" column="144" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/Extensions/FinanceDataServiceCollectionExtensions.cs" timestamp="1555526536105">
         <mark key="[" line="23" column="0" />
@@ -245,11 +251,11 @@
       <jump line="21" column="35" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/CategoryRepository.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMKICAgICAgICAgICAgICAgIC5BZGRCdWRnZXRpbmdEYXRhKAogICAgICAgICAgICAgICAgICAgIG5ldyBEYXRhU2V0dGluZ3MKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIEJ1ZGdldGluZ0Nvbm5lY3Rpb25TdHJpbmcgPSBfY29uZmlndXJhdGlvbi5HZXRDb25uZWN0aW9uU3RyaW5nKCJCdWRnZXRpbmdEYkNvbnRleHQiKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIC5BZGRCdWRnZXRpbmdTZXJ2aWNlcygpOwoKICAgICAgICAgICAgc2VydmljZXMKICAgICAgICAgICAgICAgIC5BZGRGaW5hbmNlRGF0YSgKICAgICAgICAgICAgICAgICAgICBuZXcgRGF0YVNldHRpbmdzCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBGaW5hbmNlQ29ubmVjdGlvblN0cmluZyA9IF9jb25maWd1cmF0aW9uLkdldENvbm5lY3Rpb25TdHJpbmcoIkZpbmFuY2VEYkNvbnRleHQiKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIC5BZGRGaW5hbmNlU2VydmljZXMoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>BudgetingDbContext</text>
       </register>
       <register name="-" type="4">
-        <text>Options</text>
+        <text>BudgetingDbContext</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfY29tbXVuaXR5XD4=</text>
