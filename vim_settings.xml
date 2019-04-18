@@ -3,18 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/appsettings.json" timestamp="1555523005624">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="265" />
-        <mark key="." line="5" column="6" />
-        <mark key="^" line="5" column="261" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/appsettings.json" timestamp="1555591177875">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/RequestService.cs" timestamp="1555520867877" />
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.MessageHandlers/Startup.cs" timestamp="1555526803306">
-        <mark key="[" line="63" column="12" />
-        <mark key="]" line="63" column="12" />
-        <mark key="." line="63" column="12" />
-        <mark key="^" line="63" column="12" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.MessageHandlers/Startup.cs" timestamp="1555590929541">
+        <mark key="[" line="116" column="16" />
+        <mark key="]" line="116" column="16" />
+        <mark key="." line="116" column="16" />
+        <mark key="^" line="116" column="26" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EntityFramework/Models/Database/DboCategory.cs" timestamp="1555523840741">
         <mark key="[" line="11" column="0" />
@@ -35,11 +34,11 @@
         <mark key="." line="88" column="17" />
         <mark key="^" line="82" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Startup.cs" timestamp="1555587336749">
-        <mark key="[" line="54" column="39" />
-        <mark key="]" line="54" column="39" />
-        <mark key="^" line="54" column="38" />
-        <mark key="." line="54" column="39" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Startup.cs" timestamp="1555590924075">
+        <mark key="[" line="40" column="16" />
+        <mark key="]" line="40" column="17" />
+        <mark key="^" line="40" column="17" />
+        <mark key="." line="40" column="17" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.MessageHandlers/appsettings.json" timestamp="1555523028491">
         <mark key="[" line="5" column="146" />
@@ -71,7 +70,7 @@
         <mark key="." line="11" column="21" />
         <mark key="^" line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Extensions/FinanceServicesServiceCollectionExtensions.cs" timestamp="1555587316395">
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Extensions/FinanceServicesServiceCollectionExtensions.cs" timestamp="1555590979046">
         <mark key="[" line="50" column="5" />
         <mark key="]" line="51" column="5" />
         <mark key="." line="51" column="5" />
@@ -83,11 +82,11 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Extensions/BudgetingServicesServiceCollectionExtensions.cs" timestamp="1555527682426">
-        <mark key="[" line="27" column="8" />
-        <mark key="]" line="27" column="14" />
-        <mark key="." line="27" column="14" />
-        <mark key="^" line="27" column="14" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Extensions/BudgetingServicesServiceCollectionExtensions.cs" timestamp="1555590936210">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="51" column="5" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/CategorySearchParameters.cs" timestamp="1555520765192">
         <mark key="[" line="4" column="24" />
@@ -95,11 +94,11 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/CategoryController.cs" timestamp="1555524544497">
-        <mark key="[" line="13" column="50" />
-        <mark key="]" line="13" column="50" />
-        <mark key="." line="13" column="50" />
-        <mark key="^" line="13" column="50" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/CategoryController.cs" timestamp="1555590430638">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="18" />
+        <mark key="^" line="11" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -113,62 +112,44 @@
       <jump line="23" column="36" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data/EntityFramework/Repositories/CategoryRepository.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfdXNlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGREYkNvbnRleHQ8RmluYW5jZURiQ29udGV4dD4oCiAgICAgICAgICAgICAgICAgICAgb3B0aW9ucyA9PgogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgb3B0aW9ucy5Vc2VTcWxTZXJ2ZXIoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZXR0aW5ncy5GaW5hbmNlQ29ubmVjdGlvblN0cmluZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG8gPT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvLlVzZVJvd051bWJlckZvclBhZ2luZygpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG8uRW5hYmxlUmV0cnlPbkZhaWx1cmUoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRGaW5hbmNlU2VydmljZXMoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgICJDbGllbnRJZCI6ICJjNGViOWM2Ni0zM2Q5LTRiODgtYjIyZi05MzIyOTA4OGE5NGIiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRGaW5hbmNlRGF0YSgKICAgICAgICAgICAgICAgICAgICBuZXcgRGF0YVNldHRpbmdzCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBGaW5hbmNlQ29ubmVjdGlvblN0cmluZyA9IF9jb25maWcuR2V0Q29ubmVjdGlvblN0cmluZygiRmluYW5jZURiQ29udGV4dCIpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICJDbGllbnRTZWNyZXQiOiAiVmlPMHlLNndjMGVXVmM0UUl3ZXpScS9wR1JOaE0yZlZjK2ptenZRZEU2ND0iLAo=</text>
       </register>
-      <register name="4" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJDbGllbnRTZWNyZXQiOiAiVmlPMHlLNndjMGVXVmM0UUl3ZXpScS9wR1JOaE0yZlZjK2ptenZRZEU2ND0iLAo=</text>
       </register>
-      <register name="5" type="8">
-        <text>//
-//
-//
-//
-//
-//</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGREYkNvbnRleHQ8RmluYW5jZURiQ29udGV4dD4oCiAgICAgICAgICAgICAgICAgICAgb3B0aW9ucyA9PgogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgb3B0aW9ucy5Vc2VTcWxTZXJ2ZXIoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfY29uZmlnLkdldENvbm5lY3Rpb25TdHJpbmcoIkZpbmFuY2VEYkNvbnRleHQiKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG8gPT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvLlVzZVJvd051bWJlckZvclBhZ2luZygpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG8uRW5hYmxlUmV0cnlPbkZhaWx1cmUoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAuQWRkRGJDb250ZXh0PEJ1ZGdldGluZ0RiQ29udGV4dD4oCiAgICAgICAgICAgICAgICAgICAgb3B0aW9ucyA9PgogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgb3B0aW9ucy5Vc2VTcWxTZXJ2ZXIoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfY29uZmlnLkdldENvbm5lY3Rpb25TdHJpbmcoIkJ1ZGdldGluZ0RiQ29udGV4dCIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbyA9PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG8uVXNlUm93TnVtYmVyRm9yUGFnaW5nKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgby5FbmFibGVSZXRyeU9uRmFpbHVyZSgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIC5Db25uZWN0VHlwZXM8SVJlcG9zaXRvcnk+KCkKICAgICAgICAgICAgICAgIC5Db25uZWN0VHlwZXM8TWVzc2FnZVNlbmRlckJhc2U+KCk7CiAgICAgICAgICAgICAgICAvLy5BZGRCdWRnZXRpbmdTZXJ2aWNlcygpOwogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRCdWRnZXRpbmdTZXJ2aWNlcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRTaW5nbGV0b24oIG5ldyBEYXRhU2V0dGluZ3MKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIEJ1ZGdldGluZ0Nvbm5lY3Rpb25TdHJpbmcgPSBfY29uZmlnLkdldENvbm5lY3Rpb25TdHJpbmcoIkJ1ZGdldGluZ0RiQ29udGV4dCIpLAogICAgICAgICAgICAgICAgICAgICAgICBGaW5hbmNlQ29ubmVjdGlvblN0cmluZyA9IF9jb25maWcuR2V0Q29ubmVjdGlvblN0cmluZygiRmluYW5jZURiQ29udGV4dCIpCiAgICAgICAgICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
-      <register name="9" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
@@ -190,9 +171,10 @@
         <entry encoding="base64">XDxfdXNlclw+</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>w</entry>
         <entry>.s/Request/Category/g</entry>
+        <entry>12</entry>
+        <entry>q</entry>
         <entry>$</entry>
       </history-cmd>
       <history-expr />
