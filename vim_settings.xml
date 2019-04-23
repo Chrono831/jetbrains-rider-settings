@@ -82,12 +82,12 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Budget/EntityFramework/Models/Database/DbOrgSyncBudgetRequest.cs" timestamp="1555958806990">
-        <mark key="'" line="57" column="38" />
-        <mark key="[" line="17" column="55" />
-        <mark key="]" line="17" column="55" />
-        <mark key="." line="17" column="55" />
-        <mark key="^" line="17" column="62" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Budget/EntityFramework/Models/Database/DbOrgSyncBudgetRequest.cs" timestamp="1556022865745">
+        <mark key="'" line="55" column="38" />
+        <mark key="[" line="50" column="15" />
+        <mark key="]" line="50" column="21" />
+        <mark key="." line="50" column="21" />
+        <mark key="^" line="50" column="21" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Budget/Configuration/DataSettings.cs" timestamp="1555617461071">
         <mark key="[" line="7" column="0" />
@@ -139,11 +139,11 @@
       </file>
       <file name="/OrganizationsTopicListener.cs" timestamp="1555937196609" />
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.MessageHandlers/Handlers/Imports/OrgSyncBudgetRequestListener.cs" timestamp="1555937504366" />
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Models/OrgSyncBudgetRequest.cs" timestamp="1555698412590">
-        <mark key="[" line="23" column="46" />
-        <mark key="]" line="23" column="46" />
-        <mark key="^" line="16" column="33" />
-        <mark key="." line="23" column="46" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Models/OrgSyncBudgetRequest.cs" timestamp="1556022883345">
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="36" column="21" />
+        <mark key="^" line="36" column="21" />
+        <mark key="." line="36" column="21" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/BudgetAccountService.cs" timestamp="1555935790578">
         <mark key="'" line="32" column="12" />
@@ -230,7 +230,7 @@
         <mark key="." line="13" column="38" />
         <mark key="^" line="13" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555963944443">
+      <file name="/Dummy.txt" timestamp="1556023177624">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.MessageHandlers/Handlers/Communities/CommunityMemberChangedListener.cs" timestamp="1555937377220">
@@ -380,16 +380,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>float</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>float</text>
       </register>
       <register name="/" type="4">
         <text>Category</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbSHR0cFBvc3RdCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8SUFjdGlvblJlc3VsdD4gQ3JlYXRlKFtGcm9tQm9keV0gT3JnU3luY0J1ZGdldFJlcXVlc3QgcmVxdWVzdCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciByZXNwb25zZSA9IGF3YWl0IF9zZXJ2aWNlLkNyZWF0ZShUb01lc3NhZ2U8T3JnU3luY0J1ZGdldFJlcXVlc3RDcmVhdGVNZXNzYWdlPihyZXF1ZXN0KSk7CiAgICAgICAgICAgIHJldHVybiByZXNwb25zZSA9PSBudWxsID8gKElBY3Rpb25SZXN1bHQpIE5vdEZvdW5kKCkgOiBPayhyZXNwb25zZSk7CiAgICAgICAgfQo=</text>
+      <register name="0" type="4">
+        <text>decimal</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIC0tIG1ha2UgdGhpcyBub3QgcmV0dXJuIG51bGwK</text>
