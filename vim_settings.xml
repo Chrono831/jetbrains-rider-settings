@@ -137,9 +137,9 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="21" column="13" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Models/OrgSyncBudgetRequest.cs" timestamp="1556022883345">
-        <mark key="[" line="36" column="15" />
-        <mark key="]" line="36" column="21" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Models/OrgSyncBudgetRequest.cs" timestamp="1556045869725">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="23" column="45" />
         <mark key="^" line="36" column="21" />
         <mark key="." line="36" column="21" />
       </file>
@@ -167,11 +167,11 @@
         <mark key="." line="29" column="44" />
         <mark key="^" line="29" column="44" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/OrgSyncBudgetRequestSearchParameters.cs" timestamp="1555961056041">
-        <mark key="[" line="12" column="32" />
-        <mark key="]" line="12" column="37" />
-        <mark key="." line="12" column="37" />
-        <mark key="^" line="12" column="37" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/OrgSyncBudgetRequestSearchParameters.cs" timestamp="1556046183270">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="17" column="21" />
+        <mark key="^" line="13" column="21" />
+        <mark key="." line="17" column="21" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Messages/OrgSyncBudgetRequestMessages.cs" timestamp="1556027201263">
         <mark key="'" line="5" column="17" />
@@ -198,12 +198,12 @@
         <mark key="^" line="7" column="33" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Budget/EntityFramework/Repositories/OrgSyncBudgetRequestRepository.cs" timestamp="1556045637387">
-        <mark key="'" line="15" column="8" />
-        <mark key="[" line="119" column="12" />
-        <mark key="]" line="119" column="17" />
-        <mark key="." line="119" column="17" />
-        <mark key="^" line="119" column="17" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Budget/EntityFramework/Repositories/OrgSyncBudgetRequestRepository.cs" timestamp="1556046308076">
+        <mark key="'" line="223" column="16" />
+        <mark key="[" line="208" column="45" />
+        <mark key="]" line="209" column="19" />
+        <mark key="." line="208" column="155" />
+        <mark key="^" line="209" column="19" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.MessageHandlers/Handlers/Budgeting/OrgSyncBudgetRequestMessageHandler.cs" timestamp="1555935578441">
         <mark key="[" line="28" column="29" />
@@ -228,7 +228,7 @@
         <mark key="." line="13" column="38" />
         <mark key="^" line="13" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556031110353">
+      <file name="/Dummy.txt" timestamp="1556046453820">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Budget/EntityFramework/Repositories/RequestRepository.cs" timestamp="1556040443565">
@@ -341,6 +341,14 @@
       <jump line="25" column="38" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/OrgSyncBudgetRequestValidator.cs" />
       <jump line="29" column="16" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/BudgetAccountValidator.cs" />
       <jump line="15" column="8" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Budget/EntityFramework/Repositories/OrgSyncBudgetRequestRepository.cs" />
+      <jump line="220" column="27" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Budget/EntityFramework/Repositories/OrgSyncBudgetRequestRepository.cs" />
+      <jump line="215" column="16" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Budget/EntityFramework/Repositories/OrgSyncBudgetRequestRepository.cs" />
+      <jump line="210" column="16" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Budget/EntityFramework/Repositories/OrgSyncBudgetRequestRepository.cs" />
+      <jump line="205" column="16" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Budget/EntityFramework/Repositories/OrgSyncBudgetRequestRepository.cs" />
+      <jump line="199" column="16" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Budget/EntityFramework/Repositories/OrgSyncBudgetRequestRepository.cs" />
+      <jump line="213" column="12" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Budget/EntityFramework/Repositories/OrgSyncBudgetRequestRepository.cs" />
+      <jump line="218" column="12" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Budget/EntityFramework/Repositories/OrgSyncBudgetRequestRepository.cs" />
+      <jump line="223" column="16" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Budget/EntityFramework/Repositories/OrgSyncBudgetRequestRepository.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -391,62 +399,60 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBhcmFtZXRlcnMuUmVxdWVzdElkLkhhc1ZhbHVlKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBxdWVyeWFibGUgPSBxdWVyeWFibGUuV2hlcmUoeCA9PiB4LlJlcXVlc3RJZCA9PSBwYXJhbWV0ZXJzLlJlcXVlc3RJZC5WYWx1ZSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>Name</text>
       </register>
       <register name="/" type="4">
-        <text>Find</text>
+        <text>BudgetPeriod</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciByZXN1bHRzID0gYXdhaXQgX3JlcG9zaXRvcnkuRmluZCgKICAgICAgICAgICAgICAgICAgICBuZXcgT3JnU3luY0J1ZGdldFJlcXVlc3RTZWFyY2hQYXJhbWV0ZXJzCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBMZWdhY3lJZCA9IG1lc3NhZ2UuUGF5bG9hZC5MZWdhY3lJZAogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFzdHJpbmcuSXNOdWxsT3JFbXB0eShwYXJhbWV0ZXJzLkJ1ZGdldFBlcmlvZCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHF1ZXJ5YWJsZSA9IHF1ZXJ5YWJsZS5XaGVyZSh4ID0+IHN0cmluZy5Db21wYXJlKHguQnVkZ2V0UGVyaW9kLCBwYXJhbWV0ZXJzLkJ1ZGdldFBlcmlvZCwgU3RyaW5nQ29tcGFyaXNvbi5DdXJyZW50Q3VsdHVyZUlnbm9yZUNhc2UpID09IDApOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2RiQ29udGV4dCA9IGRiQ29udGV4dDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBhcmFtZXRlcnMuUmVxdWVzdElkLkhhc1ZhbHVlKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBxdWVyeWFibGUgPSBxdWVyeWFibGUuV2hlcmUoeCA9PiB4LlJlcXVlc3RJZCA9PSBwYXJhbWV0ZXJzLlJlcXVlc3RJZC5WYWx1ZSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBhcmFtZXRlcnMuU3RhdHVzLkhhc1ZhbHVlKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBxdWVyeWFibGUgPSBxdWVyeWFibGUuV2hlcmUoeCA9PiB4LlN0YXR1cyA9PSBwYXJhbWV0ZXJzLlN0YXR1cy5WYWx1ZSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IEJ1ZGdldGluZ0RiQ29udGV4dCBfZGJDb250ZXh0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBhcmFtZXRlcnMuVHJhbnNhY3Rpb25UeXBlLkhhc1ZhbHVlKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBxdWVyeWFibGUgPSBxdWVyeWFibGUuV2hlcmUoeCA9PiB4LlRyYW5zYWN0aW9uVHlwZSA9PSBwYXJhbWV0ZXJzLlRyYW5zYWN0aW9uVHlwZS5WYWx1ZSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBhcmFtZXRlcnMuQnVkZ2V0UGVyaW9kLkhhc1ZhbHVlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcXVlcnlhYmxlID0gcXVlcnlhYmxlLldoZXJlKHggPT4geC5CdWRnZXRQZXJpb2QgPT0gcGFyYW1ldGVycy5CdWRnZXRQZXJpb2QuVmFsdWUpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgb3ZlcnJpZGUgVGFzazxib29sPiBJc0V4aXN0aW5nKE9yZ1N5bmNCdWRnZXRSZXF1ZXN0IG1vZGVsKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIHF1ZXJ5YWJsZSA9IF9kYkNvbnRleHQKICAgICAgICAgICAgICAgIC5HZXRRdWVyeWFibGU8RGJPcmdTeW5jQnVkZ2V0UmVxdWVzdD4oKQogICAgICAgICAgICAgICAgLldoZXJlKHggPT4geC5JbnN0aXR1dGlvbklkID09IF9pbnN0aXR1dGlvbi5JZCkKICAgICAgICAgICAgICAgIC5BbnlBc3luYyh4ID0+IHguTGVnYWN5SWQgPT0gbW9kZWwuTGVnYWN5SWQpOwoKICAgICAgICAgICAgcmV0dXJuIHF1ZXJ5YWJsZTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nPyBOYW1lIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgb3ZlcnJpZGUgVGFzayBWYWxpZGF0ZUV4aXN0aW5nKAogICAgICAgICAgICBWYWxpZGF0aW9uUmVzdWx0PE9yZ1N5bmNCdWRnZXRSZXF1ZXN0PiByZXN1bHQsIE9yZ1N5bmNCdWRnZXRSZXF1ZXN0IG1vZGVsKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIHF1ZXJ5YWJsZSA9IF9kYkNvbnRleHQuR2V0UXVlcnlhYmxlPERiT3JnU3luY0J1ZGdldFJlcXVlc3Q+KCkKICAgICAgICAgICAgICAgIC5XaGVyZSh4ID0+IHguSW5zdGl0dXRpb25JZCA9PSBfaW5zdGl0dXRpb24uSWQpCiAgICAgICAgICAgICAgICAuV2hlcmUoeCA9PiB4Lk9yZ2FuaXphdGlvbklkID09IG1vZGVsLk9yZ2FuaXphdGlvbklkKQogICAgICAgICAgICAgICAgLldoZXJlKHggPT4geC5MZWdhY3lJZCA9PSBtb2RlbC5MZWdhY3lJZCk7CiAgICAgICAgICAgIGlmICghcXVlcnlhYmxlLkFueSgpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXN1bHQuQWRkRXJyb3IobSA9PiBtLkxlZ2FjeUlkLCBWYWxpZGF0aW9uTWVzc2FnZS5Eb2VzTm90RXhpc3QpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBpZiAocXVlcnlhYmxlLkNvdW50KCkgIT0gMSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmVzdWx0LkFkZEVycm9yKG0gPT4gbS5MZWdhY3lJZCwgVmFsaWRhdGlvbk1lc3NhZ2UuRHVwbGljYXRlSW1wb3J0S2V5KTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKG1vZGVsLk9yZ2FuaXphdGlvbklkICE9IHF1ZXJ5YWJsZS5GaXJzdE9yRGVmYXVsdCgpLk9yZ2FuaXphdGlvbklkKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXN1bHQuQWRkRXJyb3IobSA9PiBtLk9yZ2FuaXphdGlvbklkLCBWYWxpZGF0aW9uTWVzc2FnZS5Eb2VzTm90RXhpc3QpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBpZiAobW9kZWwuTGVnYWN5T3JnYW5pemF0aW9uSWQgIT0gcXVlcnlhYmxlLkZpcnN0T3JEZWZhdWx0KCkuTGVnYWN5T3JnYW5pemF0aW9uSWQpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJlc3VsdC5BZGRFcnJvcihtID0+IG0uTGVnYWN5T3JnYW5pemF0aW9uSWQsIFZhbGlkYXRpb25NZXNzYWdlLkRvZXNOb3RFeGlzdCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiBUYXNrLkNvbXBsZXRlZFRhc2s7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nPyBCdWRnZXRQZXJpb2QgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nPyBUcmFuc2FjdGlvblR5cGUgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9pZiBjaGVjayBkYiBhbmQgcmVjb3JkIGV4aXN0cwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nPyBTdGF0dXMgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>.,+20s/request/model/g</text>
+        <text>.,+2s/BudgetPeriod/RequestId/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Find</last-search>
+      <last-search>BudgetPeriod</last-search>
       <last-offset />
-      <last-pattern>Find</last-pattern>
-      <last-replace>model</last-replace>
-      <last-substitute>request</last-substitute>
+      <last-pattern>BudgetPeriod</last-pattern>
+      <last-replace>RequestId</last-replace>
+      <last-substitute>BudgetPeriod</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTZXJ2aWNlQnVzQ29ubmVjdGlvblN0cmluZ1w+</entry>
-        <entry encoding="base64">XDxfZW52aXJvbm1lbnRcPg==</entry>
         <entry>Account</entry>
         <entry encoding="base64">XDxEYm9BY2NvdW50XD4=</entry>
         <entry>BudgetAccount</entry>
@@ -465,12 +471,10 @@
         <entry encoding="base64">XDxJc0V4aXN0aW5nXD4=</entry>
         <entry encoding="base64">XDxkYm9BY2NvdW50XD4=</entry>
         <entry>Find</entry>
+        <entry>LegacyOrganizationId</entry>
+        <entry>BudgetPeriod</entry>
       </history-search>
       <history-cmd>
-        <entry>.s/Request/Category/g</entry>
-        <entry>12</entry>
-        <entry>w</entry>
-        <entry>129</entry>
         <entry>%s/BudgetAccount/OrgSyncBudgetRequest/g</entry>
         <entry>.,+25s/?//</entry>
         <entry>.,+20s/model/source</entry>
@@ -483,6 +487,14 @@
         <entry>$</entry>
         <entry>91</entry>
         <entry>.,+20s/request/model/g</entry>
+        <entry>.,+2s/LegacyOrganizationId/RequestId/g</entry>
+        <entry>.,+2s/LegacyOrganizationId/Status/g</entry>
+        <entry>.,+2s/LegacyOrganizationId/TransactionType/g</entry>
+        <entry>.,+2s/LegacyOrganizationId/BudgetPeriod/g</entry>
+        <entry>.,+2s/LegacyOrganizationId/Name/g</entry>
+        <entry>.,+2s/BudgetPeriod/TransactionType/g</entry>
+        <entry>.,+2s/BudgetPeriod/Status/g</entry>
+        <entry>.,+2s/BudgetPeriod/RequestId/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
