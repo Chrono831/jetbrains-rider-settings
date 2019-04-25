@@ -22,6 +22,7 @@
         <mark key="." line="27" column="91" />
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/PurchaseRequest.aspx" timestamp="1556211195925" />
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Search/Finance/FinanceRequestStageCriteria.cs" timestamp="1556214351397" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.organization/submissions.organization.router.js" timestamp="1556108022008">
         <mark key="[" line="12" column="23" />
         <mark key="]" line="12" column="52" />
@@ -37,10 +38,6 @@
         <mark key="^" line="61" column="67" />
         <mark key="." line="61" column="24" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Reviews/EditReviewRequestHandler.cs" timestamp="1556202381684">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="29" column="38" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.organization/submissions.organization.index.js" timestamp="1556113120309">
         <mark key="[" line="9" column="24" />
         <mark key="]" line="9" column="30" />
@@ -53,16 +50,13 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="4" column="44" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" timestamp="1556130897735">
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="214" column="9" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Core/FinanceRegistry.cs" timestamp="1556193599121">
         <mark key="[" line="86" column="92" />
         <mark key="]" line="86" column="96" />
         <mark key="^" line="86" column="96" />
         <mark key="." line="86" column="96" />
       </file>
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceRequestStageService.cs" timestamp="1556214315288" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.organization/orgsyncbudgetrequest.controller.js" timestamp="1556206914989">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -73,10 +67,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="22" column="44" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/SubmitterAndReviewerAccessAllowedAttribute.cs" timestamp="1556195572234">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="32" column="50" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/AssetManager/javascript.json" timestamp="1556127942317">
         <mark key="[" line="158" column="59" />
@@ -104,12 +94,16 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/IFinanceRequestStageService.cs" timestamp="1556211584687" />
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Position.cs" timestamp="1556213741901">
+        <mark key="'" line="177" column="61" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Web.config" timestamp="1556203319913">
         <mark key="[" line="46" column="54" />
         <mark key="]" line="46" column="75" />
         <mark key="." line="46" column="75" />
         <mark key="^" line="46" column="75" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0A151440-D2B8-4EA2-B3F4-E18602903392/3a/61e39feb/IFinanceRequestStageService.cs" timestamp="1556214280588" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/OrgSyncBudgetRequestController.cs" timestamp="1556206895505">
         <mark key="[" line="127" column="0" />
         <mark key="]" line="127" column="0" />
@@ -133,10 +127,6 @@
         <mark key="]" line="34" column="49" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8E576462-B971-4430-BC98-DBAC9658E612/b9/b3e0c145/OrgSyncBudgetRequest.cs" timestamp="1556202040586">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="67" column="45" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/OrgSyncBudgetRequestAccessAllowedAttribute.cs" timestamp="1556131169772">
         <mark key="[" line="18" column="29" />
         <mark key="]" line="18" column="43" />
@@ -146,10 +136,6 @@
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/SubmissionStepReviewer.cs" timestamp="1556205813315" />
       <file name="/Dummy.txt" timestamp="1556207013877">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Web.config" timestamp="1556192849689">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="46" column="80" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/OrgSyncBudgetRequestSlim.cs" timestamp="1556131938120">
         <mark key="[" line="21" column="25" />
@@ -217,6 +203,16 @@
       <jump line="20" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Accounts/GetUserOrganizationsQuery.cs" />
       <jump line="16" column="34" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Accounts/GetUserOrganizationsQuery.cs" />
       <jump line="44" column="53" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Controllers/Organization/FinanceController.cs" />
+      <jump line="9" column="17" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Position.cs" />
+      <jump line="179" column="12" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Position.cs" />
+      <jump line="59" column="29" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Position.cs" />
+      <jump line="15" column="30" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Position.cs" />
+      <jump line="13" column="30" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Position.cs" />
+      <jump line="181" column="21" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Position.cs" />
+      <jump line="183" column="34" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Position.cs" />
+      <jump line="185" column="37" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Position.cs" />
+      <jump line="186" column="31" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Position.cs" />
+      <jump line="177" column="61" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Position.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -266,7 +262,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZmluYW5jZVJlcXVlc3RTdGFnZVNlcnZpY2VcPg==</text>
+        <text>stage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgSW5jcmVtZW50RG93bmxvYWRDb3VudChpbnQgb3JnU3luY0J1ZGdldFJlcXVlc3RJZCkK</text>
@@ -303,20 +299,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZmluYW5jZVJlcXVlc3RTdGFnZVNlcnZpY2VcPg==</last-search>
+      <last-search>stage</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZmluYW5jZVJlcXVlc3RTdGFnZVNlcnZpY2VcPg==</last-pattern>
+      <last-pattern>stage</last-pattern>
       <last-replace>requestId</last-replace>
       <last-substitute>orgSyncBudget</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Newton</entry>
-        <entry>name</entry>
-        <entry>Name</entry>
-        <entry encoding="base64">XDx0aW1lb3V0XD4=</entry>
         <entry encoding="base64">XDxyb3V0ZVBhcmFtc1w+</entry>
         <entry encoding="base64">XDx0b3RhbFNlcnZlckl0ZW1zXD4=</entry>
         <entry encoding="base64">XDxlbmdhZ2VXZWJSb290XD4=</entry>
@@ -333,6 +325,10 @@
         <entry encoding="base64">XDxzaG93RXhwb3J0TWVzc2FnZVw+</entry>
         <entry encoding="base64">XDxfc2Vzc2lvblw+</entry>
         <entry encoding="base64">XDxfZmluYW5jZVJlcXVlc3RTdGFnZVNlcnZpY2VcPg==</entry>
+        <entry>Stages</entry>
+        <entry encoding="base64">XDxTdGFnZXNcPg==</entry>
+        <entry encoding="base64">XDxTdGFnZVw+</entry>
+        <entry>stage</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
