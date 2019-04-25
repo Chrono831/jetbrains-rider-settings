@@ -15,21 +15,13 @@
         <mark key="." line="137" column="64" />
         <mark key="^" line="137" column="64" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Accounts/EnsureAccountExistsRequestHandler.cs" timestamp="1556201870963">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="45" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/GetOrgSyncBudgetRequestQuery.cs" timestamp="1556202340420">
         <mark key="[" line="27" column="70" />
         <mark key="]" line="27" column="91" />
         <mark key="^" line="27" column="91" />
         <mark key="." line="27" column="91" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" timestamp="1556201287618">
-        <mark key="'" line="66" column="31" />
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="198" column="76" />
-      </file>
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/PurchaseRequest.aspx" timestamp="1556211195925" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.organization/submissions.organization.router.js" timestamp="1556108022008">
         <mark key="[" line="12" column="23" />
         <mark key="]" line="12" column="52" />
@@ -60,10 +52,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="4" column="44" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/ICommunityPillarClient.cs" timestamp="1556033059922">
-        <mark key="[" line="13" column="53" />
-        <mark key="]" line="13" column="77" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" timestamp="1556130897735">
         <mark key="[" line="195" column="0" />
@@ -96,10 +84,6 @@
         <mark key="." line="158" column="65" />
         <mark key="^" line="158" column="65" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/SubmissionParams.cs" timestamp="1556130908610">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="51" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Cache/BudgetingCache.cs" timestamp="1556127908610">
         <mark key="[" line="36" column="22" />
         <mark key="]" line="36" column="22" />
@@ -119,6 +103,7 @@
         <mark key="^" line="7" column="39" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/IFinanceRequestStageService.cs" timestamp="1556211584687" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Web.config" timestamp="1556203319913">
         <mark key="[" line="46" column="54" />
         <mark key="]" line="46" column="75" />
@@ -135,10 +120,6 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" timestamp="1556121743983">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="50" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1556039971885">
         <mark key="[" line="191" column="17" />
@@ -175,13 +156,8 @@
         <mark key="^" line="30" column="19" />
         <mark key="." line="21" column="25" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8E576462-B971-4430-BC98-DBAC9658E612/a4/9c760145/OrgSyncBudgetRequestSearchParameters.cs" timestamp="1556108424828">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="35" column="41" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/templates/review.html" timestamp="1556121737156">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="36" />
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Controllers/Organization/FinanceController.cs" timestamp="1556211606077">
+        <mark key="'" line="44" column="53" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Web.Release.config" timestamp="1556133726124" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.config" timestamp="1556192687694">
@@ -195,10 +171,6 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="41" column="23" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/582A1809-5260-432C-BEF1-D338F8711E5B/17/f56afa3f/OrgSyncBudgetRequest.cs" timestamp="1556034012493">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="67" column="45" />
       </file>
     </filemarks>
     <jumps>
@@ -243,6 +215,7 @@
       <jump line="30" column="24" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Accounts/GetUserOrganizationsQuery.cs" />
       <jump line="20" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Accounts/GetUserOrganizationsQuery.cs" />
       <jump line="16" column="34" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Accounts/GetUserOrganizationsQuery.cs" />
+      <jump line="44" column="53" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Controllers/Organization/FinanceController.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -292,7 +265,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc2Vzc2lvblw+</text>
+        <text encoding="base64">XDxfZmluYW5jZVJlcXVlc3RTdGFnZVNlcnZpY2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgSW5jcmVtZW50RG93bmxvYWRDb3VudChpbnQgb3JnU3luY0J1ZGdldFJlcXVlc3RJZCkK</text>
@@ -329,9 +302,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfc2Vzc2lvblw+</last-search>
+      <last-search encoding="base64">XDxfZmluYW5jZVJlcXVlc3RTdGFnZVNlcnZpY2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc2Vzc2lvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxfZmluYW5jZVJlcXVlc3RTdGFnZVNlcnZpY2VcPg==</last-pattern>
       <last-replace>requestId</last-replace>
       <last-substitute>orgSyncBudget</last-substitute>
       <last-dir>-1</last-dir>
@@ -358,6 +331,7 @@
         <entry encoding="base64">XDx0b2dnbGVFeHBvcnRNZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxzaG93RXhwb3J0TWVzc2FnZVw+</entry>
         <entry encoding="base64">XDxfc2Vzc2lvblw+</entry>
+        <entry encoding="base64">XDxfZmluYW5jZVJlcXVlc3RTdGFnZVNlcnZpY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
