@@ -8,11 +8,11 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/BudgetingProcessValidator.cs" timestamp="1556563146518">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/BudgetingProcessValidator.cs" timestamp="1556563449491">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
         <mark key="^" line="42" column="65" />
-        <mark key="." line="28" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/PurchaseRequestRepository.cs" timestamp="1556552436502">
         <mark key="'" line="218" column="67" />
@@ -185,6 +185,10 @@
         <mark key="." line="10" column="29" />
         <mark key="^" line="10" column="29" />
       </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Budget/EntityFramework/Models/Database/DboProcess.cs" timestamp="1556563368056">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="25" column="40" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0780ae44-ab47-481f-b490-8cb951043537/console_2.sql" timestamp="1556545953642">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="41" column="33" />
@@ -207,6 +211,12 @@
         <mark key="]" line="37" column="55" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="26" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/BudgetingProcessSearchParameters.cs" timestamp="1556563555786">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="15" column="41" />
+        <mark key="^" line="15" column="19" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Startup.cs" timestamp="1556555280215">
         <mark key="[" line="51" column="94" />
@@ -234,8 +244,13 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="39" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556562851737">
+      <file name="/Dummy.txt" timestamp="1556564323489">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Models/BudgetingProcess.cs" timestamp="1556563748127">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="17" column="40" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/FinanceTransactionController.cs" timestamp="1556543540856">
         <mark key="[" line="40" column="41" />
@@ -253,9 +268,9 @@
         <mark key="]" line="33" column="55" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/FinanceAccountValidator.cs" timestamp="1556563175058">
-        <mark key="[" line="33" column="63" />
-        <mark key="]" line="33" column="69" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/FinanceAccountValidator.cs" timestamp="1556563446871">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="52" column="13" />
         <mark key="." line="33" column="69" />
         <mark key="^" line="33" column="69" />
       </file>
@@ -295,7 +310,7 @@
         <mark key="^" line="33" column="69" />
         <mark key="." line="33" column="69" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceStageRepository.cs" timestamp="1556551594484">
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceStageRepository.cs" timestamp="1556563698522">
         <mark key="[" line="156" column="0" />
         <mark key="]" line="159" column="13" />
         <mark key="^" line="200" column="28" />
@@ -311,6 +326,13 @@
         <mark key="]" line="9" column="49" />
         <mark key="^" line="9" column="49" />
         <mark key="." line="9" column="49" />
+      </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Budget/EntityFramework/Repositories/BudgetingProcessRepository.cs" timestamp="1556564250449">
+        <mark key="'" line="227" column="28" />
+        <mark key="[" line="237" column="19" />
+        <mark key="]" line="237" column="23" />
+        <mark key="." line="237" column="23" />
+        <mark key="^" line="237" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -341,60 +363,89 @@
       <jump line="128" column="67" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/PurchaseRequestRepository.cs" />
       <jump line="218" column="67" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/PurchaseRequestRepository.cs" />
       <jump line="43" column="45" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/FinanceCategoryValidator.cs" />
+      <jump line="118" column="9" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Budget/EntityFramework/Repositories/BudgetingProcessRepository.cs" />
+      <jump line="227" column="28" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Budget/EntityFramework/Repositories/BudgetingProcessRepository.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>kkkkVjjjyjjjjpk0wwwywj0wwwwwwwwwvepbywjj0wwwwwwwwwwwvepbywwwwwvepjj0</text>
+        <keys>
+          <key char="119" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+        </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Category</text>
+        <text>source</text>
       </register>
       <register name="-" type="4">
-        <text>Category</text>
+        <text>source</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb2RlbFw+</text>
+        <text>model</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGVsLklkID4gMCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGV4aXN0cyA9IF9kYkNvbnRleHQuR2V0UXVlcnlhYmxlPERib0ZpbmFuY2VDYXRlZ29yeT4oKQogICAgICAgICAgICAgICAgICAgIC5XaGVyZShtID0+IG0uQ29tbXVuaXR5SWQgPT0gY29tbXVuaXR5SWQpCiAgICAgICAgICAgICAgICAgICAgLkFueShtID0+IG0uSWQgPT0gbW9kZWwuSWQpOwogICAgICAgICAgICAgICAgaWYgKCFleGlzdHMpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdmFsaWRhdGlvblJlc3VsdC5BZGRFcnJvcihtID0+IG0uSWQsIFZhbGlkYXRpb25NZXNzYWdlLkRvZXNOb3RFeGlzdCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBpZiAoX2luc3RpdHV0aW9uID09IG51bGwgfHwgbW9kZWwuQ29tbXVuaXR5SWQgIT0gMCAmJiBtb2RlbC5Db21tdW5pdHlJZCAhPSBjb21tdW5pdHlJZCkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB2YWxpZGF0aW9uUmVzdWx0LkFkZEVycm9yKG0gPT4gbS5Db21tdW5pdHlJZCwgIkNvbW11bml0eUlkIGRvZXMgbm90IG1hdGNoIGV4aXN0aW5nIHZhbHVlIik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW5zdGl0dXRpb25JZCA9IF9pbnN0aXR1dGlvbi5JZCwKICAgICAgICAgICAgICAgICAgICAgICAgRGVsZXRlZCA9IG1vZGVsLkRlbGV0ZWQsCiAgICAgICAgICAgICAgICAgICAgICAgIElkID0gbW9kZWwuSWQsCiAgICAgICAgICAgICAgICAgICAgICAgIE5hbWUgPSBtb2RlbC5OYW1lLAogICAgICAgICAgICAgICAgICAgICAgICBEZXNjcmlwdGlvbiA9IG1vZGVsLkRlc2NyaXB0aW9uLAogICAgICAgICAgICAgICAgICAgICAgICBPcGVuRGF0ZSA9IG1vZGVsLk9wZW5EYXRlLAogICAgICAgICAgICAgICAgICAgICAgICBDbG9zZURhdGUgPSBtb2RlbC5DbG9zZURhdGUsCiAgICAgICAgICAgICAgICAgICAgICAgIElzQnVkZ2V0RW5hYmxlZFByb2Nlc3MgPSBtb2RlbC5Jc0J1ZGdldEVuYWJsZWRQcm9jZXNzLAogICAgICAgICAgICAgICAgICAgICAgICBQcm9qZWN0SWQgPSBtb2RlbC5Qcm9qZWN0SWQsCiAgICAgICAgICAgICAgICAgICAgICAgIFN1Ym1pc3Npb25Tb3VyY2UgPSBtb2RlbC5TdWJtaXNzaW9uU291cmNlLAogICAgICAgICAgICAgICAgICAgICAgICBBY3RpdmUgPSBtb2RlbC5BY3RpdmUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGVsLklkID4gMCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGV4aXN0cyA9IF9kYkNvbnRleHQuR2V0UXVlcnlhYmxlPERib0ZpbmFuY2VBY2NvdW50PigpCiAgICAgICAgICAgICAgICAgICAgLkFueShtID0+IG0uSWQgPT0gbW9kZWwuSWQpOwogICAgICAgICAgICAgICAgaWYgKCFleGlzdHMpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdmFsaWRhdGlvblJlc3VsdC5BZGRFcnJvcihtID0+IG0uSWQsIFZhbGlkYXRpb25NZXNzYWdlLkRvZXNOb3RFeGlzdCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmIChfaW5zdGl0dXRpb24gPT0gbnVsbCB8fCBtb2RlbC5Db21tdW5pdHlJZCAhPSBjb21tdW5pdHlJZCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFsaWRhdGlvblJlc3VsdC5BZGRFcnJvcihtID0+IG0uQ29tbXVuaXR5SWQsIFZhbGlkYXRpb25NZXNzYWdlLklzUmVxdWlyZWQpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">IC8vVE9ETyAtLSBzZXQga2V5cwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbCBBY3RpdmUgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGVsLklkID4gMCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGV4aXN0cyA9IF9kYkNvbnRleHQuR2V0UXVlcnlhYmxlPERib1Byb2Nlc3M+KCkKICAgICAgICAgICAgICAgICAgICAuQW55KG0gPT4gbS5JZCA9PSBtb2RlbC5JZCk7CiAgICAgICAgICAgICAgICBpZiAoIWV4aXN0cykKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB2YWxpZGF0aW9uUmVzdWx0LkFkZEVycm9yKG0gPT4gbS5JZCwgVmFsaWRhdGlvbk1lc3NhZ2UuRG9lc05vdEV4aXN0KTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKF9pbnN0aXR1dGlvbiA9PSBudWxsIHx8IG1vZGVsLkluc3RpdHV0aW9uSWQgIT0gX2luc3RpdHV0aW9uLklkKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YWxpZGF0aW9uUmVzdWx0LkFkZEVycm9yKG0gPT4gbS5JbnN0aXR1dGlvbklkLCBWYWxpZGF0aW9uTWVzc2FnZS5Jc1JlcXVpcmVkKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFN1Ym1pc3Npb25Tb3VyY2UgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGVsLklkID4gMCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGV4aXN0cyA9IF9kYkNvbnRleHQuR2V0UXVlcnlhYmxlPERib0ZpbmFuY2VSZXF1ZXN0PigpCiAgICAgICAgICAgICAgICAgICAgLkFueShtID0+IG0uSWQgPT0gbW9kZWwuSWQpOwogICAgICAgICAgICAgICAgaWYgKCFleGlzdHMpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdmFsaWRhdGlvblJlc3VsdC5BZGRFcnJvcihtID0+IG0uSWQsIFZhbGlkYXRpb25NZXNzYWdlLkRvZXNOb3RFeGlzdCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmIChfaW5zdGl0dXRpb24gPT0gbnVsbCB8fCBtb2RlbC5Db21tdW5pdHlJZCAhPSBjb21tdW5pdHlJZCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFsaWRhdGlvblJlc3VsdC5BZGRFcnJvcihtID0+IG0uQ29tbXVuaXR5SWQsIFZhbGlkYXRpb25NZXNzYWdlLklzUmVxdWlyZWQpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50PyBQcm9qZWN0SWQgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbCBJc0J1ZGdldEVuYWJsZWRQcm9jZXNzIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGVsLklkID4gMCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGV4aXN0cyA9IF9kYkNvbnRleHQuR2V0UXVlcnlhYmxlPERib0ZpbmFuY2VSZXF1ZXN0PigpCiAgICAgICAgICAgICAgICAgICAgLkFueShtID0+IG0uSWQgPT0gbW9kZWwuSWQpOwogICAgICAgICAgICAgICAgaWYgKCFleGlzdHMpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdmFsaWRhdGlvblJlc3VsdC5BZGRFcnJvcihtID0+IG0uSWQsIFZhbGlkYXRpb25NZXNzYWdlLkRvZXNOb3RFeGlzdCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmIChfaW5zdGl0dXRpb24gPT0gbnVsbCB8fCBtb2RlbC5Db21tdW5pdHlJZCAhPSBjb21tdW5pdHlJZCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFsaWRhdGlvblJlc3VsdC5BZGRFcnJvcihtID0+IG0uQ29tbXVuaXR5SWQsIFZhbGlkYXRpb25NZXNzYWdlLklzUmVxdWlyZWQpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGF0ZVRpbWU/IENsb3NlRGF0ZSB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGF0ZVRpbWU/IE9wZW5EYXRlIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGVsLklkID4gMCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGV4aXN0cyA9IF9kYkNvbnRleHQuR2V0UXVlcnlhYmxlPERib0ZpbmFuY2VUeXBlPigpCiAgICAgICAgICAgICAgICAgICAgLkFueShtID0+IG0uSWQgPT0gbW9kZWwuSWQpOwogICAgICAgICAgICAgICAgaWYgKCFleGlzdHMpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdmFsaWRhdGlvblJlc3VsdC5BZGRFcnJvcihtID0+IG0uSWQsIFZhbGlkYXRpb25NZXNzYWdlLkRvZXNOb3RFeGlzdCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmIChfaW5zdGl0dXRpb24gPT0gbnVsbCB8fCBtb2RlbC5Db21tdW5pdHlJZCAhPSBjb21tdW5pdHlJZCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFsaWRhdGlvblJlc3VsdC5BZGRFcnJvcihtID0+IG0uQ29tbXVuaXR5SWQsIFZhbGlkYXRpb25NZXNzYWdlLklzUmVxdWlyZWQpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIERlc2NyaXB0aW9uIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIE5hbWUgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>.,+10s/model/source</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb2RlbFw+</last-search>
+      <last-search>model</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb2RlbFw+</last-pattern>
-      <last-replace>;</last-replace>
-      <last-substitute>,</last-substitute>
+      <last-pattern>model</last-pattern>
+      <last-replace>source</last-replace>
+      <last-substitute>model</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -403,18 +454,15 @@
         <entry encoding="base64">XDxub3RcPg==</entry>
         <entry>Deleted</entry>
         <entry>;</entry>
-        <entry>model</entry>
-        <entry>=</entry>
-        <entry>,</entry>
         <entry encoding="base64">XDxUcmFuc2FjdGlvblw+</entry>
         <entry>transaction</entry>
         <entry>Transaction</entry>
         <entry encoding="base64">XDxtb2RlbFw+</entry>
+        <entry>,</entry>
+        <entry>=</entry>
+        <entry>model</entry>
       </history-search>
       <history-cmd>
-        <entry>.,+3s/Deleted/DateCreated/g</entry>
-        <entry>.,+3s/Deleted/DeletedById/g</entry>
-        <entry>.,+3s/Deleted/DateDeleted/g</entry>
         <entry>.,+18s/;/,</entry>
         <entry>.,+18s/model/source</entry>
         <entry>137,159s/=/==</entry>
@@ -425,13 +473,16 @@
         <entry>.,419s/model/source</entry>
         <entry>$</entry>
         <entry>.,174s/=/==/</entry>
-        <entry>144</entry>
         <entry encoding="base64">LiwxNzRzLywvIFwmXCYv</entry>
         <entry>.,214s/,/;/</entry>
         <entry>42</entry>
         <entry>46</entry>
         <entry>32</entry>
         <entry>q</entry>
+        <entry encoding="base64">LiwrMTBzLywvIFwmXCYv</entry>
+        <entry>.,+10s/=/==/</entry>
+        <entry>144</entry>
+        <entry>.,+10s/model/source</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
