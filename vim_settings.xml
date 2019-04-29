@@ -23,6 +23,9 @@
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/PurchaseRequest.aspx" timestamp="1556211195925" />
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Search/Finance/FinanceRequestStageCriteria.cs" timestamp="1556214351397" />
+      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Web.config" timestamp="1556540909832">
+        <mark key="'" line="183" column="47" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.organization/submissions.organization.router.js" timestamp="1556108022008">
         <mark key="[" line="12" column="23" />
         <mark key="]" line="12" column="52" />
@@ -219,6 +222,10 @@
       <jump line="185" column="37" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Position.cs" />
       <jump line="186" column="31" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Position.cs" />
       <jump line="177" column="61" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Position.cs" />
+      <jump line="56" column="72" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Web.config" />
+      <jump line="88" column="69" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Web.config" />
+      <jump line="128" column="45" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Web.config" />
+      <jump line="183" column="47" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Web.config" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -268,7 +275,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>stage</text>
+        <text>collegiatelink-dev</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgSW5jcmVtZW50RG93bmxvYWRDb3VudChpbnQgb3JnU3luY0J1ZGdldFJlcXVlc3RJZCkK</text>
@@ -305,9 +312,9 @@
       </register>
     </registers>
     <search>
-      <last-search>stage</last-search>
+      <last-search>collegiatelink-dev</last-search>
       <last-offset />
-      <last-pattern>stage</last-pattern>
+      <last-pattern>collegiatelink-dev</last-pattern>
       <last-replace>requestId</last-replace>
       <last-substitute>orgSyncBudget</last-substitute>
       <last-dir>1</last-dir>
@@ -315,7 +322,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyb3V0ZVBhcmFtc1w+</entry>
         <entry encoding="base64">XDx0b3RhbFNlcnZlckl0ZW1zXD4=</entry>
         <entry encoding="base64">XDxlbmdhZ2VXZWJSb290XD4=</entry>
         <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
@@ -335,6 +341,7 @@
         <entry encoding="base64">XDxTdGFnZXNcPg==</entry>
         <entry encoding="base64">XDxTdGFnZVw+</entry>
         <entry>stage</entry>
+        <entry>collegiatelink-dev</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
