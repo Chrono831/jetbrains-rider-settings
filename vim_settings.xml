@@ -2,9 +2,40 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0780ae44-ab47-481f-b490-8cb951043537/console_1.sql" timestamp="1556541030892">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="30" column="22" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1556540965014">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/FinanceStageController.cs" timestamp="1556540235078">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Models/Database/DboFinanceStage.cs" timestamp="1556540287529">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+      </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Models/FinanceAccount.cs" timestamp="1556541058831">
+        <mark key="[" line="9" column="74" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">CUZpbmFuY2VBY2NvdW50SWQgaW50IGlkZW50aXR5CgkJY29uc3RyYWludCBQS19GaW5hbmNlQWNjb3VudAoJCQlwcmltYXJ5IGtleSwKCUNvbW11bml0eUlkIGludCBub3QgbnVsbAoJCWNvbnN0cmFpbnQgRktfRmluYW5jZUFjY291bnRfQ29tbXVuaXR5CgkJCXJlZmVyZW5jZXMgQ29tbXVuaXR5LAoJTmFtZSBudmFyY2hhcigyNTUpIG5vdCBudWxsLAoJRGVzY3JpcHRpb24gbnZhcmNoYXIoMjU1KSwKCUFsbG9jYXRlZEZ1bmRzIG1vbmV5LAoJQXZhaWxhYmxlRnVuZHMgbW9uZXksCglSZXF1ZXN0ZWRGdW5kcyBtb25leSwKCUVuYWJsZWQgYml0LAoJUGFyZW50QWNjb3VudElkIGludAoJCWNvbnN0cmFpbnQgRktfRmluYW5jZUFjY291bnRfUGFyZW50QWNjb3VudAoJCQlyZWZlcmVuY2VzIEZpbmFuY2VBY2NvdW50LAoJT3duZXJJZCBpbnQsCglEZWxldGVkIGJpdCBkZWZhdWx0IDAgbm90IG51bGwsCglFeHRlcm5hbEFjY291bnRJZCBudmFyY2hhcig1NSksCglMZWdhY3lLZXkgaW50LAoJUHJldmlvdXNBbGxvY2F0ZWRGdW5kcyBtb25leSwKCVByZXZpb3VzQXZhaWxhYmxlRnVuZHMgbW9uZXksCglQcmV2aW91c1JlcXVlc3RlZEZ1bmRzIG1vbmV5LAoJRmluYW5jZUNoYW5nZUxvZ0lkIGludAoJCWNvbnN0cmFpbnQgRktfRmluYW5jZUFjY291bnRfRmluYW5jZUNoYW5nZUxvZwoJCQlyZWZlcmVuY2VzIEZpbmFuY2VDaGFuZ2VMb2csCglDcmVhdGVkQnlJZCBpbnQsCglEYXRlQ3JlYXRlZCBkYXRldGltZSwKCURlbGV0ZWRCeUlkIGludCwKCURhdGVEZWxldGVkIGRhdGV0aW1lCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CUZpbmFuY2VBY2NvdW50SWQgaW50IGlkZW50aXR5CgkJY29uc3RyYWludCBQS19GaW5hbmNlQWNjb3VudAoJCQlwcmltYXJ5IGtleSwKCUNvbW11bml0eUlkIGludCBub3QgbnVsbAoJCWNvbnN0cmFpbnQgRktfRmluYW5jZUFjY291bnRfQ29tbXVuaXR5CgkJCXJlZmVyZW5jZXMgQ29tbXVuaXR5LAoJTmFtZSBudmFyY2hhcigyNTUpIG5vdCBudWxsLAoJRGVzY3JpcHRpb24gbnZhcmNoYXIoMjU1KSwKCUFsbG9jYXRlZEZ1bmRzIG1vbmV5LAoJQXZhaWxhYmxlRnVuZHMgbW9uZXksCglSZXF1ZXN0ZWRGdW5kcyBtb25leSwKCUVuYWJsZWQgYml0LAoJUGFyZW50QWNjb3VudElkIGludAoJCWNvbnN0cmFpbnQgRktfRmluYW5jZUFjY291bnRfUGFyZW50QWNjb3VudAoJCQlyZWZlcmVuY2VzIEZpbmFuY2VBY2NvdW50LAoJT3duZXJJZCBpbnQsCglEZWxldGVkIGJpdCBkZWZhdWx0IDAgbm90IG51bGwsCglFeHRlcm5hbEFjY291bnRJZCBudmFyY2hhcig1NSksCglMZWdhY3lLZXkgaW50LAoJUHJldmlvdXNBbGxvY2F0ZWRGdW5kcyBtb25leSwKCVByZXZpb3VzQXZhaWxhYmxlRnVuZHMgbW9uZXksCglQcmV2aW91c1JlcXVlc3RlZEZ1bmRzIG1vbmV5LAoJRmluYW5jZUNoYW5nZUxvZ0lkIGludAoJCWNvbnN0cmFpbnQgRktfRmluYW5jZUFjY291bnRfRmluYW5jZUNoYW5nZUxvZwoJCQlyZWZlcmVuY2VzIEZpbmFuY2VDaGFuZ2VMb2csCglDcmVhdGVkQnlJZCBpbnQsCglEYXRlQ3JlYXRlZCBkYXRldGltZSwKCURlbGV0ZWRCeUlkIGludCwKCURhdGVEZWxldGVkIGRhdGV0aW1lCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>e</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
