@@ -8,6 +8,12 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/BudgetingProcessValidator.cs" timestamp="1556563146518">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="42" column="65" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/PurchaseRequestRepository.cs" timestamp="1556552436502">
         <mark key="'" line="218" column="67" />
         <mark key="[" line="136" column="22" />
@@ -29,6 +35,12 @@
       </file>
       <file name="/Dummy.cs" timestamp="1556558862303">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/FundingRequestValidator.cs" timestamp="1556563020065">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="33" column="69" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Models/FinanceType.cs" timestamp="1556548996591">
         <mark key="[" line="9" column="0" />
@@ -53,6 +65,16 @@
         <mark key="]" line="12" column="52" />
         <mark key="." line="12" column="52" />
         <mark key="^" line="5" column="23" />
+      </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinanceCategoryService.cs" timestamp="1556562822938">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/FinanceTransactionValidator.cs" timestamp="1556562960426">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Models/Database/DboFinanceType.cs" timestamp="1556549035819">
         <mark key="[" line="14" column="0" />
@@ -107,17 +129,18 @@
         <mark key="." line="19" column="43" />
         <mark key="^" line="24" column="43" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/FinanceCategoryValidator.cs" timestamp="1556561237549">
-        <mark key="[" line="31" column="24" />
-        <mark key="]" line="31" column="35" />
-        <mark key="^" line="31" column="35" />
-        <mark key="." line="31" column="35" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/FinanceCategoryValidator.cs" timestamp="1556563161662">
+        <mark key="'" line="43" column="45" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="47" column="13" />
+        <mark key="^" line="43" column="104" />
+        <mark key="." line="43" column="104" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/FinanceStageValidator.cs" timestamp="1556551994934">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="54" column="13" />
-        <mark key="." line="45" column="11" />
-        <mark key="^" line="45" column="11" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/FinanceStageValidator.cs" timestamp="1556562915568">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="33" column="67" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/FundingRequestController.cs" timestamp="1556552594930">
         <mark key="[" line="11" column="59" />
@@ -211,11 +234,30 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="39" column="13" />
       </file>
+      <file name="/Dummy.txt" timestamp="1556562851737">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/FinanceTransactionController.cs" timestamp="1556543540856">
         <mark key="[" line="40" column="41" />
         <mark key="]" line="40" column="46" />
         <mark key="." line="40" column="46" />
         <mark key="^" line="40" column="46" />
+      </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/FinanceTypeValidator.cs" timestamp="1556562991606">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/FinanceTransactionSearchParameters.cs" timestamp="1556547113808">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="33" column="55" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/FinanceAccountValidator.cs" timestamp="1556563175058">
+        <mark key="[" line="33" column="63" />
+        <mark key="]" line="33" column="69" />
+        <mark key="." line="33" column="69" />
+        <mark key="^" line="33" column="69" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/FinanceAccountSearchParameters.cs" timestamp="1556542723318">
         <mark key="[" line="12" column="0" />
@@ -247,17 +289,28 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="13" column="22" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/PurchaseRequestValidator.cs" timestamp="1556552402844">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="60" column="11" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/PurchaseRequestValidator.cs" timestamp="1556563052496">
+        <mark key="[" line="33" column="63" />
+        <mark key="]" line="33" column="69" />
+        <mark key="^" line="33" column="69" />
+        <mark key="." line="33" column="69" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceStageRepository.cs" timestamp="1556551594484">
         <mark key="[" line="156" column="0" />
         <mark key="]" line="159" column="13" />
         <mark key="^" line="200" column="28" />
         <mark key="." line="203" column="28" />
+      </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/FinanceTypeSearchParameters.cs" timestamp="1556549126443">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="44" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Models/FinanceCategory.cs" timestamp="1556562339900">
+        <mark key="[" line="9" column="41" />
+        <mark key="]" line="9" column="49" />
+        <mark key="^" line="9" column="49" />
+        <mark key="." line="9" column="49" />
       </file>
     </filemarks>
     <jumps>
@@ -287,61 +340,62 @@
       <jump line="182" column="0" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/PurchaseRequestRepository.cs" />
       <jump line="128" column="67" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/PurchaseRequestRepository.cs" />
       <jump line="218" column="67" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/PurchaseRequestRepository.cs" />
+      <jump line="43" column="45" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/FinanceCategoryValidator.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>kkkkVjjjyjjjjpk0wwwywj0wwwwwwwwwvepbywjj0wwwwwwwwwwwvepbywwwwwvepjj0</text>
       </register>
       <register name="&quot;" type="4">
-        <text>model.Id</text>
+        <text>Category</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Category</text>
       </register>
       <register name="/" type="4">
-        <text>Transaction</text>
+        <text encoding="base64">XDxtb2RlbFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>model.Id</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGVsLklkID4gMCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGV4aXN0cyA9IF9kYkNvbnRleHQuR2V0UXVlcnlhYmxlPERib0ZpbmFuY2VDYXRlZ29yeT4oKQogICAgICAgICAgICAgICAgICAgIC5XaGVyZShtID0+IG0uQ29tbXVuaXR5SWQgPT0gY29tbXVuaXR5SWQpCiAgICAgICAgICAgICAgICAgICAgLkFueShtID0+IG0uSWQgPT0gbW9kZWwuSWQpOwogICAgICAgICAgICAgICAgaWYgKCFleGlzdHMpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdmFsaWRhdGlvblJlc3VsdC5BZGRFcnJvcihtID0+IG0uSWQsIFZhbGlkYXRpb25NZXNzYWdlLkRvZXNOb3RFeGlzdCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBpZiAoX2luc3RpdHV0aW9uID09IG51bGwgfHwgbW9kZWwuQ29tbXVuaXR5SWQgIT0gMCAmJiBtb2RlbC5Db21tdW5pdHlJZCAhPSBjb21tdW5pdHlJZCkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB2YWxpZGF0aW9uUmVzdWx0LkFkZEVycm9yKG0gPT4gbS5Db21tdW5pdHlJZCwgIkNvbW11bml0eUlkIGRvZXMgbm90IG1hdGNoIGV4aXN0aW5nIHZhbHVlIik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGVsLklkID4gMCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGV4aXN0cyA9IF9kYkNvbnRleHQuR2V0UXVlcnlhYmxlPERib0ZpbmFuY2VBY2NvdW50PigpCiAgICAgICAgICAgICAgICAgICAgLkFueShtID0+IG0uSWQgPT0gbW9kZWwuSWQpOwogICAgICAgICAgICAgICAgaWYgKCFleGlzdHMpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdmFsaWRhdGlvblJlc3VsdC5BZGRFcnJvcihtID0+IG0uSWQsIFZhbGlkYXRpb25NZXNzYWdlLkRvZXNOb3RFeGlzdCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmIChfaW5zdGl0dXRpb24gPT0gbnVsbCB8fCBtb2RlbC5Db21tdW5pdHlJZCAhPSBjb21tdW5pdHlJZCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFsaWRhdGlvblJlc3VsdC5BZGRFcnJvcihtID0+IG0uQ29tbXVuaXR5SWQsIFZhbGlkYXRpb25NZXNzYWdlLklzUmVxdWlyZWQpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9pbnN0aXR1dGlvbiA9PSBudWxsIHx8IG1vZGVsLkNvbW11bml0eUlkICE9IGNvbW11bml0eUlkKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YWxpZGF0aW9uUmVzdWx0LkFkZEVycm9yKG0gPT4gbS5Db21tdW5pdHlJZCwgVmFsaWRhdGlvbk1lc3NhZ2UuSXNSZXF1aXJlZCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGVsLklkID4gMCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGV4aXN0cyA9IF9kYkNvbnRleHQuR2V0UXVlcnlhYmxlPERib1Byb2Nlc3M+KCkKICAgICAgICAgICAgICAgICAgICAuQW55KG0gPT4gbS5JZCA9PSBtb2RlbC5JZCk7CiAgICAgICAgICAgICAgICBpZiAoIWV4aXN0cykKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB2YWxpZGF0aW9uUmVzdWx0LkFkZEVycm9yKG0gPT4gbS5JZCwgVmFsaWRhdGlvbk1lc3NhZ2UuRG9lc05vdEV4aXN0KTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKF9pbnN0aXR1dGlvbiA9PSBudWxsIHx8IG1vZGVsLkluc3RpdHV0aW9uSWQgIT0gX2luc3RpdHV0aW9uLklkKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YWxpZGF0aW9uUmVzdWx0LkFkZEVycm9yKG0gPT4gbS5JbnN0aXR1dGlvbklkLCBWYWxpZGF0aW9uTWVzc2FnZS5Jc1JlcXVpcmVkKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9pbnN0aXR1dGlvbiA9PSBudWxsIHx8IG1vZGVsLkNvbW11bml0eUlkICE9IGNvbW11bml0eUlkKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YWxpZGF0aW9uUmVzdWx0LkFkZEVycm9yKG0gPT4gbS5Db21tdW5pdHlJZCwgVmFsaWRhdGlvbk1lc3NhZ2UuSXNSZXF1aXJlZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGVsLklkID4gMCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGV4aXN0cyA9IF9kYkNvbnRleHQuR2V0UXVlcnlhYmxlPERib0ZpbmFuY2VSZXF1ZXN0PigpCiAgICAgICAgICAgICAgICAgICAgLkFueShtID0+IG0uSWQgPT0gbW9kZWwuSWQpOwogICAgICAgICAgICAgICAgaWYgKCFleGlzdHMpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdmFsaWRhdGlvblJlc3VsdC5BZGRFcnJvcihtID0+IG0uSWQsIFZhbGlkYXRpb25NZXNzYWdlLkRvZXNOb3RFeGlzdCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmIChfaW5zdGl0dXRpb24gPT0gbnVsbCB8fCBtb2RlbC5Db21tdW5pdHlJZCAhPSBjb21tdW5pdHlJZCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFsaWRhdGlvblJlc3VsdC5BZGRFcnJvcihtID0+IG0uQ29tbXVuaXR5SWQsIFZhbGlkYXRpb25NZXNzYWdlLklzUmVxdWlyZWQpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQ29ubmVjdFR5cGVzPE1lc3NhZ2VTZW5kZXJCYXNlPigpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGVsLklkID4gMCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGV4aXN0cyA9IF9kYkNvbnRleHQuR2V0UXVlcnlhYmxlPERib0ZpbmFuY2VSZXF1ZXN0PigpCiAgICAgICAgICAgICAgICAgICAgLkFueShtID0+IG0uSWQgPT0gbW9kZWwuSWQpOwogICAgICAgICAgICAgICAgaWYgKCFleGlzdHMpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdmFsaWRhdGlvblJlc3VsdC5BZGRFcnJvcihtID0+IG0uSWQsIFZhbGlkYXRpb25NZXNzYWdlLkRvZXNOb3RFeGlzdCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmIChfaW5zdGl0dXRpb24gPT0gbnVsbCB8fCBtb2RlbC5Db21tdW5pdHlJZCAhPSBjb21tdW5pdHlJZCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFsaWRhdGlvblJlc3VsdC5BZGRFcnJvcihtID0+IG0uQ29tbXVuaXR5SWQsIFZhbGlkYXRpb25NZXNzYWdlLklzUmVxdWlyZWQpOwogICAgICAgICAgICB9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGVsLlJlcXVlc3ROdW1iZXIgPCAwKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YWxpZGF0aW9uUmVzdWx0LkFkZEVycm9yKG0gPT4gbS5SZXF1ZXN0TnVtYmVyLCBWYWxpZGF0aW9uTWVzc2FnZS5Jc1JlcXVpcmVkKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGVsLklkID4gMCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGV4aXN0cyA9IF9kYkNvbnRleHQuR2V0UXVlcnlhYmxlPERib0ZpbmFuY2VUeXBlPigpCiAgICAgICAgICAgICAgICAgICAgLkFueShtID0+IG0uSWQgPT0gbW9kZWwuSWQpOwogICAgICAgICAgICAgICAgaWYgKCFleGlzdHMpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdmFsaWRhdGlvblJlc3VsdC5BZGRFcnJvcihtID0+IG0uSWQsIFZhbGlkYXRpb25NZXNzYWdlLkRvZXNOb3RFeGlzdCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmIChfaW5zdGl0dXRpb24gPT0gbnVsbCB8fCBtb2RlbC5Db21tdW5pdHlJZCAhPSBjb21tdW5pdHlJZCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFsaWRhdGlvblJlc3VsdC5BZGRFcnJvcihtID0+IG0uQ29tbXVuaXR5SWQsIFZhbGlkYXRpb25NZXNzYWdlLklzUmVxdWlyZWQpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFJlcXVlc3ROdW1iZXIgeyBnZXQ7IHNldDsgfSAvL2ludCBkZWZhdWx0IDAgbm90IG51bGwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>32</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>Transaction</last-search>
+      <last-search encoding="base64">XDxtb2RlbFw+</last-search>
       <last-offset />
-      <last-pattern>Transaction</last-pattern>
+      <last-pattern encoding="base64">XDxtb2RlbFw+</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>,</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -355,6 +409,7 @@
         <entry encoding="base64">XDxUcmFuc2FjdGlvblw+</entry>
         <entry>transaction</entry>
         <entry>Transaction</entry>
+        <entry encoding="base64">XDxtb2RlbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>.,+3s/Deleted/DateCreated/g</entry>
@@ -375,8 +430,8 @@
         <entry>.,214s/,/;/</entry>
         <entry>42</entry>
         <entry>46</entry>
-        <entry>q</entry>
         <entry>32</entry>
+        <entry>q</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
