@@ -9,6 +9,13 @@
         <mark key="^" line="42" column="65" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/PurchaseRequestRepository.cs" timestamp="1556566567135">
+        <mark key="'" line="283" column="12" />
+        <mark key="[" line="317" column="94" />
+        <mark key="]" line="317" column="99" />
+        <mark key="^" line="317" column="99" />
+        <mark key="." line="317" column="99" />
+      </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/FinanceTypeController.cs" timestamp="1556543556607">
         <mark key="[" line="40" column="41" />
         <mark key="]" line="40" column="46" />
@@ -54,6 +61,19 @@
         <mark key="." line="40" column="19" />
         <mark key="^" line="40" column="19" />
       </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/FinanceTransactionDepositController.cs" timestamp="1556638804069">
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="11" column="35" />
+        <mark key="^" line="10" column="30" />
+        <mark key="." line="11" column="35" />
+      </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/FinanceDepositSearchParameters.cs" timestamp="1556639757447">
+        <mark key="'" line="14" column="25" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="8" column="7" />
+      </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Models/Database/DboFinanceType.cs" timestamp="1556549035819">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="44" />
@@ -73,6 +93,9 @@
         <mark key="." line="45" column="9" />
         <mark key="^" line="45" column="9" />
       </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Models/Database/DboFinanceAccount.cs" timestamp="1556640511077">
+        <mark key="'" line="40" column="29" />
+      </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/FinanceStageController.cs" timestamp="1556567629470">
         <mark key="[" line="45" column="9" />
         <mark key="]" line="45" column="9" />
@@ -85,6 +108,12 @@
         <mark key="^" line="13" column="29" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Models/FinanceDeposit.cs" timestamp="1556639615696">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="23" column="54" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="15" column="7" />
+      </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/PurchaseRequestController.cs" timestamp="1556567655145">
         <mark key="[" line="45" column="9" />
         <mark key="]" line="45" column="9" />
@@ -96,6 +125,13 @@
         <mark key="]" line="40" column="19" />
         <mark key="." line="40" column="19" />
         <mark key="^" line="40" column="19" />
+      </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/FinanceCategoryValidator.cs" timestamp="1556563161662">
+        <mark key="'" line="43" column="45" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="47" column="13" />
+        <mark key="^" line="43" column="104" />
+        <mark key="." line="43" column="104" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/FinanceStageValidator.cs" timestamp="1556562915568">
         <mark key="[" line="31" column="0" />
@@ -121,17 +157,24 @@
         <mark key="." line="19" column="18" />
         <mark key="^" line="19" column="18" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0780ae44-ab47-481f-b490-8cb951043537/console.sql" timestamp="1556632567145">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="32" />
-        <mark key="." line="3" column="32" />
-        <mark key="^" line="3" column="32" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0780ae44-ab47-481f-b490-8cb951043537/console.sql" timestamp="1556640607222">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="28" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/FundingRequestSearchParameters.cs" timestamp="1556566424449">
         <mark key="[" line="26" column="15" />
         <mark key="]" line="26" column="18" />
         <mark key="." line="26" column="18" />
         <mark key="^" line="26" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceAccountRepository.cs" timestamp="1556542806935">
+        <mark key="'" line="292" column="28" />
+        <mark key="[" line="311" column="0" />
+        <mark key="]" line="311" column="0" />
+        <mark key="^" line="233" column="54" />
+        <mark key="." line="311" column="0" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/FinanceStageSearchParameters.cs" timestamp="1556544496873">
         <mark key="[" line="7" column="0" />
@@ -169,8 +212,21 @@
         <mark key="." line="187" column="43" />
         <mark key="^" line="187" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556629440088">
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FundingRequestRepository.cs" timestamp="1556566360566">
+        <mark key="'" line="210" column="53" />
+        <mark key="[" line="317" column="94" />
+        <mark key="]" line="317" column="99" />
+        <mark key="^" line="317" column="99" />
+        <mark key="." line="317" column="99" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1556638710653">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/FinanceDepositValidator.cs" timestamp="1556640702492">
+        <mark key="[" line="57" column="57" />
+        <mark key="]" line="57" column="84" />
+        <mark key="." line="57" column="84" />
+        <mark key="^" line="57" column="84" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/FinanceTransactionController.cs" timestamp="1556567638335">
         <mark key="[" line="45" column="9" />
@@ -226,6 +282,13 @@
         <mark key="^" line="200" column="28" />
         <mark key="." line="203" column="28" />
       </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Budget/EntityFramework/Repositories/BudgetingProcessRepository.cs" timestamp="1556564250449">
+        <mark key="'" line="227" column="28" />
+        <mark key="[" line="237" column="19" />
+        <mark key="]" line="237" column="23" />
+        <mark key="." line="237" column="23" />
+        <mark key="^" line="237" column="23" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="5" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0780ae44-ab47-481f-b490-8cb951043537/console_1.sql" />
@@ -262,6 +325,20 @@
       <jump line="173" column="58" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FundingRequestRepository.cs" />
       <jump line="210" column="53" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FundingRequestRepository.cs" />
       <jump line="283" column="12" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/PurchaseRequestRepository.cs" />
+      <jump line="18" column="20" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/FinanceDepositSearchParameters.cs" />
+      <jump line="22" column="20" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/FinanceDepositSearchParameters.cs" />
+      <jump line="26" column="19" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/FinanceDepositSearchParameters.cs" />
+      <jump line="21" column="20" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/FinanceDepositSearchParameters.cs" />
+      <jump line="14" column="22" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/FinanceDepositSearchParameters.cs" />
+      <jump line="15" column="22" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/FinanceDepositSearchParameters.cs" />
+      <jump line="27" column="20" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/FinanceDepositSearchParameters.cs" />
+      <jump line="20" column="20" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/FinanceDepositSearchParameters.cs" />
+      <jump line="10" column="21" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/FinanceDepositSearchParameters.cs" />
+      <jump line="25" column="25" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/FinanceDepositSearchParameters.cs" />
+      <jump line="13" column="25" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/FinanceDepositSearchParameters.cs" />
+      <jump line="9" column="24" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Models/Database/DboFinanceAccount.cs" />
+      <jump line="39" column="20" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Models/Database/DboFinanceAccount.cs" />
+      <jump line="40" column="29" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Models/Database/DboFinanceAccount.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -294,53 +371,53 @@
           <key char="100" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>AutoApprove</text>
+        <text>Deleted</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvKiBUT0RPIC0gZW5hYmxlIG9uY2UgYWxsIHJlcXVpcmVtZW50cyBzZXR1cAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGVsLkFtb3VudCA8IDApCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhbGlkYXRpb25SZXN1bHQuQWRkRXJyb3IobSA9PiBtLkFtb3VudCwgIkFtb3VudCBtdXN0IGJlIGEgcG9zaXRpdmUgdmFsdWUiKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGVsLkZpbmFuY2VUeXBlSWQgPCAwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaGVyZShtID0+IG0uVHJhbnNhY3Rpb25UeXBlID09ICJEZXBvc2l0IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9hZGRlZCBmb3IgaW1wb3J0ZWQgZmluYW5jZSB0cmFuc2FjdGlvbiBTWVMtNDAwMwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIFRyYW5zYWN0aW9uVHlwZSB7IGdldDsgc2V0OyB9ID0gIkRlcG9zaXQiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGF0ZVRpbWU/IFRyYW5zYWN0aW9uRGF0ZSB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgbG9uZz8gVHJhbnNhY3Rpb25OdW1iZXIgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>62</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>AutoApprove</last-search>
+      <last-search>Deleted</last-search>
       <last-offset />
-      <last-pattern>AutoApprove</last-pattern>
+      <last-pattern>Deleted</last-pattern>
       <last-replace>source</last-replace>
       <last-substitute>model</last-substitute>
       <last-dir>1</last-dir>
@@ -349,7 +426,6 @@
     <history>
       <history-search>
         <entry encoding="base64">XDxub3RcPg==</entry>
-        <entry>Deleted</entry>
         <entry>;</entry>
         <entry encoding="base64">XDxUcmFuc2FjdGlvblw+</entry>
         <entry>transaction</entry>
@@ -359,6 +435,15 @@
         <entry>=</entry>
         <entry>model</entry>
         <entry>AutoApprove</entry>
+        <entry encoding="base64">XDxGaW5hbmNlQWNjb3VudElkXD4=</entry>
+        <entry encoding="base64">XDxGaW5hbmNlQ2F0ZWdvcnlJZFw+</entry>
+        <entry encoding="base64">XDxGaW5hbmNlVHlwZUlkXD4=</entry>
+        <entry encoding="base64">XDxQYXllZUZpcnN0TmFtZVw+</entry>
+        <entry encoding="base64">XDxQYXllZUxhc3ROYW1lXD4=</entry>
+        <entry encoding="base64">XDxGaW5hbmNlUmVxdWVzdElkXD4=</entry>
+        <entry encoding="base64">XDxUcmFuc2FjdGlvbk51bWJlclw+</entry>
+        <entry encoding="base64">XDxUcmFuc2FjdGlvbkRhdGVcPg==</entry>
+        <entry>Deleted</entry>
       </history-search>
       <history-cmd>
         <entry>.,+18s/model/source</entry>
@@ -379,8 +464,8 @@
         <entry>.,+10s/=/==/</entry>
         <entry>144</entry>
         <entry>.,+10s/model/source</entry>
-        <entry>q</entry>
         <entry>62</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -391,6 +476,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
