@@ -3,537 +3,103 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/BudgetingProcessValidator.cs" timestamp="1556563449491">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="42" column="65" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceDepositRepository.cs" timestamp="1556798907219">
+        <mark key="[" line="303" column="0" />
+        <mark key="]" line="309" column="9" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/FinanceTypeController.cs" timestamp="1556543556607">
-        <mark key="[" line="40" column="41" />
-        <mark key="]" line="40" column="46" />
-        <mark key="." line="40" column="46" />
-        <mark key="^" line="40" column="46" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" timestamp="1556798576822">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="^" line="143" column="18" />
+        <mark key="." line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/BudgetingProcessController.cs" timestamp="1556567608616">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="52" />
-        <mark key="." line="32" column="51" />
-        <mark key="^" line="32" column="51" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionUtilities.cs" timestamp="1556799284446">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/FundingRequestValidator.cs" timestamp="1556563020065">
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/FinanceDepositValidator.cs" timestamp="1556797501824">
+        <mark key="[" line="93" column="58" />
+        <mark key="]" line="93" column="58" />
+        <mark key="^" line="93" column="58" />
+        <mark key="." line="93" column="58" />
+      </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Models/FinanceAccount.cs" timestamp="1556799252459">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="9" />
+        <mark key="." line="15" column="9" />
+        <mark key="^" line="15" column="9" />
+      </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" timestamp="1556799028320">
+        <mark key="[" line="18" column="45" />
+        <mark key="]" line="18" column="46" />
+        <mark key="." line="18" column="46" />
+        <mark key="^" line="76" column="14" />
+      </file>
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinancePaymentService.cs" timestamp="1556799086973">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
+        <mark key="^" line="74" column="53" />
         <mark key="." line="48" column="0" />
-        <mark key="^" line="33" column="69" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Models/FinanceType.cs" timestamp="1556548996591">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="44" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="29" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/OrgSyncBudgetRequestController.cs" timestamp="1556543713090">
-        <mark key="[" line="43" column="41" />
-        <mark key="]" line="43" column="46" />
-        <mark key="." line="43" column="46" />
-        <mark key="^" line="43" column="46" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Models/Database/DboFinanceRequest.cs" timestamp="1556566324836">
-        <mark key="[" line="58" column="15" />
-        <mark key="]" line="58" column="19" />
-        <mark key="^" line="58" column="19" />
-        <mark key="." line="58" column="19" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Models/FundingRequest.cs" timestamp="1556732256234">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="4" column="59" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/FinanceTransactionDepositController.cs" timestamp="1556638804069">
-        <mark key="[" line="11" column="35" />
-        <mark key="]" line="11" column="35" />
-        <mark key="^" line="10" column="30" />
-        <mark key="." line="11" column="35" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/FinanceDepositSearchParameters.cs" timestamp="1556646795901">
-        <mark key="'" line="15" column="25" />
-        <mark key="[" line="11" column="42" />
-        <mark key="]" line="11" column="50" />
-        <mark key="." line="11" column="50" />
-        <mark key="^" line="11" column="50" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/FinancePaymentController.cs" timestamp="1556735748538">
-        <mark key="[" line="40" column="80" />
-        <mark key="]" line="40" column="81" />
-        <mark key="^" line="40" column="80" />
-        <mark key="." line="40" column="80" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Models/Database/DboFinanceType.cs" timestamp="1556549035819">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="44" />
-        <mark key="." line="13" column="22" />
-        <mark key="^" line="13" column="22" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" timestamp="1556737452409">
-        <mark key="'" line="639" column="9" />
-        <mark key="[" line="437" column="0" />
-        <mark key="]" line="749" column="10" />
-        <mark key="." line="423" column="70" />
-        <mark key="^" line="423" column="70" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/FinanceAccountController.cs" timestamp="1556567617077">
-        <mark key="[" line="45" column="9" />
-        <mark key="]" line="45" column="9" />
-        <mark key="." line="45" column="9" />
-        <mark key="^" line="45" column="9" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/FinanceStageController.cs" timestamp="1556567629470">
-        <mark key="[" line="45" column="9" />
-        <mark key="]" line="45" column="9" />
-        <mark key="." line="45" column="9" />
-        <mark key="^" line="45" column="9" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Models/FinanceStage.cs" timestamp="1556544250142">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="14" column="43" />
-        <mark key="^" line="13" column="29" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Models/FinanceDeposit.cs" timestamp="1556718967586">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="45" column="9" />
-        <mark key="^" line="44" column="25" />
-        <mark key="." line="26" column="15" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/PurchaseRequestController.cs" timestamp="1556567655145">
-        <mark key="[" line="45" column="9" />
-        <mark key="]" line="45" column="9" />
-        <mark key="." line="45" column="9" />
-        <mark key="^" line="45" column="9" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Models/PurchaseRequest.cs" timestamp="1556731954912">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="15" />
-        <mark key="^" line="4" column="60" />
-        <mark key="." line="4" column="15" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Models/FinanceRequest.cs" timestamp="1556732431839">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="40" column="45" />
-        <mark key="." line="5" column="23" />
-        <mark key="^" line="5" column="23" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/FinanceStageValidator.cs" timestamp="1556562915568">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="33" column="67" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/FundingRequestController.cs" timestamp="1556567647926">
-        <mark key="[" line="45" column="9" />
-        <mark key="]" line="45" column="9" />
-        <mark key="." line="45" column="9" />
-        <mark key="^" line="45" column="9" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Models/FinancePayment.cs" timestamp="1556742337628">
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="6" column="39" />
-        <mark key="." line="6" column="39" />
-        <mark key="^" line="5" column="7" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionUtilities.cs" timestamp="1556742791913">
-        <mark key="[" line="174" column="8" />
-        <mark key="]" line="174" column="14" />
-        <mark key="^" line="174" column="14" />
-        <mark key="." line="174" column="14" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceCategoryRepository.cs" timestamp="1556549176795">
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="143" column="13" />
-        <mark key="." line="140" column="0" />
-        <mark key="^" line="152" column="60" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Models/FinanceAccount.cs" timestamp="1556728056894">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="28" column="41" />
-        <mark key="." line="19" column="18" />
-        <mark key="^" line="19" column="18" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0780ae44-ab47-481f-b490-8cb951043537/console.sql" timestamp="1556740341676">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="111" />
-        <mark key="." line="8" column="111" />
-        <mark key="^" line="8" column="111" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/FundingRequestSearchParameters.cs" timestamp="1556566424449">
-        <mark key="[" line="26" column="15" />
-        <mark key="]" line="26" column="18" />
-        <mark key="." line="26" column="18" />
-        <mark key="^" line="26" column="18" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/FinanceStageSearchParameters.cs" timestamp="1556544496873">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="10" column="43" />
-        <mark key="." line="10" column="29" />
-        <mark key="^" line="10" column="29" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Models/FinanceTransaction.cs" timestamp="1556742364815">
-        <mark key="'" line="40" column="26" />
-        <mark key="[" line="34" column="9" />
-        <mark key="]" line="34" column="14" />
-        <mark key="." line="34" column="14" />
-        <mark key="^" line="34" column="14" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" timestamp="1556743040200">
-        <mark key="'" line="41" column="42" />
-        <mark key="[" line="269" column="0" />
-        <mark key="]" line="269" column="0" />
-        <mark key="^" line="269" column="18" />
-        <mark key="." line="269" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Models/FinanceTransactionType.cs" timestamp="1556646315577">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/PurchaseRequestSearchParameters.cs" timestamp="1556566489784">
-        <mark key="[" line="26" column="15" />
-        <mark key="]" line="26" column="18" />
-        <mark key="." line="26" column="18" />
-        <mark key="^" line="26" column="18" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/BudgetingProcessSearchParameters.cs" timestamp="1556563555786">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="15" column="41" />
-        <mark key="^" line="15" column="19" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Startup.cs" timestamp="1556555280215">
-        <mark key="[" line="51" column="94" />
-        <mark key="]" line="51" column="94" />
-        <mark key="^" line="51" column="95" />
-        <mark key="." line="51" column="94" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinancePaymentService.cs" timestamp="1556737590185">
-        <mark key="'" line="93" column="52" />
-        <mark key="[" line="84" column="67" />
-        <mark key="]" line="84" column="73" />
-        <mark key="." line="84" column="73" />
-        <mark key="^" line="84" column="73" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTypeRepository.cs" timestamp="1556549206813">
-        <mark key="[" line="186" column="16" />
-        <mark key="]" line="187" column="43" />
-        <mark key="." line="187" column="43" />
-        <mark key="^" line="187" column="43" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceDepositRepository.cs" timestamp="1556719980876">
-        <mark key="'" line="176" column="43" />
-        <mark key="[" line="166" column="68" />
-        <mark key="]" line="166" column="74" />
-        <mark key="^" line="166" column="74" />
-        <mark key="." line="166" column="74" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/FinancePaymentValidator.cs" timestamp="1556737723525">
-        <mark key="[" line="35" column="53" />
-        <mark key="]" line="35" column="92" />
-        <mark key="." line="35" column="92" />
-        <mark key="^" line="35" column="92" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/FinanceTransactionController.cs" timestamp="1556734444614">
-        <mark key="[" line="46" column="5" />
-        <mark key="]" line="46" column="5" />
-        <mark key="." line="46" column="5" />
-        <mark key="^" line="46" column="5" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinanceTransactionService.cs" timestamp="1556734491678">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/FinanceTransactionSearchParameters.cs" timestamp="1556567364615">
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="16" />
-        <mark key="." line="10" column="16" />
-        <mark key="^" line="10" column="19" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/FinanceAccountValidator.cs" timestamp="1556563446871">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="52" column="13" />
-        <mark key="." line="33" column="69" />
-        <mark key="^" line="33" column="69" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Api/Controllers/FinanceCategoryController.cs" timestamp="1556543532453">
-        <mark key="[" line="40" column="41" />
-        <mark key="]" line="40" column="46" />
-        <mark key="." line="40" column="46" />
-        <mark key="^" line="40" column="46" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Parameters/FinanceCategorySearchParameters.cs" timestamp="1556543815805">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="9" column="29" />
-        <mark key="." line="9" column="29" />
-        <mark key="^" line="9" column="29" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Models/Database/DboFinanceTransaction.cs" timestamp="1556732319714">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="53" column="7" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Models/Database/DboFinanceStage.cs" timestamp="1556544302180">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="18" column="43" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="13" column="22" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/PurchaseRequestValidator.cs" timestamp="1556563052496">
-        <mark key="[" line="33" column="63" />
-        <mark key="]" line="33" column="69" />
-        <mark key="^" line="33" column="69" />
-        <mark key="." line="33" column="69" />
-      </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceStageRepository.cs" timestamp="1556563698522">
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="159" column="13" />
-        <mark key="^" line="200" column="28" />
-        <mark key="." line="203" column="28" />
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/FinancePaymentValidator.cs" timestamp="1556797483172">
+        <mark key="[" line="78" column="64" />
+        <mark key="]" line="78" column="64" />
+        <mark key="." line="78" column="64" />
+        <mark key="^" line="75" column="55" />
       </file>
     </filemarks>
-    <jumps>
-      <jump line="167" column="49" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="65" column="19" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="53" column="19" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="42" column="19" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="83" column="37" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="156" column="37" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="662" column="8" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="644" column="16" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="674" column="40" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="697" column="35" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="65" column="28" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="422" column="75" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="423" column="95" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="424" column="87" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="425" column="75" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="426" column="73" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="427" column="69" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="428" column="77" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="429" column="59" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="451" column="70" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="452" column="90" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="453" column="82" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="456" column="64" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="457" column="72" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="479" column="33" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="481" column="73" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="632" column="27" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="655" column="46" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="679" column="56" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="704" column="52" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="45" column="0" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="114" column="37" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="236" column="28" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="247" column="42" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="255" column="32" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="267" column="32" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="281" column="36" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="298" column="32" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="302" column="97" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="304" column="69" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="308" column="49" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="311" column="73" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="317" column="53" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="323" column="34" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="405" column="37" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="476" column="66" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="480" column="40" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="485" column="45" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="636" column="9" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionRepository.cs" />
-      <jump line="20" column="62" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinancePaymentService.cs" />
-      <jump line="27" column="68" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinancePaymentService.cs" />
-      <jump line="34" column="27" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinancePaymentService.cs" />
-      <jump line="36" column="65" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinancePaymentService.cs" />
-      <jump line="39" column="70" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinancePaymentService.cs" />
-      <jump line="42" column="92" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinancePaymentService.cs" />
-      <jump line="53" column="67" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinancePaymentService.cs" />
-      <jump line="61" column="59" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinancePaymentService.cs" />
-      <jump line="69" column="63" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinancePaymentService.cs" />
-      <jump line="75" column="92" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinancePaymentService.cs" />
-      <jump line="84" column="67" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinancePaymentService.cs" />
-      <jump line="91" column="59" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinancePaymentService.cs" />
-      <jump line="99" column="63" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinancePaymentService.cs" />
-      <jump line="105" column="69" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinancePaymentService.cs" />
-      <jump line="14" column="92" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinancePaymentService.cs" />
-      <jump line="23" column="43" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinancePaymentService.cs" />
-      <jump line="186" column="38" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="45" column="30" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="132" column="35" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="151" column="44" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="63" column="52" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinancePaymentService.cs" />
-      <jump line="93" column="52" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinancePaymentService.cs" />
-      <jump line="407" column="35" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="266" column="38" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="46" column="30" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="56" column="28" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceTransactionUtilities.cs" />
-      <jump line="270" column="47" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="276" column="8" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="275" column="50" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="146" column="60" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="271" column="28" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="197" column="42" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="42" column="42" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="395" column="50" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="451" column="38" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="182" column="19" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="170" column="19" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="159" column="19" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="133" column="23" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="612" column="20" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="608" column="51" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="606" column="27" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="605" column="51" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="40" column="26" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Models/FinanceTransaction.cs" />
-      <jump line="434" column="50" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="268" column="38" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="48" column="58" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="398" column="50" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="144" column="60" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="142" column="50" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="41" column="42" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-    </jumps>
+    <jumps />
     <registers>
-      <register name="a" type="4">
-        <keys>
-          <key char="48" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="61" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="80" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="68" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
-        </keys>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHF1ZXJ5YWJsZTsK</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxRdWVyeWFibGVGaW5hbmNlVHJhbnNhY3Rpb25cPg==</text>
+        <text>d</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIERib0ZpbmFuY2VUcmFuc2FjdGlvbiBHZXREYm9GaW5hbmNlVHJhbnNhY3Rpb24oRmluYW5jZVRyYW5zYWN0aW9uIG1vZGVsKSA9PiBGaW5hbmNlVHJhbnNhY3Rpb25VdGlsaXRpZXMuR2V0RGJvRmluYW5jZVRyYW5zYWN0aW9uKF9jb21tdW5pdHlJZCwgbW9kZWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50PyBQYXJlbnRBY2NvdW50SWQgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHF1ZXJ5YWJsZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2VuZGlmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vaWYgKCFWYWxpZGF0ZVBheW1lbnQocmVmIHBheW1lbnQpKSByZXR1cm4gcGF5bWVudDsKICAgICAgICAgICAgICAgIC8vaWYgKCFwYXltZW50Lkhhc1ZhbGlkVHJhbnNhY3Rpb25OdW1iZXIoKSkgeyBwYXltZW50LlRyYW5zYWN0aW9uTnVtYmVyID0gVmFsaWRUcmFuc2FjdGlvbk51bWJlcjsgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL2dldCBuZXcgdHJhbnNhY3Rpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHF1ZXJ5YWJsZSA9IFF1ZXJ5YWJsZUZpbmFuY2VUcmFuc2FjdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxsb25nPiBHZXROZXh0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVudXNlZCA9IHF1ZXJ5YWJsZS5Ub1NxbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJhc2VRdWVyeWFibGU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2lmIERFQlVHCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJhc2VRdWVyeWFibGU7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1ZXJ5YWJsZSA9IHF1ZXJ5YWJsZS5XaGVyZSh4ID0+IHguVHJhbnNhY3Rpb25UeXBlID09IHNlYXJjaFBhcmFtZXRlcnMuVHJhbnNhY3Rpb25UeXBlKTsK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICB7CiAgICAgICAgICAgIHRyeQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgZGJUcmFuc2FjdGlvbiA9IGF3YWl0IFF1ZXJ5YWJsZUZpbmFuY2VUcmFuc2FjdGlvbigpLlNpbmdsZU9yRGVmYXVsdEFzeW5jKHggPT4geC5JZCA9PSBtb2RlbC5JZCk7CiAgICAgICAgICAgICAgICBpZiAoZGJUcmFuc2FjdGlvbiAhPSBudWxsKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBuZXcgRmluYW5jZVRyYW5zYWN0aW9uKCk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgLy9mcm9tIEFwcC5BZG1pbiAKICAgICAgICAgICAgICAgIC8qCiAgICAgICAgICAgICAgICBwdWJsaWMgY2xhc3MgQ3JlYXRlRmluYW5jZURlcG9zaXRSZXNwb25zZU1vZGVsIHsKICAgICAgICAgICAgICAgICAgICBbUmVxdWlyZWQoQWxsb3dFbXB0eVN0cmluZ3MgPSBmYWxzZSwgRXJyb3JNZXNzYWdlID0gQCJBY2NvdW50IGlzIHJlcXVpcmVkLiIpXQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyBpbnQ/IEFjY291bnRJZCB7IGdldDsgc2V0OyB9CgogICAgICAgICAgICAgICAgICAgIFtSZXF1aXJlZCwgRGF0YVR5cGUoRGF0YVR5cGUuQ3VycmVuY3kpLCBSYW5nZSgwLCBkb3VibGUuTWF4VmFsdWUsIEVycm9yTWVzc2FnZSA9ICJBbW91bnQgbXVzdCBiZSBhIHBvc2l0aXZlIHZhbHVlLiIpXQogICAgICAgICAgICAgICAgICAgIFtSZWd1bGFyRXhwcmVzc2lvbihSZWd1bGFyRXhwcmVzc2lvbnMuQ3VycmVuY3ksIEVycm9yTWVzc2FnZVJlc291cmNlVHlwZSA9IHR5cGVvZihGaW5hbmNlTWVzc2FnZVJlc291cmNlKSwgRXJyb3JNZXNzYWdlUmVzb3VyY2VOYW1lID0gIkZpbmFuY2VfQW1vdW50X0RlY2ltYWxzIildCiAgICAgICAgICAgICAgICAgICAgcHVibGljIGRvdWJsZSBBbW91bnQgeyBnZXQ7IHNldDsgfQoKICAgICAgICAgICAgICAgICAgICBbUmVxdWlyZWRdCiAgICAgICAgICAgICAgICAgICAgcHVibGljIGludCBGaW5hbmNlQ2F0ZWdvcnkgeyBnZXQ7IHNldDsgfQoKICAgICAgICAgICAgICAgICAgICBbUmVxdWlyZWRdCiAgICAgICAgICAgICAgICAgICAgcHVibGljIGludCBGaW5hbmNlVHlwZSB7IGdldDsgc2V0OyB9CgogICAgICAgICAgICAgICAgICAgIHB1YmxpYyBzdHJpbmcgTWVtbyB7IGdldDsgc2V0OyB9CiAgICAgICAgICAgICAgICAgICAgcHVibGljIHN0cmluZyBQYXllZUZpcnN0TmFtZSB7IGdldDsgc2V0OyB9CiAgICAgICAgICAgICAgICAgICAgcHVibGljIHN0cmluZyBQYXllZUxhc3ROYW1lIHsgZ2V0OyBzZXQ7IH0KICAgICAgICAgICAgICAgICAgICBwdWJsaWMgaW50PyBSZXF1ZXN0SWQgeyBnZXQ7IHNldDsgfQogICAgICAgICAgICAgICAgfSAKICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIHByaXZhdGUgRmluYW5jZVRyYW5zYWN0aW9uIFNhdmVEZXBvc2l0KENyZWF0ZUZpbmFuY2VEZXBvc2l0UmVzcG9uc2VNb2RlbCBtb2RlbCkgewogICAgICAgICAgICAgICAgICAgIHZhciBkZXBvc2l0ID0gTWFwcGVyLk1hcDxDcmVhdGVGaW5hbmNlRGVwb3NpdFJlc3BvbnNlTW9kZWwsIEZpbmFuY2VUcmFuc2FjdGlvbj4obW9kZWwpOwogICAgICAgICAgICAgICAgICAgIGRlcG9zaXQuRmluYW5jZUFjY291bnQgPSBfZmluYW5jZVNlcnZpY2UuR2V0QWNjb3VudEJ5SWQobW9kZWwuQWNjb3VudElkKTsKICAgICAgICAgICAgICAgICAgICBkZXBvc2l0LlRyYW5zYWN0aW9uVHlwZSA9IFRyYW5zYWN0aW9uVHlwZS5EZXBvc2l0OwogICAgICAgICAgICAgICAgICAgIGRlcG9zaXQuQ29tbXVuaXR5ID0gX2NvbnRleHQuQ29tbXVuaXR5OwogICAgICAgICAgICAgICAgICAgIGRlcG9zaXQuVHJhbnNhY3Rpb25EYXRlID0gRGF0ZVRpbWUuTm93OwogICAgICAgICAgICAgICAgICAgIGRlcG9zaXQuQ29tbXVuaXR5TWVtYmVyID0gX2NvbnRleHQuQ3VycmVudE1lbWJlcjsKICAgICAgICAgICAgICAgICAgICBkZXBvc2l0LkZpbmFuY2VBY2NvdW50T3JnaW5hdG9yID0gZGVwb3NpdC5GaW5hbmNlQWNjb3VudDsKICAgICAgICAgICAgICAgICAgICBpZiAobW9kZWwuRmluYW5jZUNhdGVnb3J5ID4gMCkKICAgICAgICAgICAgICAgICAgICAgICAgZGVwb3NpdC5GaW5hbmNlQ2F0ZWdvcnkgPSBfZmluYW5jZVNlcnZpY2UuR2V0Q2F0ZWdvcnlCeUlkKG1vZGVsLkZpbmFuY2VDYXRlZ29yeSk7CiAgICAgICAgICAgICAgICAgICAgaWYgKG1vZGVsLkZpbmFuY2VUeXBlID4gMCkKICAgICAgICAgICAgICAgICAgICAgICAgZGVwb3NpdC5GaW5hbmNlVHlwZSA9IF9maW5hbmNlU2VydmljZS5HZXRUeXBlQnlJZChtb2RlbC5GaW5hbmNlVHlwZSk7CiAgICAgICAgICAgICAgICAgICAgaWYgKG1vZGVsLlJlcXVlc3RJZC5IYXNWYWx1ZSkKICAgICAgICAgICAgICAgICAgICAgICAgZGVwb3NpdC5GaW5hbmNlUmVxdWVzdCA9IF9maW5hbmNlU2VydmljZS5HZXRSZXF1ZXN0QnlJZChtb2RlbC5SZXF1ZXN0SWQuVmFsdWUpOwogICAgICAgIAogICAgICAgICAgICAgICAgICAgIHJldHVybiBfZmluYW5jZVNlcnZpY2UuU2F2ZURlcG9zaXQoZGVwb3NpdCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAqLwoKICAgICAgICAgICAgICAgIC8vRnJvbSBDb2xsZWdpYXRlTGluay5MZWdhY3kKICAgICAgICAgICAgICAgIC8qCiAgICAgICAgICAgICAgICBwdWJsaWMgY2xhc3MgRmluYW5jZVRyYW5zYWN0aW9uIDogRW50aXR5LCBJQ29tbXVuaXR5SXRlbSB7CiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZpcnR1YWwgZG91YmxlIEFsbG9jYXRlZEZ1bmRzIHsgZ2V0OyBzZXQ7IH0KICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdmlydHVhbCBkb3VibGUgQW1vdW50IHsgZ2V0OyBzZXQ7IH0KICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdmlydHVhbCBkb3VibGUgQXZhaWxhYmxlRnVuZHMgeyBnZXQ7IHNldDsgfQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2aXJ0dWFsIENvbW11bml0eSBDb21tdW5pdHkgeyBnZXQ7IHNldDsgfQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2aXJ0dWFsIENvbW11bml0eU1lbWJlciBDb21tdW5pdHlNZW1iZXIgeyBnZXQ7IHNldDsgfQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2aXJ0dWFsIEZpbmFuY2VBY2NvdW50IEZpbmFuY2VBY2NvdW50IHsgZ2V0OyBzZXQ7IH0KICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdmlydHVhbCBGaW5hbmNlQWNjb3VudCBGaW5hbmNlQWNjb3VudE9yZ2luYXRvciB7IGdldDsgc2V0OyB9CiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZpcnR1YWwgRmluYW5jZUFjY291bnQgRmluYW5jZUFjY291bnRUYXJnZXQgeyBnZXQ7IHNldDsgfQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2aXJ0dWFsIEZpbmFuY2VDYXRlZ29yeSBGaW5hbmNlQ2F0ZWdvcnkgeyBnZXQ7IHNldDsgfQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2aXJ0dWFsIEZpbmFuY2VSZXF1ZXN0IEZpbmFuY2VSZXF1ZXN0IHsgZ2V0OyBzZXQ7IH0KICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdmlydHVhbCBGaW5hbmNlVHlwZSBGaW5hbmNlVHlwZSB7IGdldDsgc2V0OyB9CiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZpcnR1YWwgSW1wb3J0ZWRGaW5hbmNlVHJhbnNhY3Rpb24gSW1wb3J0ZWRGaW5hbmNlVHJhbnNhY3Rpb24geyBnZXQ7IHNldDsgfQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2aXJ0dWFsIHN0cmluZyBNZW1vIHsgZ2V0OyBzZXQ7IH0KICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdmlydHVhbCBzdHJpbmcgTWV0aG9kIHsgZ2V0OyBzZXQ7IH0KICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdmlydHVhbCBzdHJpbmcgUGF5ZWVGaXJzdE5hbWUgeyBnZXQ7IHNldDsgfQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2aXJ0dWFsIHN0cmluZyBQYXllZUxhc3ROYW1lIHsgZ2V0OyBzZXQ7IH0KICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdmlydHVhbCBib29sIFJlY29uY2lsZWQgeyBnZXQ7IHNldDsgfQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2aXJ0dWFsIGRvdWJsZSBSZXF1ZXN0ZWRGdW5kcyB7IGdldDsgc2V0OyB9CiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZpcnR1YWwgRmluYW5jZVRyYW5zYWN0aW9uIFJldmVyc2VkVHJhbnNhY3Rpb24geyBnZXQ7IHNldDsgfQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2aXJ0dWFsIERhdGVUaW1lIFRyYW5zYWN0aW9uRGF0ZSB7IGdldDsgc2V0OyB9CiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZpcnR1YWwgbG9uZyBUcmFuc2FjdGlvbk51bWJlciB7IGdldDsgc2V0OyB9CiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZpcnR1YWwgVHJhbnNhY3Rpb25UeXBlIFRyYW5zYWN0aW9uVHlwZSB7IGdldDsgc2V0OyB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBwdWJsaWMgRmluYW5jZUNhdGVnb3J5IEdldENhdGVnb3J5QnlJZChpbnQgY2F0ZWdvcnlJZCkgewogICAgICAgICAgICAgICAgICAgIHZhciBjcml0ZXJpYSA9IERldGFjaGVkQ3JpdGVyaWEuRm9yPEZpbmFuY2VDYXRlZ29yeT4oKS5BZGQoUmVzdHJpY3Rpb25zLkVxKCJ0aGlzLklkIiwgY2F0ZWdvcnlJZCkpOwogICAgICAgICAgICAgICAgICAgIHZhciByZXF1ZXN0VHlwZXMgPSBfY29tbXVuaXR5SXRlbVJlcG9zaXRvcnkuRmluZEFsbDxGaW5hbmNlQ2F0ZWdvcnk+KGNyaXRlcmlhKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVxdWVzdFR5cGVzP1swXTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgcHVibGljIEZpbmFuY2VUeXBlIEdldFR5cGVCeUlkKGludCBmaW5hbmNlVHlwZUlkKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIF9jb21tdW5pdHlJdGVtUmVwb3NpdG9yeS5HZXQ8RmluYW5jZVR5cGU+KGZpbmFuY2VUeXBlSWQpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBwdWJsaWMgRmluYW5jZVJlcXVlc3QgR2V0UmVxdWVzdEJ5SWQoaW50IHB1cmNoYXNlUmVxdWVzdElkKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIF9ncm91cEl0ZW1SZXBvc2l0b3J5LkdldDxGaW5hbmNlUmVxdWVzdD4ocHVyY2hhc2VSZXF1ZXN0SWQpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBwdWJsaWMgRmluYW5jZVRyYW5zYWN0aW9uIFNhdmVEZXBvc2l0KEZpbmFuY2VUcmFuc2FjdGlvbiBkZXBvc2l0KSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKCFWYWxpZGF0ZURlcG9zaXQocmVmIGRlcG9zaXQpKSB7IHJldHVybiBkZXBvc2l0OyB9CiAgICAgICAgICAgICAgICAgICAgaWYgKCFkZXBvc2l0Lkhhc1ZhbGlkVHJhbnNhY3Rpb25OdW1iZXIoKSkgeyBkZXBvc2l0LlRyYW5zYWN0aW9uTnVtYmVyID0gVmFsaWRUcmFuc2FjdGlvbk51bWJlcjsgfQoKICAgICAgICAgICAgICAgICAgICB2YXIgcm9vdEFjY291bnQgPSBHZXRSb290QWNjb3VudChkZXBvc2l0LkZpbmFuY2VBY2NvdW50KTsKICAgICAgICAgICAgICAgICAgICB2YXIgYWNjb3VudExpc3QgPSBHZXRBY2NvdW50UGF0aChyb290QWNjb3VudCwgZGVwb3NpdC5GaW5hbmNlQWNjb3VudCkuUmV2ZXJzZSgpOwoKICAgICAgICAgICAgICAgICAgICBmb3JlYWNoICh2YXIgYWNjb3VudCBpbiBhY2NvdW50TGlzdCkgewogICAgICAgICAgICAgICAgICAgICAgICBkZXBvc2l0LkZpbmFuY2VBY2NvdW50ID0gYWNjb3VudDsKICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHRlbXBEZXBvc2l0ID0gU2F2ZURlcG9zaXRfcChkZXBvc2l0LkNvcHkoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChhY2NvdW50ICE9IGRlcG9zaXQuRmluYW5jZUFjY291bnRPcmdpbmF0b3IpIHsgU2F2ZUFsbG9jYXRpb25fcChkZXBvc2l0LkNvcHkoKSk7IH0KICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSB7IGRlcG9zaXQgPSB0ZW1wRGVwb3NpdDsgfQogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGRlcG9zaXQ7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIHB1YmxpYyBsb25nIFZhbGlkVHJhbnNhY3Rpb25OdW1iZXIgewogICAgICAgICAgICAgICAgICAgIGdldCB7IHJldHVybiBfY29tbXVuaXR5SXRlbVJlcG9zaXRvcnkuR2V0TWF4PEZpbmFuY2VUcmFuc2FjdGlvbj4oeCA9PiB4LlRyYW5zYWN0aW9uTnVtYmVyKSArIDE7IH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgcHJpdmF0ZSBib29sIFZhbGlkYXRlRGVwb3NpdChyZWYgRmluYW5jZVRyYW5zYWN0aW9uIGRlcG9zaXQpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoIWRlcG9zaXQuVmFsaWRhdGUoKSkgeyByZXR1cm4gZmFsc2U7IH0KICAgICAgICAgICAgICAgICAgICBpZiAoIUlzVmFsaWRGaW5hbmNlVHJhbnNhY3Rpb24ocmVmIGRlcG9zaXQpKSB7IHJldHVybiBmYWxzZTsgfQogICAgICAgICAgICAgICAgICAgIGlmIChkZXBvc2l0LlRyYW5zYWN0aW9uVHlwZSA9PSBUcmFuc2FjdGlvblR5cGUuRGVwb3NpdCkgeyByZXR1cm4gdHJ1ZTsgfQoKICAgICAgICAgICAgICAgICAgICBkZXBvc2l0LkludmFsaWRWYWx1ZXMuQWRkKCBuZXcgSW52YWxpZFZhbHVlKCAiVHJhbnNhY3Rpb24gbXVzdCBiZSBhIGRlcG9zaXQgdG8gY2FsbCB0aGlzIG1ldGhvZC4iLAogICAgICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgcHVibGljIHZpcnR1YWwgYm9vbCBIYXNWYWxpZFRyYW5zYWN0aW9uTnVtYmVyKCkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBUcmFuc2FjdGlvbk51bWJlciA+IDA7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIHB1YmxpYyBvdmVycmlkZSBib29sIFZhbGlkYXRlKCkgewogICAgICAgICAgICAgICAgICAgIHZhciByZXR1cm5WYWx1ZSA9IGJhc2UuVmFsaWRhdGUoKTsKCiAgICAgICAgICAgICAgICAgICAgaWYgKEZpbmFuY2VSZXF1ZXN0ICE9IG51bGwgJiYgRmluYW5jZVJlcXVlc3QuQWNjb3VudC5JZCAhPSBGaW5hbmNlQWNjb3VudC5JZCkgewogICAgICAgICAgICAgICAgICAgICAgICBJbnZhbGlkVmFsdWVzLkFkZCggbmV3IEludmFsaWRWYWx1ZSggIkZpbmFuY2UgUmVxdWVzdCBBY2NvdW50IGFuZCBUcmFuc2FjdGlvbiBBY2NvdW50IGRvIG5vdCBtYXRjaCIsIAogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm5WYWx1ZSA9IGZhbHNlOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgaWYgKCFJc1JldmVyc2FsVHJhbnNhY3Rpb24oKSAmJiBBbW91bnQgPCAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIEludmFsaWRWYWx1ZXMuQWRkKCBuZXcgSW52YWxpZFZhbHVlKCBBbW91bnRDYW5ub3RCZU5lZ2F0aXZlTWVzc2FnZSwgdHlwZW9mKEZpbmFuY2VUcmFuc2FjdGlvbiksIAogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm5WYWx1ZSA9IGZhbHNlOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgaWYgKEFtb3VudCA+IDApIHsKICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGRlY2ltYWxzID0gQW1vdW50LlRvU3RyaW5nKCkuU3BsaXQoJy4nKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGRlY2ltYWxzLkxlbmd0aCA+IDEgJiYgZGVjaW1hbHNbMV0uTGVuZ3RoID4gMikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgSW52YWxpZFZhbHVlcy5BZGQoIG5ldyBJbnZhbGlkVmFsdWUoIEFtb3VudENhbm5vdEhhdmVNb3JlVGhhblR3b0RlY2ltYWxzLCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVyblZhbHVlID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIHJldHVybiByZXR1cm5WYWx1ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgcHJpdmF0ZSBib29sIElzVmFsaWRGaW5hbmNlVHJhbnNhY3Rpb24ocmVmIEZpbmFuY2VUcmFuc2FjdGlvbiB0cmFueCkgewogICAgICAgICAgICAgICAgICAgIGlmICh0cmFueC5BbW91bnQgPT0gMCkgewogICAgICAgICAgICAgICAgICAgICAgICB0cmFueC5JbnZhbGlkVmFsdWVzLkFkZCggbmV3IEludmFsaWRWYWx1ZSggIlRyYW5zYWN0aW9uIGFtb3VudCBtdXN0IGJlIGdyZWF0ZXIgdGhhbiB6ZXJvLiIsCiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIGlmIChUcmFuc2FjdGlvblR5cGUuRGVwb3NpdCA9PSB0cmFueC5UcmFuc2FjdGlvblR5cGUgJiYgdHJhbnguRmluYW5jZVR5cGUgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICB0cmFueC5JbnZhbGlkVmFsdWVzLkFkZChuZXcgSW52YWxpZFZhbHVlKCJGaW5hbmNlIFR5cGUgaXMgcmVxdWlyZWQuIiwgCiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIGlmICh0cmFueC5GaW5hbmNlQ2F0ZWdvcnkgIT0gbnVsbCkgeyByZXR1cm4gdHJ1ZTsgfQoKICAgICAgICAgICAgICAgICAgICB0cmFueC5JbnZhbGlkVmFsdWVzLkFkZChuZXcgSW52YWxpZFZhbHVlKCJGaW5hbmNlIENhdGVnb3J5IGlzIHJlcXVpcmVkLiIsCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBwcml2YXRlIEZpbmFuY2VBY2NvdW50IEdldFJvb3RBY2NvdW50KEZpbmFuY2VBY2NvdW50IGFjY291bnQpIHsKICAgICAgICAgICAgICAgICAgICB3aGlsZSAodHJ1ZSkgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoYWNjb3VudC5QYXJlbnRBY2NvdW50ID09IG51bGwpIHsgcmV0dXJuIGFjY291bnQ7IH0KICAgICAgICAgICAgICAgICAgICAgICAgYWNjb3VudCA9IGFjY291bnQuUGFyZW50QWNjb3VudDsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIHByaXZhdGUgSUVudW1lcmFibGU8RmluYW5jZUFjY291bnQ+IEdldEFjY291bnRQYXRoKEZpbmFuY2VBY2NvdW50IHRvcCwgRmluYW5jZUFjY291bnQgYm90dG9tKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKGJvdHRvbSA9PSBudWxsIHx8IHRvcCA9PSBib3R0b20pCiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBuZXcgTGlua2VkTGlzdDxGaW5hbmNlQWNjb3VudD4oKS5BZGRGaXJzdCh0b3ApLkxpc3Q7CgogICAgICAgICAgICAgICAgICAgIHZhciBsaXN0ID0gbmV3IExpbmtlZExpc3Q8RmluYW5jZUFjY291bnQ+KCk7CiAgICAgICAgICAgICAgICAgICAgbGlzdC5BZGRGaXJzdChib3R0b20pOwogICAgICAgICAgICAgICAgICAgIHJldHVybiBsaXN0LlVuaW9uKEdldEFjY291bnRQYXRoKHRvcCwgYm90dG9tLlBhcmVudEFjY291bnQpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgcHJpdmF0ZSBGaW5hbmNlVHJhbnNhY3Rpb24gU2F2ZURlcG9zaXRfcChGaW5hbmNlVHJhbnNhY3Rpb24gZGVwb3NpdCkgewogICAgICAgICAgICAgICAgICAgIHZhciBhY2NvdW50ID0gZGVwb3NpdC5GaW5hbmNlQWNjb3VudDsKICAgICAgICAgICAgICAgICAgICBkZXBvc2l0LkFsbG9jYXRlZEZ1bmRzID0gYWNjb3VudC5BbGxvY2F0ZWRGdW5kczsKICAgICAgICAgICAgICAgICAgICBkZXBvc2l0LkF2YWlsYWJsZUZ1bmRzID0gYWNjb3VudC5BdmFpbGFibGVGdW5kcyArIGRlcG9zaXQuQW1vdW50OwogICAgICAgICAgICAgICAgICAgIGRlcG9zaXQuUmVxdWVzdGVkRnVuZHMgPSBhY2NvdW50LlJlcXVlc3RlZEZ1bmRzOwogICAgICAgICAgICAgICAgICAgIGFjY291bnQuQXZhaWxhYmxlRnVuZHMgPSBkZXBvc2l0LkF2YWlsYWJsZUZ1bmRzOwogICAgICAgICAgICAgICAgICAgIGRlcG9zaXQuVHJhbnNhY3Rpb25UeXBlID0gVHJhbnNhY3Rpb25UeXBlLkRlcG9zaXQ7CiAgICAgICAgICAgICAgICAgICAgX2NvbW11bml0eUl0ZW1SZXBvc2l0b3J5LlNhdmVPclVwZGF0ZShhY2NvdW50KTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gX2NvbW11bml0eUl0ZW1SZXBvc2l0b3J5LlNhdmVPclVwZGF0ZShkZXBvc2l0KTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgcHJpdmF0ZSBGaW5hbmNlVHJhbnNhY3Rpb24gU2F2ZUFsbG9jYXRpb25fcChGaW5hbmNlVHJhbnNhY3Rpb24gYWxsb2NhdGlvbikgewogICAgICAgICAgICAgICAgICAgIHZhciBzb3VyY2VBY2NvdW50ID0gYWxsb2NhdGlvbi5GaW5hbmNlQWNjb3VudDsKICAgICAgICAgICAgICAgICAgICBhbGxvY2F0aW9uLkFsbG9jYXRlZEZ1bmRzID0gc291cmNlQWNjb3VudC5BbGxvY2F0ZWRGdW5kcyArIGFsbG9jYXRpb24uQW1vdW50OwogICAgICAgICAgICAgICAgICAgIGFsbG9jYXRpb24uUmVxdWVzdGVkRnVuZHMgPSBzb3VyY2VBY2NvdW50LlJlcXVlc3RlZEZ1bmRzOwogICAgICAgICAgICAgICAgICAgIGFsbG9jYXRpb24uQXZhaWxhYmxlRnVuZHMgPSBzb3VyY2VBY2NvdW50LkF2YWlsYWJsZUZ1bmRzIC0gYWxsb2NhdGlvbi5BbW91bnQ7CiAgICAgICAgICAgICAgICAgICAgYWxsb2NhdGlvbi5UcmFuc2FjdGlvblR5cGUgPSBUcmFuc2FjdGlvblR5cGUuQWxsb2NhdGlvbjsKICAgICAgICAgICAgICAgICAgICBzb3VyY2VBY2NvdW50LkF2YWlsYWJsZUZ1bmRzID0gYWxsb2NhdGlvbi5BdmFpbGFibGVGdW5kczsKICAgICAgICAgICAgICAgICAgICBzb3VyY2VBY2NvdW50LkFsbG9jYXRlZEZ1bmRzID0gYWxsb2NhdGlvbi5BbGxvY2F0ZWRGdW5kczsKCiAgICAgICAgICAgICAgICAgICAgX2NvbW11bml0eUl0ZW1SZXBvc2l0b3J5LlNhdmVPclVwZGF0ZShzb3VyY2VBY2NvdW50KTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gX2NvbW11bml0eUl0ZW1SZXBvc2l0b3J5LlNhdmVPclVwZGF0ZShhbGxvY2F0aW9uKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCgogICAgICAgICAgICAgICAgKi8KCiAgICAgICAgICAgICAgICBhd2FpdCBfZmluYW5jZURiQ29udGV4dC5BZGRBc3luYygKICAgICAgICAgICAgICAgICAgICBuZXcgRGJvRmluYW5jZVRyYW5zYWN0aW9uCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBDb21tdW5pdHlJZCA9ICgoQ29tbXVuaXR5KSBfaW5zdGl0dXRpb24pLkNvbW11bml0eUlkLAogICAgICAgICAgICAgICAgICAgICAgICBEZWxldGVkID0gbW9kZWwuRGVsZXRlZCwKICAgICAgICAgICAgICAgICAgICAgICAgSWQgPSBtb2RlbC5JZCwKICAgICAgICAgICAgICAgICAgICAgICAgVHJhbnNhY3Rpb25OdW1iZXIgPSBtb2RlbC5UcmFuc2FjdGlvbk51bWJlciwKICAgICAgICAgICAgICAgICAgICAgICAgQW1vdW50ID0gbW9kZWwuQW1vdW50LAogICAgICAgICAgICAgICAgICAgICAgICBBbGxvY2F0ZWRGdW5kcyA9IG1vZGVsLkFsbG9jYXRlZEZ1bmRzLAogICAgICAgICAgICAgICAgICAgICAgICBBdmFpbGFibGVGdW5kcyA9IG1vZGVsLkF2YWlsYWJsZUZ1bmRzLAogICAgICAgICAgICAgICAgICAgICAgICBSZXF1ZXN0ZWRGdW5kcyA9IG1vZGVsLlJlcXVlc3RlZEZ1bmRzLAogICAgICAgICAgICAgICAgICAgICAgICBUcmFuc2FjdGlvblR5cGUgPSBtb2RlbC5UcmFuc2FjdGlvblR5cGUsCiAgICAgICAgICAgICAgICAgICAgICAgIFRyYW5zYWN0aW9uRGF0ZSA9IG1vZGVsLlRyYW5zYWN0aW9uRGF0ZSwKICAgICAgICAgICAgICAgICAgICAgICAgUGF5ZWVGaXJzdE5hbWUgPSBtb2RlbC5QYXllZUZpcnN0TmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgUGF5ZWVMYXN0TmFtZSA9IG1vZGVsLlBheWVlTGFzdE5hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgIE1lbW8gPSBtb2RlbC5NZW1vLAogICAgICAgICAgICAgICAgICAgICAgICBNZXRob2QgPSBtb2RlbC5NZXRob2QsCiAgICAgICAgICAgICAgICAgICAgICAgIFJlY29uY2lsZWQgPSBtb2RlbC5SZWNvbmNpbGVkLAogICAgICAgICAgICAgICAgICAgICAgICBDb21tdW5pdHlNZW1iZXJJZCA9IG1vZGVsLkNvbW11bml0eU1lbWJlcklkLAogICAgICAgICAgICAgICAgICAgICAgICBJbXBvcnRlZEZpbmFuY2VUcmFuc2FjdGlvbklkID0gbW9kZWwuSW1wb3J0ZWRGaW5hbmNlVHJhbnNhY3Rpb25JZCwKICAgICAgICAgICAgICAgICAgICAgICAgUmV2ZXJzZWRUcmFuc2FjdGlvbklkID0gbW9kZWwuUmV2ZXJzZWRUcmFuc2FjdGlvbklkLAogICAgICAgICAgICAgICAgICAgICAgICBMZWdhY3lLZXkgPSBtb2RlbC5MZWdhY3lLZXksCiAgICAgICAgICAgICAgICAgICAgICAgIEZpbmFuY2VDaGFuZ2VMb2dJZCA9IG1vZGVsLkZpbmFuY2VDaGFuZ2VMb2dJZCwKICAgICAgICAgICAgICAgICAgICAgICAgRmluYW5jZUFjY291bnRJZCA9IG1vZGVsLkZpbmFuY2VBY2NvdW50Py5JZCwKICAgICAgICAgICAgICAgICAgICAgICAgRmluYW5jZUFjY291bnRPcmlnaW5hdG9ySWQgPSBtb2RlbC5GaW5hbmNlQWNjb3VudE9yaWdpbmF0b3I/LklkLAogICAgICAgICAgICAgICAgICAgICAgICBGaW5hbmNlQWNjb3VudFRhcmdldElkID0gbW9kZWwuRmluYW5jZUFjY291bnRUYXJnZXQ/LklkLAogICAgICAgICAgICAgICAgICAgICAgICBGaW5hbmNlUmVxdWVzdElkID0gbW9kZWwuRmluYW5jZVJlcXVlc3Q/LklkLAogICAgICAgICAgICAgICAgICAgICAgICBGaW5hbmNlVHlwZUlkID0gbW9kZWwuRmluYW5jZVR5cGU/LklkLAogICAgICAgICAgICAgICAgICAgICAgICBGaW5hbmNlQ2F0ZWdvcnlJZCA9IG1vZGVsLkZpbmFuY2VDYXRlZ29yeT8uSWQsCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICAgIGF3YWl0IF9maW5hbmNlRGJDb250ZXh0LlNhdmVDaGFuZ2VzQXN5bmMoKTsKCiAgICAgICAgICAgICAgICByZXR1cm4gbW9kZWw7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2F0Y2ggKEV4Y2VwdGlvbiBlKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCJFcnJvciB1cGRhdGluZyBUcmFuc2FjdGlvbiIsIGUpOwogICAgICAgICAgICB9CiAgICAgICAgfQoK</text>
       </register>
       <register name=":" type="4">
-        <text>.,+20s/,/;/</text>
-      </register>
-      <register name="z" type="4">
-        <text>dwxxxxxxxx~ehhhhhdwj0www</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxRdWVyeWFibGVGaW5hbmNlVHJhbnNhY3Rpb25cPg==</last-search>
-      <last-offset />
-      <last-pattern encoding="base64">XDxRdWVyeWFibGVGaW5hbmNlVHJhbnNhY3Rpb25cPg==</last-pattern>
-      <last-replace>;</last-replace>
-      <last-substitute>,</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry encoding="base64">XDxJRmluYW5jZVBheW1lbnRSZXBvc2l0b3J5XD4=</entry>
-        <entry encoding="base64">XDxUcmFuc2FjdGlvblR5cGVcPg==</entry>
-        <entry encoding="base64">XDxFcnJvclw+</entry>
-        <entry>\.</entry>
-        <entry>Account</entry>
-        <entry>Originator</entry>
-        <entry encoding="base64">XDxpc1JldmVyc2FsXD4=</entry>
-        <entry>.Id</entry>
-        <entry>\.Id</entry>
-        <entry>null</entry>
-        <entry encoding="base64">XDxEZWxldGVkXD4=</entry>
-        <entry>Transaction</entry>
-        <entry>as Fi</entry>
-        <entry encoding="base64">XDxHZXRGaW5hbmNlVHlwZUZyb21Tb3VyY2VcPg==</entry>
-        <entry encoding="base64">XDxNYXBcPg==</entry>
-        <entry>,</entry>
-        <entry encoding="base64">XDxHZXREYm9GaW5hbmNlVHJhbnNhY3Rpb25cPg==</entry>
-        <entry encoding="base64">XDxfY29tbXVuaXR5SWRcPg==</entry>
-        <entry encoding="base64">XDxCYXNlUXVlcnlhYmxlXD4=</entry>
-        <entry encoding="base64">XDxRdWVyeWFibGVGaW5hbmNlVHJhbnNhY3Rpb25cPg==</entry>
-      </history-search>
+      <history-search />
       <history-cmd>
-        <entry>42</entry>
-        <entry>46</entry>
-        <entry>32</entry>
-        <entry encoding="base64">LiwrMTBzLywvIFwmXCYv</entry>
-        <entry>.,+10s/=/==/</entry>
-        <entry>144</entry>
-        <entry>.,+10s/model/source</entry>
-        <entry>62</entry>
-        <entry encoding="base64">JzwsJz5x</entry>
-        <entry>47</entry>
-        <entry>.,+20s/\./FinanceAccount./</entry>
-        <entry>.,+20s/\./.FinanceAccount./</entry>
-        <entry>.,+20s/\./\.FinanceAccount./</entry>
-        <entry>.,+20s/Account/AccountOriginator</entry>
-        <entry>.,+20s/Originator/Target/</entry>
-        <entry>w</entry>
         <entry>q</entry>
-        <entry>$</entry>
-        <entry>0</entry>
-        <entry>.,+20s/,/;/</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -541,12 +107,6 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed H</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
