@@ -98,7 +98,7 @@
         <mark key="^" line="99" column="23" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556903801665">
+      <file name="/Dummy.txt" timestamp="1556908352520">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -145,12 +145,12 @@
         <mark key="." line="5" column="91" />
         <mark key="^" line="5" column="91" />
       </file>
-      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceUtilities.cs" timestamp="1556907376352">
+      <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceUtilities.cs" timestamp="1556908047442">
         <mark key="'" line="208" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="28" column="11" />
+        <mark key="[" line="30" column="69" />
+        <mark key="]" line="30" column="73" />
+        <mark key="." line="30" column="73" />
+        <mark key="^" line="30" column="73" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Models/FinanceAllocation.cs" timestamp="1556820688425">
         <mark key="[" line="11" column="53" />
@@ -310,8 +310,8 @@
       <jump line="208" column="0" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceUtilities.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -347,13 +347,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>GetAccountPath</text>
       </register>
-      <register name="0" type="4">
-        <text>_accountRepository.Get(</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxpc3QgPSBuZXcgTGlua2VkTGlzdDxGaW5hbmNlQWNjb3VudD4oKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
