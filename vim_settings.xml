@@ -146,6 +146,9 @@
         <mark key="." line="10" column="39" />
       </file>
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/Core/StudentVoiceGroups.Core.Web/Models/AdminNavigationViewModel.cs" timestamp="1556634421534" />
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Finance/FinanceAccount.cs" timestamp="1556888856797">
+        <mark key="'" line="167" column="31" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Controllers/Organization/FinanceController.cs" timestamp="1556211606077">
         <mark key="'" line="44" column="53" />
       </file>
@@ -260,6 +263,9 @@
       <jump line="730" column="20" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" />
       <jump line="757" column="34" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" />
       <jump line="769" column="34" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" />
+      <jump line="89" column="0" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Finance/FinanceAccount.cs" />
+      <jump line="81" column="29" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Finance/FinanceAccount.cs" />
+      <jump line="167" column="31" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Finance/FinanceAccount.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -309,7 +315,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>SaveDeposit</text>
+        <text>Previous</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKElzQ2hpbGRBY2NvdW50KGFsbG9jYXRpb24uRmluYW5jZUFjY291bnRPcmdpbmF0b3IsIGFsbG9jYXRpb24uRmluYW5jZUFjY291bnRUYXJnZXQpKSB7IHJldHVybiB0cnVlOyB9CgogICAgICAgICAgICBhbGxvY2F0aW9uLkludmFsaWRWYWx1ZXMuQWRkKAogICAgICAgICAgICAgICAgbmV3IEludmFsaWRWYWx1ZSgKICAgICAgICAgICAgICAgICAgICAiRnJvbSBBY2NvdW50IG11c3QgYmUgYSBwYXJlbnQgb2YgVG8gQWNjb3VudCBvbiBhbiBhbGxvY2F0aW9uLiIsCiAgICAgICAgICAgICAgICAgICAgdHlwZW9mKEZpbmFuY2VUcmFuc2FjdGlvbiksCiAgICAgICAgICAgICAgICAgICAgIkZyb21BY2NvdW50SWQiLAogICAgICAgICAgICAgICAgICAgIG51bGwsCiAgICAgICAgICAgICAgICAgICAgbnVsbCwKICAgICAgICAgICAgICAgICAgICBudWxsKSk7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
@@ -346,9 +352,9 @@
       </register>
     </registers>
     <search>
-      <last-search>SaveDeposit</last-search>
+      <last-search>Previous</last-search>
       <last-offset />
-      <last-pattern>SaveDeposit</last-pattern>
+      <last-pattern>Previous</last-pattern>
       <last-replace>requestId</last-replace>
       <last-substitute>orgSyncBudget</last-substitute>
       <last-dir>1</last-dir>
@@ -356,8 +362,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcmdTeW5jQnVkZ2V0UmVxdWVzdFw+</entry>
-        <entry encoding="base64">XDxHZXRHZW5lcmF0ZWRQZGZcPg==</entry>
         <entry>Header</entry>
         <entry encoding="base64">XDxwZGZTdHJlYW1cPg==</entry>
         <entry encoding="base64">XDx0b2dnbGVFeHBvcnRNZXNzYWdlXD4=</entry>
@@ -376,6 +380,8 @@
         <entry encoding="base64">XDxJc1ZhbGlkRmluYW5jZVRyYW5zYWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxWYWxpZGF0ZURlcG9zaXRcPg==</entry>
         <entry>SaveDeposit</entry>
+        <entry>Owner</entry>
+        <entry>Previous</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
