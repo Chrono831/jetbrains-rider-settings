@@ -89,11 +89,11 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/App.Admin.csproj" timestamp="1557515745181" />
-      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Search/Finance/FinanceRequestPayeeSearchCriteria.cs" timestamp="1557515572274">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="46" column="17" />
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Search/Finance/FinanceRequestPayeeSearchCriteria.cs" timestamp="1557518447057">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="98" />
+        <mark key="." line="98" column="36" />
+        <mark key="^" line="98" column="36" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Areas/Builder/Views/Page/Preview/PreviewTextEntryQuestion.cshtml" timestamp="1557507408691">
         <mark key="[" line="0" column="0" />
@@ -111,6 +111,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Search/FinanceRequestSearchCriteria.cs" timestamp="1557518481400">
+        <mark key="[" line="55" column="12" />
+        <mark key="]" line="55" column="13" />
+        <mark key="." line="55" column="13" />
+        <mark key="^" line="55" column="13" />
       </file>
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" timestamp="1557317182735" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Areas/Builder/Views/Matrix/Edit/EditMatrixRow.cshtml" timestamp="1557507206035">
@@ -187,7 +193,7 @@
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557508313975">
+      <file name="/Dummy.txt" timestamp="1557518012344">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -363,8 +369,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PT0g</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -400,34 +406,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text encoding="base64">PT0g</text>
       </register>
       <register name="/" type="4">
         <text>GetRequests</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJaWYgKENvbW11bml0eSAhPSBudWxsKSB7IGNyaXRlcmlhLkFkZChSZXN0cmljdGlvbnMuRXEoInRoaXMuQ29tbXVuaXR5LklkIiwgQ29tbXVuaXR5LklkKSk7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3JpdGVyaWEuQWRkKFJlc3RyaWN0aW9ucy5FcSgidGhpcy5TdGF0dXMiLCBTdGF0dXNGaWx0ZXIgPT0gUmVxdWVzdFN0YXR1cy5Db21wbGV0ZWQpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRPcmRlcihTb3J0RGlyZWN0aW9uKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJU29ydERpcmVjdGlvbiA9IFNvcnREaXJlY3Rpb24gPz8gRmluYW5jZVNvcnREaXJlY3Rpb24oKTsKCQkJY3JpdGVyaWEuQWRkT3JkZXIoU29ydERpcmVjdGlvbik7Cg==</text>
+        <text encoding="base64">CQkJewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJU29ydERpcmVjdGlvbiA9IFNvcnREaXJlY3Rpb24gPz8gRmluYW5jZVNvcnREaXJlY3Rpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFzdHJpbmcuSXNOdWxsT3JFbXB0eShTZWFyY2hWYWx1ZSkpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJY3JpdGVyaWEuQWRkKFJlc3RyaWN0aW9ucy5FcSgidGhpcy5Db21tdW5pdHkuSWQiLCBDb21tdW5pdHkuSWQpKTsK</text>
+        <text encoding="base64">CQkJU29ydERpcmVjdGlvbiA9IFNvcnREaXJlY3Rpb24gPz8gRmluYW5jZVNvcnREaXJlY3Rpb24oKTsKCQkJY3JpdGVyaWEuQWRkT3JkZXIoU29ydERpcmVjdGlvbik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJU29ydERpcmVjdGlvbiA9IFNvcnREaXJlY3Rpb24gPz8gRmluYW5jZVNvcnREaXJlY3Rpb24oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -468,13 +474,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyaXRlcmlhLkFkZChSZXN0cmljdGlvbnMuRXEoInRoaXMuQ29tbXVuaXR5LklkIiwgKSk7IAo=</text>
+        <text encoding="base64">CQkJY3JpdGVyaWEuQWRkKFJlc3RyaWN0aW9ucy5FcSgidGhpcy5Db21tdW5pdHkuSWQiLCBDb21tdW5pdHkuSWQpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>790</text>
       </register>
     </registers>
     <search>
@@ -524,6 +530,8 @@
         <entry>0</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>343</entry>
+        <entry>790</entry>
       </history-cmd>
       <history-expr />
       <history-input />
