@@ -36,11 +36,9 @@
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceController.cs" timestamp="1557778035429">
+      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceController.cs" timestamp="1557946123471">
+        <mark key="'" line="446" column="27" />
         <mark key="[" line="462" column="53" />
-        <mark key="]" line="464" column="19" />
-        <mark key="." line="464" column="19" />
-        <mark key="^" line="464" column="19" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Areas/Builder/Views/Answer/EditCheckBoxAnswer.cshtml" timestamp="1557507140297">
         <mark key="[" line="0" column="0" />
@@ -207,13 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="87" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinanceTransferService.cs" />
-      <jump line="25" column="56" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinanceTransferService.cs" />
-      <jump line="32" column="95" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinanceTransferService.cs" />
-      <jump line="38" column="37" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinanceTransferService.cs" />
-      <jump line="134" column="30" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinanceTransferService.cs" />
-      <jump line="168" column="15" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/FinanceTransferValidator.cs" />
-      <jump line="37" column="83" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/FinanceTransferValidator.cs" />
       <jump line="128" column="21" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/FinanceTransferValidator.cs" />
       <jump line="139" column="72" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Validators/FinanceTransferValidator.cs" />
       <jump line="172" column="21" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Services/Implementations/FinanceTransferService.cs" />
@@ -307,6 +298,13 @@
       <jump line="219" column="55" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" />
       <jump line="221" column="59" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" />
       <jump line="224" column="68" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" />
+      <jump line="815" column="0" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceController.cs" />
+      <jump line="1123" column="46" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceController.cs" />
+      <jump line="1129" column="23" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceController.cs" />
+      <jump line="424" column="28" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceController.cs" />
+      <jump line="426" column="27" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceController.cs" />
+      <jump line="432" column="50" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceController.cs" />
+      <jump line="446" column="27" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceController.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -389,7 +387,7 @@
         <text encoding="base64">RGVmYXVsdENvbHVtbiA=</text>
       </register>
       <register name="/" type="4">
-        <text>Account\.CommunityId</text>
+        <text>DeleteFinance</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlVbmFwcHJvdmVkLAoKCQlDYW5jZWxlZCwKCgkJRGVuaWVkLAoKCQlDb21wbGV0ZWQsCgoJCUFwcHJvdmVkCg==</text>
@@ -464,16 +462,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Account\.CommunityId</last-search>
+      <last-search>DeleteFinance</last-search>
       <last-offset />
-      <last-pattern>Account\.CommunityId</last-pattern>
+      <last-pattern>DeleteFinance</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Owner</entry>
-        <entry>Previous</entry>
         <entry encoding="base64">XDxNb2RlbFw+</entry>
         <entry encoding="base64">XDxTdGF0dXNGaWx0ZXJcPg==</entry>
         <entry encoding="base64">XDxmaW5hbmNlX2Zvcm1cPg==</entry>
@@ -492,6 +488,8 @@
         <entry encoding="base64">XDxncnBcPg==</entry>
         <entry>Account</entry>
         <entry>Account\.CommunityId</entry>
+        <entry>FinanceType</entry>
+        <entry>DeleteFinance</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
