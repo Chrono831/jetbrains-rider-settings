@@ -81,8 +81,8 @@
         <mark key="[" line="12" column="16" />
         <mark key="]" line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" timestamp="1558034555652">
-        <mark key="'" line="579" column="20" />
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" timestamp="1558095108513">
+        <mark key="'" line="66" column="36" />
         <mark key="[" line="348" column="0" />
         <mark key="]" line="348" column="0" />
         <mark key="." line="348" column="0" />
@@ -203,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="50" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceDepositRepository.cs" />
       <jump line="44" column="42" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceDepositRepository.cs" />
       <jump line="224" column="35" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceUtilities.cs" />
       <jump line="67" column="28" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
@@ -303,6 +302,7 @@
       <jump line="201" column="34" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" />
       <jump line="835" column="21" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" />
       <jump line="579" column="20" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" />
+      <jump line="66" column="36" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -385,7 +385,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZW9yZGVyU3RhZ2VzXD4=</text>
+        <text encoding="base64">XDxDcmVhdGVGaW5hbmNlU3RhZ2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAib3Jnc3luY2J1ZGdldHJlcXVlc3Quc2VydmljZSIsCg==</text>
@@ -460,16 +460,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZW9yZGVyU3RhZ2VzXD4=</last-search>
+      <last-search encoding="base64">XDxDcmVhdGVGaW5hbmNlU3RhZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZW9yZGVyU3RhZ2VzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxDcmVhdGVGaW5hbmNlU3RhZ2VcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Engage</entry>
-        <entry>GetRequests</entry>
         <entry>enabled</entry>
         <entry>Enabled</entry>
         <entry>nabled</entry>
@@ -488,6 +486,8 @@
         <entry encoding="base64">XDxHZXRGaW5hbmNlU3RhZ2VzXD4=</entry>
         <entry encoding="base64">XDxTYXZlU3RhZ2VcPg==</entry>
         <entry encoding="base64">XDxSZW9yZGVyU3RhZ2VzXD4=</entry>
+        <entry>CreateFinanceStage</entry>
+        <entry encoding="base64">XDxDcmVhdGVGaW5hbmNlU3RhZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
