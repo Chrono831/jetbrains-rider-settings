@@ -48,10 +48,6 @@
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceController.cs" timestamp="1558033822202">
-        <mark key="'" line="633" column="28" />
-        <mark key="[" line="462" column="53" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Areas/Builder/Views/Answer/EditCheckBoxAnswer.cshtml" timestamp="1557507140297">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
@@ -70,24 +66,25 @@
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" timestamp="1558358430332">
-        <mark key="[" line="188" column="0" />
-        <mark key="]" line="189" column="32" />
-        <mark key="^" line="190" column="29" />
-        <mark key="." line="186" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" timestamp="1558360878771">
+        <mark key="[" line="171" column="54" />
+        <mark key="]" line="171" column="54" />
+        <mark key="^" line="162" column="27" />
+        <mark key="." line="171" column="54" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentsForReviewerQuery.cs" timestamp="1558358607233">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="71" column="32" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentsForReviewerQuery.cs" timestamp="1558359298599">
+        <mark key="[" line="91" column="58" />
+        <mark key="]" line="91" column="58" />
+        <mark key="." line="91" column="58" />
+        <mark key="^" line="90" column="27" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.organization/submissions.organization.index.js" timestamp="1557964600889">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Reviews/CreateAdjustmentRequestHandler.cs" timestamp="1558359178100">
-        <mark key="[" line="42" column="99" />
-        <mark key="]" line="42" column="109" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Reviews/CreateAdjustmentRequestHandler.cs" timestamp="1558359710753">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="111" />
         <mark key="^" line="42" column="109" />
         <mark key="." line="42" column="109" />
       </file>
@@ -109,12 +106,6 @@
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/RequestStatus.cs" timestamp="1557857560127">
         <mark key="[" line="12" column="16" />
         <mark key="]" line="12" column="16" />
-      </file>
-      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceService.cs" timestamp="1558095108513">
-        <mark key="'" line="66" column="36" />
-        <mark key="[" line="348" column="0" />
-        <mark key="]" line="348" column="0" />
-        <mark key="." line="348" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/AssetManager/javascript.json" timestamp="1557964714756">
         <mark key="'" line="158" column="38" />
@@ -143,11 +134,12 @@
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/LineItems/GetLineItemIdsUnderReviewQuery.cs" timestamp="1558359085371">
-        <mark key="[" line="81" column="35" />
-        <mark key="]" line="81" column="37" />
-        <mark key="." line="81" column="37" />
-        <mark key="^" line="81" column="37" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/LineItems/GetLineItemIdsUnderReviewQuery.cs" timestamp="1558360824394">
+        <mark key="'" line="73" column="63" />
+        <mark key="[" line="73" column="72" />
+        <mark key="]" line="73" column="72" />
+        <mark key="." line="73" column="72" />
+        <mark key="^" line="66" column="25" />
       </file>
       <file name="/FinanceRequestSearchCriteria.cs" timestamp="1557775810026">
         <mark key="[" line="30" column="0" />
@@ -198,6 +190,12 @@
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Validation/Attributes/UserCanEditAdjustmentAttribute.cs" timestamp="1558360233744">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="18" column="15" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.personal/orgsyncbudgetrequest.service.js" timestamp="1557965012482">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -213,6 +211,19 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Reviews/EditAdjustmentRequestHandler.cs" timestamp="1558360222496">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="33" column="32" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentIdsForReviewerQuery.cs" timestamp="1558360708367">
+        <mark key="'" line="32" column="12" />
+        <mark key="[" line="68" column="38" />
+        <mark key="]" line="68" column="29" />
+        <mark key="." line="68" column="29" />
+        <mark key="^" line="68" column="29" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Models/FinancePayment.cs" timestamp="1556817474420">
         <mark key="[" line="2" column="0" />
@@ -235,7 +246,7 @@
         <mark key="^" line="14" column="125" />
         <mark key="." line="14" column="125" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558358695779">
+      <file name="/Dummy.txt" timestamp="1558361178999">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Areas/Builder/Views/Page/Preview/PreviewMultipleTextEntryQuestion.cshtml" timestamp="1557507306580">
@@ -272,17 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="22" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="167" column="57" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="101" column="69" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="84" column="22" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="83" column="22" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="34" column="12" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="209" column="30" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceUtilities.cs" />
-      <jump line="201" column="27" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="166" column="27" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="243" column="24" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
-      <jump line="239" column="67" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
       <jump line="236" column="42" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
       <jump line="232" column="27" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinancePaymentRepository.cs" />
       <jump line="208" column="0" filename="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Data.Finance/EntityFramework/Repositories/FinanceUtilities.cs" />
@@ -372,6 +372,17 @@
       <jump line="76" column="62" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Global.asax.cs" />
       <jump line="75" column="42" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Global.asax.cs" />
       <jump line="78" column="49" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Global.asax.cs" />
+      <jump line="18" column="35" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/LineItems/GetLineItemIdsUnderReviewQuery.cs" />
+      <jump line="31" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/LineItems/GetLineItemIdsUnderReviewQuery.cs" />
+      <jump line="23" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentIdsForReviewerQuery.cs" />
+      <jump line="86" column="52" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentIdsForReviewerQuery.cs" />
+      <jump line="84" column="52" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentIdsForReviewerQuery.cs" />
+      <jump line="24" column="19" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentIdsForReviewerQuery.cs" />
+      <jump line="31" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentIdsForReviewerQuery.cs" />
+      <jump line="18" column="35" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentIdsForReviewerQuery.cs" />
+      <jump line="32" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentIdsForReviewerQuery.cs" />
+      <jump line="58" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/LineItems/GetLineItemIdsUnderReviewQuery.cs" />
+      <jump line="73" column="63" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/LineItems/GetLineItemIdsUnderReviewQuery.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -415,7 +426,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">dGVtcCA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -451,34 +462,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGVtcCA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJbnN0cnVtZW50YXRpb25LZXlcPg==</text>
+        <text encoding="base64">XDxzdGVwSWRzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuU2VsZWN0TGlzdChsaXN0ID0+IGxpc3QuU2VsZWN0KHggPT4geC5JZCkpCiAgICAgICAgICAgICAgICAgICAgLkxpc3Q8aW50PigpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">c3RhdHVzSWRzIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5MaXN0PExpbmVJdGVtPigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuU2VsZWN0KHggPT4geC5TdGVwSWQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuTGlzdCgpCiAgICAgICAgICAgICAgICAgICAgLlNlbGVjdCh4ID0+IHguSWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuTGlzdCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuU2VsZWN0KHggPT4geC5JZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuU2VsZWN0KHggPT4geC5TdGVwSWQpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuTGlzdCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuU2VsZWN0KHggPT4geC5TdGVwSWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vcHJpdmF0ZSA8UXVlcnlPdmVyUHJvamVjdGlvbkJ1aWxkZXI8U3RhdHVzPiwgUXVlcnlPdmVyUHJvamVjdGlvbkJ1aWxkZXI8U3RhdHVzPj4gR2V0TGlzdCgpCiAgICAgICAgICAgICAgICAvL3sKICAgICAgICAgICAgICAgIC8vICAgIFN0YXR1cyBkdG8gPSBudWxsOwogICAgICAgICAgICAgICAgLy8gICAgcmV0dXJuIGxpc3QgPT4gbGlzdC5TZWxlY3QoeCA9PiB4LklkKTsKICAgICAgICAgICAgICAgIC8vfQoKICAgICAgICAgICAgICAgIC8vdmFyIHRlbXAxID0gX3Nlc3Npb24uUXVlcnlPdmVyPFN0YXR1cz4oKQogICAgICAgICAgICAgICAgLy8gICAgLldoZXJlKHggPT4geC5TdGVwLklkLklzSW4oc3VibWlzc2lvblN0ZXBSZXZpZXdlcnMpKQogICAgICAgICAgICAgICAgLy8gICAgLlNlbGVjdCh4ID0+IHguSWQpOwogICAgICAgICAgICAgICAgLy92YXIgdGVtcDIgPSB0ZW1wMQogICAgICAgICAgICAgICAgLy8gICAgLkxpc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuTGlzdCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLy5JZC5Jc0luKHN1Ym1pc3Npb25TdGF0dXNlcykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVlcnkuU3VibWlzc2lvbklkID0gZWRpdEFkanVzdG1lbnRSZXF1ZXN0LlN1Ym1pc3Npb25JZDsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -519,19 +530,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBxLlN1Ym1pc3Npb25JZCA9IHJlcXVlc3QuU3VibWlzc2lvbklkOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuRGlzdGluY3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFN1Ym1pc3Npb25JZDsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJbnN0cnVtZW50YXRpb25LZXlcPg==</last-search>
+      <last-search encoding="base64">XDxzdGVwSWRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJbnN0cnVtZW50YXRpb25LZXlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzdGVwSWRzXD4=</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>-1</last-dir>
@@ -539,10 +550,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxHUk9VUF9OQU1FXD4=</entry>
-        <entry encoding="base64">XDxHUk9VUF9DT0xVTU5cPg==</entry>
-        <entry encoding="base64">XDxncnBcPg==</entry>
-        <entry>Account</entry>
         <entry>Account\.CommunityId</entry>
         <entry>FinanceType</entry>
         <entry>DeleteFinance</entry>
@@ -559,6 +566,10 @@
         <entry encoding="base64">XDxfcmV2aWV3ZXJTdGVwc1w+</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry encoding="base64">XDxJbnN0cnVtZW50YXRpb25LZXlcPg==</entry>
+        <entry encoding="base64">XDxTZWN0aW9uSWRcPg==</entry>
+        <entry encoding="base64">XDxTdWJtaXNzaW9uSWRcPg==</entry>
+        <entry encoding="base64">XDxfcXVlcnlEYW9cPg==</entry>
+        <entry encoding="base64">XDxzdGVwSWRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>.s/Name/budgetPeriodId/g</entry>
