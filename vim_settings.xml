@@ -66,12 +66,12 @@
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" timestamp="1558376482751">
-        <mark key="'" line="187" column="19" />
-        <mark key="[" line="188" column="20" />
-        <mark key="]" line="188" column="20" />
-        <mark key="^" line="188" column="53" />
-        <mark key="." line="188" column="20" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" timestamp="1558376768466">
+        <mark key="'" line="188" column="19" />
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="192" column="44" />
+        <mark key="^" line="189" column="53" />
+        <mark key="." line="192" column="45" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentsForReviewerQuery.cs" timestamp="1558359298599">
         <mark key="[" line="91" column="58" />
@@ -134,12 +134,12 @@
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/LineItems/GetLineItemIdsUnderReviewQuery.cs" timestamp="1558365787371">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/LineItems/GetLineItemIdsUnderReviewQuery.cs" timestamp="1558377162489">
         <mark key="'" line="73" column="63" />
-        <mark key="[" line="58" column="47" />
-        <mark key="]" line="58" column="50" />
-        <mark key="." line="58" column="50" />
-        <mark key="^" line="58" column="50" />
+        <mark key="[" line="78" column="80" />
+        <mark key="]" line="78" column="80" />
+        <mark key="." line="78" column="80" />
+        <mark key="^" line="78" column="79" />
       </file>
       <file name="/FinanceRequestSearchCriteria.cs" timestamp="1557775810026">
         <mark key="[" line="30" column="0" />
@@ -212,12 +212,12 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentIdsForReviewerQuery.cs" timestamp="1558365770840">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentIdsForReviewerQuery.cs" timestamp="1558377023971">
         <mark key="'" line="32" column="12" />
-        <mark key="[" line="75" column="47" />
-        <mark key="]" line="75" column="50" />
-        <mark key="." line="75" column="50" />
-        <mark key="^" line="75" column="50" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="98" column="71" />
+        <mark key="." line="83" column="16" />
+        <mark key="^" line="88" column="31" />
       </file>
       <file name="$USER_HOME$/Code/Pillar.Budgeting/src/Pillar.Budgeting.Contracts/Models/FinancePayment.cs" timestamp="1556817474420">
         <mark key="[" line="2" column="0" />
@@ -426,7 +426,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">JiYg</text>
+        <text>Status</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -462,34 +462,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYg</text>
+        <text>Status</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWJtaXNzaW9uXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>statusIds</text>
+        <text encoding="base64">bGluZUl0ZW1zICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSUVudW1lcmFibGU8aW50PiBzdGF0dXNJZHMgPSBuZXcgTGlzdDxpbnQ+KCk7CiAgICAgICAgICAgIGlmICghX2FjY291bnRQcm92aWRlci5BY2NvdW50Lkhhc1JvbGUoUm9sZS5BZG1pbmlzdHJhdG9yKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHN0ZXBJZHMgPSBfc2Vzc2lvbi5RdWVyeU92ZXI8U3VibWlzc2lvblN0ZXBSZXZpZXdlcj4oKQogICAgICAgICAgICAgICAgICAgIC5XaGVyZSh4ID0+IHguSW5zdGl0dXRpb25JZCA9PSBfaW5zdGl0dXRpb25Db250ZXh0Lkluc3RpdHV0aW9uSWQpCiAgICAgICAgICAgICAgICAgICAgLldoZXJlKHggPT4geC5BY2NvdW50SWQgPT0gX2FjY291bnRQcm92aWRlci5BY2NvdW50LklkKQogICAgICAgICAgICAgICAgICAgIC5XaGVyZSh4ID0+IHguRGVsZXRlZE9uID09IG51bGwpCiAgICAgICAgICAgICAgICAgICAgLlNlbGVjdExpc3QobGlzdCA9PiBsaXN0LlNlbGVjdCh4ID0+IHguU3RlcElkKSkKICAgICAgICAgICAgICAgICAgICAuTGlzdDxpbnQ+KCkKICAgICAgICAgICAgICAgICAgICAuRGlzdGluY3QoKQogICAgICAgICAgICAgICAgICAgIC5Ub0xpc3QoKTsKCiAgICAgICAgICAgICAgICB2YXIgc3RhdHVzSWRzID0gX3Nlc3Npb24uUXVlcnlPdmVyPFN0YXR1cz4oKQogICAgICAgICAgICAgICAgICAgIC5XaGVyZSh4ID0+IHguU3RlcC5JZC5Jc0luKHN0ZXBJZHMpKQogICAgICAgICAgICAgICAgICAgIC5XaGVyZSh4ID0+IHguRGVsZXRlZCA9PSBmYWxzZSkKICAgICAgICAgICAgICAgICAgICAuU2VsZWN0TGlzdChsaXN0ID0+IGxpc3QuU2VsZWN0KHggPT4geC5JZCkpCiAgICAgICAgICAgICAgICAgICAgLkxpc3Q8aW50PigpCiAgICAgICAgICAgICAgICAgICAgLkRpc3RpbmN0KCkKICAgICAgICAgICAgICAgICAgICAuVG9MaXN0KCk7CgogICAgICAgICAgICAgICAgcXVlcnkuV2hlcmVSZXN0cmljdGlvbk9uKGxpID0+IHN0YXR1cy5JZCkuSXNJbihzdGF0dXNJZHMpOwogICAgICAgICAgICB9CgogICAgICAgICAgICB2YXIgaXRlbXMgPSBxdWVyeQogICAgICAgICAgICAgICAgLlNlbGVjdExpc3QobGlzdCA9PiBsaXN0LlNlbGVjdCh4ID0+IHguSWQpKQogICAgICAgICAgICAgICAgLkxpc3Q8aW50PigpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1ZXJ5LldoZXJlKGFkanVzdG1lbnQgPT4gc3VibWlzc2lvbi5TdGF0dXMuSWQuSXNJbihzdGF0dXNJZHMpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuVG9MaXN0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG90YWxJdGVtcyA9IHF1ZXJ5LlJvd0NvdW50KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy92YXIgYWRqdXN0bWVudHMgPSBxdWVyCiAgICAgICAgICAgIC8vICAgIC5TZWxlY3RMaXN0KGxpc3QgPT4gbGlzdC5TZWxlY3QoeCA9PiB4LklkKSkKICAgICAgICAgICAgLy8gICAgLkxpc3Q8aW50PigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1Ym1pc3Npb25zID0gc3VibWlzc2lvbnMuV2hlcmUoeCA9PiB4LlN0YXR1cy5JZC5Jc0luKHN0YXR1c0lkcykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy92YXIgYWRqdXN0bWVudHMgPSBxdWVyeQogICAgICAgICAgICAvLyAgICAuU2VsZWN0TGlzdChsaXN0ID0+IGxpc3QuU2VsZWN0KHggPT4geC5JZCkpCiAgICAgICAgICAgIC8vICAgIC5MaXN0PGludD4oKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -530,10 +530,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1ZXJ5LldoZXJlKCgpID0+IHN0YXR1cy5JZC5Jc0luKHN0YXR1c0lkcykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVG90YWxJdGVtcyA9IGFkanVzdG1lbnRzLkNvdW50KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
