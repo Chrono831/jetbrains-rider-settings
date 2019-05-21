@@ -68,13 +68,13 @@
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" timestamp="1558455800263">
-        <mark key="'" line="136" column="38" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" timestamp="1558458173866">
+        <mark key="'" line="56" column="22" />
         <mark key="w" line="46" column="0" />
-        <mark key="[" line="128" column="12" />
-        <mark key="]" line="128" column="12" />
-        <mark key="." line="128" column="12" />
-        <mark key="^" line="128" column="12" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
+        <mark key="^" line="148" column="26" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentsForReviewerQuery.cs" timestamp="1558359298599">
         <mark key="[" line="91" column="58" />
@@ -327,8 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="35" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/LineItems/GetLineItemIdsUnderReviewQuery.cs" />
-      <jump line="31" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/LineItems/GetLineItemIdsUnderReviewQuery.cs" />
       <jump line="23" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentIdsForReviewerQuery.cs" />
       <jump line="86" column="52" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentIdsForReviewerQuery.cs" />
       <jump line="84" column="52" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentIdsForReviewerQuery.cs" />
@@ -361,7 +359,6 @@
       <jump line="182" column="54" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
       <jump line="89" column="99" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
       <jump line="85" column="98" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
-      <jump line="47" column="66" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
       <jump line="39" column="19" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
       <jump line="175" column="34" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
       <jump line="152" column="24" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
@@ -427,6 +424,9 @@
       <jump line="80" column="38" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
       <jump line="128" column="29" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
       <jump line="136" column="38" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
+      <jump line="47" column="24" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
+      <jump line="141" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
+      <jump line="56" column="22" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -469,8 +469,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>submission</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -506,28 +506,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>submission</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdWJtaXNzaW9uU3RhdHVzSWRzXD4=</text>
+        <text encoding="base64">XDxHZXRTdWJtaXNzaW9uUXVlcnlPYmplY3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzanVuY3Rpb24uQWRkKAogICAgICAgICAgICAgICAgUmVzdHJpY3Rpb25zLldoZXJlPFN1Ym1pc3Npb24+KHN1Ym1pc3Npb24gPT4KICAgICAgICAgICAgICAgICAgICBzdWJtaXNzaW9uLklkLklzSW4ocmVzdWx0cy5TZWxlY3QoeCA9PiB4LklkKS5Ub0FycmF5KCkpCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHF1ZXJ5ID0gX3Nlc3Npb24uUXVlcnlPdmVyKCgpID0+IHN1Ym1pc3Npb24pCiAgICAgICAgICAgICAgICAuSm9pbkFsaWFzKCgpID0+IHN1Ym1pc3Npb24uUHJvY2VzcywgKCkgPT4gcHJvY2VzcywgSm9pblR5cGUuSW5uZXJKb2luKQogICAgICAgICAgICAgICAgLkpvaW5BbGlhcygoKSA9PiBwcm9jZXNzLlByb2plY3QsICgpID0+IHByb2plY3QsIEpvaW5UeXBlLkxlZnRPdXRlckpvaW4pCiAgICAgICAgICAgICAgICAuSm9pbkFsaWFzKCgpID0+IHN1Ym1pc3Npb24uU3RhdHVzLCAoKSA9PiBzdGF0dXMsIEpvaW5UeXBlLklubmVySm9pbikKICAgICAgICAgICAgICAgIC5Kb2luQWxpYXMoKCkgPT4gc3RhdHVzLlN0ZXAsICgpID0+IHN0ZXAsIEpvaW5UeXBlLkxlZnRPdXRlckpvaW4pCiAgICAgICAgICAgICAgICAuSm9pbkFsaWFzKCgpID0+IHN1Ym1pc3Npb24uQWNjb3VudCwgKCkgPT4gYWNjb3VudCwgSm9pblR5cGUuTGVmdE91dGVySm9pbikKICAgICAgICAgICAgICAgIC5Kb2luQWxpYXMoKCkgPT4gc3VibWlzc2lvbi5TdWJtaXNzaW9uQ2FsY3VsYXRlZEFtb3VudFZpZXcsICgpID0+IHRlc3RlciwKICAgICAgICAgICAgICAgICAgICBKb2luVHlwZS5MZWZ0T3V0ZXJKb2luKQogICAgICAgICAgICAgICAgLldoZXJlKCgpID0+IHN1Ym1pc3Npb24uRGVsZXRlZCA9PSBmYWxzZSkKICAgICAgICAgICAgICAgIC5XaGVyZSgoKSA9PiBzdWJtaXNzaW9uLkluc3RpdHV0aW9uSWQgPT0gX2luc3RpdHV0aW9uQ29udGV4dC5JbnN0aXR1dGlvbklkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc2p1bmN0aW9uCiAgICAgICAgICAgICAgICAgICAgLkFkZChSZXN0cmljdGlvbnMuV2hlcmU8U3VibWlzc2lvbj4oc3VibWlzc2lvbiA9PiBzdWJtaXNzaW9uLlN0YXR1cy5JZC5Jc0luKHN0YXR1c0lkcy5Ub0FycmF5KCkpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3VibWlzc2lvbi4uSXNJbnNlbnNpdGl2ZUxpa2UoU2VhcmNoUGFyYW1zLlF1ZXJ5LCBNYXRjaE1vZGUuQW55d2hlcmUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHF1ZXJ5ID0gR2V0U3VibWlzc2lvblF1ZXJ5T2JqZWN0KHN1Ym1pc3Npb24sIHByb2Nlc3MsIHByb2plY3QsIHN0YXR1cywgc3RlcCwgYWNjb3VudCwgdGVzdGVyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1Ym1pc3Npb25TdGF0dXNJZHMuQ29udGFpbnMoeCA9PiB4LnN0YXR1c0lkcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9JRW51bWVyYWJsZTxpbnQ+IHN1Ym1pc3Npb25TdGF0dXNJZHMgPSBxdWVyeQogICAgICAgICAgICAvLyAgICAuU2VsZWN0TGlzdChsaXN0ID0+IGxpc3QuU2VsZWN0KCgpID0+IHN0YXR1cy5JZCkpCiAgICAgICAgICAgIC8vICAgIC5MaXN0PGludD4oKQogICAgICAgICAgICAvLyAgICAuRGlzdGluY3QoKQogICAgICAgICAgICAvLyAgICAuVG9MaXN0KCk7CgogICAgICAgICAgICAvL2lmIChzdGF0dXNJZHMuQW55KCkpCiAgICAgICAgICAgIC8vewogICAgICAgICAgICAvLyAgICBzdWJtaXNzaW9uU3RhdHVzSWRzID0gc3VibWlzc2lvblN0YXR1c0lkcy5XaGVyZSh4ID0+CiAgICAgICAgICAgIC8vICAgICAgICBzdGF0dXNJZHMuQW55KHN0YXR1c0lkID0+IHggPT0gc3RhdHVzSWQpKTsKICAgICAgICAgICAgLy99Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1947,10 +1947,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0YXR1c0lkcy5BbnkoKSkKICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBkaXNqdW5jdGlvbiA9IG5ldyBEaXNqdW5jdGlvbigpOwoKICAgICAgICAgICAgICAgIGRpc2p1bmN0aW9uLkFkZCgKICAgICAgICAgICAgICAgICAgICBSZXN0cmljdGlvbnMuV2hlcmU8U3VibWlzc2lvbj4oeD0+CiAgICAgICAgICAgICAgICAgICAgICAgIHguU3RhdHVzLklkLklzSW4oc3RhdHVzSWRzLlRvQXJyYXkoKSkKICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgcXVlcnkuV2hlcmUoZGlzanVuY3Rpb24pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSUVudW1lcmFibGU8U3VibWlzc2lvbj4gc3VibWlzc2lvbnMgPSBxdWVyeS5MaXN0PFN1Ym1pc3Npb24+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1991,19 +1991,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9pZiAoc3VibWlzc2lvblN0YXR1c0lkcy5BbnkoKSkgeyBzdWJtaXNzaW9uc1F1ZXJ5LldoZXJlKHggPT4geC5TdGF0dXMuSXNJbihzdWJtaXNzaW9uU3RhdHVzSWRzLlRvTGlzdCgpKSk7IH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSUVudW1lcmFibGU8U3VibWlzc2lvbj4gc3VibWlzc2lvbnMgPSBzdWJtaXNzaW9uc1F1ZXJ5Lkxpc3Q8U3VibWlzc2lvbj4oKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdWJtaXNzaW9uU3RhdHVzSWRzXD4=</last-search>
+      <last-search encoding="base64">XDxHZXRTdWJtaXNzaW9uUXVlcnlPYmplY3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdWJtaXNzaW9uU3RhdHVzSWRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxHZXRTdWJtaXNzaW9uUXVlcnlPYmplY3RcPg==</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>-1</last-dir>
@@ -2011,7 +2011,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxzdGVwXD4=</entry>
         <entry encoding="base64">XDx0ZXN0ZXJcPg==</entry>
         <entry encoding="base64">XDxTdGF0dXNcPg==</entry>
@@ -2031,6 +2030,7 @@
         <entry encoding="base64">XDxXaXRoZHJhd25cPg==</entry>
         <entry encoding="base64">XDxHZXRRdWVyeURpc2p1bmN0aW9uXD4=</entry>
         <entry encoding="base64">XDxzdWJtaXNzaW9uU3RhdHVzSWRzXD4=</entry>
+        <entry encoding="base64">XDxHZXRTdWJtaXNzaW9uUXVlcnlPYmplY3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>.s/Name/budgetPeriodId/g</entry>
