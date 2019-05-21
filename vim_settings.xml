@@ -68,13 +68,13 @@
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" timestamp="1558449794307">
-        <mark key="'" line="153" column="66" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" timestamp="1558451445653">
+        <mark key="'" line="141" column="66" />
         <mark key="w" line="46" column="0" />
-        <mark key="[" line="144" column="12" />
-        <mark key="]" line="144" column="12" />
-        <mark key="^" line="129" column="61" />
-        <mark key="." line="144" column="12" />
+        <mark key="[" line="115" column="69" />
+        <mark key="]" line="115" column="69" />
+        <mark key="." line="115" column="69" />
+        <mark key="^" line="115" column="69" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentsForReviewerQuery.cs" timestamp="1558359298599">
         <mark key="[" line="91" column="58" />
@@ -176,6 +176,10 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/GetReviewsQuery.cs" timestamp="1558450856765">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="121" column="56" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/StatusMapping.cs" timestamp="1558353813091">
         <mark key="[" line="59" column="0" />
@@ -465,8 +469,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>IEnumerable</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -502,28 +506,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>IEnumerable</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXaXRoZHJhd25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3VibWlzc2lvbiBzdWJtaXNzaW9uID0gbnVsbDsKICAgICAgICAgICAgUHJvY2VzcyBwcm9jZXNzID0gbnVsbDsKICAgICAgICAgICAgUHJvamVjdCBwcm9qZWN0ID0gbnVsbDsKICAgICAgICAgICAgU3RhdHVzIHN0YXR1cyA9IG51bGw7CiAgICAgICAgICAgIFN0ZXAgc3RlcCA9IG51bGw7CiAgICAgICAgICAgIEFjY291bnQgYWNjb3VudCA9IG51bGw7CiAgICAgICAgICAgIFN1Ym1pc3Npb25DYWxjdWxhdGVkQW1vdW50VmlldyB0ZXN0ZXIgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN1Ym1pc3Npb25JZHMgPSBxdWVyeQogICAgICAgICAgICAgICAgLldoZXJlKCgpID0+IHN0YXR1cy5JZC5Jc0luKHN0YXR1c0lkcy5Ub0xpc3QoKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBsaXN0LlNlbGVjdCgoKSA9PiBzdWJtaXNzaW9uLklkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSUVudW1lcmFibGU8U3VibWlzc2lvbj4gc3VibWlzc2lvbnMgPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Ub0xpc3QoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1946,7 +1950,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Kb2luUXVlcnlPdmVyKCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1987,10 +1991,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBxdWVyeS5PcmRlckJ5KCgpID0+IHRlc3Rlci5DYWxjdWxhdGVkTGluZUl0ZW1BbW91bnQpLkFzYygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaGVyZSgoKSA9PiBzdGF0dXMuSWQuSXNJbihzdGF0dXNJZHMuVG9MaXN0KCkpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBxdWVyeS5PcmRlckJ5KCgpID0+IHRlc3Rlci5DYWxjdWxhdGVkTGluZUl0ZW1BbW91bnQpLkRlc2MoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVG90YWxJdGVtcyA9IHN1Ym1pc3Npb25zLkNvdW50KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
