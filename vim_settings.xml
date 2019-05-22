@@ -68,13 +68,13 @@
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" timestamp="1558541464260">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" timestamp="1558543065104">
         <mark key="w" line="46" column="0" />
-        <mark key="'" line="236" column="20" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="195" column="71" />
+        <mark key="'" line="38" column="20" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="198" column="71" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentsForReviewerQuery.cs" timestamp="1558359298599">
         <mark key="[" line="91" column="58" />
@@ -263,7 +263,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Reviews/ReviewsController.cs" timestamp="1558448743166">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Reviews/ReviewsController.cs" timestamp="1558543155228">
         <mark key="[" line="165" column="58" />
         <mark key="]" line="165" column="59" />
         <mark key="." line="165" column="59" />
@@ -287,7 +287,7 @@
         <mark key="]" line="20" column="12" />
         <mark key="." line="20" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558455824352">
+      <file name="/Dummy.txt" timestamp="1558542946893">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Areas/Builder/Views/Page/Preview/PreviewMultipleTextEntryQuestion.cshtml" timestamp="1557507306580">
@@ -335,9 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="38" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
-      <jump line="146" column="38" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
-      <jump line="140" column="34" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
       <jump line="48" column="58" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
       <jump line="73" column="55" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
       <jump line="78" column="87" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
@@ -435,6 +432,9 @@
       <jump line="44" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
       <jump line="239" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
       <jump line="236" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
+      <jump line="102" column="38" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
+      <jump line="207" column="28" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
+      <jump line="38" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -478,7 +478,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3VibWlzc2lvbkNhbGN1bGF0ZWRBbW91bnRWaWV3IHRlc3RlciA9IG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -519,23 +519,23 @@
       <register name="/" type="4">
         <text encoding="base64">XDxhY2NvdW50XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdWJtaXNzaW9uQ3JpdGVyaWEuQWRkT3JkZXIoT3JkZXIuQXNjKCJzdWJtaXNzaW9uLk9yZ2FuaXphdGlvbk5hbWUiKSk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRpc2p1bmN0aW9uID0gbmV3IERpc2p1bmN0aW9uKCk7CgogICAgICAgICAgICBkaXNqdW5jdGlvbgogICAgICAgICAgICAgICAgLkFkZChSZXN0cmljdGlvbnMuV2hlcmU8U3VibWlzc2lvbj4oc3VibWlzc2lvbiA9PgogICAgICAgICAgICAgICAgICAgIHN1Ym1pc3Npb24uTmFtZS5Jc0luc2Vuc2l0aXZlTGlrZShTZWFyY2hQYXJhbXMuUXVlcnksIE1hdGNoTW9kZS5Bbnl3aGVyZSkKICAgICAgICAgICAgICAgICkpCiAgICAgICAgICAgICAgICAuQWRkKFJlc3RyaWN0aW9ucy5XaGVyZTxTdWJtaXNzaW9uPihzdWJtaXNzaW9uID0+CiAgICAgICAgICAgICAgICAgICAgc3VibWlzc2lvbi5OYW1lLklzSW5zZW5zaXRpdmVMaWtlKFNlYXJjaFBhcmFtcy5RdWVyeSwgTWF0Y2hNb2RlLkFueXdoZXJlKQogICAgICAgICAgICAgICAgKSkKICAgICAgICAgICAgICAgIC5BZGQoUmVzdHJpY3Rpb25zLldoZXJlPFN1Ym1pc3Npb24+KHN1Ym1pc3Npb24gPT4KICAgICAgICAgICAgICAgICAgICBzdWJtaXNzaW9uLk9yZ2FuaXphdGlvbk5hbWUuSXNJbnNlbnNpdGl2ZUxpa2UoU2VhcmNoUGFyYW1zLlF1ZXJ5LCBNYXRjaE1vZGUuQW55d2hlcmUpKSkKICAgICAgICAgICAgICAgIC5BZGQoUmVzdHJpY3Rpb25zLldoZXJlPFN1Ym1pc3Npb24+KHN1Ym1pc3Npb24gPT4KICAgICAgICAgICAgICAgICAgICBzdGVwLk5hbWUuSXNJbnNlbnNpdGl2ZUxpa2UoU2VhcmNoUGFyYW1zLlF1ZXJ5LCBNYXRjaE1vZGUuQW55d2hlcmUpCiAgICAgICAgICAgICAgICApKQogICAgICAgICAgICAgICAgLkFkZChSZXN0cmljdGlvbnMuV2hlcmUoKCkgPT4KICAgICAgICAgICAgICAgICAgICBzdGVwLk5hbWUuSXNJbnNlbnNpdGl2ZUxpa2UoU2VhcmNoUGFyYW1zLlF1ZXJ5LCBNYXRjaE1vZGUuQW55d2hlcmUpCiAgICAgICAgICAgICAgICApKQogICAgICAgICAgICAgICAgLkFkZChSZXN0cmljdGlvbnMuV2hlcmUoKCkgPT4KICAgICAgICAgICAgICAgICAgICBhY2NvdW50LkZpcnN0TmFtZS5Jc0luc2Vuc2l0aXZlTGlrZShTZWFyY2hQYXJhbXMuUXVlcnksIE1hdGNoTW9kZS5Bbnl3aGVyZSkKICAgICAgICAgICAgICAgICkpCiAgICAgICAgICAgICAgICAuQWRkKFJlc3RyaWN0aW9ucy5XaGVyZSgoKSA9PgogICAgICAgICAgICAgICAgICAgIGFjY291bnQuTGFzdE5hbWUuSXNJbnNlbnNpdGl2ZUxpa2UoU2VhcmNoUGFyYW1zLlF1ZXJ5LCBNYXRjaE1vZGUuQW55d2hlcmUpCiAgICAgICAgICAgICAgICApKTsKCgogICAgICAgICAgICB2YXIgdG1wRm9ybWF0dGVkID0gU2VhcmNoUGFyYW1zLlF1ZXJ5LlJlcGxhY2UoIigiLCAiIikuUmVwbGFjZSgiKSIsICIiKS5SZXBsYWNlKCIkIiwgIiIpOwoKICAgICAgICAgICAgaWYgKCFkZWNpbWFsLlRyeVBhcnNlKHRtcEZvcm1hdHRlZCwgb3V0IHZhciBjYWxjdWxhdGVkQW1vdW50KSkgeyByZXR1cm4gZGlzanVuY3Rpb247IH0KCiAgICAgICAgICAgIHZhciBmb3JtYXR0ZWRDYWxjdWxhdGVkUmVzdWx0ID0KICAgICAgICAgICAgICAgIChTZWFyY2hQYXJhbXMuUXVlcnkuU3RhcnRzV2l0aCgiKCIpICYmIFNlYXJjaFBhcmFtcy5RdWVyeS5FbmRzV2l0aCgiKSIpKQogICAgICAgICAgICAgICAgICAgID8gJCIte2NhbGN1bGF0ZWRBbW91bnR9IgogICAgICAgICAgICAgICAgICAgIDogJCJ7Y2FsY3VsYXRlZEFtb3VudH0iOwoKICAgICAgICAgICAgdmFyIHJlc3VsdHMgPSBfc2Vzc2lvbgogICAgICAgICAgICAgICAgLkNyZWF0ZVNRTFF1ZXJ5KAogICAgICAgICAgICAgICAgICAgICQiU0VMRUNUICogRlJPTSBkYm8udWZuR2V0U3VibWlzc2lvbkluZm8oe19pbnN0aXR1dGlvbkNvbnRleHQuSW5zdGl0dXRpb25JZH0sIHtmb3JtYXR0ZWRDYWxjdWxhdGVkUmVzdWx0fSkiKQogICAgICAgICAgICAgICAgLkFkZFNjYWxhcigiSWQiLCBOSGliZXJuYXRlVXRpbC5JbnQzMikKICAgICAgICAgICAgICAgIC5BZGRTY2FsYXIoIkNhbGN1bGF0ZWRBbW91bnQiLCBOSGliZXJuYXRlVXRpbC5EZWNpbWFsKQogICAgICAgICAgICAgICAgLlNldFJlc3VsdFRyYW5zZm9ybWVyKFRyYW5zZm9ybWVycy5BbGlhc1RvQmVhbih0eXBlb2YoU3VibWlzc2lvblRWRlJlc3VsdCkpKQogICAgICAgICAgICAgICAgLkxpc3Q8U3VibWlzc2lvblRWRlJlc3VsdD4oKTsKCiAgICAgICAgICAgIC8vaWYgcXVlcnkgcGFyYW1ldGVyIGlzIG51bWVyaWMsIGFwcGx5IHRvIHN1Ym1pc3Npb24gSWQgZmllbGQuCiAgICAgICAgICAgIGRpc2p1bmN0aW9uLkFkZCgKICAgICAgICAgICAgICAgIFJlc3RyaWN0aW9ucy5XaGVyZTxTdWJtaXNzaW9uPihzdWJtaXNzaW9uID0+CiAgICAgICAgICAgICAgICAgICAgc3VibWlzc2lvbi5JZCA9PSAoaW50KSBjYWxjdWxhdGVkQW1vdW50KQogICAgICAgICAgICApOwoKICAgICAgICAgICAgZGlzanVuY3Rpb24uQWRkKAogICAgICAgICAgICAgICAgUmVzdHJpY3Rpb25zLldoZXJlPFN1Ym1pc3Npb24+KHN1Ym1pc3Npb24gPT4KICAgICAgICAgICAgICAgICAgICBzdWJtaXNzaW9uLklkLklzSW4ocmVzdWx0cy5TZWxlY3QoeCA9PiB4LklkKS5Ub0FycmF5KCkpCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICk7CgogICAgICAgICAgICByZXR1cm4gZGlzanVuY3Rpb247CiAgICAgICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3VibWlzc2lvbkNhbGN1bGF0ZWRBbW91bnRWaWV3IHRlc3RlciA9IG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBxdWVyeS5PcmRlckJ5KHggPT4geC5JZCkuQXNjKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHF1ZXJ5ID0gX3Nlc3Npb24uQ3JlYXRlQ3JpdGVyaWE8U3VibWlzc2lvbj4oKTsgLy8uUXVlcnlPdmVyKCgpID0+IHN1Ym1pc3Npb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChTZWFyY2hQYXJhbXMuU29ydE9yZGVyID09ICJhc2MiKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHF1ZXJ5Lk9yZGVyQnkoKCkgPT4gc3RhdHVzLlN0YXR1c1R5cGUpLkFzYygpLlRoZW5CeSgoKSA9PiBzdGVwLk5hbWUpLkFzYygpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSB7IHF1ZXJ5Lk9yZGVyQnkoKCkgPT4gc3RhdHVzLlN0YXR1c1R5cGUpLkRlc2MoKS5UaGVuQnkoKCkgPT4gc3RlcC5OYW1lKS5EZXNjKCk7IH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIE9yZGVyLkRlc2MoInN1Ym1pc3Npb24uT3JnYW5pemF0aW9uTmFtZSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDoK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHZhciBjbG9uZWRDcml0ZXJpYSA9IENyaXRlcmlhVHJhbnNmb3JtZXIuQ2xvbmUoc3VibWlzc2lvbkNyaXRlcmlhKTsKICAgICAgICAgICAgVG90YWxJdGVtcyA9IGNsb25lZENyaXRlcmlhLlNldFByb2plY3Rpb24oUHJvamVjdGlvbnMuQ291bnQoInN1Ym1pc3Npb24uSWQiKSkuTGlzdDxpbnQ+KCkuRmlyc3RPckRlZmF1bHQoKTsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1955,10 +1955,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3VibWlzc2lvbkNhbGN1bGF0ZWRBbW91bnRWaWV3IHRlc3RlciA9IG51bGw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChTZWFyY2hQYXJhbXMuU29ydE9yZGVyID09ICJhc2MiKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHF1ZXJ5Lk9yZGVyQnkoKCkgPT4gdGVzdGVyLkNhbGN1bGF0ZWRMaW5lSXRlbUFtb3VudCkuQXNjKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIHsgcXVlcnkuT3JkZXJCeSgoKSA9PiB0ZXN0ZXIuQ2FsY3VsYXRlZExpbmVJdGVtQW1vdW50KS5EZXNjKCk7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBxdWVyeS5PcmRlckJ5KHggPT4geC5JZCkuQXNjKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1999,10 +1999,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChTZWFyY2hQYXJhbXMuU29ydE9yZGVyID09ICJhc2MiKSB7IHF1ZXJ5Lk9yZGVyQnkoKCkgPT4gYWNjb3VudC5GaXJzdE5hbWUpLkFzYygpOyB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbHNlIHsgcXVlcnkuT3JkZXJCeSgoKSA9PiBhY2NvdW50Lkxhc3ROYW1lKS5EZXNjKCk7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChTZWFyY2hQYXJhbXMuU29ydE9yZGVyID09ICJhc2MiKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHF1ZXJ5Lk9yZGVyQnkoKCkgPT4gc3RhdHVzLlN0YXR1c1R5cGUpLkFzYygpLlRoZW5CeSgoKSA9PiBzdGVwLk5hbWUpLkFzYygpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSB7IHF1ZXJ5Lk9yZGVyQnkoKCkgPT4gc3RhdHVzLlN0YXR1c1R5cGUpLkRlc2MoKS5UaGVuQnkoKCkgPT4gc3RlcC5OYW1lKS5EZXNjKCk7IH0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChTZWFyY2hQYXJhbXMuU29ydE9yZGVyID09ICJhc2MiKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHF1ZXJ5Lk9yZGVyQnkoKCkgPT4gc3VibWlzc2lvbi5Pcmdhbml6YXRpb25OYW1lKS5Bc2MoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgeyBxdWVyeS5PcmRlckJ5KCgpID0+IHN1Ym1pc3Npb24uT3JnYW5pemF0aW9uTmFtZSkuRGVzYygpOyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIE9yZGVyLkRlc2MoInN1Ym1pc3Npb24uT3JnYW5pemF0aW9uTmFtZSIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>141</text>
@@ -2024,7 +2024,6 @@
         <entry>OrganizationName</entry>
         <entry encoding="base64">XDxOb3RTdWJtaXR0ZWRcPg==</entry>
         <entry encoding="base64">XDxXaXRoZHJhd25cPg==</entry>
-        <entry encoding="base64">XDxHZXRRdWVyeURpc2p1bmN0aW9uXD4=</entry>
         <entry encoding="base64">XDxzdWJtaXNzaW9uU3RhdHVzSWRzXD4=</entry>
         <entry encoding="base64">XDxHZXRTdWJtaXNzaW9uUXVlcnlPYmplY3RcPg==</entry>
         <entry encoding="base64">XDxHZXRPcmRlcmVkUmVzdWx0c1w+</entry>
@@ -2038,6 +2037,7 @@
         <entry encoding="base64">XDxtdWx0aUNyaXRlcmlhXD4=</entry>
         <entry encoding="base64">XDxzdWJtaXNzaW9uXD4=</entry>
         <entry encoding="base64">XDx0ZXN0ZXJcPg==</entry>
+        <entry encoding="base64">XDxHZXRRdWVyeURpc2p1bmN0aW9uXD4=</entry>
         <entry encoding="base64">XDxhY2NvdW50XD4=</entry>
       </history-search>
       <history-cmd>
