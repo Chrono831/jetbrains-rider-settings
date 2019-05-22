@@ -68,13 +68,13 @@
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" timestamp="1558551588660">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" timestamp="1558552295162">
         <mark key="w" line="47" column="0" />
         <mark key="'" line="45" column="30" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="236" column="26" />
+        <mark key="[" line="94" column="60" />
+        <mark key="]" line="94" column="63" />
+        <mark key="." line="94" column="63" />
+        <mark key="^" line="94" column="63" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentsForReviewerQuery.cs" timestamp="1558359298599">
         <mark key="[" line="91" column="58" />
@@ -488,8 +488,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>account</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -525,28 +525,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>step</text>
+        <text>account</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0dXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGQoUmVzdHJpY3Rpb25zLldoZXJlPFN1Ym1pc3Npb24+KHN1Ym1pc3Npb24gPT4KICAgICAgICAgICAgICAgICAgICBzdGVwLkRlbGV0ZWQuRXF1YWxzKGZhbHNlKQogICAgICAgICAgICAgICAgKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdWJtaXNzaW9uQ3JpdGVyaWEuQWRkKFJlc3RyaWN0aW9ucy5FcSgiYWNjb3VudC5EZWxldGVkIiwgZmFsc2UpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGQoUmVzdHJpY3Rpb25zLldoZXJlPFN1Ym1pc3Npb24+KHN1Ym1pc3Npb24gPT4KICAgICAgICAgICAgICAgICAgICBzdGVwLkRlbGV0ZWQuRXF1YWxzKGZhbHNlKQogICAgICAgICAgICAgICAgKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VibWlzc2lvbkNyaXRlcmlhLkFkZChSZXN0cmljdGlvbnMuRXEoInN0YXR1cy5EZWxldGVkIiwgZmFsc2UpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGQoUmVzdHJpY3Rpb25zLldoZXJlPFN1Ym1pc3Npb24+KHN1Ym1pc3Npb24gPT4KICAgICAgICAgICAgICAgICAgICBhY2NvdW50LkRlbGV0ZWQuRXF1YWxzKGZhbHNlKQogICAgICAgICAgICAgICAgKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VibWlzc2lvbkNyaXRlcmlhLkFkZChSZXN0cmljdGlvbnMuRXEoInByb2Nlc3MuRGVsZXRlZCIsIGZhbHNlKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9zdWJtaXNzaW9uQ3JpdGVyaWEuQWRkKFJlc3RyaWN0aW9ucy5FcSgic3RlcC5EZWxldGVkIiwgZmFsc2UpKTsKICAgICAgICAgICAgLy9zdWJtaXNzaW9uQ3JpdGVyaWEuQWRkKFJlc3RyaWN0aW9ucy5FcSgiYWNjb3VudC5EZWxldGVkIiwgZmFsc2UpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VibWlzc2lvbkNyaXRlcmlhLkFkZChSZXN0cmljdGlvbnMuRXEoInN0YXR1cy5EZWxldGVkIiwgZmFsc2UpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGQoUmVzdHJpY3Rpb25zLldoZXJlPFN1Ym1pc3Npb24+KHN1Ym1pc3Npb24gPT4KICAgICAgICAgICAgICAgICAgICBzdGVwLkRlbGV0ZWQuRXF1YWxzKGZhbHNlKQogICAgICAgICAgICAgICAgKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VibWlzc2lvbkNyaXRlcmlhLkFkZChSZXN0cmljdGlvbnMuRXEoInByb2Nlc3MuRGVsZXRlZCIsIGZhbHNlKSk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1966,10 +1966,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGQoUmVzdHJpY3Rpb25zLldoZXJlPFN1Ym1pc3Npb24+KHN1Ym1pc3Npb24gPT4KICAgICAgICAgICAgICAgICAgICBzdGVwLkRlbGV0ZWQuRXF1YWxzKGZhbHNlKQogICAgICAgICAgICAgICAgKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9zdWJtaXNzaW9uQ3JpdGVyaWEuQWRkKFJlc3RyaWN0aW9ucy5FcSgic3RlcC5EZWxldGVkIiwgZmFsc2UpKTsKICAgICAgICAgICAgLy9zdWJtaXNzaW9uQ3JpdGVyaWEuQWRkKFJlc3RyaWN0aW9ucy5FcSgiYWNjb3VudC5EZWxldGVkIiwgZmFsc2UpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNyaXRlcmlhQ291bnQgPSAoSUNyaXRlcmlhKSBzdWJtaXNzaW9uQ3JpdGVyaWEuQ2xvbmUoKTsKICAgICAgICAgICAgY3JpdGVyaWFDb3VudC5TZXRQcm9qZWN0aW9uKFByb2plY3Rpb25zLlJvd0NvdW50KCkpOwogICAgICAgICAgICBUb3RhbEl0ZW1zID0gQ29udmVydC5Ub0ludDMyKGNyaXRlcmlhQ291bnQuVW5pcXVlUmVzdWx0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGQoUmVzdHJpY3Rpb25zLldoZXJlPFN1Ym1pc3Npb24+KHN1Ym1pc3Npb24gPT4KICAgICAgICAgICAgICAgICAgICBzdGVwLkRlbGV0ZWQuRXF1YWxzKGZhbHNlKQogICAgICAgICAgICAgICAgKSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2010,10 +2010,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGQoUmVzdHJpY3Rpb25zLldoZXJlPFN1Ym1pc3Npb24+KHN1Ym1pc3Npb24gPT4KICAgICAgICAgICAgICAgICAgICBzdGVwLkRlbGV0ZWQuRXF1YWxzKGZhbHNlKQogICAgICAgICAgICAgICAgKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNyaXRlcmlhQ291bnQgPSAoSUNyaXRlcmlhKSBzdWJtaXNzaW9uQ3JpdGVyaWEuQ2xvbmUoKTsKICAgICAgICAgICAgY3JpdGVyaWFDb3VudC5TZXRQcm9qZWN0aW9uKFByb2plY3Rpb25zLlJvd0NvdW50KCkpOwogICAgICAgICAgICBUb3RhbEl0ZW1zID0gQ29udmVydC5Ub0ludDMyKGNyaXRlcmlhQ291bnQuVW5pcXVlUmVzdWx0KCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
