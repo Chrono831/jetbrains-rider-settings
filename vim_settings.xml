@@ -39,7 +39,6 @@
         <mark key="." line="72" column="143" />
         <mark key="^" line="72" column="143" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/PdfController.cs" timestamp="1559586327511" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Reviews/EditAdjustmentRequestHandler.cs" timestamp="1558360222496">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -64,6 +63,9 @@
         <mark key="]" line="98" column="71" />
         <mark key="." line="83" column="16" />
         <mark key="^" line="88" column="31" />
+      </file>
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" timestamp="1559831891310">
+        <mark key="'" line="59" column="16" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" timestamp="1558380565225">
         <mark key="[" line="181" column="94" />
@@ -155,7 +157,6 @@
         <mark key="]" line="593" column="0" />
         <mark key="." line="593" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/userAccountService.js" timestamp="1559650866068" />
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" timestamp="1558708998483">
         <mark key="[" line="149" column="77" />
         <mark key="]" line="149" column="106" />
@@ -195,13 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="92" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
-      <jump line="105" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/Submission.cs" />
-      <jump line="150" column="66" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
-      <jump line="151" column="66" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
-      <jump line="225" column="28" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
-      <jump line="128" column="29" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
-      <jump line="136" column="38" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
       <jump line="47" column="24" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
       <jump line="56" column="22" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
       <jump line="154" column="30" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
@@ -295,6 +289,13 @@
       <jump line="2263" column="133" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Views/Shared/az416426VoMsecndNetNextAi2Min.js" />
       <jump line="22" column="17" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" />
       <jump line="107" column="36" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" />
+      <jump line="43" column="12" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" />
+      <jump line="39" column="50" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" />
+      <jump line="104" column="19" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" />
+      <jump line="98" column="19" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" />
+      <jump line="76" column="28" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" />
+      <jump line="70" column="28" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" />
+      <jump line="59" column="16" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Finance/FinanceImportService.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -377,7 +378,7 @@
         <text>3eb63307-6052-431a-8a27-147f121bb5c2</text>
       </register>
       <register name="/" type="4">
-        <text>StaticHost</text>
+        <text encoding="base64">XDx0cmFuc2FjdGlvbklEc1w+</text>
       </register>
       <register name="0" type="4">
         <text>AppInsights:InstrumentationKey</text>
@@ -1869,18 +1870,16 @@
       </register>
     </registers>
     <search>
-      <last-search>StaticHost</last-search>
+      <last-search encoding="base64">XDx0cmFuc2FjdGlvbklEc1w+</last-search>
       <last-offset />
-      <last-pattern>StaticHost</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFuc2FjdGlvbklEc1w+</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>status\.StatusType</entry>
-        <entry encoding="base64">XDxyZWNvcmRzXD4=</entry>
         <entry encoding="base64">XDxtdWx0aUNyaXRlcmlhXD4=</entry>
         <entry encoding="base64">XDxzdWJtaXNzaW9uXD4=</entry>
         <entry encoding="base64">XDx0ZXN0ZXJcPg==</entry>
@@ -1899,6 +1898,8 @@
         <entry encoding="base64">XDxnZXREZWZhdWx0Q29uZmlnXD4=</entry>
         <entry>nsight</entry>
         <entry>StaticHost</entry>
+        <entry encoding="base64">XDxfY29tbXVuaXR5SXRlbVJlcG9zaXRvcnlcPg==</entry>
+        <entry encoding="base64">XDx0cmFuc2FjdGlvbklEc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>.s/Name/transactionType/g</entry>
