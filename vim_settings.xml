@@ -15,9 +15,16 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Base.csproj" timestamp="1559935847089">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsCountQuery.cs" timestamp="1558639582319">
+        <mark key="'" line="128" column="49" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="79" column="64" />
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.Release.config" timestamp="1559934671671">
         <mark key="[" line="13" column="0" />
@@ -65,11 +72,11 @@
         <mark key="^" line="225" column="39" />
         <mark key="." line="223" column="18" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Core/FinanceRegistry.cs" timestamp="1559935173091">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Core/FinanceRegistry.cs" timestamp="1559938877164">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
         <mark key="^" line="4" column="1" />
-        <mark key="." line="4" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" timestamp="1559934695901">
         <mark key="'" line="1646" column="123" />
@@ -93,20 +100,30 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/LineItems/GetLineItemIdsUnderReviewQuery.cs" timestamp="1558377162489">
+        <mark key="'" line="73" column="63" />
+        <mark key="[" line="78" column="80" />
+        <mark key="]" line="78" column="80" />
+        <mark key="." line="78" column="80" />
+        <mark key="^" line="78" column="79" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Global.asax.cs" timestamp="1559932872442">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="88" />
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Settings/SettingsProcessesController.cs" timestamp="1559938848145">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="22" column="58" />
+        <mark key="]" line="22" column="58" />
+        <mark key="^" line="105" column="56" />
+        <mark key="." line="22" column="58" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Error.aspx" timestamp="1559922048317">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Global.asax.cs" timestamp="1559930002884">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="67" column="83" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/packages.config" timestamp="1559935843495">
         <mark key="[" line="17" column="0" />
@@ -126,9 +143,9 @@
         <mark key="^" line="49" column="57" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.csproj" timestamp="1559935836267">
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="." line="117" column="0" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Validation/Attributes/UserCanEditAdjustmentAttribute.cs" timestamp="1558360233744">
         <mark key="[" line="23" column="0" />
@@ -137,9 +154,9 @@
         <mark key="^" line="18" column="15" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/WebApi.csproj" timestamp="1559935840818">
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="." line="117" column="0" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Reviews/EditAdjustmentRequestHandler.cs" timestamp="1558360222496">
         <mark key="[" line="26" column="0" />
@@ -153,13 +170,21 @@
         <mark key="^" line="135" column="54" />
         <mark key="." line="135" column="52" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetAdjustmentIdsForReviewerQuery.cs" timestamp="1558377023971">
+        <mark key="'" line="32" column="12" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="98" column="71" />
+        <mark key="." line="83" column="16" />
+        <mark key="^" line="88" column="31" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" timestamp="1558380565225">
         <mark key="[" line="181" column="94" />
         <mark key="]" line="181" column="94" />
         <mark key="." line="181" column="94" />
         <mark key="^" line="181" column="93" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1559586552184">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1559938524589">
+        <mark key="'" line="151" column="25" />
         <mark key="[" line="100" column="15" />
         <mark key="]" line="100" column="15" />
         <mark key="^" line="142" column="34" />
@@ -175,28 +200,47 @@
         <mark key="]" line="467" column="0" />
         <mark key="." line="467" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Reviews/ReviewsController.cs" timestamp="1558554785475">
+        <mark key="'" line="132" column="16" />
+        <mark key="[" line="132" column="29" />
+        <mark key="]" line="132" column="39" />
+        <mark key="." line="132" column="39" />
+        <mark key="^" line="132" column="39" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Bootstrapper.cs" timestamp="1559932498622">
+        <mark key="[" line="45" column="61" />
+        <mark key="]" line="45" column="57" />
+        <mark key="." line="45" column="57" />
+        <mark key="^" line="45" column="57" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" timestamp="1558381698477">
+        <mark key="'" line="516" column="30" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="8" />
+        <mark key="." line="18" column="8" />
+        <mark key="^" line="16" column="15" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Collection/NavigationApiController.cs" timestamp="1558547562750">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="46" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559935625084">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Views/Shared/AzureAppInsights.cshtml" timestamp="1558708296030">
+        <mark key="'" line="22" column="247" />
+        <mark key="[" line="33" column="38" />
+        <mark key="]" line="33" column="38" />
+        <mark key="^" line="14" column="31" />
+        <mark key="." line="33" column="38" />
       </file>
-      <file name="/ApplicationInsights.config" timestamp="1559933464377">
+      <file name="/Dummy.txt" timestamp="1559939975666">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="86" column="22" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Steps/IsStepNameUniqueQuery.cs" timestamp="1558364649005">
         <mark key="[" line="33" column="29" />
         <mark key="]" line="33" column="15" />
         <mark key="^" line="33" column="15" />
         <mark key="." line="33" column="15" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/AiHandleErrorAttribute.cs" timestamp="1559932795981">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="25" column="1" />
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Attributes/ApplicationInsightsHandleErrorAttribute.cs" timestamp="1559932984405">
         <mark key="[" line="26" column="0" />
@@ -208,6 +252,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="70" column="143" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Collection/Core/CollectionRegistry.cs" timestamp="1559938881419">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/packages.config" timestamp="1559934699885">
         <mark key="'" line="21" column="22" />
@@ -227,14 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="63" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
-      <jump line="39" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
-      <jump line="197" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
-      <jump line="202" column="55" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
-      <jump line="116" column="46" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
-      <jump line="117" column="82" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
-      <jump line="148" column="79" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
-      <jump line="200" column="52" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
       <jump line="138" column="35" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
       <jump line="137" column="35" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
       <jump line="132" column="57" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
@@ -327,6 +368,14 @@
       <jump line="779" column="22" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/App.CC.Org.Finance.csproj" />
       <jump line="87" column="31" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Global.asax.cs" />
       <jump line="97" column="37" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Global.asax.cs" />
+      <jump line="22" column="73" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Settings/SettingsProcessesController.cs" />
+      <jump line="26" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Settings/SettingsProcessesController.cs" />
+      <jump line="19" column="40" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Settings/SettingsProcessesController.cs" />
+      <jump line="185" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
+      <jump line="151" column="25" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" />
+      <jump line="102" column="29" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Settings/SettingsProcessesController.cs" />
+      <jump line="27" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Settings/SettingsProcessesController.cs" />
+      <jump line="20" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Settings/SettingsProcessesController.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -370,7 +419,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgQ2FtcHVzTGFicy5Db3JlLkRhdGFBY2Nlc3MuTkhpYmVybmF0ZS5FbnRpdGllczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -406,28 +455,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>IMappingEngine</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHZXRWYXJ5QnlDdXN0b21TdHJpbmdcPg==</text>
+        <text encoding="base64">XDxfbWFwcGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KCjxBcHBsaWNhdGlvbkluc2lnaHRzIHhtbG5zPSJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL0FwcGxpY2F0aW9uSW5zaWdodHMvMjAxMy9TZXR0aW5ncyI+CiAgICA8VGVsZW1ldHJ5SW5pdGlhbGl6ZXJzPgogICAgICAgIDxBZGQKICAgICAgICAgICAgVHlwZT0iTWljcm9zb2Z0LkFwcGxpY2F0aW9uSW5zaWdodHMuRGVwZW5kZW5jeUNvbGxlY3Rvci5IdHRwRGVwZW5kZW5jaWVzUGFyc2luZ1RlbGVtZXRyeUluaXRpYWxpemVyLCBNaWNyb3NvZnQuQUkuRGVwZW5kZW5jeUNvbGxlY3RvciIgLz4KICAgICAgICA8QWRkCiAgICAgICAgICAgIFR5cGU9Ik1pY3Jvc29mdC5BcHBsaWNhdGlvbkluc2lnaHRzLldpbmRvd3NTZXJ2ZXIuQXp1cmVSb2xlRW52aXJvbm1lbnRUZWxlbWV0cnlJbml0aWFsaXplciwgTWljcm9zb2Z0LkFJLldpbmRvd3NTZXJ2ZXIiIC8+CiAgICAgICAgPEFkZAogICAgICAgICAgICBUeXBlPSJNaWNyb3NvZnQuQXBwbGljYXRpb25JbnNpZ2h0cy5XaW5kb3dzU2VydmVyLkF6dXJlV2ViQXBwUm9sZUVudmlyb25tZW50VGVsZW1ldHJ5SW5pdGlhbGl6ZXIsIE1pY3Jvc29mdC5BSS5XaW5kb3dzU2VydmVyIiAvPgogICAgICAgIDxBZGQKICAgICAgICAgICAgVHlwZT0iTWljcm9zb2Z0LkFwcGxpY2F0aW9uSW5zaWdodHMuV2luZG93c1NlcnZlci5CdWlsZEluZm9Db25maWdDb21wb25lbnRWZXJzaW9uVGVsZW1ldHJ5SW5pdGlhbGl6ZXIsIE1pY3Jvc29mdC5BSS5XaW5kb3dzU2VydmVyIiAvPgogICAgICAgIDxBZGQgVHlwZT0iTWljcm9zb2Z0LkFwcGxpY2F0aW9uSW5zaWdodHMuV2ViLldlYlRlc3RUZWxlbWV0cnlJbml0aWFsaXplciwgTWljcm9zb2Z0LkFJLldlYiIgLz4KICAgICAgICA8QWRkIFR5cGU9Ik1pY3Jvc29mdC5BcHBsaWNhdGlvbkluc2lnaHRzLldlYi5TeW50aGV0aWNVc2VyQWdlbnRUZWxlbWV0cnlJbml0aWFsaXplciwgTWljcm9zb2Z0LkFJLldlYiI+CiAgICAgICAgICAgIDwhLS0gRXh0ZW5kZWQgbGlzdCBvZiBib3RzOgogICAgICAgICAgICBzZWFyY2h8c3BpZGVyfGNyYXdsfEJvdHxNb25pdG9yfEJyb3dzZXJNb2J8QmluZ1ByZXZpZXd8UGFnZVBlZWtlcnxXZWJUaHVtYnxVUkwyUE5HfFpvb1Nob3R8R29tZXpBfEdvb2dsZSBTa2V0Y2hVcHxSZWFkIExhdGVyfEtUWE58S0hURXxLZXlub3RlfFBpbmdkb218QWx3YXlzT258emFvfGJvcmd8b2VncHxzaWxrfFhlbnV8emVhbHxOSU5HfGh0ZGlnfGx5Y29zfHNsdXJwfHRlb21hfHZvaWxhfHlhaG9vfFNvZ291fENpQnJhfE51dGNofEphdmF8Sk5MUHxEYXVtb2F8R2VuaWVvfGljaGlyb3xsYXJiaW58cG9tcG9zfFNjcmFweXxzbmFwcHl8c3BlZWR5fHZvcnRleHxmYXZpY29ufGluZGV4ZXJ8UmlkZGxlcnxzY29vdGVyfHNjcmFwZXJ8c2NydWJieXxXaGF0V2VifFdpbkhUVFB8dm95YWdlcnxhcmNoaXZlcnxJY2FydXM2anxtb2dpbW9naXxOZXR2aWJlc3xhbHRhdmlzdGF8Y2hhcmxvdHRlfGZpbmRsaW5rc3xSZXRyZWl2ZXJ8VExTUHJvYmVyfFdvcmRQcmVzc3x3c3ItYWdlbnR8aHR0cCBjbGllbnR8UHl0aG9uLXVybGxpYnxBcHBFbmdpbmUtR29vZ2xlfHNlbWFudGljZGlzY292ZXJ5fGZhY2Vib29rZXh0ZXJuYWxoaXR8d2ViL3NuaXBwZXR8R29vZ2xlLUhUVFAtSmF2YS1DbGllbnQtLT4KICAgICAgICAgICAgPEZpbHRlcnM+c2VhcmNofHNwaWRlcnxjcmF3bHxCb3R8TW9uaXRvcnxBbHdheXNPbjwvRmlsdGVycz4KICAgICAgICA8L0FkZD4KICAgICAgICA8QWRkIFR5cGU9Ik1pY3Jvc29mdC5BcHBsaWNhdGlvbkluc2lnaHRzLldlYi5DbGllbnRJcEhlYWRlclRlbGVtZXRyeUluaXRpYWxpemVyLCBNaWNyb3NvZnQuQUkuV2ViIiAvPgogICAgICAgIDxBZGQgVHlwZT0iTWljcm9zb2Z0LkFwcGxpY2F0aW9uSW5zaWdodHMuV2ViLk9wZXJhdGlvbk5hbWVUZWxlbWV0cnlJbml0aWFsaXplciwgTWljcm9zb2Z0LkFJLldlYiIgLz4KICAgICAgICA8QWRkIFR5cGU9Ik1pY3Jvc29mdC5BcHBsaWNhdGlvbkluc2lnaHRzLldlYi5PcGVyYXRpb25Db3JyZWxhdGlvblRlbGVtZXRyeUluaXRpYWxpemVyLCBNaWNyb3NvZnQuQUkuV2ViIiAvPgogICAgICAgIDxBZGQgVHlwZT0iTWljcm9zb2Z0LkFwcGxpY2F0aW9uSW5zaWdodHMuV2ViLlVzZXJUZWxlbWV0cnlJbml0aWFsaXplciwgTWljcm9zb2Z0LkFJLldlYiIgLz4KICAgICAgICA8QWRkIFR5cGU9Ik1pY3Jvc29mdC5BcHBsaWNhdGlvbkluc2lnaHRzLldlYi5BdXRoZW50aWNhdGVkVXNlcklkVGVsZW1ldHJ5SW5pdGlhbGl6ZXIsIE1pY3Jvc29mdC5BSS5XZWIiIC8+CiAgICAgICAgPEFkZCBUeXBlPSJNaWNyb3NvZnQuQXBwbGljYXRpb25JbnNpZ2h0cy5XZWIuQWNjb3VudElkVGVsZW1ldHJ5SW5pdGlhbGl6ZXIsIE1pY3Jvc29mdC5BSS5XZWIiIC8+CiAgICAgICAgPEFkZCBUeXBlPSJNaWNyb3NvZnQuQXBwbGljYXRpb25JbnNpZ2h0cy5XZWIuU2Vzc2lvblRlbGVtZXRyeUluaXRpYWxpemVyLCBNaWNyb3NvZnQuQUkuV2ViIiAvPgogICAgPC9UZWxlbWV0cnlJbml0aWFsaXplcnM+CiAgICA8VGVsZW1ldHJ5TW9kdWxlcz4KICAgICAgICA8QWRkCiAgICAgICAgICAgIFR5cGU9Ik1pY3Jvc29mdC5BcHBsaWNhdGlvbkluc2lnaHRzLkRlcGVuZGVuY3lDb2xsZWN0b3IuRGVwZW5kZW5jeVRyYWNraW5nVGVsZW1ldHJ5TW9kdWxlLCBNaWNyb3NvZnQuQUkuRGVwZW5kZW5jeUNvbGxlY3RvciI+CiAgICAgICAgICAgIDxFeGNsdWRlQ29tcG9uZW50Q29ycmVsYXRpb25IdHRwSGVhZGVyc09uRG9tYWlucz4KICAgICAgICAgICAgICAgIDwhLS0KICAgICAgICBSZXF1ZXN0cyB0byB0aGUgZm9sbG93aW5nIGhvc3RuYW1lcyB3aWxsIG5vdCBiZSBtb2RpZmllZCBieSBhZGRpbmcgY29ycmVsYXRpb24gaGVhZGVycy4KICAgICAgICBBZGQgZW50cmllcyBoZXJlIHRvIGV4Y2x1ZGUgYWRkaXRpb25hbCBob3N0bmFtZXMuCiAgICAgICAgTk9URTogdGhpcyBjb25maWd1cmF0aW9uIHdpbGwgYmUgbG9zdCB1cG9uIE51R2V0IHVwZ3JhZGUuCiAgICAgICAgLS0+CiAgICAgICAgICAgICAgICA8QWRkPmNvcmUud2luZG93cy5uZXQ8L0FkZD4KICAgICAgICAgICAgICAgIDxBZGQ+Y29yZS5jaGluYWNsb3VkYXBpLmNuPC9BZGQ+CiAgICAgICAgICAgICAgICA8QWRkPmNvcmUuY2xvdWRhcGkuZGU8L0FkZD4KICAgICAgICAgICAgICAgIDxBZGQ+Y29yZS51c2dvdmNsb3VkYXBpLm5ldDwvQWRkPgogICAgICAgICAgICA8L0V4Y2x1ZGVDb21wb25lbnRDb3JyZWxhdGlvbkh0dHBIZWFkZXJzT25Eb21haW5zPgogICAgICAgICAgICA8SW5jbHVkZURpYWdub3N0aWNTb3VyY2VBY3Rpdml0aWVzPgogICAgICAgICAgICAgICAgPEFkZD5NaWNyb3NvZnQuQXp1cmUuRXZlbnRIdWJzPC9BZGQ+CiAgICAgICAgICAgICAgICA8QWRkPk1pY3Jvc29mdC5BenVyZS5TZXJ2aWNlQnVzPC9BZGQ+CiAgICAgICAgICAgIDwvSW5jbHVkZURpYWdub3N0aWNTb3VyY2VBY3Rpdml0aWVzPgogICAgICAgIDwvQWRkPgogICAgICAgIDxBZGQKICAgICAgICAgICAgVHlwZT0iTWljcm9zb2Z0LkFwcGxpY2F0aW9uSW5zaWdodHMuRXh0ZW5zaWJpbGl0eS5QZXJmQ291bnRlckNvbGxlY3Rvci5QZXJmb3JtYW5jZUNvbGxlY3Rvck1vZHVsZSwgTWljcm9zb2Z0LkFJLlBlcmZDb3VudGVyQ29sbGVjdG9yIj4KICAgICAgICAgICAgPCEtLQogICAgICBVc2UgdGhlIGZvbGxvd2luZyBzeW50YXggaGVyZSB0byBjb2xsZWN0IGFkZGl0aW9uYWwgcGVyZm9ybWFuY2UgY291bnRlcnM6CgogICAgICA8Q291bnRlcnM+CiAgICAgICAgPEFkZCBQZXJmb3JtYW5jZUNvdW50ZXI9IlxQcm9jZXNzKD8/QVBQX1dJTjMyX1BST0M/PylcSGFuZGxlIENvdW50IiBSZXBvcnRBcz0iUHJvY2VzcyBoYW5kbGUgY291bnQiIC8+CiAgICAgICAgLi4uCiAgICAgIDwvQ291bnRlcnM+CgogICAgICBQZXJmb3JtYW5jZUNvdW50ZXIgbXVzdCBiZSBlaXRoZXIgXENhdGVnb3J5TmFtZShJbnN0YW5jZU5hbWUpXENvdW50ZXJOYW1lIG9yIFxDYXRlZ29yeU5hbWVcQ291bnRlck5hbWUKCiAgICAgIE5PVEU6IHBlcmZvcm1hbmNlIGNvdW50ZXJzIGNvbmZpZ3VyYXRpb24gd2lsbCBiZSBsb3N0IHVwb24gTnVHZXQgdXBncmFkZS4KCiAgICAgIFRoZSBmb2xsb3dpbmcgcGxhY2Vob2xkZXJzIGFyZSBzdXBwb3J0ZWQgYXMgSW5zdGFuY2VOYW1lOgogICAgICAgID8/QVBQX1dJTjMyX1BST0M/PyAtIGluc3RhbmNlIG5hbWUgb2YgdGhlIGFwcGxpY2F0aW9uIHByb2Nlc3MgIGZvciBXaW4zMiBjb3VudGVycy4KICAgICAgICA/P0FQUF9XM1NWQ19QUk9DPz8gLSBpbnN0YW5jZSBuYW1lIG9mIHRoZSBhcHBsaWNhdGlvbiBJSVMgd29ya2VyIHByb2Nlc3MgZm9yIElJUy9BU1AuTkVUIGNvdW50ZXJzLgogICAgICAgID8/QVBQX0NMUl9QUk9DPz8gLSBpbnN0YW5jZSBuYW1lIG9mIHRoZSBhcHBsaWNhdGlvbiBDTFIgcHJvY2VzcyBmb3IgLk5FVCBjb3VudGVycy4KICAgICAgLS0+CiAgICAgICAgPC9BZGQ+CiAgICAgICAgPEFkZAogICAgICAgICAgICBUeXBlPSJNaWNyb3NvZnQuQXBwbGljYXRpb25JbnNpZ2h0cy5FeHRlbnNpYmlsaXR5LlBlcmZDb3VudGVyQ29sbGVjdG9yLlF1aWNrUHVsc2UuUXVpY2tQdWxzZVRlbGVtZXRyeU1vZHVsZSwgTWljcm9zb2Z0LkFJLlBlcmZDb3VudGVyQ29sbGVjdG9yIiAvPgogICAgICAgIDxBZGQKICAgICAgICAgICAgVHlwZT0iTWljcm9zb2Z0LkFwcGxpY2F0aW9uSW5zaWdodHMuV2luZG93c1NlcnZlci5BcHBTZXJ2aWNlc0hlYXJ0YmVhdFRlbGVtZXRyeU1vZHVsZSwgTWljcm9zb2Z0LkFJLldpbmRvd3NTZXJ2ZXIiIC8+CiAgICAgICAgPEFkZAogICAgICAgICAgICBUeXBlPSJNaWNyb3NvZnQuQXBwbGljYXRpb25JbnNpZ2h0cy5XaW5kb3dzU2VydmVyLkF6dXJlSW5zdGFuY2VNZXRhZGF0YVRlbGVtZXRyeU1vZHVsZSwgTWljcm9zb2Z0LkFJLldpbmRvd3NTZXJ2ZXIiPgogICAgICAgICAgICA8IS0tCiAgICAgIFJlbW92ZSBpbmRpdmlkdWFsIGZpZWxkcyBjb2xsZWN0ZWQgaGVyZSBieSBhZGRpbmcgdGhlbSB0byB0aGUgQXBwbGljYXRpb25JbnNpZ2hzLkhlYXJ0YmVhdFByb3ZpZGVyCiAgICAgIHdpdGggdGhlIGZvbGxvd2luZyBzeW50YXg6CgogICAgICA8QWRkIFR5cGU9Ik1pY3Jvc29mdC5BcHBsaWNhdGlvbkluc2lnaHRzLkV4dGVuc2liaWxpdHkuSW1wbGVtZW50YXRpb24uVHJhY2luZy5EaWFnbm9zdGljc1RlbGVtZXRyeU1vZHVsZSwgTWljcm9zb2Z0LkFwcGxpY2F0aW9uSW5zaWdodHMiPgogICAgICAgIDxFeGNsdWRlZEhlYXJ0YmVhdFByb3BlcnRpZXM+CiAgICAgICAgICA8QWRkPm9zVHlwZTwvQWRkPgogICAgICAgICAgPEFkZD5sb2NhdGlvbjwvQWRkPgogICAgICAgICAgPEFkZD5uYW1lPC9BZGQ+CiAgICAgICAgICA8QWRkPm9mZmVyPC9BZGQ+CiAgICAgICAgICA8QWRkPnBsYXRmb3JtRmF1bHREb21haW48L0FkZD4KICAgICAgICAgIDxBZGQ+cGxhdGZvcm1VcGRhdGVEb21haW48L0FkZD4KICAgICAgICAgIDxBZGQ+cHVibGlzaGVyPC9BZGQ+CiAgICAgICAgICA8QWRkPnNrdTwvQWRkPgogICAgICAgICAgPEFkZD52ZXJzaW9uPC9BZGQ+CiAgICAgICAgICA8QWRkPnZtSWQ8L0FkZD4KICAgICAgICAgIDxBZGQ+dm1TaXplPC9BZGQ+CiAgICAgICAgICA8QWRkPnN1YnNjcmlwdGlvbklkPC9BZGQ+CiAgICAgICAgICA8QWRkPnJlc291cmNlR3JvdXBOYW1lPC9BZGQ+CiAgICAgICAgICA8QWRkPnBsYWNlbWVudEdyb3VwSWQ8L0FkZD4KICAgICAgICAgIDxBZGQ+dGFnczwvQWRkPgogICAgICAgICAgPEFkZD52bVNjYWxlU2V0TmFtZTwvQWRkPgogICAgICAgIDwvRXhjbHVkZWRIZWFydGJlYXRQcm9wZXJ0aWVzPgogICAgICA8L0FkZD4KCiAgICAgIE5PVEU6IGV4Y2x1c2lvbnMgd2lsbCBiZSBsb3N0IHVwb24gdXBncmFkZS4KICAgICAgLS0+CiAgICAgICAgPC9BZGQ+CiAgICAgICAgPEFkZAogICAgICAgICAgICBUeXBlPSJNaWNyb3NvZnQuQXBwbGljYXRpb25JbnNpZ2h0cy5XaW5kb3dzU2VydmVyLkRldmVsb3Blck1vZGVXaXRoRGVidWdnZXJBdHRhY2hlZFRlbGVtZXRyeU1vZHVsZSwgTWljcm9zb2Z0LkFJLldpbmRvd3NTZXJ2ZXIiIC8+CiAgICAgICAgPEFkZAogICAgICAgICAgICBUeXBlPSJNaWNyb3NvZnQuQXBwbGljYXRpb25JbnNpZ2h0cy5XaW5kb3dzU2VydmVyLlVuaGFuZGxlZEV4Y2VwdGlvblRlbGVtZXRyeU1vZHVsZSwgTWljcm9zb2Z0LkFJLldpbmRvd3NTZXJ2ZXIiIC8+CiAgICAgICAgPEFkZAogICAgICAgICAgICBUeXBlPSJNaWNyb3NvZnQuQXBwbGljYXRpb25JbnNpZ2h0cy5XaW5kb3dzU2VydmVyLlVub2JzZXJ2ZWRFeGNlcHRpb25UZWxlbWV0cnlNb2R1bGUsIE1pY3Jvc29mdC5BSS5XaW5kb3dzU2VydmVyIj4KICAgICAgICAgICAgPCEtLTwvQWRkPgogICAgPEFkZCBUeXBlPSJNaWNyb3NvZnQuQXBwbGljYXRpb25JbnNpZ2h0cy5XaW5kb3dzU2VydmVyLkZpcnN0Q2hhbmNlRXhjZXB0aW9uU3RhdGlzdGljc1RlbGVtZXRyeU1vZHVsZSwgTWljcm9zb2Z0LkFJLldpbmRvd3NTZXJ2ZXIiPi0tPgogICAgICAgIDwvQWRkPgogICAgICAgIDxBZGQgVHlwZT0iTWljcm9zb2Z0LkFwcGxpY2F0aW9uSW5zaWdodHMuV2ViLlJlcXVlc3RUcmFja2luZ1RlbGVtZXRyeU1vZHVsZSwgTWljcm9zb2Z0LkFJLldlYiI+CiAgICAgICAgICAgIDxIYW5kbGVycz4KICAgICAgICAgICAgICAgIDwhLS0KICAgICAgICBBZGQgZW50cmllcyBoZXJlIHRvIGZpbHRlciBvdXQgYWRkaXRpb25hbCBoYW5kbGVyczoKCiAgICAgICAgTk9URTogaGFuZGxlciBjb25maWd1cmF0aW9uIHdpbGwgYmUgbG9zdCB1cG9uIE51R2V0IHVwZ3JhZGUuCiAgICAgICAgLS0+CiAgICAgICAgICAgICAgICA8QWRkPk1pY3Jvc29mdC5WaXN1YWxTdHVkaW8uV2ViLlBhZ2VJbnNwZWN0b3IuUnVudGltZS5UcmFjaW5nLlJlcXVlc3REYXRhSHR0cEhhbmRsZXI8L0FkZD4KICAgICAgICAgICAgICAgIDxBZGQ+U3lzdGVtLldlYi5TdGF0aWNGaWxlSGFuZGxlcjwvQWRkPgogICAgICAgICAgICAgICAgPEFkZD5TeXN0ZW0uV2ViLkhhbmRsZXJzLkFzc2VtYmx5UmVzb3VyY2VMb2FkZXI8L0FkZD4KICAgICAgICAgICAgICAgIDxBZGQ+U3lzdGVtLldlYi5PcHRpbWl6YXRpb24uQnVuZGxlSGFuZGxlcjwvQWRkPgogICAgICAgICAgICAgICAgPEFkZD5TeXN0ZW0uV2ViLlNjcmlwdC5TZXJ2aWNlcy5TY3JpcHRIYW5kbGVyRmFjdG9yeTwvQWRkPgogICAgICAgICAgICAgICAgPEFkZD5TeXN0ZW0uV2ViLkhhbmRsZXJzLlRyYWNlSGFuZGxlcjwvQWRkPgogICAgICAgICAgICAgICAgPEFkZD5TeXN0ZW0uV2ViLlNlcnZpY2VzLkRpc2NvdmVyeS5EaXNjb3ZlcnlSZXF1ZXN0SGFuZGxlcjwvQWRkPgogICAgICAgICAgICAgICAgPEFkZD5TeXN0ZW0uV2ViLkh0dHBEZWJ1Z0hhbmRsZXI8L0FkZD4KICAgICAgICAgICAgPC9IYW5kbGVycz4KICAgICAgICA8L0FkZD4KICAgICAgICA8QWRkIFR5cGU9Ik1pY3Jvc29mdC5BcHBsaWNhdGlvbkluc2lnaHRzLldlYi5FeGNlcHRpb25UcmFja2luZ1RlbGVtZXRyeU1vZHVsZSwgTWljcm9zb2Z0LkFJLldlYiIgLz4KICAgICAgICA8QWRkIFR5cGU9Ik1pY3Jvc29mdC5BcHBsaWNhdGlvbkluc2lnaHRzLldlYi5Bc3BOZXREaWFnbm9zdGljVGVsZW1ldHJ5TW9kdWxlLCBNaWNyb3NvZnQuQUkuV2ViIiAvPgogICAgPC9UZWxlbWV0cnlNb2R1bGVzPgogICAgPEFwcGxpY2F0aW9uSWRQcm92aWRlcgogICAgICAgIFR5cGU9Ik1pY3Jvc29mdC5BcHBsaWNhdGlvbkluc2lnaHRzLkV4dGVuc2liaWxpdHkuSW1wbGVtZW50YXRpb24uQXBwbGljYXRpb25JZC5BcHBsaWNhdGlvbkluc2lnaHRzQXBwbGljYXRpb25JZFByb3ZpZGVyLCBNaWNyb3NvZnQuQXBwbGljYXRpb25JbnNpZ2h0cyIgLz4KICAgIDxUZWxlbWV0cnlTaW5rcz4KICAgICAgICA8QWRkIE5hbWU9ImRlZmF1bHQiPgogICAgICAgICAgICA8VGVsZW1ldHJ5UHJvY2Vzc29ycz4KICAgICAgICAgICAgICAgIDxBZGQKICAgICAgICAgICAgICAgICAgICBUeXBlPSJNaWNyb3NvZnQuQXBwbGljYXRpb25JbnNpZ2h0cy5FeHRlbnNpYmlsaXR5LlBlcmZDb3VudGVyQ29sbGVjdG9yLlF1aWNrUHVsc2UuUXVpY2tQdWxzZVRlbGVtZXRyeVByb2Nlc3NvciwgTWljcm9zb2Z0LkFJLlBlcmZDb3VudGVyQ29sbGVjdG9yIiAvPgogICAgICAgICAgICAgICAgPEFkZAogICAgICAgICAgICAgICAgICAgIFR5cGU9Ik1pY3Jvc29mdC5BcHBsaWNhdGlvbkluc2lnaHRzLkV4dGVuc2liaWxpdHkuQXV0b2NvbGxlY3RlZE1ldHJpY3NFeHRyYWN0b3IsIE1pY3Jvc29mdC5BcHBsaWNhdGlvbkluc2lnaHRzIiAvPgogICAgICAgICAgICAgICAgPEFkZAogICAgICAgICAgICAgICAgICAgIFR5cGU9Ik1pY3Jvc29mdC5BcHBsaWNhdGlvbkluc2lnaHRzLldpbmRvd3NTZXJ2ZXIuVGVsZW1ldHJ5Q2hhbm5lbC5BZGFwdGl2ZVNhbXBsaW5nVGVsZW1ldHJ5UHJvY2Vzc29yLCBNaWNyb3NvZnQuQUkuU2VydmVyVGVsZW1ldHJ5Q2hhbm5lbCI+CiAgICAgICAgICAgICAgICAgICAgPE1heFRlbGVtZXRyeUl0ZW1zUGVyU2Vjb25kPjU8L01heFRlbGVtZXRyeUl0ZW1zUGVyU2Vjb25kPgogICAgICAgICAgICAgICAgICAgIDxFeGNsdWRlZFR5cGVzPkV2ZW50PC9FeGNsdWRlZFR5cGVzPgogICAgICAgICAgICAgICAgPC9BZGQ+CiAgICAgICAgICAgICAgICA8QWRkCiAgICAgICAgICAgICAgICAgICAgVHlwZT0iTWljcm9zb2Z0LkFwcGxpY2F0aW9uSW5zaWdodHMuV2luZG93c1NlcnZlci5UZWxlbWV0cnlDaGFubmVsLkFkYXB0aXZlU2FtcGxpbmdUZWxlbWV0cnlQcm9jZXNzb3IsIE1pY3Jvc29mdC5BSS5TZXJ2ZXJUZWxlbWV0cnlDaGFubmVsIj4KICAgICAgICAgICAgICAgICAgICA8TWF4VGVsZW1ldHJ5SXRlbXNQZXJTZWNvbmQ+NTwvTWF4VGVsZW1ldHJ5SXRlbXNQZXJTZWNvbmQ+CiAgICAgICAgICAgICAgICAgICAgPEluY2x1ZGVkVHlwZXM+RXZlbnQ8L0luY2x1ZGVkVHlwZXM+CiAgICAgICAgICAgICAgICA8L0FkZD4KICAgICAgICAgICAgPC9UZWxlbWV0cnlQcm9jZXNzb3JzPgogICAgICAgICAgICA8VGVsZW1ldHJ5Q2hhbm5lbAogICAgICAgICAgICAgICAgVHlwZT0iTWljcm9zb2Z0LkFwcGxpY2F0aW9uSW5zaWdodHMuV2luZG93c1NlcnZlci5UZWxlbWV0cnlDaGFubmVsLlNlcnZlclRlbGVtZXRyeUNoYW5uZWwsIE1pY3Jvc29mdC5BSS5TZXJ2ZXJUZWxlbWV0cnlDaGFubmVsIiAvPgogICAgICAgIDwvQWRkPgogICAgPC9UZWxlbWV0cnlTaW5rcz4KICAgIDwhLS0KICAgIExlYXJuIG1vcmUgYWJvdXQgQXBwbGljYXRpb24gSW5zaWdodHMgY29uZmlndXJhdGlvbiB3aXRoIEFwcGxpY2F0aW9uSW5zaWdodHMuY29uZmlnIGhlcmU6IAogICAgaHR0cDovL2dvLm1pY3Jvc29mdC5jb20vZndsaW5rLz9MaW5rSUQ9NTEzODQwCiAgICAKICAgIE5vdGU6IElmIG5vdCBwcmVzZW50LCBwbGVhc2UgYWRkIDxJbnN0cnVtZW50YXRpb25LZXk+WW91ciBLZXk8L0luc3RydW1lbnRhdGlvbktleT4gdG8gdGhlIHRvcCBvZiB0aGlzIGZpbGUuCiAgLS0+PC9BcHBsaWNhdGlvbkluc2lnaHRzPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjdGl2ZVJhbmdlQ2xvc2VEYXRlID0gbW9kZWwuQWN0aXZlUmFuZ2UuQ2xvc2VEYXRlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgQ2FtcHVzTGFicy5Db3JlLkRhdGFBY2Nlc3MuTkhpYmVybmF0ZS5FbnRpdGllczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iQ0wuQ29yZURhdGEuQ29udHJhY3RzLCBWZXJzaW9uPTEuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgcHJvY2Vzc29yQXJjaGl0ZWN0dXJlPU1TSUwiPgogICAgICA8SGludFBhdGg+Li5cLi5ccGFja2FnZXNcQ0wuQ29yZURhdGEuQ29udHJhY3RzLjIwMTcxMDIwLjFcbGliXG5ldDQ1XENMLkNvcmVEYXRhLkNvbnRyYWN0cy5kbGw8L0hpbnRQYXRoPgogICAgPC9SZWZlcmVuY2U+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRm9yPElNYXBwaW5nRW5naW5lPigpLlVzZSgoKSA9PiBNYXBwZXIuRW5naW5lKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8cGFja2FnZSBpZD0iQ0wuQ29yZURhdGEuQ29udHJhY3RzIiB2ZXJzaW9uPSIyMDE3MTAyMC4xIiB0YXJnZXRGcmFtZXdvcms9Im5ldDQ2MiIgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iQ0wuQ29yZURhdGEuQ29udHJhY3RzLCBWZXJzaW9uPTEuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgcHJvY2Vzc29yQXJjaGl0ZWN0dXJlPU1TSUwiPgogICAgICA8SGludFBhdGg+Li5ccGFja2FnZXNcQ0wuQ29yZURhdGEuQ29udHJhY3RzLjIwMTcxMDIwLjFcbGliXG5ldDQ1XENMLkNvcmVEYXRhLkNvbnRyYWN0cy5kbGw8L0hpbnRQYXRoPgogICAgPC9SZWZlcmVuY2U+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRm9yPD4oKS5Vc2UoKCkgPT4gTWFwcGVyLkVuZ2luZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8cGFja2FnZSBpZD0iQ0wuQ29yZURhdGEuQ29udHJhY3RzIiB2ZXJzaW9uPSIyMDE3MTAyMC4xIiB0YXJnZXRGcmFtZXdvcms9Im5ldDQ2MiIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgX21hcHBlciA9IG1hcHBlcjsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1847,10 +1896,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iQ0wuQ29yZURhdGEuQ29udHJhY3RzLCBWZXJzaW9uPTEuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgcHJvY2Vzc29yQXJjaGl0ZWN0dXJlPU1TSUwiPgogICAgICA8SGludFBhdGg+Li5ccGFja2FnZXNcQ0wuQ29yZURhdGEuQ29udHJhY3RzLjIwMTcxMDIwLjFcbGliXG5ldDQ1XENMLkNvcmVEYXRhLkNvbnRyYWN0cy5kbGw8L0hpbnRQYXRoPgogICAgPC9SZWZlcmVuY2U+Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElNYXBwaW5nRW5naW5lIF9tYXBwZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iQ0wuQ29yZURhdGEuQ29udHJhY3RzLCBWZXJzaW9uPTEuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgcHJvY2Vzc29yQXJjaGl0ZWN0dXJlPU1TSUwiPgogICAgICA8SGludFBhdGg+Li5ccGFja2FnZXNcQ0wuQ29yZURhdGEuQ29udHJhY3RzLjIwMTcxMDIwLjFcbGliXG5ldDQ1XENMLkNvcmVEYXRhLkNvbnRyYWN0cy5kbGw8L0hpbnRQYXRoPgogICAgPC9SZWZlcmVuY2U+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1891,19 +1940,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8cGFja2FnZSBpZD0iQ0wuQ29yZURhdGEuQ29udHJhY3RzIiB2ZXJzaW9uPSIyMDE3MTAyMC4xIiB0YXJnZXRGcmFtZXdvcms9Im5ldDQ2MiIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIElkID0gbW9kZWwuSWQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iQ0wuQ29yZS5EYXRhQWNjZXNzLk5IaWJlcm5hdGUsIFZlcnNpb249Mi4wLjUwNjMuMzA2MjMsIEN1bHR1cmU9bmV1dHJhbCwgcHJvY2Vzc29yQXJjaGl0ZWN0dXJlPU1TSUwiPgogICAgICA8U3BlY2lmaWNWZXJzaW9uPkZhbHNlPC9TcGVjaWZpY1ZlcnNpb24+CiAgICAgIDxIaW50UGF0aD4uLlwuLlxwYWNrYWdlc1xDTC5Db3JlLkRhdGFBY2Nlc3MuTkhpYmVybmF0ZS4yLjAuNTA2My4zMDYyM1xsaWJcbmV0NDVcQ0wuQ29yZS5EYXRhQWNjZXNzLk5IaWJlcm5hdGUuZGxsPC9IaW50UGF0aD4KICAgIDwvUmVmZXJlbmNlPgo=</text>
+        <text encoding="base64">dXNpbmcgQ2FtcHVzTGFicy5Db3JlLkRhdGFBY2Nlc3MuTkhpYmVybmF0ZS5FbnRpdGllczsK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHZXRWYXJ5QnlDdXN0b21TdHJpbmdcPg==</last-search>
+      <last-search encoding="base64">XDxfbWFwcGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHZXRWYXJ5QnlDdXN0b21TdHJpbmdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfbWFwcGVyXD4=</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>-1</last-dir>
@@ -1911,9 +1960,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxHZXRRdWVyeURpc2p1bmN0aW9uXD4=</entry>
-        <entry encoding="base64">XDxzdGVwXD4=</entry>
-        <entry>account</entry>
         <entry encoding="base64">XDxhY2NvdW50XD4=</entry>
         <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
         <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
@@ -1931,6 +1977,9 @@
         <entry>ApplicationI</entry>
         <entry>Insights</entry>
         <entry encoding="base64">XDxHZXRWYXJ5QnlDdXN0b21TdHJpbmdcPg==</entry>
+        <entry encoding="base64">XDxtYXBwZXJcPg==</entry>
+        <entry encoding="base64">XDxfcHJvY2Vzc29yXD4=</entry>
+        <entry encoding="base64">XDxfbWFwcGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>.s/Name/transactionType/g</entry>
