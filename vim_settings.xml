@@ -131,10 +131,10 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="41" column="51" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Web.config" timestamp="1558549563091">
-        <mark key="[" line="49" column="56" />
-        <mark key="]" line="49" column="57" />
-        <mark key="." line="49" column="57" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Web.config" timestamp="1560166243133">
+        <mark key="[" line="345" column="68" />
+        <mark key="]" line="345" column="69" />
+        <mark key="." line="345" column="69" />
         <mark key="^" line="49" column="57" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.csproj" timestamp="1559935836267">
@@ -148,7 +148,7 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="18" column="15" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/WebApi.csproj" timestamp="1559935840818">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/WebApi.csproj" timestamp="1560165896367">
         <mark key="[" line="121" column="0" />
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
@@ -228,8 +228,13 @@
         <mark key="^" line="14" column="31" />
         <mark key="." line="33" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559962882800">
+      <file name="/Dummy.txt" timestamp="1560167069550">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Collection/App.config" timestamp="1560166269867">
+        <mark key="[" line="29" column="68" />
+        <mark key="]" line="29" column="69" />
+        <mark key="." line="29" column="69" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Steps/IsStepNameUniqueQuery.cs" timestamp="1558364649005">
         <mark key="[" line="33" column="29" />
@@ -253,6 +258,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.config" timestamp="1560166218540">
+        <mark key="[" line="364" column="68" />
+        <mark key="]" line="364" column="69" />
+        <mark key="." line="364" column="69" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/packages.config" timestamp="1559934699885">
         <mark key="'" line="21" column="22" />
         <mark key="[" line="103" column="0" />
@@ -271,9 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="35" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
-      <jump line="137" column="35" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
-      <jump line="132" column="57" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
       <jump line="131" column="57" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
       <jump line="108" column="25" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
       <jump line="177" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
@@ -371,6 +378,9 @@
       <jump line="102" column="29" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Settings/SettingsProcessesController.cs" />
       <jump line="27" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Settings/SettingsProcessesController.cs" />
       <jump line="20" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Settings/SettingsProcessesController.cs" />
+      <jump line="226" column="123" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/WebApi.csproj" />
+      <jump line="216" column="58" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/WebApi.csproj" />
+      <jump line="217" column="130" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/WebApi.csproj" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -453,7 +463,7 @@
         <text>IMappingEngine</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfbWFwcGVyXD4=</text>
+        <text>2.2.0.0</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEFjdGl2ZVJhbmdlQ2xvc2VEYXRlID0gbW9kZWwuQWN0aXZlUmFuZ2UuQ2xvc2VEYXRlLAo=</text>
@@ -1945,18 +1955,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfbWFwcGVyXD4=</last-search>
+      <last-search>2.2.0.0</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfbWFwcGVyXD4=</last-pattern>
+      <last-pattern>2.2.0.0</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhY2NvdW50XD4=</entry>
-        <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
         <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxUb3RhbEl0ZW1zXD4=</entry>
         <entry>organization\.BranchId</entry>
@@ -1975,6 +1983,8 @@
         <entry encoding="base64">XDxtYXBwZXJcPg==</entry>
         <entry encoding="base64">XDxfcHJvY2Vzc29yXD4=</entry>
         <entry encoding="base64">XDxfbWFwcGVyXD4=</entry>
+        <entry>Internal</entry>
+        <entry>2.2.0.0</entry>
       </history-search>
       <history-cmd>
         <entry>.s/Name/transactionType/g</entry>
