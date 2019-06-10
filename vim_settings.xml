@@ -39,6 +39,12 @@
         <mark key="." line="68" column="69" />
         <mark key="^" line="68" column="69" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/FlowMapping.cs" timestamp="1560184919809">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="46" />
+        <mark key="." line="15" column="46" />
+        <mark key="^" line="15" column="46" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Controllers/Organization/FileUploadQuestionController.cs" timestamp="1559934675452">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
@@ -235,6 +241,12 @@
         <mark key="." line="18" column="8" />
         <mark key="^" line="16" column="15" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/Flow.cs" timestamp="1560184932559">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="16" column="50" />
+        <mark key="." line="16" column="50" />
+        <mark key="^" line="16" column="50" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Collection/NavigationApiController.cs" timestamp="1558547562750">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -309,7 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="64" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
       <jump line="239" column="20" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
       <jump line="207" column="28" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
       <jump line="38" column="17" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsQuery.cs" />
@@ -409,6 +420,7 @@
       <jump line="11" column="37" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/Account.cs" />
       <jump line="57" column="56" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/Account.cs" />
       <jump line="23" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/Account.cs" />
+      <jump line="28" column="19" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/Flow.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -452,7 +464,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmVhZG9ubHkg</text>
+        <text>Deleted</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -488,28 +500,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVhZG9ubHkg</text>
+        <text>Deleted</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcmV2aWV3ZXJTdGVwc1w+</text>
+        <text>Insti</text>
       </register>
-      <register name="0" type="4">
-        <text>_institutionId</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUHJvcGVydHkoZmxvdyA9PiBmbG93LkRlbGV0ZWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0IHsgX2luc3RpdHV0aW9uSWQgPSB2YWx1ZTsgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJvcGVydHkoeCA9PiB4Lk1hbnVhbGx5QWRkZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IEluc3RpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJvcGVydHkoeCA9PiB4LlBvc2l0aW9uVGVtcGxhdGVJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0IHsgX2luc3RpdHV0aW9uSWQgPSB2YWx1ZTsgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJvcGVydHkoeCA9PiB4LlN1Ym1pc3Npb25JZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJvcGVydHkoeCA9PiB4Lk1hbnVhbGx5QWRkZWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJvcGVydHkoeCA9PiB4LlBvc2l0aW9uVGVtcGxhdGVJZCk7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1929,7 +1941,7 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRm9yPElNYXBwaW5nRW5naW5lPigpLlVzZSgoKSA9PiBNYXBwZXIuRW5naW5lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJvcGVydHkoeCA9PiB4LlN1Ym1pc3Npb25JZCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1973,29 +1985,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRm9yPD4oKS5Vc2UoKCkgPT4gTWFwcGVyLkVuZ2luZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRm9yPElNYXBwaW5nRW5naW5lPigpLlVzZSgoKSA9PiBNYXBwZXIuRW5naW5lKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX21hcHBlciA9IG1hcHBlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcmV2aWV3ZXJTdGVwc1w+</last-search>
+      <last-search>Insti</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcmV2aWV3ZXJTdGVwc1w+</last-pattern>
+      <last-pattern>Insti</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Branchid</entry>
-        <entry>BranchId</entry>
-        <entry encoding="base64">XDxEZWxldGVkXD4=</entry>
         <entry encoding="base64">XDxhaXNka1w+</entry>
         <entry encoding="base64">XDxnZXREZWZhdWx0Q29uZmlnXD4=</entry>
         <entry>nsight</entry>
@@ -2013,6 +2022,9 @@
         <entry encoding="base64">XDxfcHJvY2Vzc1N0ZXBBY2NvdW50c1w+</entry>
         <entry>On</entry>
         <entry encoding="base64">XDxfcmV2aWV3ZXJTdGVwc1w+</entry>
+        <entry encoding="base64">XDxJbnN0aVw+</entry>
+        <entry>Instit</entry>
+        <entry>Insti</entry>
       </history-search>
       <history-cmd>
         <entry>.s/Name/transactionType/g</entry>
