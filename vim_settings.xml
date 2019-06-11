@@ -45,9 +45,6 @@
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="/Dummy.cs" timestamp="1560174171353">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Settings/SettingsStepsController.cs" timestamp="1560174215384" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Submissions/CreateManuallyAddedReviewerRequestHandler.cs" timestamp="1560195197983">
         <mark key="[" line="25" column="0" />
@@ -182,12 +179,12 @@
         <mark key="." line="86" column="0" />
         <mark key="^" line="89" column="31" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" timestamp="1560281200869">
-        <mark key="'" line="355" column="27" />
-        <mark key="[" line="483" column="32" />
-        <mark key="]" line="483" column="32" />
-        <mark key="." line="483" column="32" />
-        <mark key="^" line="484" column="101" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" timestamp="1560283116702">
+        <mark key="'" line="510" column="27" />
+        <mark key="[" line="502" column="0" />
+        <mark key="]" line="502" column="0" />
+        <mark key="^" line="500" column="112" />
+        <mark key="." line="502" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" timestamp="1560195363724">
         <mark key="'" line="151" column="25" />
@@ -248,8 +245,10 @@
         <mark key="^" line="14" column="31" />
         <mark key="." line="33" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560258875793">
+      <file name="/Dummy.txt" timestamp="1560282952618">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="72" />
+        <mark key="." line="0" column="72" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Collection/App.config" timestamp="1560166269867">
         <mark key="[" line="29" column="68" />
@@ -263,7 +262,7 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/templates/manuallyAddReviewer.html" timestamp="1560280995708">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/templates/manuallyAddReviewer.html" timestamp="1560281628943">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="27" column="110" />
         <mark key="]" line="27" column="110" />
@@ -314,12 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/Step.cs" />
-      <jump line="20" column="13" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
-      <jump line="140" column="29" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
-      <jump line="122" column="46" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
-      <jump line="125" column="66" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
-      <jump line="127" column="47" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="132" column="34" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="133" column="34" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="134" column="31" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
@@ -409,11 +402,17 @@
       <jump line="494" column="14" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
       <jump line="466" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
       <jump line="506" column="14" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
-      <jump line="461" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
       <jump line="454" column="15" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
-      <jump line="355" column="27" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
       <jump line="27" column="89" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/templates/manuallyAddReviewer.html" />
       <jump line="24" column="0" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/templates/manuallyAddReviewer.html" />
+      <jump line="355" column="27" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
+      <jump line="510" column="11" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
+      <jump line="457" column="15" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
+      <jump line="344" column="27" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
+      <jump line="517" column="15" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
+      <jump line="359" column="27" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
+      <jump line="461" column="15" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
+      <jump line="512" column="27" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -456,8 +455,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aWYg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -493,28 +492,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWYg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNYW51YWxseUFkZFJldmlld2VyQ29udHJvbGxlclw+</text>
+        <text encoding="base64">XDxDdXJyZW50U3RlcE1hbnVhbGx5QWRkZWRSZXZpZXdlcnNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>scope.Submission.CurrentStepManuallyAddedReviewers</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzY29wZS5TdWJtaXNzaW9uLkN1cnJlbnRTdGVwTWFudWFsbHlBZGRlZFJldmlld2VycyA9IHNjb3BlLlN1Ym1pc3Npb24uQ3VycmVudFN0ZXBNYW51YWxseUFkZGVkUmV2aWV3ZXJzLmZpbHRlciggeCA9PiB4LklkICE9PSByZXZpZXdlcklkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjb3BlLlN1Ym1pc3Npb24uQ3VycmVudFN0ZXBNYW51YWxseUFkZGVkUmV2aWV3ZXJzID0gd2luZG93Lk5ld01BUnM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBdKQogIC5jb250cm9sbGVyKCdNYW51YWxseUFkZFJldmlld2VyQ29udHJvbGxlcicsIFsnJHNjb3BlJywgJ3VzZXJBY2NvdW50U2VydmljZScsICdyZXZpZXdTZXJ2aWNlJywgJyRyb3V0ZVBhcmFtcycsICckbW9kYWxJbnN0YW5jZScsCiAgICBmdW5jdGlvbiAoc2NvcGUsIHVzZXJBY2NvdW50U2VydmljZSwgcmV2aWV3U2VydmljZSwgcm91dGVQYXJhbXMsIG1vZGFsSW5zdGFuY2UpIHsKICAgICAgcmV2aWV3U2VydmljZS5nZXQocm91dGVQYXJhbXMuaWQpLnRoZW4oZnVuY3Rpb24gKHJlc3VsdCkgewogICAgICAgIHNjb3BlLlN1Ym1pc3Npb24gPSByZXN1bHQuZGF0YTsKICAgICAgICBzY29wZS5TdGVwSWQgPSBzY29wZS5TdWJtaXNzaW9uLlN0ZXAuSWQ7CiAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNjb3BlLm1hbnVhbGx5QWRkZWRSZXZpZXdlcnNJZHMucHVzaCh1c2VyLklkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzY29wZS5TdWJtaXNzaW9uLgo=</text>
+        <text encoding="base64">ICAgICAgICBzY29wZS5tYW51YWxSZXZpZXdlcnMuZm9yRWFjaChmdW5jdGlvbiAodXNlcikgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFtdOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1934,10 +1933,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIXJldmlld2VyLk1hbnVhbGx5QWRkZWQpCiAgICAgICAgICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vd2luZG93Lm5ld01hbnVhbGx5QWRkZWRSZXZpZXdlcnMgPSByZXN1bHQuZGF0YTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1978,19 +1977,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfc2Vzc2lvbi5EZWxldGUocmV2aWV3ZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzY29wZTogc2NvcGUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBtYW51YWxseUFkZGVkUmV2aWV3ZXJzID0gc2NvcGUuU3VibWlzc2lvbi5DdXJyZW50U3RlcE1hbnVhbGx5QWRkZWRSZXZpZXdlcnM7CiAgICAgICAgICBzY29wZS5hbGxvd2VkVG9WaWV3TWFudWFsbHlBZGRlZFJldmlld2VycyA9IG1hbnVhbGx5QWRkZWRSZXZpZXdlcnMuZmluZEluZGV4KHggPT4geC5JZCA9PT0gY3VycmVudFVzZXJJZCkgPCAwIHx8IHNjb3BlLlN1Ym1pc3Npb24uVXNlci5Jc0FkbWluaXN0cmF0b3I7IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjb3BlLlN1Ym1pc3Npb24uQ3VycmVudFN0ZXBNYW51YWxseUFkZGVkUmV2aWV3ZXJzID0gd2luZG93Lk5ld01BUnM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNYW51YWxseUFkZFJldmlld2VyQ29udHJvbGxlclw+</last-search>
+      <last-search encoding="base64">XDxDdXJyZW50U3RlcE1hbnVhbGx5QWRkZWRSZXZpZXdlcnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNYW51YWxseUFkZFJldmlld2VyQ29udHJvbGxlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxDdXJyZW50U3RlcE1hbnVhbGx5QWRkZWRSZXZpZXdlcnNcPg==</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>-1</last-dir>
@@ -1998,8 +1997,6 @@
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
-        <entry encoding="base64">XDxMaW5lSXRlbU1vZGFsQ29udHJvbGxlclw+</entry>
         <entry encoding="base64">XDxjbENvbGxhcHNlXD4=</entry>
         <entry encoding="base64">XDxhMTF5TW9kYWxcPg==</entry>
         <entry encoding="base64">XDxnZXRVc2Vyc1w+</entry>
@@ -2017,7 +2014,9 @@
         <entry encoding="base64">XDxtYW51YWxSZXZpZXdlcnNcPg==</entry>
         <entry>NewMars</entry>
         <entry encoding="base64">XDxjbG9zZUVkaXRNb2RhbFw+</entry>
+        <entry encoding="base64">XDxhbGxvY2F0ZVRvRmluYW5jZUNvbnRyb2xsZXJcPg==</entry>
         <entry encoding="base64">XDxNYW51YWxseUFkZFJldmlld2VyQ29udHJvbGxlclw+</entry>
+        <entry encoding="base64">XDxDdXJyZW50U3RlcE1hbnVhbGx5QWRkZWRSZXZpZXdlcnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>.,+10s/orgSyncBudget//</entry>
