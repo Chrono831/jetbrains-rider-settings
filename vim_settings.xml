@@ -182,12 +182,12 @@
         <mark key="." line="86" column="0" />
         <mark key="^" line="89" column="31" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" timestamp="1560277399753">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" timestamp="1560278718486">
         <mark key="'" line="277" column="15" />
-        <mark key="[" line="355" column="33" />
-        <mark key="]" line="355" column="33" />
-        <mark key="." line="355" column="33" />
-        <mark key="^" line="355" column="33" />
+        <mark key="[" line="279" column="183" />
+        <mark key="]" line="279" column="196" />
+        <mark key="." line="279" column="183" />
+        <mark key="^" line="279" column="182" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" timestamp="1560195363724">
         <mark key="'" line="151" column="25" />
@@ -450,7 +450,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>modalInstance</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -489,10 +489,10 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZXZpZXdFZGl0Q3RybFw+</text>
+        <text>Controller</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Q3VycmVudFN0ZXBNYW51YWxseUFkZGVkUmV2aWV3ZXJzIA==</text>
+        <text>modalInstance</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0K</text>
@@ -1981,19 +1981,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZXZpZXdFZGl0Q3RybFw+</last-search>
+      <last-search>Controller</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZXZpZXdFZGl0Q3RybFw+</last-pattern>
+      <last-pattern>Controller</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDdXJyZW50U3RlcE1hbnVhbGx5QWRkZWRSZXZpZXdlcnNcPg==</entry>
-        <entry encoding="base64">XDxhbGxvd2VkVG9WaWV3TWFudWFsbHlBZGRlZFJldmlld2Vyc1w+</entry>
-        <entry>delete</entry>
         <entry>filter</entry>
         <entry encoding="base64">XDxBY2NvdW50XD4=</entry>
         <entry encoding="base64">XDxfcXVlcnlEYW9cPg==</entry>
@@ -2011,6 +2008,9 @@
         <entry encoding="base64">XDxSZXZpZXdzRWRpdENvbnRyb2xsZXJcPg==</entry>
         <entry encoding="base64">XDxSZXZpZXdzRWRpdEN0cmxcPg==</entry>
         <entry encoding="base64">XDxSZXZpZXdFZGl0Q3RybFw+</entry>
+        <entry>modalIn</entry>
+        <entry>modal</entry>
+        <entry>Controller</entry>
       </history-search>
       <history-cmd>
         <entry>.s/Name/requestId/g</entry>
