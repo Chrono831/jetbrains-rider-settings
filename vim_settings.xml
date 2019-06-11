@@ -173,12 +173,12 @@
         <mark key="." line="86" column="0" />
         <mark key="^" line="89" column="31" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" timestamp="1560256343092">
-        <mark key="'" line="312" column="20" />
-        <mark key="[" line="311" column="63" />
-        <mark key="]" line="311" column="63" />
-        <mark key="^" line="311" column="103" />
-        <mark key="." line="311" column="63" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" timestamp="1560257275418">
+        <mark key="'" line="310" column="58" />
+        <mark key="[" line="225" column="43" />
+        <mark key="]" line="225" column="43" />
+        <mark key="^" line="225" column="43" />
+        <mark key="." line="225" column="43" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" timestamp="1560195363724">
         <mark key="'" line="151" column="25" />
@@ -236,7 +236,7 @@
         <mark key="^" line="14" column="31" />
         <mark key="." line="33" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560196103449">
+      <file name="/Dummy.txt" timestamp="1560257289306">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Collection/App.config" timestamp="1560166269867">
@@ -285,7 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="43" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsCountQuery.cs" />
       <jump line="130" column="49" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsCountQuery.cs" />
       <jump line="4" column="100" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Views/Shared/AzureAppInsights.cshtml" />
       <jump line="14" column="19" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Views/Shared/AzureAppInsights.cshtml" />
@@ -385,6 +384,7 @@
       <jump line="548" column="27" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
       <jump line="138" column="56" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
       <jump line="134" column="27" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/PdfGenerator.cs" />
+      <jump line="310" column="58" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -428,7 +428,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Index</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -464,28 +464,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Index</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTdWJtaXR0ZXJcPg==</text>
+        <text encoding="base64">XDxDdXJyZW50U3RlcE1hbnVhbGx5QWRkZWRSZXZpZXdlcnNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>scope.Submission.CurrentStepManuallyAddedReviewers</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2NvcGUuYWxsb3dlZFRvVmlld01hbnVhbGx5QWRkZWRSZXZpZXdlcnMgPSAKICAgICAgICAgICAgICBzY29wZS5TdWJtaXNzaW9uLlVzZXIuSXNBZG1pbmlzdHJhdG9yIAogICAgICAgICAgICAgIHx8IChzY29wZS5TdWJtaXNzaW9uLkN1cnJlbnRTdGVwTWFudWFsbHlBZGRlZFJldmlld2Vycy5maW5kSW5kZXgoeCA9PiB4LklkID09PSBjdXJyZW50VXNlcklkKSA8IDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhciBtYW51YWxseUFkZGVkUmV2aWV3ZXJzID0gc2NvcGUuU3VibWlzc2lvbi5DdXJyZW50U3RlcE1hbnVhbGx5QWRkZWRSZXZpZXdlcnM7CiAgICAgICAgICBzY29wZS5hbGxvd2VkVG9WaWV3TWFudWFsbHlBZGRlZFJldmlld2VycyA9IG1hbnVhbGx5QWRkZWRSZXZpZXdlcnMuZmluZEluZGV4KHggPT4geC5JZCA9PT0gY3VycmVudFVzZXJJZCkgPCAwIHx8IHNjb3BlLlN1Ym1pc3Npb24uVXNlci5Jc0FkbWluaXN0cmF0b3I7IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzdWJtaXNzaW9uID0gYXdhaXQgR2V0KHJlcXVlc3QuU3VibWlzc2lvbklkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1hbnVhbGx5QWRkZWRSZXZpZXdlcnMgPSBzY29wZS5TdWJtaXNzaW9uLkN1cnJlbnRTdGVwTWFudWFsbHlBZGRlZFJldmlld2VyczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHNjb3BlLlN1Ym1pc3Npb24uQ3VycmVudFN0ZXBNYW51YWxseUFkZGVkUmV2aWV3ZXJzLmZvckVhY2goZnVuY3Rpb24gKHVzZXIpIHsKICAgICAgICAgICAgaWYgKHVzZXIuSWQgIT09IGN1cnJlbnRVc2VySWQgfHwgc2NvcGUuU3VibWlzc2lvbi5Vc2VyLklzQWRtaW5pc3RyYXRvcikgewogICAgICAgICAgICAgIHNjb3BlLmFsbG93ZWRUb1ZpZXdNYW51YWxseUFkZGVkUmV2aWV3ZXJzID0gZmFsc2U7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgc2NvcGUuYWxsb3dlZFRvVmlld01hbnVhbGx5QWRkZWRSZXZpZXdlcnMgPSBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY2lwaWVudHMuQWRkKHJlc3VsdC4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1905,10 +1905,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSWQgPSBpZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzdWJtaXNzaW9uID0gYXdhaXQgR2V0KHJlcXVlc3QuU3VibWlzc2lvbklkKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmxvdy5Qcm9jZXNzLkluc3RpdHV0aW9uSWQgPT0gX2NvbnRleHQuSW5zdGl0dXRpb25JZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdC4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1949,19 +1949,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaGVyZSgKICAgICAgICAgICAgICAgICAgICBwcm9jZXNzID0+CiAgICAgICAgICAgICAgICAgICAgICAgIHByb2Nlc3MuSW5zdGl0dXRpb25JZCA9PSBfY29udGV4dC5JbnN0aXR1dGlvbklkICYmCiAgICAgICAgICAgICAgICAgICAgICAgICFwcm9jZXNzLkRlbGV0ZWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuV2hlcmUoeCA9PiB4LlN0ZXAuSWQuSXNJbihzdGVwSWRzKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY2lwaWVudHMuQWRkKHJlc3VsdC4pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTdWJtaXR0ZXJcPg==</last-search>
+      <last-search encoding="base64">XDxDdXJyZW50U3RlcE1hbnVhbGx5QWRkZWRSZXZpZXdlcnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTdWJtaXR0ZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxDdXJyZW50U3RlcE1hbnVhbGx5QWRkZWRSZXZpZXdlcnNcPg==</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>-1</last-dir>
@@ -1969,7 +1969,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Internal</entry>
         <entry>2.2.0.0</entry>
         <entry encoding="base64">XDxfcHJvY2Vzc1N0ZXBBY2NvdW50c1w+</entry>
         <entry>On</entry>
@@ -1989,6 +1988,7 @@
         <entry encoding="base64">XDxBY2NvdW50U2xpbVw+</entry>
         <entry encoding="base64">XDxhY2NvdW50UHJvdmlkZXJcPg==</entry>
         <entry encoding="base64">XDxTdWJtaXR0ZXJcPg==</entry>
+        <entry encoding="base64">XDxDdXJyZW50U3RlcE1hbnVhbGx5QWRkZWRSZXZpZXdlcnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>.s/Name/status/g</entry>
