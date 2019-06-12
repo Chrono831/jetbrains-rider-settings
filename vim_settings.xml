@@ -9,7 +9,12 @@
         <mark key="." line="14" column="46" />
         <mark key="^" line="14" column="46" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Steps/EditStepRequestHandler.cs" timestamp="1560187905299" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Steps/EditStepRequestHandler.cs" timestamp="1560356221172">
+        <mark key="[" line="62" column="82" />
+        <mark key="]" line="62" column="90" />
+        <mark key="^" line="62" column="90" />
+        <mark key="." line="62" column="90" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewsCountQuery.cs" timestamp="1558639582319">
         <mark key="'" line="128" column="49" />
         <mark key="[" line="103" column="0" />
@@ -30,9 +35,6 @@
         <mark key="." line="15" column="46" />
         <mark key="^" line="15" column="46" />
       </file>
-      <file name="/Dummy.cs" timestamp="1560174171353">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Settings/SettingsStepsController.cs" timestamp="1560174215384" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Steps/GetStepsQuery.cs" timestamp="1560185224793">
         <mark key="[" line="28" column="0" />
@@ -49,6 +51,12 @@
         <mark key="]" line="62" column="81" />
         <mark key="^" line="62" column="81" />
         <mark key="." line="62" column="81" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Steps/GetProcessPositionTemplatesQuery.cs" timestamp="1560356180440">
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="23" column="19" />
+        <mark key="." line="23" column="19" />
+        <mark key="^" line="23" column="19" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/Status.cs" timestamp="1560178611227">
         <mark key="[" line="11" column="16" />
@@ -103,11 +111,11 @@
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Accounts/GetAccountsQuery.cs" timestamp="1560354645407">
-        <mark key="[" line="34" column="86" />
-        <mark key="]" line="34" column="86" />
-        <mark key="." line="34" column="86" />
-        <mark key="^" line="30" column="46" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Accounts/GetAccountsQuery.cs" timestamp="1560355352276">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="94" />
+        <mark key="." line="34" column="62" />
+        <mark key="^" line="34" column="62" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/ObjectQueryParamSerializer.cs" timestamp="1560185516635">
         <mark key="[" line="16" column="31" />
@@ -122,12 +130,12 @@
         <mark key="." line="86" column="0" />
         <mark key="^" line="89" column="31" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" timestamp="1560349957518">
-        <mark key="'" line="525" column="46" />
-        <mark key="[" line="507" column="34" />
-        <mark key="]" line="507" column="34" />
-        <mark key="." line="507" column="34" />
-        <mark key="^" line="507" column="42" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" timestamp="1560356643131">
+        <mark key="'" line="526" column="46" />
+        <mark key="[" line="315" column="13" />
+        <mark key="]" line="502" column="9" />
+        <mark key="." line="502" column="9" />
+        <mark key="^" line="502" column="9" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1560352744114">
         <mark key="[" line="225" column="0" />
@@ -180,9 +188,6 @@
         <mark key="]" line="18" column="2" />
         <mark key="^" line="18" column="3" />
         <mark key="." line="18" column="2" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1560351483714">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/AccountMapping.cs" timestamp="1560171314323" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Mappings/ProcessStepAccountMapping.cs" timestamp="1560171277699">
@@ -371,8 +376,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ICollection</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -408,28 +413,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ICollection</text>
+        <text>Enumerable</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRTdGVwUmV2aWV3ZXJzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaGVyZSggYWNjb3VudCA9PiBhY2NvdW50Lkluc3RpdHV0aW9uSWQgPT0gX2NvbnRleHQuSW5zdGl0dXRpb25JZCAmJiAhYWNjb3VudC5EZWxldGVkKTsK</text>
+      <register name="0" type="4">
+        <text>request.PositionTemplates</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZSB7IHF1ZXJ5LlJlYWRPbmx5KCk7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfcXVlcnlEYW8uRmluZE9uZTxQcm9jZXNzUG9zaXRpb25UZW1wbGF0ZSwgR2V0UHJvY2Vzc1Bvc2l0aW9uVGVtcGxhdGVzUXVlcnk+KAogICAgICAgICAgICAgICAgICAgICAgICBxID0+IHsgcS5JZCA9IGlkOyB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5FYWdlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSB7IHF1ZXJ5LlJlYWRPbmx5KCk7IH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5GZXRjaChhY2NvdW50ID0+IGFjY291bnQuU3VibWlzc2lvbnMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSB7IHF1ZXJ5LlJlYWRPbmx5KCk7IH0K</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1849,10 +1854,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWNjb3VudFNsaW1zLkFkZFJhbmdlKHRlbXApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5FYWdlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFjY291bnRTbGltcyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5GZXRjaChhY2NvdW50ID0+IGFjY291bnQuU3VibWlzc2lvbnMpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1893,13 +1898,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy92YXIgcmVjaXBpZW50SWRzID0gcmVjaXBpZW50cy5TZWxlY3QoeCA9PiB4LklkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWNjb3VudFNsaW1zLkFkZFJhbmdlKHRlbXApOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>$</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1951,10 +1956,10 @@
         <entry>309</entry>
         <entry>463</entry>
         <entry>167</entry>
-        <entry>q</entry>
         <entry>w</entry>
         <entry>133</entry>
         <entry>$</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
