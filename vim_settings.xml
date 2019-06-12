@@ -9,7 +9,6 @@
         <mark key="." line="14" column="46" />
         <mark key="^" line="14" column="46" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.controllers.js" timestamp="1560365197772" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Steps/EditStepRequestHandler.cs" timestamp="1560356221172">
         <mark key="[" line="62" column="82" />
         <mark key="]" line="62" column="90" />
@@ -68,11 +67,14 @@
         <mark key="." line="502" column="9" />
         <mark key="^" line="502" column="9" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1560359994975">
-        <mark key="[" line="225" column="0" />
-        <mark key="]" line="227" column="60" />
-        <mark key="^" line="209" column="11" />
-        <mark key="." line="227" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" timestamp="1560371154495">
+        <mark key="'" line="82" column="31" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Submissions/SubmissionsController.cs" timestamp="1560371287025">
+        <mark key="[" line="229" column="118" />
+        <mark key="]" line="229" column="118" />
+        <mark key="^" line="229" column="124" />
+        <mark key="." line="229" column="118" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/Reviews/ReviewsController.cs" timestamp="1558554785475">
         <mark key="'" line="132" column="16" />
@@ -81,7 +83,7 @@
         <mark key="." line="132" column="39" />
         <mark key="^" line="132" column="39" />
       </file>
-      <file name="/Dummy.cs" timestamp="1560358644766">
+      <file name="/Dummy.cs" timestamp="1560371070225">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Processes/GetProcessesQuery.cs" timestamp="1560185669981">
@@ -125,7 +127,7 @@
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/compile-templates.js" timestamp="1560342446067">
         <mark key="'" line="63" column="15" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" timestamp="1560364671496">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" timestamp="1560371758419">
         <mark key="[" line="42" column="92" />
         <mark key="]" line="42" column="92" />
         <mark key="." line="42" column="92" />
@@ -209,7 +211,6 @@
         <mark key="^" line="207" column="19" />
         <mark key="." line="205" column="75" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/submissions.common/submissions.common.services.js" timestamp="1560360028281" />
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/Web.config" timestamp="1560170839144">
         <mark key="'" line="65" column="53" />
         <mark key="[" line="74" column="56" />
@@ -244,9 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="43" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/templates/manuallyAddReviewer.html" />
-      <jump line="55" column="22" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/templates/manuallyAddReviewer.html" />
-      <jump line="54" column="31" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/templates/manuallyAddReviewer.html" />
       <jump line="50" column="34" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/templates/manuallyAddReviewer.html" />
       <jump line="358" column="61" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
       <jump line="494" column="14" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
@@ -344,6 +342,9 @@
       <jump line="213" column="28" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" />
       <jump line="115" column="38" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" />
       <jump line="212" column="28" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" />
+      <jump line="182" column="29" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
+      <jump line="128" column="31" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
+      <jump line="82" column="31" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -386,23 +387,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -438,10 +424,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHZXREaXNqdW5jdGlvblw+</text>
+        <text encoding="base64">XDxHZXRPcmdhbml6YXRpb25cPg==</text>
       </register>
       <register name="0" type="4">
         <text>process</text>
@@ -1944,13 +1930,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>187</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHZXREaXNqdW5jdGlvblw+</last-search>
+      <last-search encoding="base64">XDxHZXRPcmdhbml6YXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHZXREaXNqdW5jdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxHZXRPcmdhbml6YXRpb25cPg==</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>-1</last-dir>
@@ -1958,7 +1944,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaW5kSW5kZXhcPg==</entry>
         <entry encoding="base64">PT4=</entry>
         <entry encoding="base64">XDxpc051bWJlclw+</entry>
         <entry>isNumber</entry>
@@ -1978,11 +1963,9 @@
         <entry encoding="base64">XDxRdWVyeVw+</entry>
         <entry encoding="base64">XDxHZXRRdWVyeURpc2p1bmN0aW9uXD4=</entry>
         <entry encoding="base64">XDxHZXREaXNqdW5jdGlvblw+</entry>
+        <entry encoding="base64">XDxHZXRPcmdhbml6YXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>46</entry>
-        <entry>78</entry>
-        <entry>343</entry>
         <entry>790</entry>
         <entry>55</entry>
         <entry>W</entry>
@@ -2000,6 +1983,9 @@
         <entry>q</entry>
         <entry>133</entry>
         <entry>w</entry>
+        <entry>e</entry>
+        <entry>129</entry>
+        <entry>187</entry>
       </history-cmd>
       <history-expr />
       <history-input />
