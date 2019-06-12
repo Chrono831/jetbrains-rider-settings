@@ -17,7 +17,7 @@
         <mark key="." line="103" column="0" />
         <mark key="^" line="79" column="64" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/SubmissionSlim.cs" timestamp="1560354034000">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/SubmissionSlim.cs" timestamp="1560354124495">
         <mark key="'" line="83" column="35" />
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="0" />
@@ -103,11 +103,11 @@
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Accounts/GetAccountsQuery.cs" timestamp="1560352183398">
-        <mark key="[" line="40" column="55" />
-        <mark key="]" line="40" column="55" />
-        <mark key="." line="40" column="55" />
-        <mark key="^" line="24" column="31" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Accounts/GetAccountsQuery.cs" timestamp="1560354645407">
+        <mark key="[" line="34" column="86" />
+        <mark key="]" line="34" column="86" />
+        <mark key="." line="34" column="86" />
+        <mark key="^" line="30" column="46" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/ObjectQueryParamSerializer.cs" timestamp="1560185516635">
         <mark key="[" line="16" column="31" />
@@ -371,8 +371,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ICollection</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -408,28 +408,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>ICollection</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRTdGVwUmV2aWV3ZXJzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>accountSlims</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaGVyZSggYWNjb3VudCA9PiBhY2NvdW50Lkluc3RpdHV0aW9uSWQgPT0gX2NvbnRleHQuSW5zdGl0dXRpb25JZCAmJiAhYWNjb3VudC5EZWxldGVkKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWNjb3VudFNsaW1zLkFkZFJhbmdlKHRlbXApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSB7IHF1ZXJ5LlJlYWRPbmx5KCk7IH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFjY291bnRTbGltcyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5FYWdlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy92YXIgcmVjaXBpZW50SWRzID0gcmVjaXBpZW50cy5TZWxlY3QoeCA9PiB4LklkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5GZXRjaChhY2NvdW50ID0+IGFjY291bnQuU3VibWlzc2lvbnMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1849,10 +1849,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIGFjY291bnRTbGltIGluIHRlbXApCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGlmIChjdXJyZW50U3RlcFJldmlld2Vycy5UcnlHZXRWYWx1ZShhY2NvdW50U2xpbS5JZCwgb3V0IHZhciBtYW51YWxseUFkZGVkKSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBhY2NvdW50U2xpbS5NYW51YWxseUFkZGVkUmV2aWV3ZXIgPSBtYW51YWxseUFkZGVkOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWNjb3VudFNsaW1zLkFkZFJhbmdlKHRlbXApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHJldmlld2VyIGluIGN1cnJlbnRTdGVwUmV2aWV3ZXJzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgYWNjb3VudCA9IHF1ZXJ5RGFvLkZpbmRPbmU8QWNjb3VudCwgR2V0QWNjb3VudHNRdWVyeT4oCiAgICAgICAgICAgICAgICAgICAgeCA9PiB7IHguSWQgPSByZXZpZXdlci5BY2NvdW50SWQ7IH0KICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICBhY2NvdW50U2xpbXMuQWRkKG5ldyBBY2NvdW50U2xpbShhY2NvdW50LCByZXZpZXdlci5NYW51YWxseUFkZGVkKSk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFjY291bnRTbGltcyA9IAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1893,10 +1893,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy92YXIgcmVjaXBpZW50SWRzID0gcmVjaXBpZW50cy5TZWxlY3QoeCA9PiB4LklkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhY2NvdW50ID0gcXVlcnlEYW8uRmluZE9uZTxBY2NvdW50LCBHZXRBY2NvdW50c1F1ZXJ5PigK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
