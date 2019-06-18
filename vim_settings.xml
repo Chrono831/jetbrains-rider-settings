@@ -3,15 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1560792099154">
+      <file name="/Dummy.txt" timestamp="1560879221613">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewerAccessibleSubmissionsQuery.cs" timestamp="1560433991838">
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewerAccessibleSubmissionsQuery.cs" timestamp="1560881273189">
         <mark key="'" line="64" column="79" />
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="15" column="17" />
-        <mark key="." line="15" column="17" />
-        <mark key="^" line="51" column="78" />
+        <mark key="[" line="131" column="92" />
+        <mark key="]" line="131" column="92" />
+        <mark key="." line="131" column="92" />
+        <mark key="^" line="130" column="91" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/StatusType.cs" timestamp="1560880312684">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="29" />
+        <mark key="^" line="14" column="19" />
+        <mark key="." line="14" column="19" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/RequestHandlers/Submissions/DeleteManuallyAddedReviewerRequestHandler.cs" timestamp="1560426590251">
         <mark key="[" line="12" column="0" />
@@ -63,6 +69,12 @@
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/IGetReviewerAccessibleSubmissionsQuery.cs" timestamp="1560433975554">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="59" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/statusTypes.js" timestamp="1560880317521">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="47" />
+        <mark key="." line="14" column="25" />
+        <mark key="^" line="21" column="31" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/compile-templates.js" timestamp="1560342446067">
         <mark key="'" line="63" column="15" />
@@ -224,7 +236,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">QWRkaXRpb25hbCA=</text>
+        <text>,</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -260,28 +272,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QWRkaXRpb25hbCA=</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxLZXlWYWx1ZVBhaXJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">SUdldFJldmlld2VyQWNjZXNzaWJsZVN1Ym1pc3Npb25zUXVlcnkgCiAgICA=</text>
+        <text>Resubmitted</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3VibWlzc2lvbkNyaXRlcmlhLkFkZCgKICAgICAgICAgICAgICAgICAgICAgICAgc3VibWlzc2lvbkNyaXRlcmlhLkFkZChSZXN0cmljdGlvbnMuRXEoInN0YXR1cy5TdGF0dXNUeXBlIiwgU3RhdHVzVHlwZS5SZXN1Ym1pdHRlZCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFjY291bnRTbGltcyA9IG5ldyBMaXN0PEFjY291bnRTbGltPigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdWJxdWVyaWVzLlByb3BlcnR5SW4oInN0YXR1cy5TdGF0dXNUeXBlIiwgU3RhdHVzVHlwZS5SZXN1Ym1pdHRlZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdWJxdWVyaWVzLlByb3BlcnR5SW4oInN0YXR1cy5TdGF0dXNUeXBlIiwgU3RhdHVzVHlwZS5TdWJtaXR0ZWQpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3VibWlzc2lvbkNyaXRlcmlhLkFkZChSZXN0cmljdGlvbnMuRXEoInN0YXR1cy5TdGF0dXNUeXBlIiwgU3RhdHVzVHlwZS5TdWJtaXR0ZWQpKTsKICAgICAgICAgICAgICAgICAgICAgICAgc3VibWlzc2lvbkNyaXRlcmlhLkFkZChSZXN0cmljdGlvbnMuRXEoInN0YXR1cy5TdGF0dXNUeXBlIiwgU3RhdHVzVHlwZS5SZXN1Ym1pdHRlZCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5TZWxlY3QoeCA9PiBuZXcgQWNjb3VudFNsaW0oeCwgY3VycmVudFN0ZXBSZXZpZXdlcnNbeC5JZF0pKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1701,10 +1713,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjY291bnRTbGltcy5BZGQobmV3IEFjY291bnRTbGltKGFjY291bnQsIGN1cnJlbnRTdGVwUmV2aWV3ZXJzW2FjY291bnQuSWRdKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3VibWlzc2lvbkNyaXRlcmlhLkFkZChSZXN0cmljdGlvbnMuRXEoInN0YXR1cy5TdGF0dXNUeXBlIiwgU3RhdHVzVHlwZS5TdWJtaXR0ZWQpKTsKICAgICAgICAgICAgICAgICAgICAgICAgc3VibWlzc2lvbkNyaXRlcmlhLkFkZChSZXN0cmljdGlvbnMuRXEoInN0YXR1cy5TdGF0dXNUeXBlIiwgU3RhdHVzVHlwZS5SZXN1Ym1pdHRlZCkpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1745,10 +1757,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3JpdGVyaWEuRXhlY3V0ZSgpLlNldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
