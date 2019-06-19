@@ -3,14 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/TransactionsGridPartial.ascx" timestamp="1560951038804">
+        <mark key="[" line="62" column="11" />
+        <mark key="]" line="62" column="11" />
+        <mark key="." line="62" column="11" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/StatusType.cs" timestamp="1560880312684">
         <mark key="[" line="14" column="8" />
         <mark key="]" line="14" column="29" />
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="19" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/SubmissionSlim.cs" timestamp="1560878676462">
-        <mark key="'" line="134" column="33" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" timestamp="1560878904821">
         <mark key="[" line="322" column="14" />
@@ -24,9 +26,6 @@
         <mark key="^" line="93" column="12" />
         <mark key="." line="93" column="12" />
       </file>
-      <file name="/Dummy.cs" timestamp="1560433037088">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Models/Organization/Finance/FinanceTransactionsGridOrganizationViewModel.cs" timestamp="1560944827595">
         <mark key="[" line="7" column="120" />
         <mark key="]" line="7" column="120" />
@@ -37,9 +36,6 @@
         <mark key="]" line="42" column="92" />
         <mark key="." line="42" column="92" />
         <mark key="^" line="42" column="92" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1560885208882">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewerAccessibleSubmissionsQuery.cs" timestamp="1560886932336">
         <mark key="'" line="46" column="23" />
@@ -59,11 +55,11 @@
         <mark key="^" line="187" column="58" />
         <mark key="." line="187" column="58" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Controllers/Organization/FinanceController.cs" timestamp="1560945342662">
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Controllers/Organization/FinanceController.cs" timestamp="1560951330538">
         <mark key="[" line="598" column="50" />
-        <mark key="]" line="598" column="69" />
-        <mark key="." line="598" column="69" />
-        <mark key="^" line="598" column="69" />
+        <mark key="]" line="598" column="51" />
+        <mark key="." line="598" column="51" />
+        <mark key="^" line="598" column="51" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/IGetReviewerAccessibleSubmissionReviewSlimQuery.cs" timestamp="1560882476725">
         <mark key="[" line="6" column="53" />
@@ -71,8 +67,11 @@
         <mark key="^" line="6" column="62" />
         <mark key="." line="6" column="62" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1560429651675">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/Account.aspx" timestamp="1560951384346">
+        <mark key="[" line="104" column="112" />
+        <mark key="]" line="104" column="112" />
+        <mark key="^" line="104" column="32" />
+        <mark key="." line="104" column="112" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/IGetReviewerAccessibleSubmissionsQuery.cs" timestamp="1560882646152">
         <mark key="[" line="5" column="21" />
@@ -235,7 +234,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>TransactionDate</text>
+        <text>&quot;</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -271,7 +270,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TransactionDate</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Cache</text>
