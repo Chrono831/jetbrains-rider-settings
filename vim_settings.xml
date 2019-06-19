@@ -9,9 +9,6 @@
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmitterAccessibleSumissionsQuery.cs" timestamp="1560433863932">
-        <mark key="'" line="31" column="15" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/SubmissionSlim.cs" timestamp="1560878676462">
         <mark key="'" line="134" column="33" />
       </file>
@@ -30,8 +27,10 @@
       <file name="/Dummy.cs" timestamp="1560433037088">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/compile-templates.js" timestamp="1560342446067">
-        <mark key="'" line="63" column="15" />
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Models/Organization/Finance/FinanceTransactionsGridOrganizationViewModel.cs" timestamp="1560944827595">
+        <mark key="[" line="7" column="120" />
+        <mark key="]" line="7" column="120" />
+        <mark key="." line="7" column="120" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmissionsQuery.cs" timestamp="1560371758419">
         <mark key="[" line="42" column="92" />
@@ -49,9 +48,6 @@
         <mark key="^" line="46" column="36" />
         <mark key="." line="46" column="36" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/Step.cs" timestamp="1560186548294">
-        <mark key="'" line="102" column="12" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewerAccessibleSubmissionReviewSlimQuery.cs" timestamp="1560882911326">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -63,11 +59,11 @@
         <mark key="^" line="187" column="58" />
         <mark key="." line="187" column="58" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Submissions/GetSubmitterAccessibleSubmissionsQuery.cs" timestamp="1560433884712">
-        <mark key="'" line="31" column="15" />
-        <mark key="[" line="23" column="17" />
-        <mark key="]" line="23" column="17" />
-        <mark key="." line="23" column="17" />
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Controllers/Organization/FinanceController.cs" timestamp="1560945342662">
+        <mark key="[" line="598" column="50" />
+        <mark key="]" line="598" column="69" />
+        <mark key="." line="598" column="69" />
+        <mark key="^" line="598" column="69" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/IGetReviewerAccessibleSubmissionReviewSlimQuery.cs" timestamp="1560882476725">
         <mark key="[" line="6" column="53" />
@@ -238,8 +234,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy9BbGw6IHsgdmFsdWU6ICJTdWJtaXR0ZWR8UmVzdWJtaXR0ZWR8QXBwcm92ZWR8UmVqZWN0ZWR8UmV0dXJuZWRGb3JSZXZpc2lvbiIsIGRpc3BsYXk6ICJBbGwgUmVxdWVzdHMifQo=</text>
+      <register name="&quot;" type="4">
+        <text>TransactionDate</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -275,7 +271,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ReviewSlim</text>
+        <text>TransactionDate</text>
       </register>
       <register name="/" type="4">
         <text>Cache</text>
