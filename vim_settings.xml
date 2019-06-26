@@ -25,6 +25,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8BA4105-C722-4B18-88E3-7C4659AAB9F3/4f/6962e2cf/FinanceAccount.cs" timestamp="1560955998919">
         <mark key="'" line="19" column="35" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DDD86901-7FBE-4941-927A-F1A1FB3449C1/36/7de32f55/Organization.cs" timestamp="1561578848639">
+        <mark key="'" line="50" column="33" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Controllers/OrgSyncBudgetRequestController.cs" timestamp="1561577465276">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -66,6 +69,7 @@
         <mark key="]" line="7" column="120" />
         <mark key="." line="7" column="120" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Context/AccountContext.cs" timestamp="1561578658038" />
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Views/FinanceAccount/TransactionsGridPartial.ascx" timestamp="1560961801832">
         <mark key="'" line="49" column="12" />
         <mark key="[" line="44" column="0" />
@@ -82,7 +86,7 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560961817844">
+      <file name="/Dummy.txt" timestamp="1561580510941">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewerAccessibleSubmissionsQuery.cs" timestamp="1560886932336">
@@ -133,15 +137,13 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/OrganizationAccessAllowedAttribute.cs" timestamp="1561577196986">
-        <mark key="[" line="40" column="75" />
-        <mark key="]" line="39" column="30" />
-        <mark key="^" line="43" column="11" />
-        <mark key="." line="39" column="30" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/OrganizationAccessAllowedAttribute.cs" timestamp="1561579946272">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="517" column="14" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
       <jump line="524" column="46" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Web/assets/finance/js/reviews/reviews.page.controllers.js" />
       <jump line="28" column="24" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/SubmissionSlim.cs" />
       <jump line="172" column="62" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/SubmissionSlim.cs" />
@@ -241,6 +243,7 @@
       <jump line="19" column="16" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Views/FinanceAccount/TransactionsGridPartial.ascx" />
       <jump line="42" column="28" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Views/FinanceAccount/TransactionsGridPartial.ascx" />
       <jump line="49" column="12" filename="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Views/FinanceAccount/TransactionsGridPartial.ascx" />
+      <jump line="50" column="33" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DDD86901-7FBE-4941-927A-F1A1FB3449C1/36/7de32f55/Organization.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -284,7 +287,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFtCdWRnZXRpbmdPcmdhbml6YXRpb25BY2Nlc3NBdXRob3JpemVkXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJc0JyYW5jaCA9ICFvcmdhbml6YXRpb24uQnJhbmNoSWQuSGFzVmFsdWUsCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -320,28 +323,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAg</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>else</text>
+        <text>Parent</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbQnVkZ2V0aW5nT3JnYW5pemF0aW9uQWNjZXNzQXV0aG9yaXplZF0K</text>
+      <register name="0" type="4">
+        <text>accountProvider != null</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFtCdWRnZXRpbmdPcmdhbml6YXRpb25BY2Nlc3NBdXRob3JpemVkXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJc0JyYW5jaCA9ICFvcmdhbml6YXRpb24uQnJhbmNoSWQuSGFzVmFsdWUsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFjY2Vzc0FsbG93ZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG9yZ2FuaXphdGlvbiAhPSBudWxsICYmICF1c2VySXNDb21tdW5pdHlGaW5hbmNlRnVsbCkgeyBBY2Nlc3NOb3RBbGxvd2VkKGFjdGlvbkNvbnRleHQpOyB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1761,10 +1764,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1805,19 +1808,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9pZiB0aGVyZSBpcyBubyBvcmdhbnppYXRpb24gYW5kIHRoZSB1c2VyIGlzIG5vdCBDRkYgdGhlbiBkZW55CiAgICAgICAgICAgIAogICAgICAgICAgICAvL2lmIHRoZSB1c2VyIGlzIENGRiBvciBCci9PcmdGRgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>else</last-search>
+      <last-search>Parent</last-search>
       <last-offset />
-      <last-pattern>else</last-pattern>
+      <last-pattern>Parent</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1825,7 +1828,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxVcmxIZWxwZXJcPg==</entry>
         <entry encoding="base64">XDxDdXJyZW50U3RlcFJldmlld2Vyc1w+</entry>
         <entry encoding="base64">XDxRdWVyeVw+</entry>
         <entry encoding="base64">XDxHZXREaXNqdW5jdGlvblw+</entry>
@@ -1845,6 +1847,7 @@
         <entry>Transaction</entry>
         <entry>Id</entry>
         <entry>else</entry>
+        <entry>Parent</entry>
       </history-search>
       <history-cmd>
         <entry>141</entry>
