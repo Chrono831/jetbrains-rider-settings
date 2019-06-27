@@ -91,7 +91,7 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561580510941">
+      <file name="/Dummy.txt" timestamp="1561642389361">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewerAccessibleSubmissionsQuery.cs" timestamp="1560886932336">
@@ -116,10 +116,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Cache/BudgetingCache.cs" timestamp="1561640680944">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Cache/BudgetingCache.cs" timestamp="1561642363887">
+        <mark key="[" line="15" column="47" />
+        <mark key="]" line="15" column="47" />
+        <mark key="." line="15" column="47" />
+        <mark key="^" line="15" column="45" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewerAccessibleSubmissionReviewSlimQuery.cs" timestamp="1560882911326">
         <mark key="[" line="47" column="0" />
@@ -147,10 +148,10 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/OrganizationAccessAllowedAttribute.cs" timestamp="1561579946272">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/WebApi/Attributes/OrganizationAccessAllowedAttribute.cs" timestamp="1561641976900">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -297,7 +298,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IC8vVE9ETyAtLSBzZXQgbG9uZ2VyIGNhY2hlIHRpbWUgYmVjYXVzZSBJVCBMSVZFUyBGT1JFVkVS</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -333,28 +334,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IC8vVE9ETyAtLSBzZXQgbG9uZ2VyIGNhY2hlIHRpbWUgYmVjYXVzZSBJVCBMSVZFUyBGT1JFVkVS</text>
       </register>
       <register name="/" type="4">
         <text>Parent</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IGludCBDQUNIRURfTUlOVVRFUyA9IDU7IC8vVE9ETyAtLSBzZXQgbG9uZ2VyIGNhY2hlIHRpbWUgYmVjYXVzZSBJVCBMSVZFUyBGT1JFVkVSCg==</text>
+      <register name="0" type="4">
+        <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IGludCBDQUNIRURfTUlOVVRFUyA9IDU7IC8vVE9ETyAtLSBzZXQgbG9uZ2VyIGNhY2hlIHRpbWUgYmVjYXVzZSBJVCBMSVZFUyBGT1JFVkVSCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG9yZ1N5bmNCdWRnZXRSZXF1ZXN0czsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgT3JnYW5pemF0aW9uIG9yZ2FuaXphdGlvbjsKICAgICAgICAgICAgaWYgKGFjdGlvbkNvbnRleHQuQWN0aW9uQXJndW1lbnRzLkNvbnRhaW5zS2V5KE9yZ2FuaXphdGlvbklkKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgb3JnYW5pemF0aW9uID0gR2V0QnlPcmdhbml6YXRpb25JZChhY3Rpb25Db250ZXh0KTsKICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlIGlmIChhY3Rpb25Db250ZXh0LkFjdGlvbkFyZ3VtZW50cy5Db250YWluc0tleShXZWJzaXRlS2V5KSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgb3JnYW5pemF0aW9uID0gR2V0QnlXZWJzaXRlS2V5KGFjdGlvbkNvbnRleHQpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgQWNjZXNzTm90QWxsb3dlZChhY3Rpb25Db250ZXh0KTsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKG9yZ2FuaXphdGlvbiA9PSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBBY2Nlc3NOb3RBbGxvd2VkKGFjdGlvbkNvbnRleHQpOwogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlYXJjaFBhcmFtZXRlcnMgPSBuZXcgT3JnU3luY0J1ZGdldFJlcXVlc3RTZWFyY2hQYXJhbWV0ZXJzCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIE9yZ2FuaXphdGlvbklkID0gYXdhaXQgR2V0T3JnYW5pemF0aW9uSWQod2Vic2l0ZUtleSwgbnVsbCksCiAgICAgICAgICAgICAgICBUYWtlID0gLTEKICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFjY291bnRQcm92aWRlciA9IE9iamVjdEZhY3RvcnkuR2V0SW5zdGFuY2U8SUFjY291bnRQcm92aWRlcj4oKTsKICAgICAgICAgICAgaWYgKGFjY291bnRQcm92aWRlciA9PSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBBY2Nlc3NOb3RBbGxvd2VkKGFjdGlvbkNvbnRleHQpOwogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CgogICAgICAgICAgICB2YXIgdXNlcklzQ29tbXVuaXR5RmluYW5jZUZ1bGwgPSBhY2NvdW50UHJvdmlkZXIuQWNjb3VudENvbnRleHQuQnVkZ2V0aW5nQWRtaW5BY2Nlc3NBdXRob3JpemVkKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBBY2Nlc3NOb3RBbGxvd2VkKGFjdGlvbkNvbnRleHQpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEuT3JnYW5pemF0aW9uSWQuSGFzVmFsdWUpIHsgcmV0dXJuIHJlcXVlc3RzOyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IGludCBDQUNIRURfTUlOVVRFUyA9IDU7IC8vVE9ETyAtLSBzZXQgbG9uZ2VyIGNhY2hlIHRpbWUgYmVjYXVzZSBJVCBMSVZFUyBGT1JFVkVSCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1774,10 +1775,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG9yZ1N5bmNCdWRnZXRSZXF1ZXN0czsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciByZXN1bHQgPQogICAgICAgICAgICAgICAgICAgIGF3YWl0IF9idWRnZXRpbmdQaWxsYXJDbGllbnQuTGlzdE9yZ1N5bmNCdWRnZXRSZXF1ZXN0cyhfaW5zdGl0dXRpb25Db250ZXh0Lkluc3RpdHV0aW9uSWQsCiAgICAgICAgICAgICAgICAgICAgICAgIHNlYXJjaFBhcmFtZXRlcnMpOwogICAgICAgICAgICAgICAgcmVxdWVzdHMgPSByZXN1bHQuSXRlbXM7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2F0Y2ggeyByZXF1ZXN0cyA9IGRlZmF1bHQoSUVudW1lcmFibGU8T3JnU3luY0J1ZGdldFJlcXVlc3Q+KTsgfQoKICAgICAgICAgICAgdmFyIGpzb24gPSBKc29uQ29udmVydC5TZXJpYWxpemVPYmplY3QocmVxdWVzdHMpOwogICAgICAgICAgICBhd2FpdCBEYXRhYmFzZS5TdHJpbmdTZXRBc3luYyhrZXksIGpzb24pOwogICAgICAgICAgICBhd2FpdCBEYXRhYmFzZS5LZXlFeHBpcmVBc3luYyhrZXksIFRpbWVTcGFuLkZyb21NaW51dGVzKENBQ0hFRF9NSU5VVEVTKSk7CgogICAgICAgICAgICByZXR1cm4gcmVxdWVzdHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlYXJjaFBhcmFtZXRlcnMgPSBuZXcgT3JnU3luY0J1ZGdldFJlcXVlc3RTZWFyY2hQYXJhbWV0ZXJzCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIE9yZ2FuaXphdGlvbklkID0gYXdhaXQgR2V0T3JnYW5pemF0aW9uSWQod2Vic2l0ZUtleSwgbnVsbCksCiAgICAgICAgICAgICAgICBUYWtlID0gLTEKICAgICAgICAgICAgfTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1818,13 +1819,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJc0JyYW5jaCA9ICFvcmdhbml6YXRpb24uQnJhbmNoSWQuSGFzVmFsdWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFjY2Vzc0FsbG93ZWQgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEuT3JnYW5pemF0aW9uSWQuSGFzVmFsdWUpIHsgcmV0dXJuIHJlcXVlc3RzOyB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>44</text>
       </register>
     </registers>
     <search>
@@ -1860,7 +1861,6 @@
         <entry>Parent</entry>
       </history-search>
       <history-cmd>
-        <entry>141</entry>
         <entry>317</entry>
         <entry>309</entry>
         <entry>463</entry>
@@ -1880,6 +1880,7 @@
         <entry>w</entry>
         <entry>0</entry>
         <entry>q</entry>
+        <entry>44</entry>
       </history-cmd>
       <history-expr />
       <history-input />
