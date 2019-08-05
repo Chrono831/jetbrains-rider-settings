@@ -44,6 +44,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8BA4105-C722-4B18-88E3-7C4659AAB9F3/c4/177ea393/FinanceRequest.cs" timestamp="1560956076650">
         <mark key="'" line="31" column="38" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" timestamp="1565023543791">
+        <mark key="'" line="40" column="46" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/Areas/Admin/Controllers/FinanceController.cs" timestamp="1560956353623">
         <mark key="[" line="1086" column="50" />
         <mark key="]" line="1086" column="51" />
@@ -162,8 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="27" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/SubmissionSlim.cs" />
-      <jump line="88" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/SubmissionSlim.cs" />
       <jump line="56" column="43" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/SubmissionSlim.cs" />
       <jump line="43" column="15" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/SubmissionSlim.cs" />
       <jump line="46" column="40" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/Model/Submissions/SubmissionSlim.cs" />
@@ -186,7 +187,6 @@
       <jump line="118" column="34" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="75" column="17" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="77" column="58" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
-      <jump line="137" column="29" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="80" column="95" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="90" column="18" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
       <jump line="215" column="28" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/Queries/Reviews/GetReviewerAccessibleSubmissionsQuery.cs" />
@@ -262,6 +262,9 @@
       <jump line="59" column="25" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/Submission.cs" />
       <jump line="42" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/DataAccess/NHibernate/Models/Database/Submission.cs" />
       <jump line="22" column="21" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Services/SubmissionReviewer.cs" />
+      <jump line="137" column="16" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
+      <jump line="50" column="12" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
+      <jump line="40" column="46" filename="$USER_HOME$/source/repos/App.Budgeting.Legacy/Base/Domain/MailFacade.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -344,7 +347,7 @@
         <text>Update</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYW51YWxseUFkZGVkXD4=</text>
+        <text encoding="base64">XDxfbm90aWZpY2F0aW9uc0NsaWVudFw+</text>
       </register>
       <register name="0" type="4">
         <text>mar</text>
@@ -1836,9 +1839,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYW51YWxseUFkZGVkXD4=</last-search>
+      <last-search encoding="base64">XDxfbm90aWZpY2F0aW9uc0NsaWVudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYW51YWxseUFkZGVkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfbm90aWZpY2F0aW9uc0NsaWVudFw+</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>-1</last-dir>
@@ -1846,7 +1849,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxHZXRPcmdhbml6YXRpb25cPg==</entry>
         <entry encoding="base64">XDxyZWNpcGllbnRzXD4=</entry>
         <entry encoding="base64">XDxHZXROb3RpZmljYXRpb25zUGlsbGFyVHlwZUNvZGVcPg==</entry>
         <entry encoding="base64">XDxHZXRRdWVyeURpc2p1bmN0aW9uXD4=</entry>
@@ -1866,6 +1868,7 @@
         <entry>5</entry>
         <entry encoding="base64">XDxfYWNjb3VudFw+</entry>
         <entry encoding="base64">XDxtYW51YWxseUFkZGVkXD4=</entry>
+        <entry encoding="base64">XDxfbm90aWZpY2F0aW9uc0NsaWVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>317</entry>
