@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>StartDate</entry>
         <entry encoding="base64">XDxzdGFydERhdGVUaW1lXD4=</entry>
         <entry encoding="base64">XDxhZGROZXdSZW1vdmVJbnN0YW5jZUJ1dHRvbkhhbmRsZXJcPg==</entry>
         <entry encoding="base64">XDxpbnN0YW5jZUNvdW50XD4=</entry>
@@ -25,6 +24,7 @@
         <entry>_SelectedRoo</entry>
         <entry>OnlineLocation</entry>
         <entry encoding="base64">XDxPbmxpbmVMb2NhdGlvbkluc3RydWN0aW9uc1w+</entry>
+        <entry>LaunchDarkly</entry>
       </history-search>
       <history-cmd>
         <entry>186</entry>
@@ -93,7 +93,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587650905273">
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/App.Submitter.csproj" timestamp="1587652059474">
+        <mark key="'" line="245" column="24" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587652580103">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -203,15 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="45" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" />
-      <jump line="179" column="59" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" />
-      <jump line="178" column="61" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" />
-      <jump line="200" column="22" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Instance.cshtml" />
-      <jump line="286" column="96" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Instance.cshtml" />
-      <jump line="825" column="0" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
-      <jump line="828" column="44" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
-      <jump line="172" column="74" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
-      <jump line="361" column="34" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
       <jump line="362" column="37" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
       <jump line="364" column="48" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
       <jump line="377" column="48" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
@@ -303,6 +297,15 @@
       <jump line="43" column="30" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/EventSubmission/EventSubmissionInstance.cs" />
       <jump line="694" column="25" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Events/EventSubmissionService.cs" />
       <jump line="695" column="80" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Events/EventSubmissionService.cs" />
+      <jump line="35" column="17" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/App.Submitter.csproj" />
+      <jump line="246" column="64" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/App.Submitter.csproj" />
+      <jump line="249" column="24" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/App.Submitter.csproj" />
+      <jump line="250" column="75" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/App.Submitter.csproj" />
+      <jump line="253" column="24" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/App.Submitter.csproj" />
+      <jump line="254" column="69" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/App.Submitter.csproj" />
+      <jump line="241" column="24" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/App.Submitter.csproj" />
+      <jump line="242" column="63" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/App.Submitter.csproj" />
+      <jump line="245" column="24" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/App.Submitter.csproj" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -348,7 +351,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text>reformat</text>
+        <text>update LaunchDarkly Client nuget</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -387,25 +390,25 @@
         <text>= string.Empty;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxPbmxpbmVMb2NhdGlvbkluc3RydWN0aW9uc1w+</text>
+        <text>LaunchDarkly</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIE9ubGluZUxvY2F0aW9uSW5zdHJ1Y3Rpb25zIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="1" type="2">
-        <text>reformat</text>
+        <text>update LaunchDarkly Client nuget</text>
       </register>
       <register name="2" type="2">
-        <text>update CLL nuget to beta with RoomReservation</text>
+        <text>change name to match CLL to avoid any mapping confusion</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0icm93IGxvY2F0aW9uV2VhdGhlck1hcC1jb250YWluZXIgb25saW5lLWxvYyBjb2wteHMtMTIiPgo=</text>
+        <text>reformat</text>
       </register>
       <register name="4" type="2">
-        <text>add `RoomReservation` to all the places</text>
+        <text>update CLL nuget to beta with RoomReservation</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0icm93IGxvY2F0aW9uV2VhdGhlck1hcC1jb250YWluZXIgb25saW5lLWxvYyBjb2wteHMtMTIiPgo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1825,7 +1828,7 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>add `RoomReservation` to all the places</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1881,12 +1884,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxPbmxpbmVMb2NhdGlvbkluc3RydWN0aW9uc1w+</last-search>
+      <last-search>LaunchDarkly</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxPbmxpbmVMb2NhdGlvbkluc3RydWN0aW9uc1w+</last-pattern>
+      <last-pattern>LaunchDarkly</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
