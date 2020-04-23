@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGFydERhdGVUaW1lXD4=</entry>
-        <entry encoding="base64">XDxhZGROZXdSZW1vdmVJbnN0YW5jZUJ1dHRvbkhhbmRsZXJcPg==</entry>
-        <entry encoding="base64">XDxpbnN0YW5jZUNvdW50XD4=</entry>
-        <entry encoding="base64">XDxnZXRJbnN0YW5jZVBhcmVudEVsZW1lbnRcPg==</entry>
         <entry>instances</entry>
         <entry encoding="base64">XDxPbmxpbmVMb2NhdGlvblw+</entry>
         <entry encoding="base64">XDxIaWRkZW5Gb3JcPg==</entry>
@@ -25,9 +21,12 @@
         <entry>OnlineLocation</entry>
         <entry encoding="base64">XDxPbmxpbmVMb2NhdGlvbkluc3RydWN0aW9uc1w+</entry>
         <entry>LaunchDarkly</entry>
+        <entry encoding="base64">XDxzZWxlY3RlZFJvb21JZEVsZW1lbnRcPg==</entry>
+        <entry>append(span</entry>
+        <entry>idden</entry>
+        <entry>onlineLocation</entry>
       </history-search>
       <history-cmd>
-        <entry>186</entry>
         <entry>191</entry>
         <entry>182</entry>
         <entry>243</entry>
@@ -47,6 +46,7 @@
         <entry>wq</entry>
         <entry>0</entry>
         <entry>q</entry>
+        <entry>477</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -80,11 +80,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" timestamp="1587650792050">
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" timestamp="1587660405905">
         <mark key="'" line="210" column="44" />
-        <mark key="[" line="204" column="12" />
-        <mark key="]" line="204" column="13" />
-        <mark key="." line="204" column="12" />
+        <mark key="[" line="212" column="17" />
+        <mark key="]" line="212" column="17" />
+        <mark key="." line="212" column="17" />
         <mark key="^" line="204" column="13" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Assets/clink/js/organization/eventsubmission/location.js" timestamp="1587386585802">
@@ -96,7 +96,7 @@
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/App.Submitter.csproj" timestamp="1587652059474">
         <mark key="'" line="245" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587652580103">
+      <file name="/Dummy.txt" timestamp="1587661223778">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -126,19 +126,19 @@
         <mark key="^" line="516" column="12" />
         <mark key="." line="513" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" timestamp="1587583653772">
-        <mark key="'" line="838" column="15" />
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="211" column="170" />
-        <mark key="." line="208" column="0" />
-        <mark key="^" line="306" column="37" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" timestamp="1587661194040">
+        <mark key="'" line="845" column="33" />
+        <mark key="[" line="301" column="17" />
+        <mark key="]" line="301" column="44" />
+        <mark key="." line="301" column="43" />
+        <mark key="^" line="301" column="44" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Instance.cshtml" timestamp="1587583356677">
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Instance.cshtml" timestamp="1587660392563">
         <mark key="'" line="286" column="96" />
-        <mark key="[" line="197" column="49" />
-        <mark key="]" line="197" column="49" />
+        <mark key="[" line="199" column="21" />
+        <mark key="]" line="199" column="21" />
         <mark key="^" line="200" column="147" />
-        <mark key="." line="197" column="49" />
+        <mark key="." line="199" column="21" />
       </file>
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Events/EventSubmissionService.cs" timestamp="1587648822554">
         <mark key="'" line="695" column="80" />
@@ -154,12 +154,12 @@
         <mark key="." line="605" column="0" />
         <mark key="^" line="783" column="59" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" timestamp="1587583663352">
-        <mark key="'" line="809" column="15" />
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="194" column="170" />
-        <mark key="^" line="865" column="57" />
-        <mark key="." line="191" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" timestamp="1587661865975">
+        <mark key="'" line="827" column="45" />
+        <mark key="[" line="480" column="0" />
+        <mark key="]" line="480" column="0" />
+        <mark key="^" line="472" column="42" />
+        <mark key="." line="480" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Event.cs" timestamp="1587648920048">
         <mark key="'" line="485" column="25" />
@@ -176,12 +176,12 @@
         <mark key="." line="20" column="37" />
         <mark key="^" line="20" column="37" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" timestamp="1587583647071">
-        <mark key="'" line="832" column="15" />
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="196" column="170" />
-        <mark key="." line="832" column="46" />
-        <mark key="^" line="177" column="11" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" timestamp="1587661270169">
+        <mark key="'" line="397" column="44" />
+        <mark key="[" line="498" column="36" />
+        <mark key="]" line="498" column="37" />
+        <mark key="." line="498" column="36" />
+        <mark key="^" line="498" column="37" />
       </file>
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/ClassMaps/EventSubmission/EventSubmissionInstanceMap.cs" timestamp="1587647371714">
         <mark key="'" line="20" column="25" />
@@ -206,30 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="362" column="37" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
-      <jump line="364" column="48" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
-      <jump line="377" column="48" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
-      <jump line="394" column="102" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
-      <jump line="176" column="12" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
-      <jump line="175" column="43" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
-      <jump line="524" column="0" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" />
-      <jump line="190" column="12" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" />
-      <jump line="870" column="24" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" />
-      <jump line="34" column="28" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
-      <jump line="298" column="71" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
-      <jump line="125" column="26" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
-      <jump line="296" column="23" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
-      <jump line="338" column="28" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
-      <jump line="340" column="39" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
-      <jump line="353" column="39" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
-      <jump line="354" column="50" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
-      <jump line="373" column="93" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
-      <jump line="367" column="0" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
-      <jump line="370" column="29" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
-      <jump line="379" column="0" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
-      <jump line="466" column="28" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
-      <jump line="473" column="49" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
-      <jump line="491" column="0" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
       <jump line="492" column="37" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
       <jump line="520" column="115" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
       <jump line="531" column="32" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
@@ -255,7 +231,6 @@
       <jump line="814" column="81" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
       <jump line="815" column="79" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
       <jump line="816" column="79" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
-      <jump line="817" column="86" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
       <jump line="819" column="96" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
       <jump line="833" column="68" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
       <jump line="834" column="71" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
@@ -306,6 +281,31 @@
       <jump line="241" column="24" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/App.Submitter.csproj" />
       <jump line="242" column="63" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/App.Submitter.csproj" />
       <jump line="245" column="24" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/App.Submitter.csproj" />
+      <jump line="817" column="24" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
+      <jump line="827" column="45" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
+      <jump line="193" column="0" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
+      <jump line="845" column="33" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" />
+      <jump line="514" column="0" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
+      <jump line="32" column="15" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
+      <jump line="33" column="15" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
+      <jump line="54" column="51" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
+      <jump line="55" column="51" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
+      <jump line="62" column="65" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
+      <jump line="103" column="27" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
+      <jump line="136" column="19" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
+      <jump line="137" column="19" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
+      <jump line="138" column="19" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
+      <jump line="139" column="19" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
+      <jump line="140" column="19" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
+      <jump line="141" column="19" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
+      <jump line="163" column="28" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
+      <jump line="270" column="57" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
+      <jump line="323" column="24" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
+      <jump line="325" column="72" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
+      <jump line="327" column="159" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
+      <jump line="350" column="71" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
+      <jump line="395" column="47" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
+      <jump line="397" column="44" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -351,7 +351,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text>update LaunchDarkly Client nuget</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -387,28 +387,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>= string.Empty;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>LaunchDarkly</text>
+        <text>onlineLocation</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIE9ubGluZUxvY2F0aW9uSW5zdHJ1Y3Rpb25zIHsgZ2V0OyBzZXQ7IH0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">aW5zdGFuY2VPbmxpbmVMb2NhdGlvbkFuY2hvciA=</text>
       </register>
       <register name="1" type="2">
-        <text>update LaunchDarkly Client nuget</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text>change name to match CLL to avoid any mapping confusion</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text>reformat</text>
+        <text>change classes and remove id's because they tend to be lies</text>
       </register>
       <register name="4" type="2">
-        <text>update CLL nuget to beta with RoomReservation</text>
+        <text>and downgrade the LD EventSource nuget to make things work, why? because that's why</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0icm93IGxvY2F0aW9uV2VhdGhlck1hcC1jb250YWluZXIgb25saW5lLWxvYyBjb2wteHMtMTIiPgo=</text>
+        <text>update LaunchDarkly Client nuget</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1828,10 +1828,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text>add `RoomReservation` to all the places</text>
+        <text>change name to match CLL to avoid any mapping confusion</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>reformat</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1872,21 +1872,21 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>update CLL nuget to beta with RoomReservation</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0icm93IGxvY2F0aW9uV2VhdGhlck1hcC1jb250YWluZXIgb25saW5lLWxvYyBjb2wteHMtMTIiPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>477</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>LaunchDarkly</last-search>
+      <last-search>onlineLocation</last-search>
       <last-offset />
-      <last-pattern>LaunchDarkly</last-pattern>
+      <last-pattern>onlineLocation</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
