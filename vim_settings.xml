@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxMb25naXR1ZGVcPg==</entry>
-        <entry encoding="base64">XDxFdmVudFN1Ym1pc3Npb25JbnN0YW5jZU1vZGVsXD4=</entry>
         <entry encoding="base64">XDxPbmxpbmVMb2NhdGlvbkVuYWJsZWRcPg==</entry>
         <entry encoding="base64">XDxyZW1vdmVCdXR0b25FbGVtZW50XD4=</entry>
         <entry>instance</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxzdWNjZXNzXD4=</entry>
         <entry>Default</entry>
         <entry>Defaults</entry>
+        <entry>Error</entry>
+        <entry>error</entry>
       </history-search>
       <history-cmd>
         <entry>182</entry>
@@ -40,12 +40,12 @@
         <entry>123</entry>
         <entry>96</entry>
         <entry>43</entry>
-        <entry>0</entry>
         <entry>477</entry>
         <entry>148</entry>
         <entry>$</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -97,10 +97,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationsOptionsCreate.cshtml" timestamp="1587743025309">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/PostEventSettings.cshtml" timestamp="1587753696353">
+        <mark key="[" line="531" column="0" />
+        <mark key="]" line="531" column="0" />
+        <mark key="." line="531" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" timestamp="1587752144563">
         <mark key="'" line="827" column="45" />
@@ -109,26 +109,15 @@
         <mark key="^" line="145" column="45" />
         <mark key="." line="145" column="36" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_InlineSearchCreate.cshtml" timestamp="1587743097109">
-        <mark key="[" line="429" column="0" />
-        <mark key="]" line="429" column="0" />
-        <mark key="." line="429" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RequiredFieldsCreate.cshtml" timestamp="1587743358585">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="4" />
-        <mark key="^" line="1" column="4" />
-        <mark key="." line="1" column="3" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_InlineSearchEdit.cshtml" timestamp="1587747071142">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_EventSubmissionPrototypeChange.cshtml" timestamp="1587745785089">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="94" column="13" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/GetReviewers.cshtml" timestamp="1587753369432">
+        <mark key="[" line="239" column="0" />
+        <mark key="]" line="239" column="0" />
+        <mark key="." line="239" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" timestamp="1587747649032">
         <mark key="'" line="12" column="19" />
@@ -137,22 +126,11 @@
         <mark key="." line="174" column="0" />
         <mark key="^" line="173" column="45" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_InlineCssCreate.cshtml" timestamp="1587743273908">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="4" />
-        <mark key="^" line="1" column="4" />
-        <mark key="." line="32" column="4" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587752979695">
+      <file name="/Dummy.txt" timestamp="1587754155997">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="23" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_InlineSearchChange.cshtml" timestamp="1587745620441">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LoadScriptsCreate.cshtml" timestamp="1587746008914">
         <mark key="[" line="29" column="4" />
@@ -174,6 +152,9 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" timestamp="1587754200854">
+        <mark key="'" line="126" column="62" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Instance.cshtml" timestamp="1587752838891">
         <mark key="'" line="286" column="96" />
         <mark key="[" line="132" column="0" />
@@ -181,17 +162,24 @@
         <mark key="^" line="335" column="55" />
         <mark key="." line="132" column="20" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/PostEventEvaluation.cshtml" timestamp="1587752749986">
-        <mark key="[" line="150" column="103" />
-        <mark key="]" line="150" column="104" />
-        <mark key="^" line="150" column="104" />
-        <mark key="." line="150" column="103" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/SummaryOfReviewers.cshtml" timestamp="1587754034387">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/PostEventEvaluation.cshtml" timestamp="1587753586516">
+        <mark key="[" line="628" column="0" />
+        <mark key="]" line="628" column="8" />
+        <mark key="." line="628" column="8" />
+        <mark key="^" line="255" column="16" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/RsvpSettings.cshtml" timestamp="1587753991044">
+        <mark key="[" line="707" column="0" />
+        <mark key="]" line="707" column="8" />
+        <mark key="." line="707" column="8" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="569" column="40" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
-      <jump line="578" column="48" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
-      <jump line="579" column="48" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
       <jump line="580" column="46" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
       <jump line="581" column="46" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
       <jump line="582" column="52" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
@@ -289,6 +277,9 @@
       <jump line="751" column="35" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" />
       <jump line="776" column="35" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" />
       <jump line="12" column="19" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
+      <jump line="116" column="48" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
+      <jump line="114" column="62" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
+      <jump line="126" column="62" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -333,8 +324,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>reformat files in event-</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -370,28 +361,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>reformat files in event-</text>
       </register>
       <register name="/" type="4">
-        <text>Defaults</text>
+        <text>error</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KICAgICAgICAkKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgdmFyIGxvY2F0aW9uT3B0aW9ucyA9IHsKICAgICAgICAgICAgICAgIHNlYXJjaFVybCA6ICdAVXJsLkVuZ2FnZUFjdGlvbigic2VhcmNocGFnZWRsb2NhdGlvbnMiLCAibG9jYXRpb25zIiwgbmV3IHthcmVhID0gIm9yZ2FuaXphdGlvbiJ9KScsCiAgICAgICAgICAgICAgICBjaGVja0F2YWlsYWJpbGl0eVVybCA6ICdAVXJsLkVuZ2FnZUFjdGlvbigiaXNBdmFpbGFibGUiLCAibG9jYXRpb25zIiwgbmV3IHthcmVhID0gIm9yZ2FuaXphdGlvbiJ9KScsCiAgICAgICAgICAgICAgICBjYW5SZXF1ZXN0IDogJ0BNb2RlbC5TZXR0aW5ncy5DYW5SZXF1ZXN0RXZlbnRMb2NhdGlvbi5Ub1N0cmluZygpLlRvTG93ZXIoKScgPT09ICd0cnVlJwogICAgICAgICAgICB9OwoKICAgICAgICAgICAgdmFyIGdyb3VwQXV0b0NvbXBsZXRlT3B0aW9ucyA9IHsKICAgICAgICAgICAgICAgIGhlbHBlclRleHQ6IG51bGwsCiAgICAgICAgICAgICAgICBoZWxwZXJUZXh0Q2xhc3M6IG51bGwsCiAgICAgICAgICAgICAgICBsb2FkaW5nQ2xhc3M6ICJsb2FkaW5nIiwKICAgICAgICAgICAgICAgIGFqYXhTb3VyY2U6IGZ1bmN0aW9uIChyZXF1ZXN0LCByZXNwb25zZSkgewogICAgICAgICAgICAgICAgICAgIHZhciBleGNsdXNpb25JZHMgPSBbXTsKICAgICAgICAgICAgICAgICAgICAkKCJpbnB1dFtuYW1lPWNvaG9zdHNdIikuZWFjaChmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGV4Y2x1c2lvbklkcy5wdXNoKCQodGhpcykudmFsKCkpOwogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIGpRdWVyeS5wb3N0KCdAVXJsLkVuZ2FnZUFjdGlvbigiZ2V0Z3JvdXBsaXN0IiwgImV2ZW50c3VibWlzc2lvbiIpJywgewogICAgICAgICAgICAgICAgICAgICAgICB0ZXJtOiByZXF1ZXN0LnRlcm0sCiAgICAgICAgICAgICAgICAgICAgICAgIEdyb3VwRXhjbHVzaW9uSWRzOiBleGNsdXNpb25JZHMKCiAgICAgICAgICAgICAgICAgICAgfSwgZnVuY3Rpb24gKGRhdGEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2UoZGF0YSk7CiAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH07CgogICAgICAgICAgICB2YXIgZ3JvdXBJbnB1dFRleHRib3ggPSAkKCIjR3JvdXBOYW1lIik7CiAgICAgICAgICAgIHZhciBncm91cElkSGlkZGVuVmFsdWUgPSAkKCIjQ29Ib3N0cyIpOwoKICAgICAgICAgICAgY29sbGVnaWF0ZWxpbmsuQXV0b2NvbXBsZXRlLkluaXQoZ3JvdXBJbnB1dFRleHRib3gsIGdyb3VwSWRIaWRkZW5WYWx1ZSwgZ3JvdXBBdXRvQ29tcGxldGVPcHRpb25zLCBmdW5jdGlvbiAoZXZlbnQsIHVpKSB7CiAgICAgICAgICAgICAgICB3aW5kb3cuc2V0VGltZW91dChmdW5jdGlvbiAoKSB7ICQoIiNHcm91cE5hbWUiKS52YWwoJycpIH0pOyAvLyByZW1vdmUgaW5wdXQgdmFsdWUKICAgICAgICAgICAgICAgICQoIiNjby1ob3N0LWRpdiIpLmFwcGVuZCgkKCI8bGkgY2xhc3M9J2JzbUxpc3QtaXRlbSc+PHNwYW4gY2xhc3M9J2JzbUxpc3QtaXRlbS1sYWJlbCc+IiArIHVpLml0ZW0udmFsdWUgKyAiPC9zcGFuPjxpbnB1dCBuYW1lPSdjb2hvc3RzJyB0eXBlPSdoaWRkZW4ndmFsdWU9JyIgKyB1aS5pdGVtLmlkICsgIicvPjxidXR0b24gdHlwZT0nYnV0dG9uJyBjbGFzcz0ncmVtb3ZlLWNvaG9zdCBic21MaXN0LWl0ZW0tcmVtb3ZlJz5SZW1vdmU8L2J1dHRvbj48L2xpPiIpLmZhZGVJbigiZmFzdCIsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICBjaGFuZ2VPcmdSZXN0cmljdGlvbkRyb3Bkb3duKCkKCiAgICAgICAgICAgICAgICB9KSk7CiAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgJCgiI2NvLWhvc3QtZGl2Iikub24oImNsaWNrIiwgIi5yZW1vdmUtY29ob3N0IiwgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgJCh0aGlzKS5wYXJlbnQoKS5yZW1vdmUoKTsKICAgICAgICAgICAgICAgIGNoYW5nZU9yZ1Jlc3RyaWN0aW9uRHJvcGRvd24oKQogICAgICAgICAgICB9KTsKCiAgICAgICAgICAgIHZhciBlZGl0b3IgPSBuZXcgY29sbGVnaWF0ZWxpbmsub3JnYW5pemF0aW9uLmV2ZW50c3VibWlzc2lvbi5FZGl0b3IoKTsKICAgICAgICAgICAgZWRpdG9yLmluaXQobG9jYXRpb25PcHRpb25zKTsKICAgICAgICAgICAgY2hhbmdlT3JnUmVzdHJpY3Rpb25Ecm9wZG93bigpCiAgICAgICAgICAgIGZ1bmN0aW9uIGNoYW5nZU9yZ1Jlc3RyaWN0aW9uRHJvcGRvd24oKSB7CiAgICAgICAgICAgICAgICBpZiAoJCgiaW5wdXRbbmFtZT1jb2hvc3RzXSIpLmxlbmd0aCA+IDApIHsKICAgICAgICAgICAgICAgICAgICAkKCcjRXZlbnRUeXBlSWQgb3B0aW9uJylbMl0uaW5uZXJIVE1MID0gIk1lbWJlcnMgb2YgYWxsIGhvc3Rpbmcgb3JnYW5pemF0aW9ucyIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGVsc2UgewogICAgICAgICAgICAgICAgICAgICQoJyNFdmVudFR5cGVJZCBvcHRpb24nKVsyXS5pbm5lckhUTUwgPSAiT3JnYW5pemF0aW9uIE1lbWJlcnMiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZnVuY3Rpb24gY2xlYXJGb3JtRmllbGRzKGRpdikgewogICAgICAgICAgICAgICAgJChkaXYpLmZpbmQoJzppbnB1dCcpLm5vdCgnOmJ1dHRvbiwgOnN1Ym1pdCwgOnJlc2V0LCA6aGlkZGVuLCA6Y2hlY2tib3gsIDpyYWRpbycpLnZhbCgnJyk7CiAgICAgICAgICAgICAgICAkKGRpdikuZmluZCgnOmNoZWNrYm94LCA6cmFkaW8nKS5wcm9wKCdjaGVja2VkJywgZmFsc2UpOwoKICAgICAgICAgICAgfQogICAgICAgICAgICAkKCJib2R5Iikub24oImNsaWNrIiwgIi5hZGQtb25saW5lLWxvY2F0aW9uLWJ0biIsIGZ1bmN0aW9uICh0aGluZykgewogICAgICAgICAgICAgICAgJCh0aGluZy50YXJnZXQpLmNsb3Nlc3QoIi5sb2NhdGlvbldlYXRoZXJNYXAtY29udGFpbmVyIikuYWRkQ2xhc3MoIm9ubGluZS1sb2MtYWN0aXZlIik7CiAgICAgICAgICAgIH0pOwogICAgICAgICAgICAkKCJib2R5Iikub24oImNsaWNrIiwgIi5vbmxpbmUtbG9jLWNhbmNlbCIsIGZ1bmN0aW9uICh0aGluZykgewogICAgICAgICAgICAgICAgdmFyIGRpdiA9ICQodGhpbmcudGFyZ2V0KS5jbG9zZXN0KCIubG9jYXRpb25XZWF0aGVyTWFwLWNvbnRhaW5lciIpOwogICAgICAgICAgICAgICAgZGl2LnJlbW92ZUNsYXNzKCJvbmxpbmUtbG9jLWFjdGl2ZSIpOwoKICAgICAgICAgICAgICAgICQoImlucHV0Lmluc3RhbmNlLU9ubGluZUxvY2F0aW9uIiwgZGl2KS52YWwoIiIpOwogICAgICAgICAgICAgICAgJCgidGV4dGFyZWEuaW5zdGFuY2UtT25saW5lTG9jYXRpb25JbnN0cnVjdGlvbnMiLCBkaXYpLnZhbCgiIik7CgogICAgICAgICAgICAgICAgdmFyIGxpbmtzZXQgPSAkKCJpbnB1dC5pbnN0YW5jZS1PbmxpbmVMb2NhdGlvbiIsIGRpdikudmFsKCk7CiAgICAgICAgICAgICAgICBpZiAobGlua3NldCA9PT0gIiIpIHsKICAgICAgICAgICAgICAgICAgICAkKCIubG9jYXRpb24tYWRkcmVzcy1hZnRlci1zZXQiLCBkaXYuc2libGluZ3MoIi5pbnN0YW5jZS1vbmxpbmUtbG9jYXRpb24tY29udGFpbmVyIikpLnRleHQoIlNlZSBJbnN0cnVjdGlvbnMiKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGVsc2UgewogICAgICAgICAgICAgICAgICAgICQoIi5sb2NhdGlvbi1hZGRyZXNzLWFmdGVyLXNldCIsIGRpdi5zaWJsaW5ncygiLmluc3RhbmNlLW9ubGluZS1sb2NhdGlvbi1jb250YWluZXIiKSkudGV4dChsaW5rc2V0KTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIENoYW5nZVZpc2liaWxpdHlPZk9ubGluZUJveChkaXYuc2libGluZ3MoIi5pbnN0YW5jZS1vbmxpbmUtbG9jYXRpb24tY29udGFpbmVyIiksIGRpdik7CgogICAgICAgICAgICB9KTsKICAgICAgICAgICAgJCgiYm9keSIpLm9uKCJjbGljayIsICIub25saW5lLWxvYy1maW5pc2giLCBmdW5jdGlvbiAodGhpbmcpIHsKICAgICAgICAgICAgICAgIHZhciBkaXYgPSAkKHRoaW5nLnRhcmdldCkuY2xvc2VzdCgiLmxvY2F0aW9uV2VhdGhlck1hcC1jb250YWluZXIiKTsKICAgICAgICAgICAgICAgIGRpdi5yZW1vdmVDbGFzcygib25saW5lLWxvYy1hY3RpdmUiKTsKICAgICAgICAgICAgICAgIHZhciBsaW5rc2V0ID0gJCgiaW5wdXQuaW5zdGFuY2UtT25saW5lTG9jYXRpb24iLCBkaXYpLnZhbCgpOwogICAgICAgICAgICAgICAgJCgiLmxvY2F0aW9uLWFkZHJlc3MtYWZ0ZXItc2V0IiwgZGl2LnNpYmxpbmdzKCIuaW5zdGFuY2Utb25saW5lLWxvY2F0aW9uLWNvbnRhaW5lciIpKS50ZXh0KGxpbmtzZXQpOwogICAgICAgICAgICAgICAgaWYgKGxpbmtzZXQgPT09ICIiKSB7CiAgICAgICAgICAgICAgICAgICAgJCgiLmxvY2F0aW9uLWFkZHJlc3MtYWZ0ZXItc2V0IiwgZGl2LnNpYmxpbmdzKCIuaW5zdGFuY2Utb25saW5lLWxvY2F0aW9uLWNvbnRhaW5lciIpKS50ZXh0KCJTZWUgSW5zdHJ1Y3Rpb25zIik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAkKCIubG9jYXRpb24tYWRkcmVzcy1hZnRlci1zZXQiLCBkaXYuc2libGluZ3MoIi5pbnN0YW5jZS1vbmxpbmUtbG9jYXRpb24tY29udGFpbmVyIikpLnRleHQobGlua3NldCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBDaGFuZ2VWaXNpYmlsaXR5T2ZPbmxpbmVCb3goZGl2LnNpYmxpbmdzKCIuaW5zdGFuY2Utb25saW5lLWxvY2F0aW9uLWNvbnRhaW5lciIpLCBkaXYpOwoKICAgICAgICAgICAgICAgIGlmIChsaW5rc2V0ICE9PSAiIiB8fCBpbnN0cnVjdGlvbnNTZXQgIT09ICIiKSB7CiAgICAgICAgICAgICAgICAgICAgJCgiLmluc3RhbmNlLW9ubGluZS1sb2NhdGlvbi1hbmNob3IiLCBkaXYpLmNsaWNrKCk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICB9KTsKCiAgICAgICAgICAgIGZ1bmN0aW9uIENoYW5nZVZpc2liaWxpdHlPZk9ubGluZUJveChjb250YWluZXIsIGlucHV0RGl2KSB7CiAgICAgICAgICAgICAgICBpZiAoJCgiaW5wdXQuaW5zdGFuY2UtT25saW5lTG9jYXRpb24iLCBpbnB1dERpdikudmFsKCkgIT09ICIiIHx8ICQoInRleHRhcmVhLmluc3RhbmNlLU9ubGluZUxvY2F0aW9uSW5zdHJ1Y3Rpb25zIiwgaW5wdXREaXYpLnZhbCgpICE9PSAiIikgewogICAgICAgICAgICAgICAgICAgICQoY29udGFpbmVyKS5yZW1vdmVDbGFzcygiaGlkZGVuIik7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICQoY29udGFpbmVyKS5hZGRDbGFzcygiaGlkZGVuIik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgCiAgICAgICAgICAgICQoIi5pbnN0YW5jZSIpLmVhY2goZnVuY3Rpb24gKGluZGV4LCB0aGluZykgewogICAgICAgICAgICAgICAgQ2hhbmdlVmlzaWJpbGl0eU9mT25saW5lQm94KCQoIi5pbnN0YW5jZS1vbmxpbmUtbG9jYXRpb24tY29udGFpbmVyIiwgdGhpbmcpLCAkKCIuYWRkLW9ubGluZS1sb2NhdGlvbi1jb250YWluZXIiLCB0aGluZykpOwogICAgICAgICAgICB9KTsKICAgICAgICB9KTsKICAgIDwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>extract partials</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaW5pdCBjdXJyaWN1bHVtIGl0ZW1zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>reformat</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1811,10 +1802,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1855,10 +1846,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9IkBVcmwuRW5nYWdlTGluaygiU3VibWl0dGVyOkFzc2V0c1Jvb3QiKS9jb2xsZWdpYXRlbGluay5nb29nbGVtYXBzLmpzIj48L3NjcmlwdD4KICAgIEB7CiAgICAgICAgSHRtbC5SZW5kZXJQYXJ0aWFsKCJJbnN0YW5jZSIsIG5ldyBFdmVudFN1Ym1pc3Npb25JbnN0YW5jZU1vZGVsKCkgewogICAgICAgICAgICBPbmxpbmVMb2NhdGlvbkVuYWJsZWQgPSBNb2RlbC5PbmxpbmVMb2NhdGlvbnNFbmFibGVkLAogICAgICAgICAgICBSb29tUmVzZXJ2YXRpb25Db21wb25lbnRWZXJzaW9uID0gTW9kZWwuUm9vbVJlc2VydmF0aW9uQ29tcG9uZW50VmVyc2lvbgogICAgICAgIH0pOwogICAgfQoKICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9IkBVcmwuRW5nYWdlTGluaygiU3VibWl0dGVyOkFzc2V0c1Jvb3QiKS9saWJzL2pxdWVyeS9qcXVlcnkuZmlsZXVwbG9hZC5qcyI+PC9zY3JpcHQ+CiAgICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJAVXJsLkVuZ2FnZUxpbmsoIlN1Ym1pdHRlcjpBc3NldHNSb290IikvbGlicy9qcXVlcnkvanF1ZXJ5LmlmcmFtZS10cmFuc3BvcnQuanMiPjwvc2NyaXB0PgogICAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iQFVybC5FbmdhZ2VMaW5rKCJTdWJtaXR0ZXI6QXNzZXRzUm9vdCIpL2NvbGxlZ2lhdGVsaW5rLnByb2plY3RUYWtpbmcuanMiPjwvc2NyaXB0PgogICAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iQFVybC5FbmdhZ2VMaW5rKCJTdWJtaXR0ZXI6QXNzZXRzUm9vdCIpL2NvbGxlZ2lhdGVsaW5rLmlubGluZVNlYXJjaC5qcyI+PC9zY3JpcHQ+CiAgICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJAVXJsLkVuZ2FnZUxpbmsoIlN1Ym1pdHRlcjpBc3NldHNSb290IikvZXZlbnRzdWJtaXNzaW9ucy9jdXN0b21WYWxpZGF0aW9ucy5qcyI+PC9zY3JpcHQ+CiAgICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJAVXJsLkVuZ2FnZUxpbmsoIlN1Ym1pdHRlcjpBc3NldHNSb290IikvZXZlbnRzdWJtaXNzaW9ucy9mbHllci5qcyI+PC9zY3JpcHQ+CiAgICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJAVXJsLkVuZ2FnZUxpbmsoIlN1Ym1pdHRlcjpBc3NldHNSb290IikvZXZlbnRzdWJtaXNzaW9ucy9pbnN0YW5jZS5qcyI+PC9zY3JpcHQ+CiAgICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJAVXJsLkVuZ2FnZUxpbmsoIlN1Ym1pdHRlcjpBc3NldHNSb290IikvZXZlbnRzdWJtaXNzaW9ucy9tYW5hZ2VJbnN0YW5jZXMuanMiPjwvc2NyaXB0PgogICAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iQFVybC5FbmdhZ2VMaW5rKCJTdWJtaXR0ZXI6QXNzZXRzUm9vdCIpL29yZ2FuaXphdGlvbi9ldmVudHN1Ym1pc3Npb24vZWRpdG9yLmpzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9IkBVcmwuRW5nYWdlTGluaygiU3VibWl0dGVyOkFzc2V0c1Jvb3QiKS9ldmVudHN1Ym1pc3Npb25zL2luc3RhbmNlR2VvTG9jYXRpb24uanMiPjwvc2NyaXB0PgogICAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iQFVybC5FbmdhZ2VMaW5rKCJTdWJtaXR0ZXI6QXNzZXRzUm9vdCIpL29yZ2FuaXphdGlvbi9ldmVudHN1Ym1pc3Npb24vbG9jYXRpb24uanMiPjwvc2NyaXB0PgoKICAgIEBpZiAoTW9kZWwuUm9vbVJlc2VydmF0aW9uQ29tcG9uZW50RW5hYmxlZCkgewogICAgICAgIDxzY3JpcHQgY3Jvc3NvcmlnaW4gc3JjPSJodHRwczovL3VucGtnLmNvbS9yZWFjdEAxNi91bWQvcmVhY3QucHJvZHVjdGlvbi5taW4uanMiPjwvc2NyaXB0PgogICAgICAgIDxzY3JpcHQgY3Jvc3NvcmlnaW4gc3JjPSJodHRwczovL3VucGtnLmNvbS9yZWFjdC1kb21AMTYvdW1kL3JlYWN0LWRvbS5wcm9kdWN0aW9uLm1pbi5qcyI+PC9zY3JpcHQ+CiAgICAgICAgPHNjcmlwdCBjcm9zc29yaWdpbiBzcmM9Imh0dHBzOi8vc2VpbmZyYXN0YXRpYy5ibG9iLmNvcmUud2luZG93cy5uZXQvcm9vbS1yZXNlcnZhdGlvbnMvY29tcG9uZW50L0BNb2RlbC5Sb29tUmVzZXJ2YXRpb25Db21wb25lbnRWZXJzaW9uL0NvbXAuUm9vbVJlc2VydmF0aW9uLmpzIj48L3NjcmlwdD4KICAgICAgICA8bGluayBocmVmPSJodHRwczovL3NlaW5mcmFzdGF0aWMuYmxvYi5jb3JlLndpbmRvd3MubmV0L3Jvb20tcmVzZXJ2YXRpb25zL2NvbXBvbmVudC9ATW9kZWwuUm9vbVJlc2VydmF0aW9uQ29tcG9uZW50VmVyc2lvbi9yb29tLXJlc2VydmF0aW9uLmNzcyIgcmVsPSJzdHlsZXNoZWV0Ij4KICAgIH0KCiAgICBAQ29yZUNkbi5HZXRBcHBKcygiY2xpbmsiLCAiY29sbGVnaWF0ZWxpbmsiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1867,9 +1858,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Defaults</last-search>
+      <last-search>error</last-search>
       <last-offset />
-      <last-pattern>Defaults</last-pattern>
+      <last-pattern>error</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
