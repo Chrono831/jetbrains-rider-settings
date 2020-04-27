@@ -86,35 +86,35 @@
         <mark key="." line="156" column="120" />
         <mark key="^" line="156" column="119" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" timestamp="1587990166901">
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" timestamp="1587994375606">
         <mark key="'" line="367" column="35" />
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+        <mark key="[" line="176" column="40" />
+        <mark key="]" line="176" column="40" />
+        <mark key="." line="176" column="40" />
         <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" timestamp="1587757403215">
         <mark key="'" line="483" column="12" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsChangeAndCreate.cshtml" timestamp="1587988631720">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="99" />
-        <mark key="^" line="51" column="43" />
-        <mark key="." line="51" column="42" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsChangeAndCreate.cshtml" timestamp="1587994483072">
+        <mark key="[" line="51" column="53" />
+        <mark key="]" line="51" column="57" />
+        <mark key="^" line="51" column="57" />
+        <mark key="." line="51" column="56" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" timestamp="1587992906830">
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" timestamp="1587994472637">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="55" column="12" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="71" />
+        <mark key="." line="56" column="27" />
+        <mark key="^" line="56" column="28" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" timestamp="1587993143253">
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" timestamp="1587994368993">
         <mark key="'" line="827" column="45" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
+        <mark key="[" line="145" column="40" />
+        <mark key="]" line="145" column="40" />
         <mark key="^" line="146" column="58" />
-        <mark key="." line="144" column="0" />
+        <mark key="." line="145" column="40" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_InlineSearchCreate.cshtml" timestamp="1587988948291">
         <mark key="[" line="102" column="0" />
@@ -139,11 +139,11 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="62" column="8" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" timestamp="1587993151723">
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" timestamp="1587994363124">
         <mark key="'" line="13" column="19" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
+        <mark key="[" line="164" column="40" />
+        <mark key="]" line="164" column="40" />
+        <mark key="." line="164" column="40" />
         <mark key="^" line="164" column="47" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CC73190B-AB9D-435C-8315-10FF295C572A/c5/5026f976/WebViewPage`1.cs" timestamp="1587991340168" />
@@ -154,7 +154,7 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="62" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587993486648">
+      <file name="/Dummy.txt" timestamp="1587994498864">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -338,7 +338,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text>minor cleanup</text>
+        <text>split out change/create and edit for location-options because of the instance-options. update reference calls</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -374,28 +374,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">Y2hhbmdlIGFuZCBjcmVhdGUg</text>
       </register>
       <register name="/" type="4">
         <text>@</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QHsgSHRtbC5SZW5kZXJQYXJ0aWFsKCJfSW5saW5lQ3NzIik7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9Pbmx5IGRpZmZlcmVudCBiZXR3ZWVuIHRoaXMgc2NyaXB0IGFuZCBjaGFuZ2UgYW5kIGNyZWF0ZSAK</text>
       </register>
       <register name="1" type="2">
-        <text>minor cleanup</text>
+        <text>split out change/create and edit for location-options because of the instance-options. update reference calls</text>
       </register>
       <register name="2" type="2">
-        <text>test combining - add functions to edit</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>minor cleanup</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>test combining - add functions to edit</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEB7IHZhciBpbnN0YW5jZU9wdGlvbnNVcmwgPSBzdHJpbmcuRW1wdHk7IH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1815,10 +1815,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHN0eWxlPgogICAgLmJ0bi5idG4tc3VjY2VzcyB7CiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogIzRBNzYxNCAhaW1wb3J0YW50OwogICAgfQogICAgLmJ0bi5idG4tc3VjY2Vzczpob3ZlciB7CiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogIzM4NUIxMCAhaW1wb3J0YW50OwogICAgfQogICAgLmJ0bi5idG4tZGFuZ2VyIHsKICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjQjkzMjA5ICFpbXBvcnRhbnQ7CiAgICB9CiAgICAuYnRuLmJ0bi1kYW5nZXI6aG92ZXIgewogICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNBMTJCMDggIWltcG9ydGFudDsKICAgIH0KPC9zdHlsZT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGluc3RhbmNlc09wdGlvbnMgPSB7CiAgICAgICAgICAgICAgICB1cmw6ICdAVXJsLkVuZ2FnZUFjdGlvbigiZ2V0aW5zdGFuY2VzIiwgImV2ZW50c3VibWlzc2lvbiIsIG5ldyB7YXJlYSA9ICJvcmdhbml6YXRpb24iLCBNb2RlbC5JZCB9KScKICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgIEB7IHZhciBpbnN0YW5jZU9wdGlvbnNVcmwgPSBzdHJpbmcuRW1wdHk7IH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1859,10 +1859,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHN0eWxlPgogICAgLmJ0bi5idG4tc3VjY2VzcyB7CiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogIzRBNzYxNCAhaW1wb3J0YW50OwogICAgfQogICAgLmJ0bi5idG4tc3VjY2Vzczpob3ZlciB7CiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogIzM4NUIxMCAhaW1wb3J0YW50OwogICAgfQogICAgLmJ0bi5idG4tZGFuZ2VyIHsKICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjQjkzMjA5ICFpbXBvcnRhbnQ7CiAgICB9CiAgICAuYnRuLmJ0bi1kYW5nZXI6aG92ZXIgewogICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNBMTJCMDggIWltcG9ydGFudDsKICAgIH0KPC9zdHlsZT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGluc3RhbmNlc09wdGlvbnMgPSB7CiAgICAgICAgICAgICAgICB1cmw6ICdAVXJsLkVuZ2FnZUFjdGlvbigiZ2V0aW5zdGFuY2VzIiwgImV2ZW50c3VibWlzc2lvbiIsIG5ldyB7YXJlYSA9ICJvcmdhbml6YXRpb24iLCBNb2RlbC5JZCB9KScKICAgICAgICAgICAgfTsK</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
