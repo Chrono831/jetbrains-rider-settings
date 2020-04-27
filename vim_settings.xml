@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW1vdmVCdXR0b25FbGVtZW50XD4=</entry>
         <entry>instance</entry>
         <entry>Hidden</entry>
         <entry encoding="base64">XDxfUm9vbVJlc2VydmF0aW9uQnV0dG9uXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>Error</entry>
         <entry>error</entry>
         <entry>_eventService.GetEve</entry>
+        <entry encoding="base64">XDxpbnN0YW5jZXNPcHRpb25zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>243</entry>
@@ -41,12 +41,12 @@
         <entry>43</entry>
         <entry>477</entry>
         <entry>148</entry>
-        <entry>$</entry>
-        <entry>w</entry>
         <entry>wq</entry>
-        <entry>q</entry>
-        <entry>0</entry>
         <entry>484</entry>
+        <entry>$</entry>
+        <entry>0</entry>
+        <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -80,96 +80,97 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_EventSubmissionPrototypeEdit.cshtml" timestamp="1587752247288">
-        <mark key="[" line="275" column="0" />
-        <mark key="]" line="275" column="0" />
-        <mark key="." line="275" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_EventSubmissionPrototypeEdit.cshtml" timestamp="1587987390412">
+        <mark key="[" line="274" column="0" />
+        <mark key="]" line="274" column="0" />
+        <mark key="." line="274" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" timestamp="1587755981998">
-        <mark key="'" line="396" column="35" />
-        <mark key="[" line="213" column="48" />
-        <mark key="]" line="214" column="4" />
-        <mark key="." line="214" column="3" />
-        <mark key="^" line="214" column="4" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" timestamp="1587987675513">
+        <mark key="'" line="367" column="35" />
+        <mark key="[" line="184" column="39" />
+        <mark key="]" line="184" column="39" />
+        <mark key="." line="184" column="39" />
+        <mark key="^" line="184" column="4" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" timestamp="1587757403215">
         <mark key="'" line="483" column="12" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" timestamp="1587752112556">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsChangeAndCreate.cshtml" timestamp="1587988631720">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="99" />
+        <mark key="^" line="51" column="43" />
+        <mark key="." line="51" column="42" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" timestamp="1587988645349">
+        <mark key="'" line="50" column="41" />
+        <mark key="[" line="93" column="99" />
+        <mark key="]" line="93" column="126" />
+        <mark key="." line="93" column="125" />
+        <mark key="^" line="93" column="126" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/PostEventSettings.cshtml" timestamp="1587753696353">
         <mark key="[" line="531" column="0" />
         <mark key="]" line="531" column="0" />
         <mark key="." line="531" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" timestamp="1587756067400">
-        <mark key="'" line="856" column="45" />
-        <mark key="[" line="171" column="48" />
-        <mark key="]" line="172" column="4" />
-        <mark key="^" line="172" column="4" />
-        <mark key="." line="172" column="3" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" timestamp="1587988656823">
+        <mark key="'" line="827" column="45" />
+        <mark key="[" line="145" column="43" />
+        <mark key="]" line="145" column="43" />
+        <mark key="^" line="145" column="52" />
+        <mark key="." line="145" column="43" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/GetReviewers.cshtml" timestamp="1587753369432">
-        <mark key="[" line="239" column="0" />
-        <mark key="]" line="239" column="0" />
-        <mark key="." line="239" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_EventSubmissionPrototypeChange.cshtml" timestamp="1587987283147">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="62" column="8" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" timestamp="1587756097489">
-        <mark key="'" line="14" column="19" />
-        <mark key="[" line="192" column="4" />
-        <mark key="]" line="192" column="5" />
-        <mark key="." line="192" column="4" />
-        <mark key="^" line="192" column="5" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" timestamp="1587988664403">
+        <mark key="'" line="13" column="19" />
+        <mark key="[" line="176" column="43" />
+        <mark key="]" line="176" column="43" />
+        <mark key="." line="176" column="43" />
+        <mark key="^" line="176" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587757379548">
+      <file name="/Dummy.txt" timestamp="1587988682483">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsChange.cshtml" timestamp="1587987781166">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LoadScriptsCreate.cshtml" timestamp="1587756040589">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="29" column="48" />
         <mark key="." line="29" column="4" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LoadScriptsChange.cshtml" timestamp="1587756085085">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="30" column="48" />
-        <mark key="." line="22" column="4" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LoadScriptsChange.cshtml" timestamp="1587987626091">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LoadScriptsEdit.cshtml" timestamp="1587755944888">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="30" column="48" />
-        <mark key="." line="23" column="4" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LoadScriptsEdit.cshtml" timestamp="1587987607135">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_EventSubmissionPrototypeCreate.cshtml" timestamp="1587753268317">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_EventSubmissionPrototypeCreate.cshtml" timestamp="1587987300682">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" timestamp="1587754200854">
         <mark key="'" line="126" column="62" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Instance.cshtml" timestamp="1587752838891">
-        <mark key="'" line="286" column="96" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="20" />
-        <mark key="^" line="335" column="55" />
-        <mark key="." line="132" column="20" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/SummaryOfReviewers.cshtml" timestamp="1587754034387">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/PostEventEvaluation.cshtml" timestamp="1587753586516">
-        <mark key="[" line="628" column="0" />
-        <mark key="]" line="628" column="8" />
-        <mark key="." line="628" column="8" />
-        <mark key="^" line="255" column="16" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/RsvpSettings.cshtml" timestamp="1587753991044">
         <mark key="[" line="707" column="0" />
@@ -178,8 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="581" column="46" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
-      <jump line="582" column="52" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
       <jump line="583" column="100" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
       <jump line="585" column="124" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
       <jump line="586" column="118" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
@@ -278,6 +277,8 @@
       <jump line="114" column="62" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
       <jump line="126" column="62" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
       <jump line="483" column="12" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="9" column="16" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" />
+      <jump line="53" column="41" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -322,8 +323,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text>optimize imports</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -359,28 +360,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>reformat files in event-</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>_eventService.GetEve</text>
+        <text encoding="base64">XDxpbnN0YW5jZXNPcHRpb25zXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9IkBVcmwuRW5nYWdlTGluaygiU3VibWl0dGVyOkFzc2V0c1Jvb3QiKS9jb2xsZWdpYXRlbGluay5nb29nbGVtYXBzLmpzIj48L3NjcmlwdD4KICAgIHsKICAgICAgICBIdG1sLlJlbmRlclBhcnRpYWwoIkluc3RhbmNlIiwgbmV3IEV2ZW50U3VibWlzc2lvbkluc3RhbmNlTW9kZWwoKSB7CiAgICAgICAgICAgIE9ubGluZUxvY2F0aW9uRW5hYmxlZCA9IE1vZGVsLk9ubGluZUxvY2F0aW9uc0VuYWJsZWQsCiAgICAgICAgICAgIFJvb21SZXNlcnZhdGlvbkNvbXBvbmVudFZlcnNpb24gPSBNb2RlbC5Sb29tUmVzZXJ2YXRpb25Db21wb25lbnRWZXJzaW9uCiAgICAgICAgfSk7CiAgICB9CgogICAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iQFVybC5FbmdhZ2VMaW5rKCJTdWJtaXR0ZXI6QXNzZXRzUm9vdCIpL2xpYnMvanF1ZXJ5L2pxdWVyeS5maWxldXBsb2FkLmpzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9IkBVcmwuRW5nYWdlTGluaygiU3VibWl0dGVyOkFzc2V0c1Jvb3QiKS9saWJzL2pxdWVyeS9qcXVlcnkuaWZyYW1lLXRyYW5zcG9ydC5qcyI+PC9zY3JpcHQ+CiAgICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJAVXJsLkVuZ2FnZUxpbmsoIlN1Ym1pdHRlcjpBc3NldHNSb290IikvY29sbGVnaWF0ZWxpbmsucHJvamVjdFRha2luZy5qcyI+PC9zY3JpcHQ+CiAgICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJAVXJsLkVuZ2FnZUxpbmsoIlN1Ym1pdHRlcjpBc3NldHNSb290IikvY29sbGVnaWF0ZWxpbmsuaW5saW5lU2VhcmNoLmpzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9IkBVcmwuRW5nYWdlTGluaygiU3VibWl0dGVyOkFzc2V0c1Jvb3QiKS9ldmVudHN1Ym1pc3Npb25zL2N1c3RvbVZhbGlkYXRpb25zLmpzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9IkBVcmwuRW5nYWdlTGluaygiU3VibWl0dGVyOkFzc2V0c1Jvb3QiKS9ldmVudHN1Ym1pc3Npb25zL2ZseWVyLmpzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9IkBVcmwuRW5nYWdlTGluaygiU3VibWl0dGVyOkFzc2V0c1Jvb3QiKS9ldmVudHN1Ym1pc3Npb25zL2luc3RhbmNlLmpzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9IkBVcmwuRW5nYWdlTGluaygiU3VibWl0dGVyOkFzc2V0c1Jvb3QiKS9ldmVudHN1Ym1pc3Npb25zL21hbmFnZUluc3RhbmNlcy5qcyI+PC9zY3JpcHQ+CiAgICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJAVXJsLkVuZ2FnZUxpbmsoIlN1Ym1pdHRlcjpBc3NldHNSb290IikvZXZlbnRzdWJtaXNzaW9ucy9pbnN0YW5jZUdlb0xvY2F0aW9uLmpzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9IkBVcmwuRW5nYWdlTGluaygiU3VibWl0dGVyOkFzc2V0c1Jvb3QiKS9vcmdhbml6YXRpb24vZXZlbnRzdWJtaXNzaW9uL2xvY2F0aW9uLmpzIj48L3NjcmlwdD4KCiAgICBpZiAoTW9kZWwuUm9vbVJlc2VydmF0aW9uQ29tcG9uZW50RW5hYmxlZCkgewogICAgICAgIDxzY3JpcHQgY3Jvc3NvcmlnaW4gc3JjPSJodHRwczovL3VucGtnLmNvbS9yZWFjdEAxNi91bWQvcmVhY3QucHJvZHVjdGlvbi5taW4uanMiPjwvc2NyaXB0PgogICAgICAgIDxzY3JpcHQgY3Jvc3NvcmlnaW4gc3JjPSJodHRwczovL3VucGtnLmNvbS9yZWFjdC1kb21AMTYvdW1kL3JlYWN0LWRvbS5wcm9kdWN0aW9uLm1pbi5qcyI+PC9zY3JpcHQ+CiAgICAgICAgPHNjcmlwdCBjcm9zc29yaWdpbiBzcmM9Imh0dHBzOi8vc2VpbmZyYXN0YXRpYy5ibG9iLmNvcmUud2luZG93cy5uZXQvcm9vbS1yZXNlcnZhdGlvbnMvY29tcG9uZW50L0BNb2RlbC5Sb29tUmVzZXJ2YXRpb25Db21wb25lbnRWZXJzaW9uL0NvbXAuUm9vbVJlc2VydmF0aW9uLmpzIj48L3NjcmlwdD4KICAgICAgICA8bGluayBocmVmPSJodHRwczovL3NlaW5mcmFzdGF0aWMuYmxvYi5jb3JlLndpbmRvd3MubmV0L3Jvb20tcmVzZXJ2YXRpb25zL2NvbXBvbmVudC9ATW9kZWwuUm9vbVJlc2VydmF0aW9uQ29tcG9uZW50VmVyc2lvbi9yb29tLXJlc2VydmF0aW9uLmNzcyIgcmVsPSJzdHlsZXNoZWV0Ij4KICAgIH0KCiAgICBAQ29yZUNkbi5HZXRBcHBKcygiY2xpbmsiLCAib3JnYW5pemF0aW9uLmV2ZW50c3VibWlzc2lvbi5lZGl0b3IiKQogICAgQENvcmVDZG4uR2V0QXBwSnMoImNsaW5rIiwgImNvbGxlZ2lhdGVsaW5rIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBpbnN0cnVjdGlvbnNTZXQgPSAkKCJ0ZXh0YXJlYS5pbnN0YW5jZS1PbmxpbmVMb2NhdGlvbkluc3RydWN0aW9ucyIsIGRpdikudmFsKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>optimize imports</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGluc3RhbmNlc09wdGlvbnMgPSB7CiAgICAgICAgICAgICAgICB1cmw6ICdAVXJsLkVuZ2FnZUFjdGlvbigiZ2V0aW5zdGFuY2VzIiwgImV2ZW50c3VibWlzc2lvbiIsIG5ldyB7YXJlYSA9ICJvcmdhbml6YXRpb24iLCBNb2RlbC5JZH0pJwogICAgICAgICAgICB9Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEB7IEh0bWwuUmVuZGVyUGFydGlhbCgiX0xvYWRTY3JpcHRzQ2hhbmdlIik7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEB7IEh0bWwuUmVuZGVyUGFydGlhbCgiX0xvYWRTY3JpcHRzQ3JlYXRlIik7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vQHsgSHRtbC5SZW5kZXJQYXJ0aWFsKCJfTG9hZFNjcmlwdHNFZGl0Iik7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGluc3RhbmNlc09wdGlvbnMgPSB7fTsKICAgICAgICAgICAgQGlmIChNb2RlbC5JZCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text>extract partials</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGluc3RhbmNlc09wdGlvbnMgPSB7CiAgICAgICAgICAgICAgICB1cmw6ICdAVXJsLkVuZ2FnZUFjdGlvbigiZ2V0aW5zdGFuY2VzIiwgImV2ZW50c3VibWlzc2lvbiIsIG5ldyB7YXJlYSA9ICJvcmdhbml6YXRpb24iLCBNb2RlbC5JZH0pJwogICAgICAgICAgICB9Owo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1803,7 +1804,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1847,21 +1848,21 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>reorder functions to make it easier to see differences</text>
       </register>
       <register name=":" type="4">
-        <text>484</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>_eventService.GetEve</last-search>
+      <last-search encoding="base64">XDxpbnN0YW5jZXNPcHRpb25zXD4=</last-search>
       <last-offset />
-      <last-pattern>_eventService.GetEve</last-pattern>
+      <last-pattern encoding="base64">XDxpbnN0YW5jZXNPcHRpb25zXD4=</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
