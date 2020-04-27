@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>OnlineLocation</entry>
-        <entry encoding="base64">XDxPbmxpbmVMb2NhdGlvbkluc3RydWN0aW9uc1w+</entry>
         <entry>LaunchDarkly</entry>
         <entry encoding="base64">XDxzZWxlY3RlZFJvb21JZEVsZW1lbnRcPg==</entry>
         <entry>append(span</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxpbnN0YW5jZXNPcHRpb25zVXJsXD4=</entry>
         <entry encoding="base64">XDxpbnN0YW5jZU9wdGlvbnNVcmxcPg==</entry>
         <entry>@</entry>
+        <entry>-cancel</entry>
+        <entry>YouTube</entry>
       </history-search>
       <history-cmd>
         <entry>243</entry>
@@ -86,35 +86,25 @@
         <mark key="." line="156" column="120" />
         <mark key="^" line="156" column="119" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" timestamp="1587994375606">
-        <mark key="'" line="367" column="35" />
-        <mark key="[" line="176" column="40" />
-        <mark key="]" line="176" column="40" />
-        <mark key="." line="176" column="40" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" timestamp="1587998581111">
+        <mark key="'" line="39" column="79" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" timestamp="1587757403215">
-        <mark key="'" line="483" column="12" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsChangeAndCreate.cshtml" timestamp="1587998463949">
+        <mark key="'" line="75" column="47" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="^" line="102" column="25" />
+        <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsChangeAndCreate.cshtml" timestamp="1587994483072">
-        <mark key="[" line="51" column="53" />
-        <mark key="]" line="51" column="57" />
-        <mark key="^" line="51" column="57" />
-        <mark key="." line="51" column="56" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" timestamp="1587994472637">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="71" />
-        <mark key="." line="56" column="27" />
-        <mark key="^" line="56" column="28" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" timestamp="1587998453852">
+        <mark key="'" line="48" column="65" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="116" column="17" />
+        <mark key="." line="118" column="0" />
+        <mark key="^" line="116" column="33" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" timestamp="1587994368993">
-        <mark key="'" line="827" column="45" />
-        <mark key="[" line="145" column="40" />
-        <mark key="]" line="145" column="40" />
-        <mark key="^" line="146" column="58" />
-        <mark key="." line="145" column="40" />
+        <mark key="'" line="828" column="45" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_InlineSearchCreate.cshtml" timestamp="1587988948291">
         <mark key="[" line="102" column="0" />
@@ -139,12 +129,8 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="62" column="8" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" timestamp="1587994363124">
-        <mark key="'" line="13" column="19" />
-        <mark key="[" line="164" column="40" />
-        <mark key="]" line="164" column="40" />
-        <mark key="." line="164" column="40" />
-        <mark key="^" line="164" column="47" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" timestamp="1587998583786">
+        <mark key="'" line="38" column="79" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CC73190B-AB9D-435C-8315-10FF295C572A/c5/5026f976/WebViewPage`1.cs" timestamp="1587991340168" />
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_InlineSearchChangeAndCreate.cshtml" timestamp="1587989283432">
@@ -154,7 +140,7 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="62" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587994498864">
+      <file name="/Dummy.txt" timestamp="1587998656034">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -170,11 +156,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LoadScriptsCreate.cshtml" timestamp="1587756040589">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="29" column="48" />
-        <mark key="." line="29" column="4" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LoadScriptsChange.cshtml" timestamp="1587987626091">
         <mark key="[" line="19" column="0" />
@@ -193,15 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="838" column="41" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
-      <jump line="840" column="56" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
-      <jump line="285" column="4" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" />
-      <jump line="2" column="12" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" />
-      <jump line="7" column="22" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" />
-      <jump line="21" column="22" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" />
-      <jump line="212" column="40" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" />
-      <jump line="874" column="56" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" />
-      <jump line="867" column="68" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" />
       <jump line="207" column="15" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" />
       <jump line="838" column="15" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" />
       <jump line="832" column="15" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
@@ -293,6 +265,15 @@
       <jump line="50" column="16" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" />
       <jump line="53" column="25" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" />
       <jump line="0" column="0" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" />
+      <jump line="25" column="16" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsChangeAndCreate.cshtml" />
+      <jump line="20" column="54" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" />
+      <jump line="78" column="46" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" />
+      <jump line="48" column="65" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" />
+      <jump line="75" column="47" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsChangeAndCreate.cshtml" />
+      <jump line="99" column="56" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
+      <jump line="37" column="36" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" />
+      <jump line="39" column="79" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" />
+      <jump line="38" column="79" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -338,7 +319,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text>split out change/create and edit for location-options because of the instance-options. update reference calls</text>
+        <text>inline-search common seems fine. minor other cleanup</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -374,28 +355,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2hhbmdlIGFuZCBjcmVhdGUg</text>
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
-        <text>@</text>
+        <text>YouTube</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9Pbmx5IGRpZmZlcmVudCBiZXR3ZWVuIHRoaXMgc2NyaXB0IGFuZCBjaGFuZ2UgYW5kIGNyZWF0ZSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBsaW5rc2V0ID0gJCgiaW5wdXQuaW5zdGFuY2UtT25saW5lTG9jYXRpb24iLCBkaXYpLnZhbCgpOwogICAgICAgICAgICAgICAgaWYgKCF2YWxpZFVSTChsaW5rc2V0KSkgewogICAgICAgICAgICAgICAgICAgICQoIi5vbmxpbmVsb2N2YWwiLCBkaXYpLnJlbW92ZUNsYXNzKCJoaWRkZW4iKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAkKCIub25saW5lbG9jdmFsIiwgZGl2KS5hZGRDbGFzcygiaGlkZGVuIik7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>split out change/create and edit for location-options because of the instance-options. update reference calls</text>
+        <text>inline-search common seems fine. minor other cleanup</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBsaW5rc2V0ID0gJCgiaW5wdXQuaW5zdGFuY2UtT25saW5lTG9jYXRpb24iLCBkaXYpLnZhbCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text>minor cleanup</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBsaW5rc2V0ID0gJCgiaW5wdXQuaW5zdGFuY2UtT25saW5lTG9jYXRpb24iLCBkaXYpLnZhbCgpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text>test combining - add functions to edit</text>
+      <register name="4" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAog</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAg</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1818,7 +1799,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEB7IHZhciBpbnN0YW5jZU9wdGlvbnNVcmwgPSBzdHJpbmcuRW1wdHk7IH0K</text>
+        <text>split out change/create and edit for location-options because of the instance-options. update reference calls</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1859,10 +1840,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHN0eWxlPgogICAgLmJ0bi5idG4tc3VjY2VzcyB7CiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogIzRBNzYxNCAhaW1wb3J0YW50OwogICAgfQogICAgLmJ0bi5idG4tc3VjY2Vzczpob3ZlciB7CiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogIzM4NUIxMCAhaW1wb3J0YW50OwogICAgfQogICAgLmJ0bi5idG4tZGFuZ2VyIHsKICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjQjkzMjA5ICFpbXBvcnRhbnQ7CiAgICB9CiAgICAuYnRuLmJ0bi1kYW5nZXI6aG92ZXIgewogICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNBMTJCMDggIWltcG9ydGFudDsKICAgIH0KPC9zdHlsZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGluc3RhbmNlc09wdGlvbnMgPSB7CiAgICAgICAgICAgICAgICB1cmw6ICdAVXJsLkVuZ2FnZUFjdGlvbigiZ2V0aW5zdGFuY2VzIiwgImV2ZW50c3VibWlzc2lvbiIsIG5ldyB7YXJlYSA9ICJvcmdhbml6YXRpb24iLCBNb2RlbC5JZCB9KScKICAgICAgICAgICAgfTsK</text>
+        <text>minor cleanup</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
@@ -1871,9 +1852,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>@</last-search>
+      <last-search>YouTube</last-search>
       <last-offset />
-      <last-pattern>@</last-pattern>
+      <last-pattern>YouTube</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
