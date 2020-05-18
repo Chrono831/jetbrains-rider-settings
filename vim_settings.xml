@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>idden</entry>
-        <entry>onlineLocation</entry>
         <entry encoding="base64">XDxzdWNjZXNzXD4=</entry>
         <entry>Default</entry>
         <entry>Defaults</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxsb2NhdGlvbk9wdGlvbnNcPg==</entry>
         <entry>15</entry>
         <entry>Phone</entry>
+        <entry encoding="base64">XDxnZXRTZWxlY3RlZFJvb21OYW1lXD4=</entry>
+        <entry encoding="base64">XDxwYXJlbnRFbGVtZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>243</entry>
@@ -105,7 +105,7 @@
         <mark key="." line="36" column="17" />
         <mark key="^" line="36" column="18" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_InlineSearch.cshtml" timestamp="1589565966354">
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_InlineSearch.cshtml" timestamp="1589569481104">
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="0" />
         <mark key="^" line="106" column="43" />
@@ -126,6 +126,10 @@
       </file>
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/CollegiateLinkLegacy.sln" timestamp="1589301299121">
         <mark key="'" line="188" column="14" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Instance.cshtml" timestamp="1589568644198" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" timestamp="1589567437381">
+        <mark key="'" line="46" column="51" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" timestamp="1587999305187">
         <mark key="'" line="55" column="12" />
@@ -151,15 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="22" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Events/Request/UpdateEventLocationRequest.cs" />
-      <jump line="20" column="25" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/ClassMaps/EventSubmission/EventSubmissionInstanceMap.cs" />
-      <jump line="324" column="20" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Event.cs" />
-      <jump line="251" column="30" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Event.cs" />
-      <jump line="64" column="12" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Event.cs" />
-      <jump line="485" column="25" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Event.cs" />
-      <jump line="43" column="30" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/EventSubmission/EventSubmissionInstance.cs" />
-      <jump line="694" column="25" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Events/EventSubmissionService.cs" />
-      <jump line="695" column="80" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/Events/EventSubmissionService.cs" />
       <jump line="35" column="17" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/App.Submitter.csproj" />
       <jump line="246" column="64" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/App.Submitter.csproj" />
       <jump line="249" column="24" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/App.Submitter.csproj" />
@@ -251,6 +246,15 @@
       <jump line="186" column="14" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/CollegiateLinkLegacy.sln" />
       <jump line="187" column="14" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/CollegiateLinkLegacy.sln" />
       <jump line="188" column="14" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/CollegiateLinkLegacy.sln" />
+      <jump line="11" column="25" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" />
+      <jump line="9" column="56" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" />
+      <jump line="8" column="46" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" />
+      <jump line="7" column="39" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" />
+      <jump line="6" column="39" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" />
+      <jump line="5" column="41" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" />
+      <jump line="4" column="41" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" />
+      <jump line="3" column="51" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" />
+      <jump line="46" column="51" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -335,7 +339,7 @@
         <text>Online</text>
       </register>
       <register name="/" type="4">
-        <text>Phone</text>
+        <text encoding="base64">XDxwYXJlbnRFbGVtZW50XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aC5sb2NhdGlvbk5hbWUuc2V0VmFsdWUoIk9ubGluZSIpCiAgICAgICAgICAgICAgICAgICAgdmFyIGhhc0FkZHJlc3MgPSBpbnN0LmZpbmQoJy5pbnN0YW5jZS1oYXNBZGRyZXNzJykudmFsKCk7CiAgICAgICAgICAgICAgICAgICAgaWYgKGhhc0FkZHJlc3MgPT09ICdUcnVlJyB8fCBoYXNBZGRyZXNzID09PSB1bmRlZmluZWQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgaW5zdC5maW5kKCcuYnRuLXNob3ctbWFwJykuY2xpY2soKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBpbnN0LmZpbmQoJy5idG4taGlkZS1tYXAnKS5jbGljaygpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB0aC5zdW1tYXJpemUoKTsK</text>
@@ -1829,12 +1833,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Phone</last-search>
+      <last-search encoding="base64">XDxwYXJlbnRFbGVtZW50XD4=</last-search>
       <last-offset />
-      <last-pattern>Phone</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJlbnRFbGVtZW50XD4=</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
