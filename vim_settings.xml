@@ -80,6 +80,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" timestamp="1589808429481">
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="215" column="0" />
+        <mark key="." line="215" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1589565093240">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -127,7 +132,12 @@
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/CollegiateLinkLegacy.sln" timestamp="1589301299121">
         <mark key="'" line="188" column="14" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Instance.cshtml" timestamp="1589568644198" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Instance.cshtml" timestamp="1589808365334">
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="201" column="193" />
+        <mark key="." line="201" column="140" />
+        <mark key="^" line="201" column="141" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" timestamp="1589567437381">
         <mark key="'" line="46" column="51" />
       </file>
@@ -300,7 +310,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9nZXQgcmVmIHRvIGluc3RhbmNlIGRhdGEgZWxlbWVudAogICAgICAgICAgICBlbGVtZW50Lm9uKCdjaGFuZ2UnLCBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgIHRoLmxvY2F0aW9uTmFtZS5zZXRWYWx1ZSgie3BhcnNlZCBkaXBzbGF5IG5hbWV9IikKICAgICAgICAgICAgICAgIGluc3QuZmluZCgnLmJ0bi1oaWRlLW1hcCcpLmNsaWNrKCk7CiAgICAgICAgICAgICAgICB0aC5zdW1tYXJpemUoKTsKICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEh0bWwuSGlkZGVuRm9yKG1vZGVsID0+IG1vZGVsLlJvb21SZXNlcnZhdGlvbiwgbmV3IHsgTmFtZSA9ICJJbnN0YW5jZXNbJHtpbmRleH1dLlJvb21SZXNlcnZhdGlvbiIsIFZhbHVlID0gIiR7Um9vbVJlc2VydmF0aW9ufSIsIEBjbGFzcyA9ICJpbnN0YW5jZS1yb29tLXJlc2VydmF0aW9uLWRldGFpbHMiIH0pCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -336,28 +346,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Online</text>
+        <text encoding="base64">Iiwg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJlbnRFbGVtZW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aC5sb2NhdGlvbk5hbWUuc2V0VmFsdWUoIk9ubGluZSIpCiAgICAgICAgICAgICAgICAgICAgdmFyIGhhc0FkZHJlc3MgPSBpbnN0LmZpbmQoJy5pbnN0YW5jZS1oYXNBZGRyZXNzJykudmFsKCk7CiAgICAgICAgICAgICAgICAgICAgaWYgKGhhc0FkZHJlc3MgPT09ICdUcnVlJyB8fCBoYXNBZGRyZXNzID09PSB1bmRlZmluZWQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgaW5zdC5maW5kKCcuYnRuLXNob3ctbWFwJykuY2xpY2soKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBpbnN0LmZpbmQoJy5idG4taGlkZS1tYXAnKS5jbGljaygpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB0aC5zdW1tYXJpemUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBIdG1sLkhpZGRlbkZvcihtb2RlbCA9PiBtb2RlbC5Sb29tUmVzZXJ2YXRpb24sIG5ldyB7IE5hbWUgPSAiSW5zdGFuY2VzWyR7aW5kZXh9XS5Sb29tUmVzZXJ2YXRpb24iLCBWYWx1ZSA9ICIke1Jvb21SZXNlcnZhdGlvbn0iLCBAY2xhc3MgPSAiaW5zdGFuY2Utcm9vbS1yZXNlcnZhdGlvbi1kZXRhaWxzIiB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9nZXQgcmVmIHRvIGluc3RhbmNlIGRhdGEgZWxlbWVudAogICAgICAgICAgICBlbGVtZW50Lm9uKCdjaGFuZ2UnLCBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgIHRoLmxvY2F0aW9uTmFtZS5zZXRWYWx1ZSgie3BhcnNlZCBkaXBzbGF5IG5hbWV9IikKICAgICAgICAgICAgICAgIGluc3QuZmluZCgnLmJ0bi1oaWRlLW1hcCcpLmNsaWNrKCk7CiAgICAgICAgICAgICAgICB0aC5zdW1tYXJpemUoKTsKICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEh0bWwuSGlkZGVuRm9yKG1vZGVsID0+IG1vZGVsLlJvb21SZXNlcnZhdGlvbiwgbmV3IHsgTmFtZSA9ICJJbnN0YW5jZXNbJHtpbmRleH1dLlJvb21SZXNlcnZhdGlvbiIsIFZhbHVlID0gIiR7Um9vbVJlc2VydmF0aW9ufSIsIEBjbGFzcyA9ICJpbnN0YW5jZS1yb29tLXJlc2VydmF0aW9uLWRldGFpbHMiIH0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBIdG1sLkhpZGRlbkZvcihtb2RlbCA9PiBtb2RlbC5Sb29tUmVzZXJ2YXRpb24sIG5ldyB7IEBjbGFzcyA9ICJpbnN0YW5jZS1yb29tLXJlc2VydmF0aW9uLWRldGFpbHMiIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9nZXQgcmVmIHRvIGluc3RhbmNlIGRhdGEgZWxlbWVudAogICAgICAgICAgICBlbGVtZW50Lm9uKCdjaGFuZ2UnLCBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgIHRoLmxvY2F0aW9uTmFtZS5zZXRWYWx1ZSgie3BhcnNlZCBkaXBzbGF5IG5hbWV9IikKICAgICAgICAgICAgICAgIGluc3QuZmluZCgnLmJ0bi1oaWRlLW1hcCcpLmNsaWNrKCk7CiAgICAgICAgICAgICAgICB0aC5zdW1tYXJpemUoKTsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBoYXNBZGRyZXNzID0gaW5zdC5maW5kKCcuaW5zdGFuY2UtaGFzQWRkcmVzcycpLnZhbCgpOwogICAgICAgICAgICAgICAgaWYgKGhhc0FkZHJlc3MgPT09ICdUcnVlJyB8fCBoYXNBZGRyZXNzID09PSB1bmRlZmluZWQpIHsKICAgICAgICAgICAgICAgICAgICBpbnN0LmZpbmQoJy5idG4tc2hvdy1tYXAnKS5jbGljaygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1777,10 +1787,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text>add phone numbers and explode T_T</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text>add phone-numbers lib support because of the screwiness of how cll-services references stuff. update CLL nuget</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBoYXNBZGRyZXNzID0gaW5zdC5maW5kKCcuaW5zdGFuY2UtaGFzQWRkcmVzcycpLnZhbCgpOwogICAgICAgICAgICAgICAgaWYgKGhhc0FkZHJlc3MgPT09ICdUcnVlJyB8fCBoYXNBZGRyZXNzID09PSB1bmRlZmluZWQpIHsKICAgICAgICAgICAgICAgICAgICBpbnN0LmZpbmQoJy5idG4tc2hvdy1tYXAnKS5jbGljaygpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1821,10 +1831,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text>re-apply changes from online-location-validation pull request</text>
+        <text>add phone numbers and explode T_T</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxvY2F0aW9uT3B0aW9ucyA9IHsKICAgICAgICAgICAgICAgIHNlYXJjaFVybDogJ0BVcmwuRW5nYWdlQWN0aW9uKCJzZWFyY2hwYWdlZGxvY2F0aW9ucyIsICJsb2NhdGlvbnMiLCBuZXcge2FyZWEgPSAib3JnYW5pemF0aW9uIn0pJywKICAgICAgICAgICAgICAgIGNoZWNrQXZhaWxhYmlsaXR5VXJsOiAnQFVybC5FbmdhZ2VBY3Rpb24oImlzQXZhaWxhYmxlIiwgImxvY2F0aW9ucyIsIG5ldyB7YXJlYSA9ICJvcmdhbml6YXRpb24ifSknLAogICAgICAgICAgICAgICAgY2FuUmVxdWVzdDogJ0BNb2RlbC5TZXR0aW5ncy5DYW5SZXF1ZXN0RXZlbnRMb2NhdGlvbi5Ub1N0cmluZygpLlRvTG93ZXIoKScgPT09ICd0cnVlJwogICAgICAgICAgICB9OwoK</text>
+        <text>add phone-numbers lib support because of the screwiness of how cll-services references stuff. update CLL nuget</text>
       </register>
       <register name=":" type="4">
         <text>$</text>
