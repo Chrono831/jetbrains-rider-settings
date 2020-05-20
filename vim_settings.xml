@@ -80,11 +80,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" timestamp="1589991294941">
-        <mark key="[" line="69" column="94" />
-        <mark key="]" line="69" column="99" />
-        <mark key="." line="69" column="98" />
-        <mark key="^" line="69" column="99" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" timestamp="1589993249368">
+        <mark key="[" line="73" column="58" />
+        <mark key="]" line="73" column="68" />
+        <mark key="." line="73" column="67" />
+        <mark key="^" line="73" column="68" />
       </file>
       <file name="/Dummy.txt" timestamp="1589992333849">
         <mark key="[" line="0" column="0" />
@@ -116,12 +116,12 @@
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/CollegiateLinkLegacy.sln" timestamp="1589301299121">
         <mark key="'" line="188" column="14" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Instance.cshtml" timestamp="1589992238876">
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Instance.cshtml" timestamp="1589993210086">
         <mark key="'" line="102" column="122" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="32" />
+        <mark key="[" line="76" column="53" />
+        <mark key="]" line="76" column="53" />
         <mark key="^" line="80" column="28" />
-        <mark key="." line="79" column="32" />
+        <mark key="." line="76" column="53" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_AddressInfoExistingInstance.cshtml" timestamp="1589984149173">
         <mark key="[" line="0" column="0" />
@@ -146,9 +146,9 @@
         <mark key="[" line="183" column="0" />
         <mark key="]" line="183" column="44" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationExistingInstance.cshtml" timestamp="1589990952097">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationExistingInstance.cshtml" timestamp="1589993100475">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="83" />
         <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/LocationSummary.jQueryTemplate.cshtml" timestamp="1589977654191">
@@ -329,8 +329,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text>split out various templates into partials</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -366,28 +366,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9sYWJlbD4=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Location</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGVuZERhdGVFbGVtZW50ID0gcGFyZW50RWxlbWVudC5nZXRFbGVtZW50c0J5Q2xhc3NOYW1lKCdpbnN0YW5jZS1lbmREYXRlJykuaXRlbSgwKS5xdWVyeVNlbGVjdG9yKCdpbnB1dCcpOwogICAgICAgICAgICAgICAgY29uc3QgZW5kVGltZUVsZW1lbnQgPSBwYXJlbnRFbGVtZW50LmdldEVsZW1lbnRzQnlDbGFzc05hbWUoJ2luc3RhbmNlLWVuZFRpbWUnKS5pdGVtKDApLnF1ZXJ5U2VsZWN0b3IoJ2lucHV0Jyk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">SW5zdGFuY2VzW0BNb2RlbC5JbmRleF1fVGVhcmRvd25NaW51dGVzIj4=</text>
       </register>
       <register name="1" type="2">
-        <text>split out various templates into partials</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBmb3I9Ikluc3RhbmNlc1tATW9kZWwuSW5kZXhdX1NldHVwTWludXRlcyIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text>split out various templates into partials</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXY+Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXY+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1806,11 +1806,11 @@
           <key char="68" code="0" mods="0" />
         </keys>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0ic2V0dXBNaW51dGVzXyR7aW5kZXh9Ij5TZXR1cCBNaW51dGVz</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXY+Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0ic2V0dXBNaW51dGVzXyR7aW5kZXh9Ij5TZXR1cCBNaW51dGVz</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1851,10 +1851,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAKmluc3RydWN0aW9ucyB3aGVuIHJlc2VydmF0aW9uIGlzIGNob3NlbipACg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
