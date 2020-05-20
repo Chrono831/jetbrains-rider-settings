@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Default</entry>
         <entry>Defaults</entry>
         <entry>Error</entry>
         <entry>error</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxnZXRTZWxlY3RlZFJvb21OYW1lXD4=</entry>
         <entry encoding="base64">XDxwYXJlbnRFbGVtZW50XD4=</entry>
         <entry>Location</entry>
+        <entry encoding="base64">XDxsb2NhdGlvblN1bW1hcnlFbGVtZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1704</entry>
@@ -80,13 +80,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" timestamp="1589993249368">
-        <mark key="[" line="73" column="58" />
-        <mark key="]" line="73" column="68" />
-        <mark key="." line="73" column="67" />
-        <mark key="^" line="73" column="68" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" timestamp="1589994013772">
+        <mark key="[" line="74" column="65" />
+        <mark key="]" line="74" column="73" />
+        <mark key="." line="74" column="72" />
+        <mark key="^" line="74" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589992333849">
+      <file name="/Dummy.txt" timestamp="1589994185097">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -116,24 +116,24 @@
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/CollegiateLinkLegacy.sln" timestamp="1589301299121">
         <mark key="'" line="188" column="14" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Instance.cshtml" timestamp="1589993210086">
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Instance.cshtml" timestamp="1589993996130">
         <mark key="'" line="102" column="122" />
         <mark key="[" line="76" column="53" />
-        <mark key="]" line="76" column="53" />
-        <mark key="^" line="80" column="28" />
-        <mark key="." line="76" column="53" />
+        <mark key="]" line="76" column="82" />
+        <mark key="^" line="76" column="84" />
+        <mark key="." line="76" column="83" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_AddressInfoExistingInstance.cshtml" timestamp="1589984149173">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="78" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" timestamp="1589991762646">
-        <mark key="'" line="48" column="51" />
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="9" column="37" />
-        <mark key="^" line="9" column="37" />
-        <mark key="." line="9" column="36" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" timestamp="1589994156935">
+        <mark key="'" line="77" column="18" />
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="26" column="21" />
+        <mark key="^" line="27" column="84" />
+        <mark key="." line="26" column="21" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationAddressExistingInstance.cshtml" timestamp="1589984158054">
         <mark key="[" line="1" column="0" />
@@ -185,8 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="24" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/App.Submitter.csproj" />
-      <jump line="242" column="63" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/App.Submitter.csproj" />
       <jump line="245" column="24" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/App.Submitter.csproj" />
       <jump line="817" column="24" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
       <jump line="827" column="45" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" />
@@ -285,6 +283,8 @@
       <jump line="98" column="37" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Instance.cshtml" />
       <jump line="99" column="41" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Instance.cshtml" />
       <jump line="102" column="122" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Instance.cshtml" />
+      <jump line="15" column="26" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" />
+      <jump line="72" column="18" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -329,8 +329,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text>add to InstanceProperties.cshtml, remove id, needs formatting</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -366,28 +366,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>Location</text>
+        <text encoding="base64">XDxsb2NhdGlvblN1bW1hcnlFbGVtZW50XD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">SW5zdGFuY2VzW0BNb2RlbC5JbmRleF1fVGVhcmRvd25NaW51dGVzIj4=</text>
+        <text encoding="base64">ZWRpdFRlYXJkb3duTWludXRlc0VsZW1lbnQg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBmb3I9Ikluc3RhbmNlc1tATW9kZWwuSW5kZXhdX1NldHVwTWludXRlcyIK</text>
+        <text>add to InstanceProperties.cshtml, remove id, needs formatting</text>
       </register>
       <register name="2" type="2">
-        <text>split out various templates into partials</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBlZGl0VGVhcmRvd25NaW51dGVzRWxlbWVudCA9IHBhcmVudEVsZW1lbnQuZ2V0RWxlbWVudHNCeUNsYXNzTmFtZSgnaW5zdGFuY2UtdGVhcmRvd24tbWludXRlcycpLml0ZW0oMCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBlZGl0U2V0dXBNaW51dGVzRWxlbWVudCA9IHBhcmVudEVsZW1lbnQuZ2V0RWxlbWVudHNCeUNsYXNzTmFtZSgnaW5zdGFuY2Utc2V0dXAtbWludXRlcycpLml0ZW0oMCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1807,10 +1807,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0ic2V0dXBNaW51dGVzXyR7aW5kZXh9Ij5TZXR1cCBNaW51dGVz</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHRlcm5hbExvY2F0aW9uQWRkcmVzczEudmFsdWUgPSAnICc7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1851,10 +1851,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBleHRlcm5hbExvY2F0aW9uQWRkcmVzczEgPSBwYXJlbnRFbGVtZW50LmdldEVsZW1lbnRzQnlDbGFzc05hbWUoJ2FkZHJlc3MxJykuaXRlbSgwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text>added setup/teardown to Instance.cshtml</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1863,12 +1863,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Location</last-search>
+      <last-search encoding="base64">XDxsb2NhdGlvblN1bW1hcnlFbGVtZW50XD4=</last-search>
       <last-offset />
-      <last-pattern>Location</last-pattern>
+      <last-pattern encoding="base64">XDxsb2NhdGlvblN1bW1hcnlFbGVtZW50XD4=</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
