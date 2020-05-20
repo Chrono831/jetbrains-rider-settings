@@ -80,7 +80,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" timestamp="1589984258168">
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" timestamp="1589986253352">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
@@ -91,13 +91,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="23" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptions.cshtml" timestamp="1587999769527">
-        <mark key="'" line="140" column="28" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="135" column="18" />
-        <mark key="^" line="128" column="23" />
-        <mark key="." line="131" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Admin/App.Admin/App.Admin.csproj" timestamp="1589300676011">
         <mark key="[" line="36" column="17" />
@@ -121,14 +114,19 @@
         <mark key="]" line="0" column="78" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationSearchResults.jQueryTemplate.cshtml" timestamp="1589985893355">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="23" column="9" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/CollegiateLinkLegacy.sln" timestamp="1589301299121">
         <mark key="'" line="188" column="14" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Instance.cshtml" timestamp="1589984680042">
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="^" line="134" column="38" />
-        <mark key="." line="136" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Instance.cshtml" timestamp="1589985905502">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="^" line="136" column="45" />
+        <mark key="." line="137" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_AddressInfoExistingInstance.cshtml" timestamp="1589984149173">
         <mark key="[" line="0" column="0" />
@@ -169,7 +167,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="44" column="1" />
       </file>
-      <file name="/Instance.cshtml" timestamp="1589984394572" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_TemplateUpload.jQueryTemplate.cshtml" timestamp="1589985836406">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="24" column="9" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationNewInstance.cshtml" timestamp="1589978004369">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -327,7 +329,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">PCEtLSBkcmFnIGRyb3AgaGVscCBpbnN0cnVjdGlvbnMgZm9yIGZseWVyIC0tPgo8c2NyaXB0IGlkPSJkcmFnRHJvcEhlbHAtdGVtcGxhdGUiIHR5cGU9InRleHQveC1qcXVlcnktdG1wbCI+CiAgICB7e2lmIHN1cHBvcnRlZH19CiAgICA8ZGl2IGNsYXNzPSJkcmFnRmx5ZXJNb2JpbGUiPgogICAgICAgIDxkaXYgc3R5bGU9ImNvbG9yOnJnYigyMDQsMjA0LDIwNCk7Zm9udC1zaXplOjIwcHQ7cGFkZGluZzoxMHB4OyI+RHJhZyBDb3ZlciBQaG90byBoZXJlPC9kaXY+CiAgICAgICAgPGRpdiBzdHlsZT0iY29sb3I6cmdiKDIwNCwyMDQsMjA0KTtmb250LXNpemU6MTNwdDtwYWRkaW5nOjEwcHg7Ij5PciwgaWYgeW91IHByZWZlcjwvZGl2PgogICAgPC9kaXY+CiAgICB7ey9pZn19Cjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -363,28 +365,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>TemplateUpload</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJlbnRFbGVtZW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QHsgSHRtbC5SZW5kZXJQYXJ0aWFsKCJfTG9jYXRpb25TdW1tYXJ5LmpRdWVyeVRlbXBsYXRlIik7IH0K</text>
+        <text encoding="base64">QHsgSHRtbC5SZW5kZXJQYXJ0aWFsKCJfVGVtcGxhdGVVcGxvYWQualF1ZXJ5VGVtcGxhdGUiKTsgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCEtLSBkcmFnIGRyb3AgaGVscCBpbnN0cnVjdGlvbnMgZm9yIGZseWVyIC0tPgo8c2NyaXB0IGlkPSJkcmFnRHJvcEhlbHAtdGVtcGxhdGUiIHR5cGU9InRleHQveC1qcXVlcnktdG1wbCI+CiAgICB7e2lmIHN1cHBvcnRlZH19CiAgICA8ZGl2IGNsYXNzPSJkcmFnRmx5ZXJNb2JpbGUiPgogICAgICAgIDxkaXYgc3R5bGU9ImNvbG9yOnJnYigyMDQsMjA0LDIwNCk7Zm9udC1zaXplOjIwcHQ7cGFkZGluZzoxMHB4OyI+RHJhZyBDb3ZlciBQaG90byBoZXJlPC9kaXY+CiAgICAgICAgPGRpdiBzdHlsZT0iY29sb3I6cmdiKDIwNCwyMDQsMjA0KTtmb250LXNpemU6MTNwdDtwYWRkaW5nOjEwcHg7Ij5PciwgaWYgeW91IHByZWZlcjwvZGl2PgogICAgPC9kaXY+CiAgICB7ey9pZn19Cjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLSBzdW1tYXJ5IG9mIHNlbGVjdGVkIGxvY2F0aW9uIGFuZCB0b2dnbGVzLiAtLT4KPHNjcmlwdCBpZD0ibG9jYXRpb24tc3VtbWFyeSIgdHlwZT0idGV4dC94LWpxdWVyeS10bXBsIj4KICAgIDxkaXYgY2xhc3M9ImxvY2F0aW9uLW5hbWUiPiR7bG9jYXRpb25OYW1lfTwvZGl2PgogICAgPGRpdiBjbGFzcz0ibG9jYXRpb24tYWRkcmVzcyI+JHthZGRyZXNzfTwvZGl2Pgo8L3NjcmlwdD4K</text>
+        <text encoding="base64">PCEtLXRlbXBsYXRlIHVzZWQgYnkgbG9jYXRpb24gaW5saW5lIHNlYXJjaCAoaWYgZW5hYmxlZCktLT4KPHNjcmlwdCBpZD0ibG9jYXRpb24tc2VhcmNoUmVzdWx0cy10ZW1wbGF0ZSIgdHlwZT0idGV4dC94LWpxdWVyeS10bXBsIj4KICAgIDxkaXYge3tpZiBJbWFnZXMubGVuZ3RofX0gY2xhc3M9Imhhc0ltYWdlIiB7ey9pZn19PgogICAgICAgIHt7aWYgSW1hZ2VzLmxlbmd0aH19CiAgICAgICAge3tlYWNoIEltYWdlc319CiAgICAgICAge3tpZiAkaW5kZXggPT0gMH19CiAgICAgICAgPGRpdiBjbGFzcz0iaW5saW5lU2VhcmNoLXJlc3VsdC1pbWFnZSBsb2NhdGlvbi1pbWFnZSI+CiAgICAgICAgICAgIDxpbWcgYWx0PSIiIHNyYz0iJHtUaHVtYm5haWxJbWFnZVVybH0iIC8+CiAgICAgICAgPC9kaXY+CiAgICAgICAge3svaWZ9fQogICAgICAgIHt7L2VhY2h9fQogICAgICAgIHt7L2lmfX0KICAgICAgICA8ZGl2IGNsYXNzPSJpbmxpbmVTZWFyY2gtcmVzdWx0LWluZm8iPgogICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgPHN0cm9uZz4ke05hbWV9PC9zdHJvbmc+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICB7e2lmIFBhcmVudE5hbWV9fQogICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgPGVtPiR7UGFyZW50TmFtZX08L2VtPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAge3svaWZ9fQogICAgICAgIDwvZGl2PgogICAgPC9kaXY+Cjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCEtLSBmbHllciBwcmV2aWV3IC0tPgo8c2NyaXB0IGlkPSJ0ZW1wbGF0ZS11cGxvYWQiIHR5cGU9InRleHQveC1qcXVlcnktdG1wbCI+CiAgICA8ZGl2IGNsYXNzPSJmaWxlVXBsb2FkLXBob3RvIHRlbXBsYXRlLXVwbG9hZHt7aWYgZXJyb3J9fSB1aS1zdGF0ZS1lcnJvcnt7L2lmfX0iIGRhdGEtdXBsb2FkQ29udGFpbmVySWQ9InVwbG9hZENvbnRhaW5lciI+CiAgICAgICAgPGRpdj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0icHJldmlldyI+PC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9Im5hbWUiPiR7YmFzZUZpbGVOYW1lfTwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICAgIHt7aWYgZXJyb3J9fQogICAgICAgIDxkaXYgY2xhc3M9ImVycm9yIiBjb2xzcGFuPSIxIiBzdHlsZT0iY29sb3I6IHJlZDsiPgogICAgICAgICAgICA8c3Ryb25nPkVycm9yIDogPC9zdHJvbmc+CiAgICAgICAgICAgIHt7aWYgZXJyb3IgPT09ICdtYXhGaWxlU2l6ZSd9fUZpbGUgZXhjZWVkcyBtYXhpbXVtIHVwbG9hZCBzaXplCiAgICAgICAgICAgIHt7ZWxzZSBlcnJvciA9PT0gJ21pbkZpbGVTaXplJ319RmlsZSBpcyB0b28gc21hbGwKICAgICAgICAgICAge3tlbHNlIGVycm9yID09PSAnYWNjZXB0RmlsZVR5cGVzJ319SW52YWxpZCBmaWxlIHR5cGUKICAgICAgICAgICAge3tlbHNlIGVycm9yID09PSAnbWF4TnVtYmVyT2ZGaWxlcyd9fU1heGltdW0gbnVtYmVyIG9mIGZpbGVzIGV4Y2VlZGVkCiAgICAgICAgICAgIHt7ZWxzZX19JHtlcnJvcn0KICAgICAgICAgICAge3svaWZ9fQogICAgICAgIDwvZGl2PgogICAgICAgIHt7L2lmfX0KICAgICAgICA8ZGl2IGNsYXNzPSJmaWxlVXBsb2FkLW1hbmFnZSBtYW5hZ2VmaWxldXBsb2FkIj4KICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImNhbmNlbCI+CiAgICAgICAgICAgICAgICA8YSBjbGFzcz0iaWNvbi1jbG9zZSBkZWxldGUiIGhyZWY9ImphdmFzY3JpcHQ6OyIgdGl0bGU9IkNhbmNlbCI+PC9hPgogICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KPC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCEtLSBkcmFnIGRyb3AgaGVscCBpbnN0cnVjdGlvbnMgZm9yIGZseWVyIC0tPgo8c2NyaXB0IGlkPSJkcmFnRHJvcEhlbHAtdGVtcGxhdGUiIHR5cGU9InRleHQveC1qcXVlcnktdG1wbCI+CiAgICB7e2lmIHN1cHBvcnRlZH19CiAgICA8ZGl2IGNsYXNzPSJkcmFnRmx5ZXJNb2JpbGUiPgogICAgICAgIDxkaXYgc3R5bGU9ImNvbG9yOnJnYigyMDQsMjA0LDIwNCk7Zm9udC1zaXplOjIwcHQ7cGFkZGluZzoxMHB4OyI+RHJhZyBDb3ZlciBQaG90byBoZXJlPC9kaXY+CiAgICAgICAgPGRpdiBzdHlsZT0iY29sb3I6cmdiKDIwNCwyMDQsMjA0KTtmb250LXNpemU6MTNwdDtwYWRkaW5nOjEwcHg7Ij5PciwgaWYgeW91IHByZWZlcjwvZGl2PgogICAgPC9kaXY+CiAgICB7ey9pZn19Cjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCEtLSBzdW1tYXJ5IG9mIHNlbGVjdGVkIGxvY2F0aW9uIGFuZCB0b2dnbGVzLiAtLT4KPHNjcmlwdCBpZD0ibG9jYXRpb24tc3VtbWFyeSIgdHlwZT0idGV4dC94LWpxdWVyeS10bXBsIj4KICAgIDxkaXYgY2xhc3M9ImxvY2F0aW9uLW5hbWUiPiR7bG9jYXRpb25OYW1lfTwvZGl2PgogICAgPGRpdiBjbGFzcz0ibG9jYXRpb24tYWRkcmVzcyI+JHthZGRyZXNzfTwvZGl2Pgo8L3NjcmlwdD4K</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1804,7 +1806,7 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1848,10 +1850,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyIGV4dGVybmFsTG9jYXRpb24gPSAiSW5zdGFuY2VzWyIrJHtpbmRleH0rIl0uRXh0ZXJuYWxMb2NhdGlvbiI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">QHsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -1860,12 +1862,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwYXJlbnRFbGVtZW50XD4=</last-search>
+      <last-search>Location</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJlbnRFbGVtZW50XD4=</last-pattern>
+      <last-pattern>Location</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
