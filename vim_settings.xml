@@ -5,13 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>error</entry>
-        <entry>_eventService.GetEve</entry>
-        <entry encoding="base64">XDxpbnN0YW5jZXNPcHRpb25zXD4=</entry>
-        <entry encoding="base64">XDx0aFw+</entry>
-        <entry>init</entry>
-        <entry encoding="base64">XDxpbnN0YW5jZXNPcHRpb25zVXJsXD4=</entry>
-        <entry encoding="base64">XDxpbnN0YW5jZU9wdGlvbnNVcmxcPg==</entry>
         <entry>@</entry>
         <entry>-cancel</entry>
         <entry>YouTube</entry>
@@ -24,6 +17,13 @@
         <entry>Location</entry>
         <entry encoding="base64">XDxsb2NhdGlvblN1bW1hcnlFbGVtZW50XD4=</entry>
         <entry encoding="base64">XDxJbnN0YW5jZXNcPg==</entry>
+        <entry encoding="base64">XDxhZGRPbmxpbmVMb2NhdGlvbkJ1dHRvbkNsaWNrSGFuZGxlclw+</entry>
+        <entry encoding="base64">XDxvbmxpbmVMb2NhdGlvbkNsaWNrQ2FuY2VsSGFuZGxlclw+</entry>
+        <entry encoding="base64">XDxvbmxpbmVMb2NhdGlvbkNsaWNrU2F2ZUhhbmRsZXJcPg==</entry>
+        <entry encoding="base64">XDxvbmxpbmVMb2NhdGlvbkRpc3BsYXlFbGVtZW50Q29udGFpbmVyVmlzaWJpbGl0eVw+</entry>
+        <entry>.value</entry>
+        <entry>OnlineLo</entry>
+        <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry encoding="base64">XDxPbmxpbmVMb2NhdGlvbkVuYWJsZWRcPg==</entry>
       </history-search>
       <history-cmd>
@@ -45,8 +45,8 @@
         <entry>$</entry>
         <entry>)</entry>
         <entry>0</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -80,7 +80,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590076918050">
+      <file name="/Dummy.txt" timestamp="1590517961450">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -91,12 +91,12 @@
         <mark key="]" line="8" column="9" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" timestamp="1590003016835">
-        <mark key="'" line="1064" column="25" />
-        <mark key="[" line="1171" column="87" />
-        <mark key="]" line="1171" column="88" />
-        <mark key="." line="1171" column="88" />
-        <mark key="^" line="1165" column="16" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" timestamp="1590517888616">
+        <mark key="'" line="1080" column="25" />
+        <mark key="[" line="519" column="0" />
+        <mark key="]" line="519" column="0" />
+        <mark key="." line="519" column="0" />
+        <mark key="^" line="715" column="101" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationAddressNewInstance.cshtml" timestamp="1589983897000">
         <mark key="[" line="0" column="0" />
@@ -126,6 +126,13 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationInstanceScript.cshtml" timestamp="1590174970178">
+        <mark key="'" line="9" column="89" />
+        <mark key="[" line="15" column="51" />
+        <mark key="]" line="15" column="51" />
+        <mark key="." line="15" column="51" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Models/EventSubmission/EditEventSubmissionModel.cs" timestamp="1590517439512" />
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" timestamp="1589977214908">
         <mark key="'" line="868" column="45" />
         <mark key="[" line="183" column="0" />
@@ -170,47 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="327" column="159" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
-      <jump line="350" column="71" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
-      <jump line="395" column="47" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
-      <jump line="397" column="44" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
-      <jump line="769" column="16" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
-      <jump line="588" column="55" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
-      <jump line="15" column="13" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
-      <jump line="581" column="48" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
-      <jump line="690" column="17" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" />
-      <jump line="706" column="27" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" />
-      <jump line="716" column="79" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" />
-      <jump line="751" column="35" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" />
-      <jump line="776" column="35" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" />
-      <jump line="12" column="19" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
-      <jump line="116" column="48" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
-      <jump line="114" column="62" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
-      <jump line="126" column="62" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
-      <jump line="483" column="12" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
-      <jump line="9" column="16" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" />
-      <jump line="92" column="20" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_InlineSearchChange.cshtml" />
-      <jump line="91" column="20" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_InlineSearchChange.cshtml" />
-      <jump line="99" column="20" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_InlineSearchChange.cshtml" />
-      <jump line="184" column="56" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_InlineSearchChangeAndCreate.cshtml" />
-      <jump line="3" column="16" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" />
-      <jump line="66" column="28" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" />
-      <jump line="59" column="28" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" />
-      <jump line="65" column="25" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" />
-      <jump line="63" column="16" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" />
-      <jump line="4" column="28" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" />
-      <jump line="0" column="0" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" />
-      <jump line="25" column="16" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsChangeAndCreate.cshtml" />
-      <jump line="20" column="54" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" />
-      <jump line="78" column="46" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" />
-      <jump line="75" column="47" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsChangeAndCreate.cshtml" />
-      <jump line="99" column="56" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
-      <jump line="37" column="36" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" />
-      <jump line="39" column="79" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" />
-      <jump line="38" column="79" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" />
-      <jump line="50" column="16" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" />
-      <jump line="48" column="16" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" />
-      <jump line="53" column="12" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptionsEdit.cshtml" />
       <jump line="141" column="28" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LocationOptions.cshtml" />
       <jump line="22" column="18" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/CollegiateLinkLegacy.sln" />
       <jump line="24" column="74" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/CollegiateLinkLegacy.sln" />
@@ -249,14 +215,10 @@
       <jump line="15" column="26" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" />
       <jump line="72" column="18" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" />
       <jump line="1058" column="47" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
-      <jump line="727" column="44" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
       <jump line="558" column="35" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
-      <jump line="554" column="51" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
       <jump line="1095" column="51" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
       <jump line="1088" column="16" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
       <jump line="1085" column="43" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
-      <jump line="1062" column="47" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
-      <jump line="729" column="44" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
       <jump line="560" column="35" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
       <jump line="556" column="51" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
       <jump line="549" column="51" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
@@ -265,11 +227,56 @@
       <jump line="511" column="43" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
       <jump line="1097" column="51" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
       <jump line="731" column="25" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
-      <jump line="551" column="33" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
-      <jump line="513" column="25" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
       <jump line="1170" column="22" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
       <jump line="1087" column="25" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
       <jump line="1064" column="25" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="3" column="18" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationInstanceScript.cshtml" />
+      <jump line="46" column="87" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationInstanceScript.cshtml" />
+      <jump line="7" column="18" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationInstanceScript.cshtml" />
+      <jump line="49" column="90" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationInstanceScript.cshtml" />
+      <jump line="13" column="18" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationInstanceScript.cshtml" />
+      <jump line="52" column="88" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationInstanceScript.cshtml" />
+      <jump line="31" column="20" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationInstanceScript.cshtml" />
+      <jump line="81" column="21" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationInstanceScript.cshtml" />
+      <jump line="38" column="21" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationInstanceScript.cshtml" />
+      <jump line="10" column="101" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationInstanceScript.cshtml" />
+      <jump line="14" column="119" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationInstanceScript.cshtml" />
+      <jump line="22" column="143" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationInstanceScript.cshtml" />
+      <jump line="25" column="48" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationInstanceScript.cshtml" />
+      <jump line="28" column="52" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationInstanceScript.cshtml" />
+      <jump line="83" column="119" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationInstanceScript.cshtml" />
+      <jump line="84" column="139" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationInstanceScript.cshtml" />
+      <jump line="9" column="89" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationInstanceScript.cshtml" />
+      <jump line="1100" column="41" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="1148" column="39" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="1169" column="68" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="727" column="53" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="777" column="18" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="747" column="0" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="774" column="12" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="1062" column="25" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="1068" column="12" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="1166" column="12" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="554" column="33" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="715" column="16" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="729" column="25" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="773" column="18" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="1060" column="25" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="1066" column="22" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="1083" column="25" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="1144" column="18" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="1165" column="22" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="514" column="25" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="551" column="141" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="550" column="111" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="532" column="12" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="530" column="16" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="1057" column="25" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="726" column="25" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="547" column="33" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="513" column="25" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="1162" column="22" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="1080" column="25" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -314,8 +321,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwuUm9vbVJlc2VydmF0aW9uQ29tcG9uZW50VmVyc2lvbiA9CiAgICAgICAgICAgICAgICBfbGF1bmNoRGFya2x5Q2xpZW50LlN0cmluZ1ZhcmlhdGlvbigicm9vbS1yZXNlcnZhdGlvbi5jb21wb25lbnQtdmVyc2lvbiIsIHVzZXIsICJmYWxzZSIpOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -357,22 +364,22 @@
         <text encoding="base64">XDxPbmxpbmVMb2NhdGlvbkVuYWJsZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcGlSb290OiAnQEVuZ2FnZUhlbHBlci5FbmdhZ2VMaW5rKFVybCwgIlJvb21SZXNlcnZhdGlvbnM6T3JnYW5pemF0aW9uOkFwaVJvb3QiLCBNb2RlbC5Hcm91cC5XZWJzaXRlS2V5KScsCiAgICAgICAgICAgICAgICAgICAgc3RhcnREYXRlRWxlbWVudDogc3RhcnREYXRlRWxlbWVudCwKICAgICAgICAgICAgICAgICAgICBzdGFydFRpbWVFbGVtZW50OiBzdGFydFRpbWVFbGVtZW50LAogICAgICAgICAgICAgICAgICAgIGVuZERhdGVFbGVtZW50OiBlbmREYXRlRWxlbWVudCwKICAgICAgICAgICAgICAgICAgICBlbmRUaW1lRWxlbWVudDogZW5kVGltZUVsZW1lbnQsCiAgICAgICAgICAgICAgICAgICAgc2V0dXBNaW51dGVzRWxlbWVudDogc2V0dXBNaW51dGVzRWxlbWVudCwKICAgICAgICAgICAgICAgICAgICB0ZWFyZG93bk1pbnV0ZXNFbGVtZW50OiB0ZWFyZG93bk1pbnV0ZXNFbGVtZW50LAogICAgICAgICAgICAgICAgICAgIHNlbGVjdGVkUm9vbUVsZW1lbnQ6IHNlbGVjdGVkUm9vbUVsZW1lbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwuUm9vbVJlc2VydmF0aW9uQ29tcG9uZW50VmVyc2lvbiA9IF9sYXVuY2hEYXJrbHlDbGllbnQuU3RyaW5nVmFyaWF0aW9uKCJyb29tLXJlc2VydmF0aW9uLmNvbXBvbmVudC12ZXJzaW9uIiwgdXNlciwgImZhbHNlIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwuUm9vbVJlc2VydmF0aW9uQ29tcG9uZW50VmVyc2lvbiA9CiAgICAgICAgICAgICAgICBfbGF1bmNoRGFya2x5Q2xpZW50LlN0cmluZ1ZhcmlhdGlvbigicm9vbS1yZXNlcnZhdGlvbi5jb21wb25lbnQtdmVyc2lvbiIsIHVzZXIsICJmYWxzZSIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByb29tUmVzZXJ2YXRpb25Db21wb25lbnRFbGVtZW50LmNsYXNzTGlzdC5yZW1vdmUoJ2luc3RhbmNlLXJvb20tcmVzZXJ2YXRpb24tY29tcG9uZW50Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlld01vZGVsLk9ubGluZUxvY2F0aW9uc0VuYWJsZWQgPSBfbGF1bmNoRGFya2x5Q2xpZW50LkJvb2xWYXJpYXRpb24oIm9ubGluZS1sb2NhdGlvbnMiLCB1c2VyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL3Jvb21SZXNlcnZhdGlvbkNvbXBvbmVudEVsZW1lbnQuY2xhc3NMaXN0LmFkZCgnc2hvdy1lZGl0LWJ1dHRvbi1jbGFzcy1uYW1lJyk7CiAgICAgICAgICAgICAgICAgICAgLy8nd2hlbi1yb29tLXJlc2VydmF0aW9uLXNlbGVjdGVkLXNob3cnCiAgICAgICAgICAgICAgICAgICAgLy8nd2hlbi1yb29tLXJlc2VydmF0aW9uLXNlbGVjdGVkLWhpZGUnCiAgICAgICAgICAgICAgICAgICAgLy8nd2hlbi1tYW51YWwtbG9jYXRpb24tc2VsZWN0ZWQtc2hvdycKICAgICAgICAgICAgICAgICAgICAvLyd3aGVuLW1hbnVhbC1sb2NhdGlvbi1zZWxlY3RlZC1oaWRlJwogICAgICAgICAgICAgICAgICAgIC8vJ3doZW4tb25saW5lLWxvY2F0aW9uLXNlbGVjdGVkLXNob3cnCiAgICAgICAgICAgICAgICAgICAgLy8nd2hlbi1vbmxpbmUtbG9jYXRpb24tc2VsZWN0ZWQtaGlkZScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwuT25saW5lTG9jYXRpb25zRW5hYmxlZCA9IF9sYXVuY2hEYXJrbHlDbGllbnQuQm9vbFZhcmlhdGlvbigib25saW5lLWxvY2F0aW9ucyIsIHVzZXIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text>add to InstanceProperties.cshtml, remove id, needs formatting</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwuT25saW5lTG9jYXRpb25zRW5hYmxlZCA9IF9sYXVuY2hEYXJrbHlDbGllbnQuQm9vbFZhcmlhdGlvbigib25saW5lLWxvY2F0aW9ucyIsIHVzZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1792,10 +1799,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBlZGl0VGVhcmRvd25NaW51dGVzRWxlbWVudCA9IHBhcmVudEVsZW1lbnQuZ2V0RWxlbWVudHNCeUNsYXNzTmFtZSgnaW5zdGFuY2UtdGVhcmRvd24tbWludXRlcycpLml0ZW0oMCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBlZGl0U2V0dXBNaW51dGVzRWxlbWVudCA9IHBhcmVudEVsZW1lbnQuZ2V0RWxlbWVudHNCeUNsYXNzTmFtZSgnaW5zdGFuY2Utc2V0dXAtbWludXRlcycpLml0ZW0oMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9ubGluZUxvY2F0aW9uc0VuYWJsZWQgPSBfbGF1bmNoRGFya2x5Q2xpZW50LkJvb2xWYXJpYXRpb24oIm9ubGluZS1sb2NhdGlvbnMiLCB1c2VyKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1836,13 +1843,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwuUm9vbVJlc2VydmF0aW9uQ29tcG9uZW50VmVyc2lvbiA9CiAgICAgICAgICAgICAgICBfbGF1bmNoRGFya2x5Q2xpZW50LlN0cmluZ1ZhcmlhdGlvbigicm9vbS1yZXNlcnZhdGlvbi5jb21wb25lbnQtdmVyc2lvbiIsIHVzZXIsICJmYWxzZSIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
