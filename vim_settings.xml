@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>campuslabs.jquery</entry>
-        <entry>campuslabs.core4.angular-b</entry>
-        <entry>campuslabs.core4.angular</entry>
         <entry>campuslabs.kendoui.custom</entry>
         <entry>cl.organization.fin</entry>
         <entry>core</entry>
@@ -25,6 +22,9 @@
         <entry>script</entry>
         <entry>CoreCdn</entry>
         <entry encoding="base64">XDxDb3JlQ2RuXD4=</entry>
+        <entry>SVG</entry>
+        <entry>com\/</entry>
+        <entry>action-center</entry>
       </history-search>
       <history-cmd>
         <entry>1704</entry>
@@ -75,6 +75,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -102,8 +105,8 @@
         <mark key="'" line="90" column="18" />
         <mark key="^" line="64" column="20" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" timestamp="1590678164765">
-        <mark key="'" line="332" column="5" />
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" timestamp="1590680181949">
+        <mark key="'" line="15" column="26" />
         <mark key="[" line="329" column="0" />
         <mark key="]" line="330" column="138" />
         <mark key="^" line="330" column="127" />
@@ -114,14 +117,14 @@
         <mark key="]" line="59" column="20" />
         <mark key="." line="59" column="20" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Shared/Group.Master" timestamp="1590679222373">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Shared/Group.Master" timestamp="1590680156265">
+        <mark key="'" line="17" column="61" />
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="^" line="17" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590679370703">
+      <file name="/Dummy.txt" timestamp="1590680806705">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -151,12 +154,12 @@
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" timestamp="1590679031368">
-        <mark key="'" line="33" column="23" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="137" />
-        <mark key="^" line="101" column="0" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" timestamp="1590680781508">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="134" column="63" />
+        <mark key="]" line="134" column="63" />
+        <mark key="^" line="41" column="100" />
+        <mark key="." line="134" column="63" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationInstanceScript.cshtml" timestamp="1590174970178">
         <mark key="'" line="9" column="89" />
@@ -188,35 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="125" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="41" column="125" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="42" column="127" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="43" column="115" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="44" column="54" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="45" column="138" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="46" column="120" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="47" column="116" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="48" column="133" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="49" column="153" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="50" column="128" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="51" column="113" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="53" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="2" column="96" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="33" column="96" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="3" column="110" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="7" column="82" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="52" column="73" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="62" column="82" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="63" column="73" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="64" column="73" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="65" column="73" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="66" column="73" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="167" column="23" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" />
-      <jump line="470" column="20" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" />
-      <jump line="1339" column="50" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" />
-      <jump line="587" column="37" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" />
-      <jump line="480" column="39" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" />
-      <jump line="552" column="22" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" />
       <jump line="215" column="22" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" />
       <jump line="329" column="54" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" />
       <jump line="339" column="75" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" />
@@ -267,8 +241,6 @@
       <jump line="467" column="75" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" />
       <jump line="469" column="29" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" />
       <jump line="24" column="0" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
-      <jump line="98" column="41" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
-      <jump line="33" column="23" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
       <jump line="0" column="0" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
       <jump line="37" column="80" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
       <jump line="69" column="72" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
@@ -288,6 +260,37 @@
       <jump line="34" column="37" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreateFundingRequest.aspx" />
       <jump line="18" column="8" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Shared/Group.Master" />
       <jump line="2" column="0" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Shared/Group.Master" />
+      <jump line="143" column="14" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="41" column="93" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="42" column="89" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="43" column="89" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="44" column="89" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="45" column="89" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="46" column="89" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="47" column="89" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="48" column="89" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="49" column="89" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="50" column="89" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="51" column="89" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="52" column="89" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="75" column="67" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="91" column="43" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="98" column="35" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="99" column="89" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="118" column="45" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="130" column="45" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="131" column="72" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="134" column="52" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="33" column="89" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="35" column="89" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="36" column="89" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="37" column="89" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="38" column="89" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="39" column="89" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="14" column="13" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Shared/Group.Master" />
+      <jump line="17" column="61" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Shared/Group.Master" />
+      <jump line="15" column="26" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
+      <jump line="30" column="0" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -332,8 +335,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text>kill files</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -369,19 +372,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb3JlQ2RuXD4=</text>
+        <text>action-center</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB1dSAgICAuL3NoYXJlZC9kaXJlY3RpdmVzLmpzCg==</text>
       </register>
       <register name="1" type="2">
-        <text>kill files</text>
+        <text>reformat</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>kill files</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1866,12 +1869,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxDb3JlQ2RuXD4=</last-search>
+      <last-search>action-center</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb3JlQ2RuXD4=</last-pattern>
+      <last-pattern>action-center</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
