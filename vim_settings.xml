@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b29sc1w+</entry>
         <entry encoding="base64">XDxhamF4XD4=</entry>
         <entry encoding="base64">XDxDb25maXJtRGlhbG9nXD4=</entry>
         <entry encoding="base64">XDxGbGFzaFw+</entry>
@@ -25,9 +24,9 @@
         <entry encoding="base64">XDxpbml0aWFsaXplUm9vbVJlc2VydmF0aW9uQXZhaWxhYmxlUm9vbVNlYXJjaEluc3RhbmNlXD4=</entry>
         <entry encoding="base64">XDxyYWRpb1NlbGVjdGVkQ2xhc3NOYW1lXD4=</entry>
         <entry encoding="base64">XDxleGlzdGluZ1Jvb21SZXNlcnZhdGlvblw+</entry>
+        <entry>clear</entry>
       </history-search>
       <history-cmd>
-        <entry>10</entry>
         <entry>100</entry>
         <entry>45</entry>
         <entry>245</entry>
@@ -46,6 +45,7 @@
         <entry>50</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>34</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -83,12 +83,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" timestamp="1590766267680">
-        <mark key="'" line="12" column="8" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="72" />
-        <mark key="^" line="114" column="32" />
-        <mark key="." line="114" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" timestamp="1590767439951">
+        <mark key="'" line="117" column="25" />
+        <mark key="[" line="203" column="85" />
+        <mark key="]" line="203" column="85" />
+        <mark key="^" line="107" column="83" />
+        <mark key="." line="203" column="85" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Views/Shared/_ChromeLayout.cshtml" timestamp="1590764052834">
         <mark key="[" line="183" column="0" />
@@ -111,12 +111,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" timestamp="1590766291695">
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" timestamp="1590767036674">
         <mark key="'" line="139" column="16" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="88" column="48" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="53" column="16" />
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" timestamp="1590684333271">
         <mark key="'" line="15" column="26" />
@@ -168,6 +168,13 @@
         <mark key="]" line="97" column="109" />
         <mark key="." line="97" column="103" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Instance.cshtml" timestamp="1590767431068">
+        <mark key="'" line="98" column="25" />
+        <mark key="[" line="220" column="53" />
+        <mark key="]" line="220" column="89" />
+        <mark key="." line="119" column="35" />
+        <mark key="^" line="119" column="36" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" timestamp="1590684349702">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="99" column="125" />
@@ -203,8 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="16" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" />
-      <jump line="85" column="18" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" />
       <jump line="126" column="16" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" />
       <jump line="102" column="18" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" />
       <jump line="125" column="16" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" />
@@ -303,6 +308,8 @@
       <jump line="13" column="8" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" />
       <jump line="16" column="67" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" />
       <jump line="12" column="8" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" />
+      <jump line="98" column="25" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Instance.cshtml" />
+      <jump line="117" column="25" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -347,8 +354,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c2V0IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -384,28 +391,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">c2V0IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleGlzdGluZ1Jvb21SZXNlcnZhdGlvblw+</text>
+        <text>clear</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBASHRtbC5SYXcoZXhpc3RpbmdSb29tUmVzZXJ2YXRpb24gPyAiZGlzYWJsZWQiIDogIiIpCg==</text>
+      <register name="0" type="4">
+        <text>instance-location-summary-container h</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5wdXQuc2V0QXR0cmlidXRlKCd0YWJpbmRleCcsICctMScpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5wdXQucmVtb3ZlQXR0cmlidXRlKCd0YWJpbmRleCcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9mb3IgZWFjaCBpbnN0YW5jZQogICAgICAgICAgICAvLyAgaWYgcm9vbS1yZXNldmV0YXRpb24gaGFzIGEgdmFsdWUKICAgICAgICAgICAgLy8gICAgcGFyc2UgdGhhdCBpbnRvIHNldHVwL3RlYXJkb3duCiAgICAgICAgICAgIC8vICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text>update all the refs in the base files, remove duplicate script loading in _LoadScripts.cshtml</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSIvL0BDb25maWd1cmF0aW9uTWFuYWdlci5BcHBTZXR0aW5nc1siQ0xTdGF0aWNIb3N0Il0vYWN0aW9uLWNlbnRlci9jc3MvYWN0aW9uLWNlbnRlci5jc3MiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9mb3IgZWFjaCBpbnN0YW5jZQogICAgICAgICAgICAvLyAgaWYgcm9vbS1yZXNldmV0YXRpb24gaGFzIGEgdmFsdWUKICAgICAgICAgICAgLy8gICAgcGFyc2UgdGhhdCBpbnRvIHNldHVwL3RlYXJkb3duCiAgICAgICAgICAgIC8vICBpZiAK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1825,10 +1832,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text>reformat add one new JS ref</text>
+        <text>update all the refs in the base files, remove duplicate script loading in _LoadScripts.cshtml</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0IGNyb3Nzb3JpZ2luIHNyYz0iaHR0cHM6Ly9zdGF0aWMuY2FtcHVzbGFic2VuZ2FnZS5jb20vbGVnYWN5L3N2Zy9tYWluL2RhdGVwaWNrZXJsb2NhbGl6YXRpb25vdmVycmlkZXMuanM/dj0xLjAiIHR5cGU9InRleHQvamF2YXNjcmlwdCI+PC9zY3JpcHQ+CgogICAgICAgIDxzY3JpcHQgY3Jvc3NvcmlnaW4gc3JjPSJodHRwczovL3N0YXRpYy5jYW1wdXNsYWJzZW5nYWdlLmNvbS9sZWdhY3kvbGlicy9qcXVlcnkvanF1ZXJ5LmZvcm0uanM/dj0xLjAiIHR5cGU9InRleHQvamF2YXNjcmlwdCI+PC9zY3JpcHQ+CiAgICAgICAgPHNjcmlwdCBjcm9zc29yaWdpbiBzcmM9Imh0dHBzOi8vc3RhdGljLmNhbXB1c2xhYnNlbmdhZ2UuY29tL2xlZ2FjeS9saWJzL2pxdWVyeS9qcXVlcnkuc2hvcnRlbi4xLjAuanM/dj0xLjAiIHR5cGU9InRleHQvamF2YXNjcmlwdCI+PC9zY3JpcHQ+CiAgICAgICAgPHNjcmlwdCBjcm9zc29yaWdpbiBzcmM9Imh0dHBzOi8vc3RhdGljLmNhbXB1c2xhYnNlbmdhZ2UuY29tL2xlZ2FjeS9saWJzL2pxdWVyeS9qcXVlcnkudG1wbC5qcz92PTEuMCIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4KICAgICAgICA8c2NyaXB0IGNyb3Nzb3JpZ2luIHNyYz0iaHR0cHM6Ly9zdGF0aWMuY2FtcHVzbGFic2VuZ2FnZS5jb20vbGVnYWN5L2xpYnMvanF1ZXJ5L2pxdWVyeS50b29scy5taW4uanM/dj0xLjAiIHR5cGU9InRleHQvamF2YXNjcmlwdCI+PC9zY3JpcHQ+CiAgICAgICAgPHNjcmlwdCBjcm9zc29yaWdpbiBzcmM9Imh0dHBzOi8vc3RhdGljLmNhbXB1c2xhYnNlbmdhZ2UuY29tL2xlZ2FjeS9jb2xsZWdpYXRlbGluay5hamF4LmpzP3Y9MS4wIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgoKICAgICAgICA8c2NyaXB0IGNyb3Nzb3JpZ2luIHNyYz0iaHR0cHM6Ly9zdGF0aWMuY2FtcHVzbGFic2VuZ2FnZS5jb20vbGVnYWN5L3N2Zy9tYWluL1NWRy5qcz92PTEuMCIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4KICAgICAgICA8c2NyaXB0IGNyb3Nzb3JpZ2luIHNyYz0iaHR0cHM6Ly9zdGF0aWMuY2FtcHVzbGFic2VuZ2FnZS5jb20vbGVnYWN5L3N2Zy9tYWluL1NWRy5Db25maXJtRGlhbG9nLmpzP3Y9MS4wIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgogICAgICAgIDxzY3JpcHQgY3Jvc3NvcmlnaW4gc3JjPSJodHRwczovL3N0YXRpYy5jYW1wdXNsYWJzZW5nYWdlLmNvbS9sZWdhY3kvc3ZnL21haW4vU1ZHLkZsYXNoLmpzP3Y9MS4wIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgogICAgICAgIDxzY3JpcHQgY3Jvc3NvcmlnaW4gc3JjPSJodHRwczovL3N0YXRpYy5jYW1wdXNsYWJzZW5nYWdlLmNvbS9sZWdhY3kvc3ZnL21haW4vU1ZHLkFqYXhMb2FkaW5nLmpzP3Y9MS4wIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgogICAgICAgIDxzY3JpcHQgY3Jvc3NvcmlnaW4gc3JjPSJodHRwczovL3N0YXRpYy5jYW1wdXNsYWJzZW5nYWdlLmNvbS9sZWdhY3kvc3ZnL21haW4vU1ZHLkRyb3BEb3duLmpzP3Y9MS4wIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgogICAgICAgIDxzY3JpcHQgY3Jvc3NvcmlnaW4gc3JjPSJodHRwczovL3N0YXRpYy5jYW1wdXNsYWJzZW5nYWdlLmNvbS9sZWdhY3kvc3ZnL21haW4vdG9nZ2xlLmpzP3Y9MS4wIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgogICAgICAgIDxzY3JpcHQgY3Jvc3NvcmlnaW4gc3JjPSJodHRwczovL3N0YXRpYy5jYW1wdXNsYWJzZW5nYWdlLmNvbS9sZWdhY3kvc3ZnL21haW4vbWFpbi5qcz92PTEuMCIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4KICAgICAgICA8c2NyaXB0IGNyb3Nzb3JpZ2luIHNyYz0iaHR0cHM6Ly9zdGF0aWMuY2FtcHVzbGFic2VuZ2FnZS5jb20vbGVnYWN5L3N2Zy9tYWluL1NWRy5DdXN0b21WYWxpZGF0aW9uLmpzP3Y9MS4wIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgogICAgICAgIDxzY3JpcHQgY3Jvc3NvcmlnaW4gc3JjPSJodHRwczovL3N0YXRpYy5jYW1wdXNsYWJzZW5nYWdlLmNvbS9sZWdhY3kvc3ZnL21haW4vTWFzdGVyUGFnZS5qcz92PTEuMCIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4KICAgICAgICA8c2NyaXB0IGNyb3Nzb3JpZ2luIHNyYz0iaHR0cHM6Ly9zdGF0aWMuY2FtcHVzbGFic2VuZ2FnZS5jb20vbGVnYWN5L3N2Zy9tYWluL2NvbGxlZ2lhdGVsaW5rLmRhdGFncmlkLmpzP3Y9MS4wIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgogICAgICAgIDxzY3JpcHQgY3Jvc3NvcmlnaW4gc3JjPSJodHRwczovL3N0YXRpYy5jYW1wdXNsYWJzZW5nYWdlLmNvbS9sZWdhY3kvY29sbGVnaWF0ZWxpbmsuZ3JpZENvbmZpcm0uanM/dj0xLjAiIHR5cGU9InRleHQvamF2YXNjcmlwdCI+PC9zY3JpcHQ+CiAgICAgICAgPHNjcmlwdCBjcm9zc29yaWdpbiBzcmM9Imh0dHBzOi8vc3RhdGljLmNhbXB1c2xhYnNlbmdhZ2UuY29tL2xlZ2FjeS9jb2xsZWdpYXRlbGluay5wcm9qZWN0VGFraW5nLmpzP3Y9MS4wIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSIvL0BDb25maWd1cmF0aW9uTWFuYWdlci5BcHBTZXR0aW5nc1siQ0xTdGF0aWNIb3N0Il0vYWN0aW9uLWNlbnRlci9jc3MvYWN0aW9uLWNlbnRlci5jc3MiPgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1869,10 +1876,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0IGNyb3Nzb3JpZ2luIHNyYz0iaHR0cHM6Ly9zdGF0aWMuY2FtcHVzbGFic2VuZ2FnZS5jb20vbGVnYWN5L3N2Zy9tYWluL2RhdGVwaWNrZXJsb2NhbGl6YXRpb25vdmVycmlkZXMuanM/dj0xLjAiIHR5cGUgPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgoKICAgICAgICA8c2NyaXB0IGNyb3Nzb3JpZ2luIHNyYz0iaHR0cHM6Ly9zdGF0aWMuY2FtcHVzbGFic2VuZ2FnZS5jb20vbGVnYWN5L2xpYnMvanF1ZXJ5L2pxdWVyeS5mb3JtLmpzP3Y9MS4wIiB0eXBlID0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4KICAgICAgICA8c2NyaXB0IGNyb3Nzb3JpZ2luIHNyYz0iaHR0cHM6Ly9zdGF0aWMuY2FtcHVzbGFic2VuZ2FnZS5jb20vbGVnYWN5L2xpYnMvanF1ZXJ5L2pxdWVyeS5zaG9ydGVuLjEuMC5qcz92PTEuMCIgdHlwZSA9InRleHQvamF2YXNjcmlwdCI+PC9zY3JpcHQ+CiAgICAgICAgPHNjcmlwdCBjcm9zc29yaWdpbiBzcmM9Imh0dHBzOi8vc3RhdGljLmNhbXB1c2xhYnNlbmdhZ2UuY29tL2xlZ2FjeS9saWJzL2pxdWVyeS9qcXVlcnkudG1wbC5qcz92PTEuMCIgdHlwZSA9InRleHQvamF2YXNjcmlwdCI+PC9zY3JpcHQ+CiAgICAgICAgPHNjcmlwdCBjcm9zc29yaWdpbiBzcmM9Imh0dHBzOi8vc3RhdGljLmNhbXB1c2xhYnNlbmdhZ2UuY29tL2xlZ2FjeS9saWJzL2pxdWVyeS9qcXVlcnkudG9vbHMubWluLmpzP3Y9MS4wIiB0eXBlID0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4KICAgICAgICA8c2NyaXB0IGNyb3Nzb3JpZ2luIHNyYz0iaHR0cHM6Ly9zdGF0aWMuY2FtcHVzbGFic2VuZ2FnZS5jb20vbGVnYWN5L2xpYnMvanF1ZXJ5L2pxdWVyeS51bm9idHJ1c2l2ZS1hamF4Lm1pbi5qcz92PTEuMCIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4KCiAgICAgICAgQENvcmVDZG4uR2V0QXBwSnMoImNsaW5rIiwgInN2Z01haW4iKQo=</text>
+        <text>reformat add one new JS ref</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgY3Jvc3NvcmlnaW4gc3JjPSJodHRwczovL3N0YXRpYy5jYW1wdXNsYWJzZW5nYWdlLmNvbS9sZWdhY3kvY29sbGVnaWF0ZWxpbmsucHJvamVjdFRha2luZy5qcz92PTEuMCIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0IGNyb3Nzb3JpZ2luIHNyYz0iaHR0cHM6Ly9zdGF0aWMuY2FtcHVzbGFic2VuZ2FnZS5jb20vbGVnYWN5L3N2Zy9tYWluL2RhdGVwaWNrZXJsb2NhbGl6YXRpb25vdmVycmlkZXMuanM/dj0xLjAiIHR5cGU9InRleHQvamF2YXNjcmlwdCI+PC9zY3JpcHQ+CgogICAgICAgIDxzY3JpcHQgY3Jvc3NvcmlnaW4gc3JjPSJodHRwczovL3N0YXRpYy5jYW1wdXNsYWJzZW5nYWdlLmNvbS9sZWdhY3kvbGlicy9qcXVlcnkvanF1ZXJ5LmZvcm0uanM/dj0xLjAiIHR5cGU9InRleHQvamF2YXNjcmlwdCI+PC9zY3JpcHQ+CiAgICAgICAgPHNjcmlwdCBjcm9zc29yaWdpbiBzcmM9Imh0dHBzOi8vc3RhdGljLmNhbXB1c2xhYnNlbmdhZ2UuY29tL2xlZ2FjeS9saWJzL2pxdWVyeS9qcXVlcnkuc2hvcnRlbi4xLjAuanM/dj0xLjAiIHR5cGU9InRleHQvamF2YXNjcmlwdCI+PC9zY3JpcHQ+CiAgICAgICAgPHNjcmlwdCBjcm9zc29yaWdpbiBzcmM9Imh0dHBzOi8vc3RhdGljLmNhbXB1c2xhYnNlbmdhZ2UuY29tL2xlZ2FjeS9saWJzL2pxdWVyeS9qcXVlcnkudG1wbC5qcz92PTEuMCIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4KICAgICAgICA8c2NyaXB0IGNyb3Nzb3JpZ2luIHNyYz0iaHR0cHM6Ly9zdGF0aWMuY2FtcHVzbGFic2VuZ2FnZS5jb20vbGVnYWN5L2xpYnMvanF1ZXJ5L2pxdWVyeS50b29scy5taW4uanM/dj0xLjAiIHR5cGU9InRleHQvamF2YXNjcmlwdCI+PC9zY3JpcHQ+CiAgICAgICAgPHNjcmlwdCBjcm9zc29yaWdpbiBzcmM9Imh0dHBzOi8vc3RhdGljLmNhbXB1c2xhYnNlbmdhZ2UuY29tL2xlZ2FjeS9jb2xsZWdpYXRlbGluay5hamF4LmpzP3Y9MS4wIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgoKICAgICAgICA8c2NyaXB0IGNyb3Nzb3JpZ2luIHNyYz0iaHR0cHM6Ly9zdGF0aWMuY2FtcHVzbGFic2VuZ2FnZS5jb20vbGVnYWN5L3N2Zy9tYWluL1NWRy5qcz92PTEuMCIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4KICAgICAgICA8c2NyaXB0IGNyb3Nzb3JpZ2luIHNyYz0iaHR0cHM6Ly9zdGF0aWMuY2FtcHVzbGFic2VuZ2FnZS5jb20vbGVnYWN5L3N2Zy9tYWluL1NWRy5Db25maXJtRGlhbG9nLmpzP3Y9MS4wIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgogICAgICAgIDxzY3JpcHQgY3Jvc3NvcmlnaW4gc3JjPSJodHRwczovL3N0YXRpYy5jYW1wdXNsYWJzZW5nYWdlLmNvbS9sZWdhY3kvc3ZnL21haW4vU1ZHLkZsYXNoLmpzP3Y9MS4wIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgogICAgICAgIDxzY3JpcHQgY3Jvc3NvcmlnaW4gc3JjPSJodHRwczovL3N0YXRpYy5jYW1wdXNsYWJzZW5nYWdlLmNvbS9sZWdhY3kvc3ZnL21haW4vU1ZHLkFqYXhMb2FkaW5nLmpzP3Y9MS4wIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgogICAgICAgIDxzY3JpcHQgY3Jvc3NvcmlnaW4gc3JjPSJodHRwczovL3N0YXRpYy5jYW1wdXNsYWJzZW5nYWdlLmNvbS9sZWdhY3kvc3ZnL21haW4vU1ZHLkRyb3BEb3duLmpzP3Y9MS4wIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgogICAgICAgIDxzY3JpcHQgY3Jvc3NvcmlnaW4gc3JjPSJodHRwczovL3N0YXRpYy5jYW1wdXNsYWJzZW5nYWdlLmNvbS9sZWdhY3kvc3ZnL21haW4vdG9nZ2xlLmpzP3Y9MS4wIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgogICAgICAgIDxzY3JpcHQgY3Jvc3NvcmlnaW4gc3JjPSJodHRwczovL3N0YXRpYy5jYW1wdXNsYWJzZW5nYWdlLmNvbS9sZWdhY3kvc3ZnL21haW4vbWFpbi5qcz92PTEuMCIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4KICAgICAgICA8c2NyaXB0IGNyb3Nzb3JpZ2luIHNyYz0iaHR0cHM6Ly9zdGF0aWMuY2FtcHVzbGFic2VuZ2FnZS5jb20vbGVnYWN5L3N2Zy9tYWluL1NWRy5DdXN0b21WYWxpZGF0aW9uLmpzP3Y9MS4wIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgogICAgICAgIDxzY3JpcHQgY3Jvc3NvcmlnaW4gc3JjPSJodHRwczovL3N0YXRpYy5jYW1wdXNsYWJzZW5nYWdlLmNvbS9sZWdhY3kvc3ZnL21haW4vTWFzdGVyUGFnZS5qcz92PTEuMCIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4KICAgICAgICA8c2NyaXB0IGNyb3Nzb3JpZ2luIHNyYz0iaHR0cHM6Ly9zdGF0aWMuY2FtcHVzbGFic2VuZ2FnZS5jb20vbGVnYWN5L3N2Zy9tYWluL2NvbGxlZ2lhdGVsaW5rLmRhdGFncmlkLmpzP3Y9MS4wIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgogICAgICAgIDxzY3JpcHQgY3Jvc3NvcmlnaW4gc3JjPSJodHRwczovL3N0YXRpYy5jYW1wdXNsYWJzZW5nYWdlLmNvbS9sZWdhY3kvY29sbGVnaWF0ZWxpbmsuZ3JpZENvbmZpcm0uanM/dj0xLjAiIHR5cGU9InRleHQvamF2YXNjcmlwdCI+PC9zY3JpcHQ+CiAgICAgICAgPHNjcmlwdCBjcm9zc29yaWdpbiBzcmM9Imh0dHBzOi8vc3RhdGljLmNhbXB1c2xhYnNlbmdhZ2UuY29tL2xlZ2FjeS9jb2xsZWdpYXRlbGluay5wcm9qZWN0VGFraW5nLmpzP3Y9MS4wIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1881,12 +1888,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxleGlzdGluZ1Jvb21SZXNlcnZhdGlvblw+</last-search>
+      <last-search>clear</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleGlzdGluZ1Jvb21SZXNlcnZhdGlvblw+</last-pattern>
+      <last-pattern>clear</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
