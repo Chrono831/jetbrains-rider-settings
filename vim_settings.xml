@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>campuslabs.kendoui.custom</entry>
         <entry>cl.organization.fin</entry>
         <entry>core</entry>
         <entry>core.bootstrap</entry>
@@ -25,6 +24,7 @@
         <entry>SVG</entry>
         <entry>com\/</entry>
         <entry>action-center</entry>
+        <entry encoding="base64">XDxjbGVhclNlbGVjdGlvbkVsZW1lbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1704</entry>
@@ -83,9 +83,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" timestamp="1590519389619">
-        <mark key="'" line="198" column="18" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Assets/clink/js/libs/ajaxupload.js" timestamp="1590666283120">
         <mark key="[" line="639" column="30" />
         <mark key="]" line="639" column="30" />
@@ -101,9 +98,9 @@
         <mark key="]" line="4" column="7579" />
         <mark key="." line="4" column="7579" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" timestamp="1590522131955">
-        <mark key="'" line="90" column="18" />
-        <mark key="^" line="64" column="20" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" timestamp="1590693792264">
+        <mark key="'" line="12" column="22" />
+        <mark key="^" line="91" column="20" />
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" timestamp="1590684333271">
         <mark key="'" line="15" column="26" />
@@ -191,8 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="22" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" />
-      <jump line="329" column="54" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" />
       <jump line="339" column="75" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" />
       <jump line="344" column="51" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" />
       <jump line="349" column="51" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" />
@@ -291,6 +286,8 @@
       <jump line="17" column="61" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Shared/Group.Master" />
       <jump line="15" column="26" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Finance/CreatePurchaseRequest.aspx" />
       <jump line="30" column="0" filename="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Views/Shared/Chrome.Master" />
+      <jump line="43" column="20" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" />
+      <jump line="12" column="22" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -375,7 +372,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>action-center</text>
+        <text encoding="base64">XDxjbGVhclNlbGVjdGlvbkVsZW1lbnRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>?v=1.0</text>
@@ -1869,12 +1866,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>action-center</last-search>
+      <last-search encoding="base64">XDxjbGVhclNlbGVjdGlvbkVsZW1lbnRcPg==</last-search>
       <last-offset />
-      <last-pattern>action-center</last-pattern>
+      <last-pattern encoding="base64">XDxjbGVhclNlbGVjdGlvbkVsZW1lbnRcPg==</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
