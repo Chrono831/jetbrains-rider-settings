@@ -17,7 +17,6 @@
         <entry>action-center</entry>
         <entry encoding="base64">XDxhZGRJbnN0YW5jZUJ1dHRvbkNsaWNrSGFuZGxlclw+</entry>
         <entry>setup</entry>
-        <entry encoding="base64">XDxzZXR1cE1pbnV0ZXNcPg==</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplUm9vbVJlc2VydmF0aW9uQXZhaWxhYmxlUm9vbVNlYXJjaEluc3RhbmNlXD4=</entry>
         <entry encoding="base64">XDxyYWRpb1NlbGVjdGVkQ2xhc3NOYW1lXD4=</entry>
         <entry>clear</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxSb29tUmVzZXJ2YXRpb25cPg==</entry>
         <entry encoding="base64">XDxleGlzdGluZ1Jvb21SZXNlcnZhdGlvblw+</entry>
         <entry encoding="base64">XDxyZWFkT25seUlmUm9vbVJlc2VydmF0aW9uUHJlc2VudFw+</entry>
+        <entry encoding="base64">XDxzZXR1cE1pbnV0ZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>100</entry>
@@ -44,8 +44,8 @@
         <entry>0</entry>
         <entry>50</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>34</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -83,19 +83,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" timestamp="1591120775598">
-        <mark key="'" line="60" column="20" />
-        <mark key="[" line="94" column="43" />
-        <mark key="]" line="94" column="43" />
-        <mark key="^" line="94" column="43" />
-        <mark key="." line="94" column="42" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/shared.css.cshtml" timestamp="1590757683246">
         <mark key="[" line="50" column="8" />
         <mark key="]" line="50" column="8" />
         <mark key="." line="50" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591120709501">
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/App.Submitter.csproj" timestamp="1591121924644">
+        <mark key="[" line="1055" column="63" />
+        <mark key="]" line="1055" column="112" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591121963801">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -114,27 +111,17 @@
         <mark key="." line="164" column="2" />
         <mark key="^" line="132" column="38" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Assets/clink/js/libs/ajaxupload.js" timestamp="1590666283120">
-        <mark key="[" line="639" column="30" />
-        <mark key="]" line="639" column="30" />
-        <mark key="." line="639" column="30" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/Shared/_GroupLayout.cshtml" timestamp="1590762723638">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="^" line="45" column="16" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Web.config" timestamp="1590677768251">
-        <mark key="'" line="469" column="29" />
-        <mark key="[" line="485" column="113" />
-        <mark key="]" line="485" column="113" />
-        <mark key="." line="485" column="113" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Assets/clink/js/libs/angular/angular-file-upload.min.js" timestamp="1590666238850">
-        <mark key="[" line="4" column="7579" />
-        <mark key="]" line="4" column="7579" />
-        <mark key="." line="4" column="7579" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" timestamp="1591121976733">
+        <mark key="[" line="220" column="86" />
+        <mark key="]" line="220" column="88" />
+        <mark key="." line="220" column="87" />
+        <mark key="^" line="220" column="88" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/shared.css" timestamp="1590757666453">
         <mark key="[" line="40" column="0" />
@@ -148,11 +135,11 @@
         <mark key="." line="97" column="103" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Instance.cshtml" timestamp="1590767431068">
-        <mark key="'" line="98" column="25" />
-        <mark key="[" line="220" column="53" />
-        <mark key="]" line="220" column="89" />
-        <mark key="." line="119" column="35" />
-        <mark key="^" line="119" column="36" />
+        <mark key="'" line="97" column="25" />
+        <mark key="[" line="219" column="53" />
+        <mark key="]" line="219" column="89" />
+        <mark key="." line="118" column="35" />
+        <mark key="^" line="118" column="36" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" timestamp="1590767036674">
         <mark key="'" line="139" column="16" />
@@ -189,17 +176,21 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="29" column="4" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" timestamp="1591121937876">
+        <mark key="[" line="190" column="27" />
+        <mark key="]" line="190" column="76" />
+        <mark key="." line="190" column="27" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_SharedCss.cshtml" timestamp="1590757292227">
         <mark key="[" line="460" column="7" />
         <mark key="]" line="460" column="8" />
         <mark key="^" line="460" column="8" />
         <mark key="." line="460" column="7" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Assets/clink/README.md" timestamp="1590678961582">
-        <mark key="[" line="89" column="1" />
-        <mark key="]" line="89" column="4" />
-        <mark key="^" line="12" column="7" />
-        <mark key="." line="89" column="4" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" timestamp="1591121931269">
+        <mark key="[" line="203" column="27" />
+        <mark key="]" line="203" column="76" />
+        <mark key="." line="203" column="27" />
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Finance/App.CC.Org.Finance/Areas/Organization/Views/Shared/Group.Master" timestamp="1590684263396">
         <mark key="'" line="17" column="61" />
@@ -210,8 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="20" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" />
-      <jump line="29" column="21" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" />
       <jump line="94" column="20" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" />
       <jump line="62" column="59" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" />
       <jump line="30" column="23" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationComponentScript.cshtml" />
@@ -310,6 +299,8 @@
       <jump line="112" column="30" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" />
       <jump line="12" column="8" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" />
       <jump line="60" column="20" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" />
+      <jump line="95" column="27" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" />
+      <jump line="103" column="196" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -354,8 +345,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -391,28 +382,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>) ? true : false;</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWFkT25seUlmUm9vbVJlc2VydmF0aW9uUHJlc2VudFw+</text>
+        <text encoding="base64">XDxzZXR1cE1pbnV0ZXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>instance-location-summary-container h</text>
+        <text>_RoomReservationAvailableRoomSearchComponentScript</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>it's at least not _worse_</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL1JPT00gUkVTRVJWQVRJT04gRkVBVFVSRSBFTkFCTEVECg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvL1JPT00gUkVTRVJWQVRJT04gRkVBVFVSRSBFTkFCTEVECg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEAqcm9vbXJlcyBzZXR1cC90ZWFyZG93biBpbnB1dHMqQAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>update action-center ref</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEAqcm9vbXJlcyBzZXR1cC90ZWFyZG93biBpbnB1dHMqQAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1832,10 +1823,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5wdXQuc2V0QXR0cmlidXRlKCd0YWJpbmRleCcsICctMScpCg==</text>
+        <text>update action-center ref</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5wdXQucmVtb3ZlQXR0cmlidXRlKCd0YWJpbmRleCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5wdXQuc2V0QXR0cmlidXRlKCd0YWJpbmRleCcsICctMScpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1876,7 +1867,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5wdXQucmVtb3ZlQXR0cmlidXRlKCd0YWJpbmRleCcpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -1888,9 +1879,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZWFkT25seUlmUm9vbVJlc2VydmF0aW9uUHJlc2VudFw+</last-search>
+      <last-search encoding="base64">XDxzZXR1cE1pbnV0ZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWFkT25seUlmUm9vbVJlc2VydmF0aW9uUHJlc2VudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxzZXR1cE1pbnV0ZXNcPg==</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>-1</last-dir>
