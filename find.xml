@@ -1,14 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'App.Submitter'" />
-    <option name="defaultScopeName" value="Project 'App.Submitter'" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'App.Submitter'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.cs</mask>
     <mask>*.js</mask>
+    <mask>*.cshtml</mask>
   </component>
 </application>
