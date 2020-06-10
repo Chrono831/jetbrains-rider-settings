@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVSb29tUmVzZXJ2YXRpb25BdmFpbGFiaWxpdHlDaGVja2VyXD4=</entry>
         <entry>forEach</entry>
         <entry>for</entry>
         <entry encoding="base64">XDxyb29tUmVzZXJ2YXRpb25Db21wb25lbnRWZXJzaW9uXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxIZWxwZXJzXD4=</entry>
         <entry>CDN</entry>
         <entry>Cdn</entry>
+        <entry encoding="base64">XDxoYW5kbGVSb29tUmVzZXJ2YXRpb25BdmFpbGFiaWxpdHlDaGVja2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>100</entry>
@@ -45,8 +45,8 @@
         <entry>0</entry>
         <entry>$</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>%d</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -128,12 +128,12 @@
         <mark key="^" line="151" column="112" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9A46F36A-A569-495B-BA93-5022FAC9F85D/5f/4900e724/IFreeTextPropertiesEditModel.cs" timestamp="1591790817350" />
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" timestamp="1591792481545">
-        <mark key="'" line="0" column="26" />
-        <mark key="[" line="316" column="0" />
-        <mark key="]" line="316" column="0" />
-        <mark key="^" line="208" column="153" />
-        <mark key="." line="316" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" timestamp="1591803100990">
+        <mark key="'" line="285" column="24" />
+        <mark key="[" line="18" column="52" />
+        <mark key="]" line="18" column="56" />
+        <mark key="^" line="18" column="56" />
+        <mark key="." line="18" column="55" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Instance.cshtml" timestamp="1591375222587">
         <mark key="'" line="132" column="100" />
@@ -174,8 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="20" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" />
-      <jump line="103" column="196" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" />
       <jump line="8" column="9" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Assets/clink/js/organization/eventsubmission/studentreview.js" />
       <jump line="250" column="76" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
       <jump line="300" column="19" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
@@ -274,6 +272,8 @@
       <jump line="325" column="19" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
       <jump line="316" column="31" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
       <jump line="0" column="26" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
+      <jump line="211" column="21" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
+      <jump line="285" column="24" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -318,8 +318,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -355,10 +355,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>initializeNewTimeAndPlaceInstance</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>Cdn</text>
+        <text encoding="base64">XDxoYW5kbGVSb29tUmVzZXJ2YXRpb25BdmFpbGFiaWxpdHlDaGVja2VyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICAgICAgICAgICAgICBwYXJlbnRFbGVtZW50LmdldEVsZW1lbnRzQnlDbGFzc05hbWUoJ2xvY2F0aW9uLW5hbWUnKVswXS5jaGlsZE5vZGVzWzBdLnRleHRDb250ZW50ID0gJyc7CiAgICAgICAgICAgICAgICBjb25zdCBuZXdSb29tRWxlbWVudEluc3RhbmNlID0gcGFyZW50RWxlbWVudC5nZXRFbGVtZW50c0J5Q2xhc3NOYW1lKCdpbnN0YW5jZS1yb29tLXJlc2VydmF0aW9uLWRldGFpbHMnKS5pdGVtKDApOwogICAgICAgICAgICAgICAgbmV3Um9vbUVsZW1lbnRJbnN0YW5jZS52YWx1ZSA9ICcnOwogICAgICAgICAgICAgICAgY29uc3QgbmV3TG9jYXRpb25OYW1lSW5zdGFuY2UgPSBwYXJlbnRFbGVtZW50LmdldEVsZW1lbnRzQnlDbGFzc05hbWUoJ2luc3RhbmNlLWxvY2F0aW9uTmFtZScpLml0ZW0oMCk7CiAgICAgICAgICAgICAgICBuZXdMb2NhdGlvbk5hbWVJbnN0YW5jZS52YWx1ZSA9ICcnOwo=</text>
@@ -1846,18 +1846,18 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VsZWN0ZWRSb29tVmFsdWVzLlNlbAo=</text>
       </register>
       <register name=":" type="4">
-        <text>%d</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Cdn</last-search>
+      <last-search encoding="base64">XDxoYW5kbGVSb29tUmVzZXJ2YXRpb25BdmFpbGFiaWxpdHlDaGVja2VyXD4=</last-search>
       <last-offset />
-      <last-pattern>Cdn</last-pattern>
+      <last-pattern encoding="base64">XDxoYW5kbGVSb29tUmVzZXJ2YXRpb25BdmFpbGFiaWxpdHlDaGVja2VyXD4=</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
