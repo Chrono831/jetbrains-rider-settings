@@ -83,13 +83,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" timestamp="1591819340870">
-        <mark key="[" line="104" column="110" />
-        <mark key="]" line="104" column="112" />
-        <mark key="." line="104" column="111" />
-        <mark key="^" line="104" column="112" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" timestamp="1591819852253">
+        <mark key="[" line="107" column="96" />
+        <mark key="]" line="107" column="96" />
+        <mark key="." line="107" column="96" />
+        <mark key="^" line="107" column="109" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591819113250">
+      <file name="/Dummy.txt" timestamp="1591819864935">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -336,8 +336,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text>the nightmare continues!</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -379,22 +379,22 @@
         <text encoding="base64">XDx0ZW1wU2V0dXBNaW51dGVzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">dGVtcFRlYXJkb3duTWludXRlcyAgIA==</text>
+        <text>teardownMinutes</text>
       </register>
       <register name="1" type="2">
-        <text>minor cleanup</text>
+        <text>the nightmare continues!</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgdGVhcmRvd25NaW51dGVzID0gcm9vbVJlc2VydmF0aW9uID09IG51bGwgPyAwIDogaW50LlBhcnNlKHJvb21SZXNlcnZhdGlvblsidGVhcmRvd25NaW51dGVzIl0pOwo=</text>
+        <text>...nope it wasn't the last time T_T</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWRkIEVycm9yLmNzaHRtbCBmaWxlIHRvIHRyeSBhbmQgZmlndXJlIG91dCB3aHkgaXQgbmVlZHMgaXQg</text>
+        <text>fix setup/teardown minutes parsing... hopefully for the last time</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>minor cleanup</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgdGVhcmRvd25NaW51dGVzID0gcm9vbVJlc2VydmF0aW9uID09IG51bGwgPyAwIDogaW50LlBhcnNlKHJvb21SZXNlcnZhdGlvblsidGVhcmRvd25NaW51dGVzIl0pOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1814,10 +1814,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text>update to allow for re-checking</text>
+        <text encoding="base64">YWRkIEVycm9yLmNzaHRtbCBmaWxlIHRvIHRyeSBhbmQgZmlndXJlIG91dCB3aHkgaXQgbmVlZHMgaXQg</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1861,7 +1861,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExheW91dCA9IG51bGw7Cg==</text>
+        <text>update to allow for re-checking</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
