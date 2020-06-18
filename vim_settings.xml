@@ -83,66 +83,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" timestamp="1591892238876">
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" timestamp="1592493352221">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="78" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Models/EventSubmission/CreateEventSubmissionModel.cs" timestamp="1591812964976">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="92" column="57" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" timestamp="1591893565682">
-        <mark key="'" line="922" column="16" />
-        <mark key="[" line="518" column="0" />
-        <mark key="]" line="518" column="0" />
-        <mark key="." line="518" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Edit.cshtml" timestamp="1591984042821">
-        <mark key="[" line="219" column="0" />
-        <mark key="]" line="219" column="0" />
-        <mark key="." line="219" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/CoverPhoto.cshtml" timestamp="1591889632206">
-        <mark key="'" line="254" column="28" />
-        <mark key="[" line="259" column="0" />
-        <mark key="]" line="259" column="28" />
-        <mark key="^" line="226" column="16" />
-        <mark key="." line="259" column="28" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Models/EventSubmission/CoverPhotoEventSubmissionModel.cs" timestamp="1591812972463">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="30" column="57" />
-        <mark key="^" line="25" column="8" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Models/EventSubmission/EventSubmissionSettingsModel.cs" timestamp="1591811477132">
-        <mark key="[" line="45" column="49" />
-        <mark key="]" line="45" column="16" />
-        <mark key="." line="45" column="15" />
-        <mark key="^" line="45" column="16" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" timestamp="1591881419496">
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="44" />
-        <mark key="." line="198" column="27" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Error.cshtml" timestamp="1591818325475">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="32" column="7" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Change.cshtml" timestamp="1591984117974" />
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationInstance.cshtml" timestamp="1591899450315">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="78" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1591983134798">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Models/EventSubmission/CreateEventSubmissionModel.cs" timestamp="1591812964976">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="92" column="57" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Models/EventSubmission/EventSubmissionReviewModel.cs" timestamp="1591812400566">
         <mark key="'" line="26" column="39" />
@@ -164,6 +117,19 @@
         <mark key="^" line="11" column="15" />
         <mark key="." line="11" column="14" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" timestamp="1591893565682">
+        <mark key="'" line="922" column="16" />
+        <mark key="[" line="518" column="0" />
+        <mark key="]" line="518" column="0" />
+        <mark key="." line="518" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/CoverPhoto.cshtml" timestamp="1591889632206">
+        <mark key="'" line="254" column="28" />
+        <mark key="[" line="259" column="0" />
+        <mark key="]" line="259" column="28" />
+        <mark key="^" line="226" column="16" />
+        <mark key="." line="259" column="28" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" timestamp="1591889486308">
         <mark key="'" line="328" column="24" />
         <mark key="[" line="329" column="0" />
@@ -171,12 +137,24 @@
         <mark key="^" line="333" column="56" />
         <mark key="." line="329" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Models/EventSubmission/CoverPhotoEventSubmissionModel.cs" timestamp="1591812972463">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="30" column="57" />
+        <mark key="^" line="25" column="8" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationInstanceScript.cshtml" timestamp="1591982515841">
         <mark key="'" line="35" column="64" />
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
         <mark key="^" line="30" column="21" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_LoadScripts.cshtml" timestamp="1592493680698" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Create.cshtml" timestamp="1591881419496">
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="44" />
+        <mark key="." line="198" column="27" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationAvailableRoomSearchComponentScript.cshtml" timestamp="1591983669607">
         <mark key="[" line="2" column="0" />
@@ -190,6 +168,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Error.cshtml" timestamp="1591818325475">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="32" column="7" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationInstance.cshtml" timestamp="1591899450315">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="78" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationEventInstanceStatusCheckerComponentScript.cshtml" timestamp="1592493642078" />
     </filemarks>
     <jumps>
       <jump line="209" column="18" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/CoverPhoto.cshtml" />
