@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWxlY3RlZFJvb21WYWx1ZXNcPg==</entry>
         <entry encoding="base64">XDxyb29tUmVzZXJ2YXRpb25zRW5hYmxlZFw+</entry>
         <entry encoding="base64">XDxyb29tUmVzZXJ2YXRpb25zVXNlZFw+</entry>
         <entry>manageEvent</entry>
@@ -25,6 +24,7 @@
         <entry>console</entry>
         <entry>instance</entry>
         <entry>Room</entry>
+        <entry>-details</entry>
       </history-search>
       <history-cmd>
         <entry>100</entry>
@@ -87,7 +87,7 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="78" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592496095284">
+      <file name="/Dummy.txt" timestamp="1592499041416">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -100,12 +100,12 @@
         <mark key="^" line="85" column="67" />
         <mark key="." line="85" column="66" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Views/Calendar/Details.aspx" timestamp="1592496951972">
-        <mark key="'" line="1291" column="79" />
-        <mark key="[" line="672" column="126" />
-        <mark key="]" line="672" column="126" />
-        <mark key="." line="672" column="126" />
-        <mark key="^" line="674" column="68" />
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Views/Calendar/Details.aspx" timestamp="1592498934417">
+        <mark key="'" line="638" column="65" />
+        <mark key="[" line="674" column="30" />
+        <mark key="]" line="674" column="33" />
+        <mark key="." line="674" column="32" />
+        <mark key="^" line="674" column="33" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" timestamp="1591893565682">
         <mark key="'" line="922" column="16" />
@@ -170,10 +170,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/471B5AF6-68C1-4C7F-9B61-FF6215CE86CD/31/f9987285/Event.cs" timestamp="1592497524599" />
     </filemarks>
     <jumps>
-      <jump line="314" column="54" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
-      <jump line="12" column="2" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DB113333-78FE-4E21-8043-DA4B54CF8F36/85/c7526b50/EventSubmissionInstance.cs" />
-      <jump line="993" column="51" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
-      <jump line="968" column="39" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
       <jump line="11" column="14" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DB113333-78FE-4E21-8043-DA4B54CF8F36/85/c7526b50/EventSubmissionInstance.cs" />
       <jump line="74" column="26" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DB113333-78FE-4E21-8043-DA4B54CF8F36/85/c7526b50/EventSubmissionInstance.cs" />
       <jump line="109" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DB113333-78FE-4E21-8043-DA4B54CF8F36/85/c7526b50/EventSubmissionInstance.cs" />
@@ -270,6 +266,10 @@
       <jump line="1291" column="79" filename="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Views/Calendar/Details.aspx" />
       <jump line="48" column="34" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Event.cs" />
       <jump line="52" column="12" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Event.cs" />
+      <jump line="865" column="72" filename="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Views/Calendar/Details.aspx" />
+      <jump line="1295" column="107" filename="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Views/Calendar/Details.aspx" />
+      <jump line="599" column="89" filename="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Views/Calendar/Details.aspx" />
+      <jump line="638" column="65" filename="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Views/Calendar/Details.aspx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -315,7 +315,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>span</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -351,28 +351,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>span</text>
       </register>
       <register name="/" type="4">
-        <text>Room</text>
+        <text>-details</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgY2xhc3M9InN1cGVyLWNvb2wtcm9vbS1yZXotY2xhc3MiIHZhbHVlPSI8JTogTW9kZWwuUm9vbVJlc2VydmF0aW9uICU+ICIgLz4K</text>
+      <register name="0" type="4">
+        <text encoding="base64">Um9vbVJlc2VydmF0aW9uIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvIGRpdj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iaW5zdGFuY2Utcm9vbS1yZXNlcnZhdGlvbi1zdGF0dXMtY2hlY2tlciI+PC9zcGFuPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9IjwlOiBNb2RlbC5PbmxpbmVMb2NhdGlvbiAlPiI+PCU6IE1vZGVsLk9ubGluZUxvY2F0aW9uICU+PC9hPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8JSBpZiAoIXN0cmluZy5Jc051bGxPckVtcHR5KE1vZGVsLlJvb21SZXNlcnZhdGlvbikpIHsgJT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgY2xhc3M9InN1cGVyLWNvb2wtcm9vbS1yZXotY2xhc3MiIHZhbHVlPSI8JTogTW9kZWwuUm9vbVJlc2VydmF0aW9uICU+IiAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwlIH0gZWxzZSB7ICU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXY+bW9kZWwtcm9vbS1yZXotZW1wdHktc3RyaW5nPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwlIH0gJT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJtZGwtbGlzdF9faXRlbS1zdWItdGl0bGUiPk9ubGluZSBMb2NhdGlvbjwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIiB7JnF1b3Q7aWQmcXVvdDs6JnF1b3Q7ZDg3MzhiZTctYWU5NS00YWZmLWI5ZjItMWE5YzliMTE5M2M0JnF1b3Q7LCZxdW90O25hbWUmcXVvdDs6JnF1b3Q7Um9vbSAxMDAmcXVvdDssJnF1b3Q7bGF5b3V0SWQmcXVvdDs6MTI0MjI4LCZxdW90O3NldHVwTWludXRlcyZxdW90Ozo1LCZxdW90O3RlYXJkb3duTWludXRlcyZxdW90Ozo2LCZxdW90O3N0YXJ0RGF0ZVRpbWUmcXVvdDs6JnF1b3Q7MjAyMC0wNi0xOFQxNjowMDowMC4wMDBaJnF1b3Q7LCZxdW90O2VuZERhdGVUaW1lJnF1b3Q7OiZxdW90OzIwMjAtMDYtMThUMTc6MDA6MDAuMDAwWiZxdW90OywmcXVvdDtwcm92aWRlclJvb21JZCZxdW90OzomcXVvdDs2MjY3JnF1b3Q7fSIgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ibGlzdC1pdGVtLWNvbnRlbnQiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1792,10 +1792,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vTEQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9IjwlOiBNb2RlbC5PbmxpbmVMb2NhdGlvbiAlPiI+PCU6IE1vZGVsLk9ubGluZUxvY2F0aW9uICU+PC9hPgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1836,10 +1836,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJtZGwtbGlzdF9faXRlbS1zdWItdGl0bGUiPk9ubGluZSBMb2NhdGlvbjwvc3Bhbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ibGlzdC1pdGVtLWNvbnRlbnQiPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1848,9 +1848,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Room</last-search>
+      <last-search>-details</last-search>
       <last-offset />
-      <last-pattern>Room</last-pattern>
+      <last-pattern>-details</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
