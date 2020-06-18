@@ -48,6 +48,15 @@
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
+          <option name="uri" value="https://campuslabs@dev.azure.com/campuslabs/CollegiateLink/_git/App.CC.Org.Events" />
+          <option name="serverUri" value="https://dev.azure.com/campuslabs" />
+          <option name="userId" value="d13fb9bc-f505-629a-a775-0741d9e12b6f" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;909a54c8-935e-49ac-ab57-07af054fbb58&quot;,&quot;name&quot;:&quot;campuslabs&quot;,&quot;url&quot;:&quot;https://dev.azure.com/campuslabs/_apis/projectCollections/909a54c8-935e-49ac-ab57-07af054fbb58&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;It's Pillar Time!&quot;,&quot;id&quot;:&quot;87cc3c4f-212d-421c-9d84-91abce1960aa&quot;,&quot;name&quot;:&quot;CollegiateLink&quot;,&quot;revision&quot;:418053660,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/campuslabs/_apis/projects/87cc3c4f-212d-421c-9d84-91abce1960aa&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;d3db7ea9-8681-4494-b873-1eb64ea19ae8&quot;,&quot;name&quot;:&quot;App.CC.Org.Events&quot;,&quot;remoteUrl&quot;:&quot;https://campuslabs@dev.azure.com/campuslabs/CollegiateLink/_git/App.CC.Org.Events&quot;,&quot;url&quot;:&quot;https://dev.azure.com/campuslabs/_apis/git/repositories/d3db7ea9-8681-4494-b873-1eb64ea19ae8&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;It's Pillar Time!&quot;,&quot;id&quot;:&quot;87cc3c4f-212d-421c-9d84-91abce1960aa&quot;,&quot;name&quot;:&quot;CollegiateLink&quot;,&quot;revision&quot;:418053660,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/campuslabs/_apis/projects/87cc3c4f-212d-421c-9d84-91abce1960aa&quot;}}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
           <option name="uri" value="https://campuslabs.visualstudio.com/DefaultCollection/CollegiateLink/_git/Collegiatelink.Legacy" />
           <option name="serverUri" value="https://campuslabs.visualstudio.com" />
           <option name="userId" value="d13fb9bc-f505-629a-a775-0741d9e12b6f" />
@@ -82,7 +91,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//campuslabs.visualstudio.com/defaultcollection/collegiatelink/_git/app.submitter" />
+          <option name="value" value="//campuslabs@dev.azure.com/campuslabs/collegiatelink/_git/app.cc.org.events" />
         </PropertyState>
       </array>
     </option>
