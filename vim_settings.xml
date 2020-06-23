@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxJbnN0YW5jZXNcPg==</entry>
         <entry encoding="base64">XDxvbmxpbmVMb2NhdGlvbk5hbWVcPg==</entry>
         <entry>console</entry>
         <entry>instance</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxkaXNwYXRjaEV2ZW50XD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVSb29tUmVzZXJ2YXRpb25BdmFpbGFiaWxpdHlDaGVja2VyXD4=</entry>
         <entry>Instances</entry>
+        <entry encoding="base64">XDxzZWxlY3RlZFJvb21WYWx1ZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>45</entry>
@@ -42,11 +42,11 @@
         <entry>%y</entry>
         <entry>%d</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>$</entry>
         <entry>.s/\\&quot;/&quot;/g</entry>
         <entry>q</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -116,12 +116,12 @@
         <mark key="]" line="734" column="46" />
         <mark key="." line="734" column="46" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" timestamp="1592927062499">
-        <mark key="'" line="14" column="40" />
-        <mark key="[" line="247" column="28" />
-        <mark key="]" line="242" column="26" />
-        <mark key="." line="242" column="24" />
-        <mark key="^" line="242" column="26" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" timestamp="1592927966574">
+        <mark key="'" line="244" column="68" />
+        <mark key="[" line="253" column="31" />
+        <mark key="]" line="253" column="32" />
+        <mark key="." line="253" column="32" />
+        <mark key="^" line="253" column="33" />
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Controllers/CalendarController.cs" timestamp="1592503807197">
         <mark key="'" line="224" column="16" />
@@ -168,7 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="8" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
       <jump line="286" column="21" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
       <jump line="243" column="12" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/CoverPhoto.cshtml" />
       <jump line="7" column="8" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/CoverPhoto.cshtml" />
@@ -268,6 +267,7 @@
       <jump line="307" column="28" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
       <jump line="3" column="93" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
       <jump line="14" column="40" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
+      <jump line="244" column="68" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -313,7 +313,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAvL3Jvb21SZXNlcnZhdGlvbkVsZW1lbnRzLmNyZWF0ZVByb3ZpZGVyRXZlbnQuZGlzcGF0Y2hFdmVudChuZXcgQ3VzdG9tRXZlbnQoJ2NyZWF0ZS1wcm92aWRlci1ldmVudCcpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coIEBIdG1sLlJhdyhKc29uQ29udmVydC5TZXJpYWxpemVPYmplY3Qoc2VsZWN0ZWRSb29tVmFsdWVzKSkgKTsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -349,28 +349,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
-        <text>Instances</text>
+        <text encoding="base64">XDxzZWxlY3RlZFJvb21WYWx1ZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAvL3Jvb21SZXNlcnZhdGlvbkVsZW1lbnRzLmNyZWF0ZVByb3ZpZGVyRXZlbnQuZGlzcGF0Y2hFdmVudChuZXcgQ3VzdG9tRXZlbnQoJ2NyZWF0ZS1wcm92aWRlci1ldmVudCcpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coIEBIdG1sLlJhdyhKc29uQ29udmVydC5TZXJpYWxpemVPYmplY3QoZGljdCkpICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAvL3Jvb21SZXNlcnZhdGlvbkVsZW1lbnRzLmNyZWF0ZVByb3ZpZGVyRXZlbnQuZGlzcGF0Y2hFdmVudChuZXcgQ3VzdG9tRXZlbnQoJ2NyZWF0ZS1wcm92aWRlci1ldmVudCcpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coIEBIdG1sLlJhdyhKc29uQ29udmVydC5TZXJpYWxpemVPYmplY3Qoc2VsZWN0ZWRSb29tVmFsdWVzKSkgKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAvL3Jvb21SZXNlcnZhdGlvbkVsZW1lbnRzLmNyZWF0ZVByb3ZpZGVyRXZlbnQuZGlzcGF0Y2hFdmVudChuZXcgQ3VzdG9tRXZlbnQoJ2NyZWF0ZS1wcm92aWRlci1ldmVudCcpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciByb29tSW5zdGFuY2VWYWx1ZXMgPSBsaXN0CiAgICAgICAgICAgICAgICAgICAgLlRvQXJyYXkoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygncm9vbVJlc2VydmF0aW9uRWxlbWVudHMuY3JlYXRlUHJvdmlkZXJFdmVudC5kaXNwYXRjaEV2ZW50KG5ldyBDdXN0b21FdmVudCgiY3JlYXRlLXByb3ZpZGVyLWV2ZW50IikpOycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuU2VsZWN0KHggPT4gKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vJCgnI3Jldmlldy1mb3JtJykuc3VibWl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAvL3Jvb21SZXNlcnZhdGlvbkVsZW1lbnRzLmNyZWF0ZVByb3ZpZGVyRXZlbnQuZGlzcGF0Y2hFdmVudChuZXcgQ3VzdG9tRXZlbnQoJ2NyZWF0ZS1wcm92aWRlci1ldmVudCcpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAvL3Jvb21SZXNlcnZhdGlvbkVsZW1lbnRzLmNyZWF0ZVByb3ZpZGVyRXZlbnQuZGlzcGF0Y2hFdmVudChuZXcgQ3VzdG9tRXZlbnQoJ2NyZWF0ZS1wcm92aWRlci1ldmVudCcpKTsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1790,10 +1790,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGF2YQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygncm9vbVJlc2VydmF0aW9uRWxlbWVudHMuY3JlYXRlUHJvdmlkZXJFdmVudC5kaXNwYXRjaEV2ZW50KG5ldyBDdXN0b21FdmVudCgiY3JlYXRlLXByb3ZpZGVyLWV2ZW50IikpOycpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCByb29tUmVzZXJ2YXRpb25DcmVhdGVQcm92aWRlckV2ZW50RWxlbWVudCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdSb29tUmVzZXJ2YXRpb25DcmVhdGVQcm92aWRlckV2ZW50Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vJCgnI3Jldmlldy1mb3JtJykuc3VibWl0KCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1833,32 +1833,25 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkaXYgaWQ9IlJvb21SZXNlcnZhdGlvbkNyZWF0ZVByb3ZpZGVyRXZlbnQiID48L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGF2YQo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Instances</last-search>
+      <last-search encoding="base64">XDxzZWxlY3RlZFJvb21WYWx1ZXNcPg==</last-search>
       <last-offset />
-      <last-pattern>Instances</last-pattern>
+      <last-pattern encoding="base64">XDxzZWxlY3RlZFJvb21WYWx1ZXNcPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>\\&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
