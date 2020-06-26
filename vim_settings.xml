@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxTdWJtaXRGb3JBcHByb3ZhbE1vZGVsXD4=</entry>
-        <entry encoding="base64">XDxSZXZpZXdcPg==</entry>
         <entry>Review</entry>
         <entry>Review(</entry>
         <entry>\\&quot;</entry>
@@ -25,6 +23,8 @@
         <entry>format</entry>
         <entry encoding="base64">XDxyb29tUmVzZXJ2YXRpb25zVXNlZFw+</entry>
         <entry encoding="base64">XDxSb29tUmVzZXJ2YXRpb25BdmFpbGFiaWxpdHlDaGVja2VyXD4=</entry>
+        <entry encoding="base64">XDxBenVyZVRvcGljTWVzc2FnZVw+</entry>
+        <entry encoding="base64">XDxDcmVhdGVGb3Jtc091dHB1dFRvcGljTWVzc2FnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>45</entry>
@@ -44,9 +44,9 @@
         <entry>wq</entry>
         <entry>$</entry>
         <entry>.s/\\&quot;/&quot;/g</entry>
-        <entry>0</entry>
         <entry>w</entry>
         <entry>q</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -87,11 +87,11 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="78" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593002374937">
+      <file name="/Dummy.txt" timestamp="1593191881635">
         <mark key="p" line="0" column="40" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="29" />
-        <mark key="." line="0" column="29" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="23" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Models/EventSubmission/CreateEventSubmissionModel.cs" timestamp="1592502715749">
@@ -111,11 +111,12 @@
         <mark key="." line="500" column="12" />
         <mark key="^" line="805" column="27" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" timestamp="1592932125807">
-        <mark key="'" line="1204" column="40" />
-        <mark key="[" line="1346" column="0" />
-        <mark key="]" line="1346" column="0" />
-        <mark key="." line="1346" column="0" />
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" timestamp="1593191166655">
+        <mark key="'" line="463" column="12" />
+        <mark key="[" line="540" column="75" />
+        <mark key="]" line="540" column="75" />
+        <mark key="^" line="540" column="85" />
+        <mark key="." line="540" column="75" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/CoverPhoto.cshtml" timestamp="1593096002694">
         <mark key="'" line="244" column="70" />
@@ -173,12 +174,12 @@
         <mark key="." line="133" column="19" />
         <mark key="^" line="133" column="20" />
       </file>
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Controllers/Base/BaseEventSubmissionReviewController.cs" timestamp="1593191499352">
+        <mark key="[" line="398" column="0" />
+        <mark key="]" line="421" column="56" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="48" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
-      <jump line="329" column="24" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
-      <jump line="330" column="20" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
-      <jump line="174" column="63" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
       <jump line="328" column="24" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" />
       <jump line="234" column="0" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/CoverPhoto.cshtml" />
       <jump line="204" column="62" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/CoverPhoto.cshtml" />
@@ -275,6 +276,10 @@
       <jump line="8" column="8" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/CoverPhoto.cshtml" />
       <jump line="252" column="25" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/CoverPhoto.cshtml" />
       <jump line="236" column="70" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/CoverPhoto.cshtml" />
+      <jump line="489" column="34" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="1415" column="12" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="485" column="21" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
+      <jump line="463" column="12" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,7 +325,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQ3JlYXRlZEJ5Q29tbXVuaXR5TWVtYmVySWQgPSBldmVudFN1Ym1pc3Npb24uQ3JlYXRvci5JZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1lc3NhZ2UgPSBuZXcgQXp1cmVUb3BpY01lc3NhZ2UoCiAgICAgICAgICAgICAgICBBenVyZVRvcGljLkZvcm1zLAogICAgICAgICAgICAgICAgbmV3IFN1Ym1pc3Npb25BcHByb3ZhbFN0YXR1c0JlY2FtZUFwcHJvdmVkCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgSGVhZGVycyA9IHsgeyAiSW5zdGl0dXRpb25JZCIsIGV2ZW50U3VibWlzc2lvbi5Db21tdW5pdHkuSW5zdGl0dXRpb25JZC5Ub1N0cmluZygpIH0gfSwKICAgICAgICAgICAgICAgICAgICBQYXlsb2FkID0gbmV3IFBpbGxhci5Gb3Jtcy5Db250cmFjdHMuTW9kZWxzLlN1Ym1pc3Npb24KICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIElkID0gZXZlbnRTdWJtaXNzaW9uLlN1Ym1pc3Npb25JZCA/PyBHdWlkLkVtcHR5LAogICAgICAgICAgICAgICAgICAgICAgICBBcHByb3ZlciA9IG5ldyBQaWxsYXIuRm9ybXMuQ29udHJhY3RzLk1vZGVscy5BY2NvdW50CiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFjY291bnRJZCA9IEd1aWQuUGFyc2UoX2NvbnRleHQuQ3VycmVudE1lbWJlci5BY2NvdW50SWQpCiAgICAgICAgICAgICAgICAgICAgICAgIH0sICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIEZvcm1UeXBlID0gRm9ybVR5cGUuRXZlbnRSZXF1ZXN0LAogICAgICAgICAgICAgICAgICAgICAgICBDb2xsZWdpYXRlTGlua0lkID0gZXZlbnRTdWJtaXNzaW9uLklkLAogICAgICAgICAgICAgICAgICAgICAgICBJc1Jlc3VibWlzc2lvbiA9IGV2ZW50U3VibWlzc2lvbi5UeXBlID09IEV2ZW50U3VibWlzc2lvblR5cGUuQ2hhbmdlUmVxdWVzdCwKICAgICAgICAgICAgICAgICAgICAgICAgU3RhdHVzID0gQXBwcm92YWxTdGF0dXMuQXBwcm92ZWQsCiAgICAgICAgICAgICAgICAgICAgICAgIFN1Ym1pdHRlZEJ5ID0gbmV3IFBpbGxhci5Gb3Jtcy5Db250cmFjdHMuTW9kZWxzLkFjY291bnQKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgQWNjb3VudElkID0gR3VpZC5QYXJzZShldmVudFN1Ym1pc3Npb24uQ3JlYXRvcj8uQWNjb3VudElkID8/IEd1aWQuRW1wdHkuVG9TdHJpbmcoKSkKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgX3RvcGljTWVzc2FnZUFnZ3JlZ2F0b3IuQWRkTWVzc2FnZShtZXNzYWdlKTsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -356,28 +361,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>EventSubmissionId</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSb29tUmVzZXJ2YXRpb25BdmFpbGFiaWxpdHlDaGVja2VyXD4=</text>
+        <text encoding="base64">XDxDcmVhdGVGb3Jtc091dHB1dFRvcGljTWVzc2FnZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBldmVudFN1Ym1pc3Npb24gPSBNb2RlbC5JbnN0YW5jZXMuRmlyc3RPckRlZmF1bHQoKS5FdmVudFN1Ym1pc3Npb247CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIHZhciByb29tUmVzZXJ2YXRpb25DcmVhdGVQcm92aWRlckV2ZW50c0RhdGEgPSBuZXcgewogICAgICAgICAgICAgICAgICAgIEV2ZW50U3VibWlzc2lvbiA9IG5ldyB7CiAgICAgICAgICAgICAgICAgICAgICAgIE5hbWUgPSBNb2RlbC5FdmVudE5hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgIElkID0gTW9kZWwuRXZlbnRTdWJtaXNzaW9uSWQsCiAgICAgICAgICAgICAgICAgICAgICAgIERlc2NyaXB0aW9uID0gZXZlbnRTdWJtaXNzaW9uLkRlc2NyaXB0aW9uLAogICAgICAgICAgICAgICAgICAgICAgICBDcmVhdGVkQnlDb21tdW5pdHlNZW1iZXJJZCA9IGV2ZW50U3VibWlzc2lvbi5DcmVhdG9yLklkCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICBJbnN0YW5jZXMgPSBpbnN0YW5jZXMuVG9BcnJheSgpCiAgICAgICAgICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1lc3NhZ2UgPSBuZXcgQXp1cmVUb3BpY01lc3NhZ2UoCiAgICAgICAgICAgICAgICBBenVyZVRvcGljLkZvcm1zLAogICAgICAgICAgICAgICAgbmV3IFN1Ym1pc3Npb25BcHByb3ZhbFN0YXR1c0JlY2FtZUFwcHJvdmVkCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgSGVhZGVycyA9IHsgeyAiSW5zdGl0dXRpb25JZCIsIGV2ZW50U3VibWlzc2lvbi5Db21tdW5pdHkuSW5zdGl0dXRpb25JZC5Ub1N0cmluZygpIH0gfSwKICAgICAgICAgICAgICAgICAgICBQYXlsb2FkID0gbmV3IFBpbGxhci5Gb3Jtcy5Db250cmFjdHMuTW9kZWxzLlN1Ym1pc3Npb24KICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIElkID0gZXZlbnRTdWJtaXNzaW9uLlN1Ym1pc3Npb25JZCA/PyBHdWlkLkVtcHR5LAogICAgICAgICAgICAgICAgICAgICAgICBBcHByb3ZlciA9IG5ldyBQaWxsYXIuRm9ybXMuQ29udHJhY3RzLk1vZGVscy5BY2NvdW50CiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFjY291bnRJZCA9IEd1aWQuUGFyc2UoX2NvbnRleHQuQ3VycmVudE1lbWJlci5BY2NvdW50SWQpCiAgICAgICAgICAgICAgICAgICAgICAgIH0sICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIEZvcm1UeXBlID0gRm9ybVR5cGUuRXZlbnRSZXF1ZXN0LAogICAgICAgICAgICAgICAgICAgICAgICBDb2xsZWdpYXRlTGlua0lkID0gZXZlbnRTdWJtaXNzaW9uLklkLAogICAgICAgICAgICAgICAgICAgICAgICBJc1Jlc3VibWlzc2lvbiA9IGV2ZW50U3VibWlzc2lvbi5UeXBlID09IEV2ZW50U3VibWlzc2lvblR5cGUuQ2hhbmdlUmVxdWVzdCwKICAgICAgICAgICAgICAgICAgICAgICAgU3RhdHVzID0gQXBwcm92YWxTdGF0dXMuQXBwcm92ZWQsCiAgICAgICAgICAgICAgICAgICAgICAgIFN1Ym1pdHRlZEJ5ID0gbmV3IFBpbGxhci5Gb3Jtcy5Db250cmFjdHMuTW9kZWxzLkFjY291bnQKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgQWNjb3VudElkID0gR3VpZC5QYXJzZShldmVudFN1Ym1pc3Npb24uQ3JlYXRvcj8uQWNjb3VudElkID8/IEd1aWQuRW1wdHkuVG9TdHJpbmcoKSkKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgX3RvcGljTWVzc2FnZUFnZ3JlZ2F0b3IuQWRkTWVzc2FnZShtZXNzYWdlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQ3JlYXRlZEJ5Q29tbXVuaXR5TWVtYmVySWQgPSBldmVudFN1Ym1pc3Npb24uQ3JlYXRvci5JZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBtZXNzYWdlID0gbmV3IEF6dXJlVG9waWNNZXNzYWdlKAogICAgICAgICAgICAgICAgICAgIEF6dXJlVG9waWMuRm9ybXMsCiAgICAgICAgICAgICAgICAgICAgbmV3IFN1Ym1pc3Npb25BcHByb3ZhbFN0YXR1c0JlY2FtZUFwcHJvdmVkCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBIZWFkZXJzID0ge3siSW5zdGl0dXRpb25JZCIsIHN1Yi5Db21tdW5pdHkuSW5zdGl0dXRpb25JZC5Ub1N0cmluZygpfX0sCiAgICAgICAgICAgICAgICAgICAgICAgIFBheWxvYWQgPSBuZXcgU3VibWlzc2lvbgogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBJZCA9IHN1Yi5TdWJtaXNzaW9uSWQgPz8gR3VpZC5FbXB0eSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZvcm1UeXBlID0gRm9ybVR5cGUuRXZlbnRSZXF1ZXN0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgQXBwcm92ZXIgPSBuZXcgQWNjb3VudAogICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFjY291bnRJZCA9IEd1aWQuUGFyc2UoX2NvbnRleHQuQ3VycmVudE1lbWJlci5BY2NvdW50SWQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgQ29sbGVnaWF0ZUxpbmtJZCA9IHN1Yi5JZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIElzUmVzdWJtaXNzaW9uID0gc3ViLlR5cGUgPT0gRXZlbnRTdWJtaXNzaW9uVHlwZS5DaGFuZ2VSZXF1ZXN0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RhdHVzID0gQXBwcm92YWxTdGF0dXMuQXBwcm92ZWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdWJtaXR0ZWRCeSA9IG5ldyBBY2NvdW50CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQWNjb3VudElkID0gR3VpZC5QYXJzZShzdWIuQ3JlYXRvcj8uQWNjb3VudElkID8/IEd1aWQuRW1wdHkuVG9TdHJpbmcoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgICAgIF9tZXNzYWdlQWdncmVnYXRvci5BZGRNZXNzYWdlKG1lc3NhZ2UpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRGVzY3JpcHRpb24gPSBldmVudFN1Ym1pc3Npb24uRGVzY3JpcHRpb24sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBtZXNzYWdlID0gbmV3IEF6dXJlVG9waWNNZXNzYWdlKAogICAgICAgICAgICAgICAgICAgIEF6dXJlVG9waWMuRm9ybXMsCiAgICAgICAgICAgICAgICAgICAgbmV3IFN1Ym1pc3Npb25BcHByb3ZhbFN0YXR1c0JlY2FtZUFwcHJvdmVkCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBIZWFkZXJzID0ge3siSW5zdGl0dXRpb25JZCIsIHN1Yi5Db21tdW5pdHkuSW5zdGl0dXRpb25JZC5Ub1N0cmluZygpfX0sCiAgICAgICAgICAgICAgICAgICAgICAgIFBheWxvYWQgPSBuZXcgU3VibWlzc2lvbgogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBJZCA9IHN1Yi5TdWJtaXNzaW9uSWQgPz8gR3VpZC5FbXB0eSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZvcm1UeXBlID0gRm9ybVR5cGUuRXZlbnRSZXF1ZXN0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgQXBwcm92ZXIgPSBuZXcgQWNjb3VudAogICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFjY291bnRJZCA9IEd1aWQuUGFyc2UoX2NvbnRleHQuQ3VycmVudE1lbWJlci5BY2NvdW50SWQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgQ29sbGVnaWF0ZUxpbmtJZCA9IHN1Yi5JZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIElzUmVzdWJtaXNzaW9uID0gc3ViLlR5cGUgPT0gRXZlbnRTdWJtaXNzaW9uVHlwZS5DaGFuZ2VSZXF1ZXN0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RhdHVzID0gQXBwcm92YWxTdGF0dXMuQXBwcm92ZWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdWJtaXR0ZWRCeSA9IG5ldyBBY2NvdW50CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQWNjb3VudElkID0gR3VpZC5QYXJzZShzdWIuQ3JlYXRvcj8uQWNjb3VudElkID8/IEd1aWQuRW1wdHkuVG9TdHJpbmcoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgICAgIF9tZXNzYWdlQWdncmVnYXRvci5BZGRNZXNzYWdlKG1lc3NhZ2UpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1lc3NhZ2UgPSBuZXcgQXp1cmVUb3BpY01lc3NhZ2UoCiAgICAgICAgICAgICAgICBBenVyZVRvcGljLkZvcm1zLAogICAgICAgICAgICAgICAgbmV3IFN1Ym1pc3Npb25BcHByb3ZhbFN0YXR1c0JlY2FtZURlbmllZAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIEhlYWRlcnMgPSB7eyJJbnN0aXR1dGlvbklkIiwgZXZlbnRTdWJtaXNzaW9uLkNvbW11bml0eS5JbnN0aXR1dGlvbklkLlRvU3RyaW5nKCl9fSwKICAgICAgICAgICAgICAgICAgICBQYXlsb2FkID0gbmV3IFN1Ym1pc3Npb24KICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIElkID0gZXZlbnRTdWJtaXNzaW9uLlN1Ym1pc3Npb25JZCA/PyBHdWlkLkVtcHR5LAogICAgICAgICAgICAgICAgICAgICAgICBGb3JtVHlwZSA9IEZvcm1UeXBlLkV2ZW50UmVxdWVzdCwKICAgICAgICAgICAgICAgICAgICAgICAgQXBwcm92ZXIgPSBuZXcgQWNjb3VudAogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBBY2NvdW50SWQgPSBHdWlkLlBhcnNlKF9jb250ZXh0LkN1cnJlbnRNZW1iZXIuQWNjb3VudElkKQogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICBDb2xsZWdpYXRlTGlua0lkID0gZXZlbnRTdWJtaXNzaW9uLklkLAogICAgICAgICAgICAgICAgICAgICAgICBJc1Jlc3VibWlzc2lvbiA9IGV2ZW50U3VibWlzc2lvbi5UeXBlID09IEV2ZW50U3VibWlzc2lvblR5cGUuQ2hhbmdlUmVxdWVzdCwKICAgICAgICAgICAgICAgICAgICAgICAgU3RhdHVzID0gQXBwcm92YWxTdGF0dXMuQXBwcm92ZWQsCiAgICAgICAgICAgICAgICAgICAgICAgIFN1Ym1pdHRlZEJ5ID0gbmV3IEFjY291bnQKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgQWNjb3VudElkID0gR3VpZC5QYXJzZShldmVudFN1Ym1pc3Npb24uQ3JlYXRvcj8uQWNjb3VudElkID8/IEd1aWQuRW1wdHkuVG9TdHJpbmcoKSkKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICBfbWVzc2FnZUFnZ3JlZ2F0b3IuQWRkTWVzc2FnZShtZXNzYWdlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBldmVudFN1Ym1pc3Npb24gPSBNb2RlbC5JbnN0YW5jZXMuRmlyc3RPckRlZmF1bHQoKS5FdmVudFN1Ym1pc3Npb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>make it work on CoverPhoto.cshtml and fix name</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1797,10 +1802,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQ3JlYXRlZEJ5Q29tbXVuaXR5TWVtYmVySWQgPSBldmVudFN1Ym1pc3Npb24uQ3JlYXRvci5JZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBldmVudFN1Ym1pc3Npb24gPSBNb2RlbC5JbnN0YW5jZXMuRmlyc3RPckRlZmF1bHQoKS5FdmVudFN1Ym1pc3Npb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRGVzY3JpcHRpb24gPSBldmVudFN1Ym1pc3Npb24uRGVzY3JpcHRpb24sCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1841,10 +1846,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRGVzY3JpcHRpb24gPSBldmVudFN1Ym1pc3Npb24uRGVzY3JpcHRpb24sCiAgICAgICAgICAgICAgICAgICAgICAgIENyZWF0ZWRCeUNvbW11bml0eU1lbWJlcklkID0gZXZlbnRTdWJtaXNzaW9uLkNyZWF0b3IuSWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciByb29tUmVzZXJ2YXRpb25DcmVhdGVQcm92aWRlckV2ZW50c0RhdGEgPSBuZXcgewogICAgICAgICAgICAgICAgICAgIEV2ZW50U3VibWlzc2lvbiA9IG5ldyB7CiAgICAgICAgICAgICAgICAgICAgICAgIE1vZGVsLk5hbWUsIE1vZGVsLklkLAogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgSW5zdGFuY2VzID0gaW5zdGFuY2VzLlRvQXJyYXkoKQogICAgICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBldmVudFN1Ym1pc3Npb24gPSBNb2RlbC5JbnN0YW5jZXMuRmlyc3RPckRlZmF1bHQoKS5FdmVudFN1Ym1pc3Npb247Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -1853,9 +1858,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxSb29tUmVzZXJ2YXRpb25BdmFpbGFiaWxpdHlDaGVja2VyXD4=</last-search>
+      <last-search encoding="base64">XDxDcmVhdGVGb3Jtc091dHB1dFRvcGljTWVzc2FnZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSb29tUmVzZXJ2YXRpb25BdmFpbGFiaWxpdHlDaGVja2VyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxDcmVhdGVGb3Jtc091dHB1dFRvcGljTWVzc2FnZVw+</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>\\&quot;</last-substitute>
       <last-dir>-1</last-dir>
