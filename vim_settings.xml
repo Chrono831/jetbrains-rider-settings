@@ -5,12 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>provider-event</entry>
-        <entry encoding="base64">XDxldnRcPg==</entry>
-        <entry encoding="base64">XDxjb21tZW50Qm94XD4=</entry>
-        <entry encoding="base64">XDxidXR0b25cPg==</entry>
-        <entry>ProviderEvent</entry>
-        <entry>format</entry>
         <entry encoding="base64">XDxyb29tUmVzZXJ2YXRpb25zVXNlZFw+</entry>
         <entry encoding="base64">XDxSb29tUmVzZXJ2YXRpb25BdmFpbGFiaWxpdHlDaGVja2VyXD4=</entry>
         <entry encoding="base64">XDxBenVyZVRvcGljTWVzc2FnZVw+</entry>
@@ -25,6 +19,12 @@
         <entry encoding="base64">XDxjYW5jZWxEaWFsb2dcPg==</entry>
         <entry encoding="base64">XDxCdWlsZE1lc3NhZ2VcPg==</entry>
         <entry encoding="base64">XDxfdG9waWNNZXNzYWdlQWdncmVnYXRvclw+</entry>
+        <entry>inding</entry>
+        <entry encoding="base64">XDx1c2VyTWVzc2FnZVJlY2lwaWVudHNcPg==</entry>
+        <entry encoding="base64">XDxhZG1pbk1lc3NhZ2VcPg==</entry>
+        <entry encoding="base64">XDx1c2VyTWVzc2FnZVJlc3BvbnNlXD4=</entry>
+        <entry encoding="base64">XDx1c2VyTWVzc2FnZVw+</entry>
+        <entry encoding="base64">XDxfbWFpbFByb2Nlc3Nvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>45</entry>
@@ -83,39 +83,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/InstanceProperties.cshtml" timestamp="1592493352221">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="78" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593520172786">
-        <mark key="p" line="0" column="40" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="23" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Helpers/Messaging/AzureTopicMessageHelper.cs" timestamp="1593455058972">
-        <mark key="[" line="31" column="76" />
-        <mark key="]" line="31" column="82" />
-        <mark key="." line="31" column="81" />
-        <mark key="^" line="31" column="82" />
-      </file>
-      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/AzureTopicInfrastructure/TopicMessageSender.cs" timestamp="1593453873757">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="59" column="25" />
-        <mark key="^" line="58" column="44" />
-        <mark key="." line="58" column="43" />
-      </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Models/EventSubmission/CreateEventSubmissionModel.cs" timestamp="1592502715749">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="92" column="57" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Views/Calendar/Details.aspx" timestamp="1593434372461">
-        <mark key="'" line="1218" column="16" />
-        <mark key="[" line="500" column="0" />
-        <mark key="]" line="500" column="12" />
-        <mark key="." line="500" column="12" />
-        <mark key="^" line="805" column="27" />
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Helpers/TopicMessageAggregatorExtensions.cs" timestamp="1593434649909">
         <mark key="[" line="10" column="52" />
@@ -127,12 +97,12 @@
         <mark key="[" line="11" column="19" />
         <mark key="]" line="11" column="42" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" timestamp="1593444838946">
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" timestamp="1593539438468">
         <mark key="'" line="1367" column="63" />
-        <mark key="[" line="451" column="77" />
-        <mark key="]" line="451" column="83" />
-        <mark key="^" line="451" column="83" />
-        <mark key="." line="451" column="82" />
+        <mark key="[" line="450" column="58" />
+        <mark key="]" line="450" column="58" />
+        <mark key="^" line="448" column="25" />
+        <mark key="." line="450" column="58" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/CoverPhoto.cshtml" timestamp="1593096002694">
         <mark key="'" line="244" column="70" />
@@ -140,6 +110,52 @@
         <mark key="]" line="237" column="0" />
         <mark key="^" line="241" column="51" />
         <mark key="." line="237" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Helpers/Messaging/RegistrationSubmissionMessageProcessor.cs" timestamp="1593540452801">
+        <mark key="'" line="28" column="12" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Controllers/Base/GroupContext.cs" timestamp="1593540355391">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593540150734">
+        <mark key="p" line="0" column="40" />
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+        <mark key="^" line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Helpers/Messaging/AzureTopicMessageHelper.cs" timestamp="1593539653194">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/AzureTopicInfrastructure/TopicMessageSender.cs" timestamp="1593453873757">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="59" column="25" />
+        <mark key="^" line="58" column="44" />
+        <mark key="." line="58" column="43" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/713322ED-4A14-431F-B665-FF782DC37F49/d4/828422fe/ApprovalStatus.cs" timestamp="1593539155855">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Views/Calendar/Details.aspx" timestamp="1593434372461">
+        <mark key="'" line="1218" column="16" />
+        <mark key="[" line="500" column="0" />
+        <mark key="]" line="500" column="12" />
+        <mark key="." line="500" column="12" />
+        <mark key="^" line="805" column="27" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Web.config" timestamp="1593540077337">
+        <mark key="'" line="580" column="22" />
+        <mark key="[" line="1637" column="0" />
+        <mark key="]" line="1640" column="26" />
+        <mark key="." line="1639" column="73" />
       </file>
       <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/Review.cshtml" timestamp="1593095997383">
         <mark key="'" line="254" column="71" />
@@ -155,27 +171,11 @@
         <mark key="." line="120" column="0" />
         <mark key="^" line="119" column="109" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationInstanceScript.cshtml" timestamp="1591982515841">
-        <mark key="'" line="35" column="64" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="30" column="21" />
-      </file>
       <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Services/AzureQueueInfrastructure/QueueMessageSender.cs" timestamp="1593453978256">
         <mark key="[" line="59" column="52" />
         <mark key="]" line="59" column="53" />
         <mark key="^" line="59" column="53" />
         <mark key="." line="59" column="53" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_RoomReservationAvailableRoomSearchComponentScript.cshtml" timestamp="1591983669607">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="62" />
-        <mark key="^" line="158" column="57" />
-        <mark key="." line="151" column="0" />
-      </file>
-      <file name="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Event.cs" timestamp="1592497663129">
-        <mark key="'" line="52" column="12" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1592849760853">
         <mark key="'" line="2151" column="137" />
@@ -183,11 +183,6 @@
         <mark key="]" line="1942" column="63" />
         <mark key="^" line="2479" column="1" />
         <mark key="." line="1942" column="63" />
-      </file>
-      <file name="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Views/EventSubmission/_OnlineLocationInstance.cshtml" timestamp="1591899450315">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="78" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Models/GroupCalendarDetailModel.cs" timestamp="1592503576844">
         <mark key="'" line="52" column="36" />
@@ -205,15 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1290" column="82" filename="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Views/Calendar/Details.aspx" />
-      <jump line="1291" column="79" filename="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Views/Calendar/Details.aspx" />
-      <jump line="48" column="34" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Event.cs" />
-      <jump line="52" column="12" filename="$USER_HOME$/source/repos/Collegiatelink.Legacy/StudentVoiceGroups.Entities/Event.cs" />
-      <jump line="865" column="72" filename="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Views/Calendar/Details.aspx" />
-      <jump line="1295" column="107" filename="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Views/Calendar/Details.aspx" />
-      <jump line="599" column="89" filename="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Views/Calendar/Details.aspx" />
-      <jump line="638" column="65" filename="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Views/Calendar/Details.aspx" />
-      <jump line="52" column="36" filename="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Models/GroupCalendarDetailModel.cs" />
       <jump line="837" column="47" filename="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Views/Calendar/Details.aspx" />
       <jump line="1289" column="122" filename="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Views/Calendar/Details.aspx" />
       <jump line="1293" column="82" filename="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Views/Calendar/Details.aspx" />
@@ -305,6 +291,15 @@
       <jump line="119" column="12" filename="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Controllers/CalendarController.cs" />
       <jump line="82" column="12" filename="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Controllers/CalendarController.cs" />
       <jump line="53" column="49" filename="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Controllers/CalendarController.cs" />
+      <jump line="580" column="22" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Web.config" />
+      <jump line="216" column="54" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Helpers/Messaging/RegistrationSubmissionMessageProcessor.cs" />
+      <jump line="215" column="0" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Helpers/Messaging/RegistrationSubmissionMessageProcessor.cs" />
+      <jump line="171" column="20" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Helpers/Messaging/RegistrationSubmissionMessageProcessor.cs" />
+      <jump line="138" column="21" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Helpers/Messaging/RegistrationSubmissionMessageProcessor.cs" />
+      <jump line="162" column="20" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Helpers/Messaging/RegistrationSubmissionMessageProcessor.cs" />
+      <jump line="137" column="21" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Helpers/Messaging/RegistrationSubmissionMessageProcessor.cs" />
+      <jump line="20" column="40" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Helpers/Messaging/RegistrationSubmissionMessageProcessor.cs" />
+      <jump line="28" column="12" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Helpers/Messaging/RegistrationSubmissionMessageProcessor.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -350,7 +345,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0YXR1cyA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -386,28 +381,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>; (type == SubmissionApprovalMessageTypes.SubmissionApprovalStatusBecameApproved)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfdG9waWNNZXNzYWdlQWdncmVnYXRvclw+</text>
+        <text encoding="base64">XDxfbWFpbFByb2Nlc3Nvclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXR1cyA9ICh0eXBlID09IFN1Ym1pc3Npb25BcHByb3ZhbE1lc3NhZ2VUeXBlcy5TdWJtaXNzaW9uQXBwcm92YWxTdGF0dXNCZWNhbWVBcHByb3ZlZCkgPyBBcHByb3ZhbFN0YXR1cy5BcHByb3ZlZCwK</text>
+        <text encoding="base64">ICAgICAgPGRlcGVuZGVudEFzc2VtYmx5PgogICAgICAgIDxhc3NlbWJseUlkZW50aXR5IG5hbWU9Ik5ld3RvbnNvZnQuSnNvbiIgcHVibGljS2V5VG9rZW49IjMwYWQ0ZmU2YjJhNmFlZWQiIGN1bHR1cmU9Im5ldXRyYWwiIC8+CiAgICAgICAgPGJpbmRpbmdSZWRpcmVjdCBvbGRWZXJzaW9uPSIwLjAuMC4wLTEyLjAuMy4wIiBuZXdWZXJzaW9uPSIxMi4wLjMuMCIgLz4KICAgICAgPC9kZXBlbmRlbnRBc3NlbWJseT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0YXR1cyA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA/IEFwcHJvdmFsU3RhdHVzLkFwcHJvdmVkLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhd2FpdCBfbWVzc2FnZVByb2Nlc3Nvci5TZW5kRGVuaWFsTm90aWZpY2F0aW9uKGV2ZW50U3VibWlzc2lvbiwgZXZlbnRVcmwsIG1vZGVsLkNsb3NpbmdDb21tZW50KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBkZW5pZWRNZXNzYWdlID0gQXp1cmVUb3BpY01lc3NhZ2VIZWxwZXIuR2V0Rm9ybXNPdXRwdXRUb3BpY01lc3NhZ2UoZXZlbnRTdWJtaXNzaW9uLCBfY29udGV4dCwKICAgICAgICAgICAgICAgICAgICBTdWJtaXNzaW9uQXBwcm92YWxNZXNzYWdlVHlwZXMuU3VibWlzc2lvbkFwcHJvdmFsU3RhdHVzQmVjYW1lRGVuaWVkKTsKICAgICAgICAgICAgICAgIF90b3BpY01lc3NhZ2VBZ2dyZWdhdG9yLkFkZE1lc3NhZ2UoZGVuaWVkTWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1830,7 +1825,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGV2ZW50U3RhdGVVcGRhdGVTdWNjZWVkZWRNZXNzYWdlID0gX2NvbnRleHQuQnVpbGRNZXNzYWdlPFN1Ym1pc3Npb25BcHByb3ZhbFN0YXR1c0JlY2FtZURlbmllZD4obWVzc2FnZSA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBtZXNzYWdlLlBheWxvYWQgPSBuZXcgRXZlbnRTdGF0ZQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIEV2ZW50SWQgPSBAZXZlbnQuSWQsCiAgICAgICAgICAgICAgICAgICAgU3RhdHVzID0gUGlsbGFyLkV2ZW50cy5Db250cmFjdHMuTW9kZWxzLkV2ZW50U3RhdHVzLkNhbmNlbGVkLAogICAgICAgICAgICAgICAgICAgIENvbW1lbnRzID0gQGV2ZW50LkNvbW1lbnRzLAogICAgICAgICAgICAgICAgICAgIFVwZGF0ZWRCeUFjY291bnRJZCA9IEd1aWQuUGFyc2UoX2NvbnRleHQuQ3VycmVudE1lbWJlci5BY2NvdW50SWQpCiAgICAgICAgICAgICAgICB9OwogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1871,10 +1866,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9jb250ZXh0LkJ1aWxkTWVzc2FnZTxFdmVudFN0YXRlVXBkYXRlU3VjY2VlZGVkTWVzc2FnZT4obWVzc2FnZSA9PgogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIG1lc3NhZ2UuUGF5bG9hZCA9IG5ldyBFdmVudFN0YXRlCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBFdmVudElkID0gQGV2ZW50LklkLAogICAgICAgICAgICAgICAgICAgICAgICBTdGF0dXMgPSBQaWxsYXIuRXZlbnRzLkNvbnRyYWN0cy5Nb2RlbHMuRXZlbnRTdGF0dXMuQ2FuY2VsZWQsCiAgICAgICAgICAgICAgICAgICAgICAgIENvbW1lbnRzID0gQGV2ZW50LkNvbW1lbnRzLAogICAgICAgICAgICAgICAgICAgICAgICBVcGRhdGVkQnlBY2NvdW50SWQgPSBHdWlkLlBhcnNlKF9jb250ZXh0LkN1cnJlbnRNZW1iZXIuQWNjb3VudElkKQogICAgICAgICAgICAgICAgICAgIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFBheWxvYWQgPSBuZXcgU3VibWlzc2lvbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIElkID0gZXZlbnRTdWJtaXNzaW9uLlN1Ym1pc3Npb25JZCA/PyBHdWlkLkVtcHR5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZvcm1UeXBlID0gRm9ybVR5cGUuRXZlbnRSZXF1ZXN0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFwcHJvdmVyID0gbmV3IEFjY291bnQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFjY291bnRJZCA9IEd1aWQuUGFyc2UoY29udGV4dC5DdXJyZW50TWVtYmVyLkFjY291bnRJZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENvbGxlZ2lhdGVMaW5rSWQgPSBldmVudFN1Ym1pc3Npb24uSWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSXNSZXN1Ym1pc3Npb24gPSBldmVudFN1Ym1pc3Npb24uVHlwZSA9PSBFdmVudFN1Ym1pc3Npb25UeXBlLkNoYW5nZVJlcXVlc3QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RhdHVzID0gQXBwcm92YWxTdGF0dXMuQXBwcm92ZWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3VibWl0dGVkQnkgPSBuZXcgQWNjb3VudAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQWNjb3VudElkID0gR3VpZC5QYXJzZShldmVudFN1Ym1pc3Npb24uQ3JlYXRvcj8uQWNjb3VudElkID8/IEd1aWQuRW1wdHkuVG9TdHJpbmcoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9fbWFpbFByb2Nlc3Nvci5TZW5kTWVzc2FnZSh1c2VyTWVzc2FnZSwgdXNlck1lc3NhZ2VSZWNpcGllbnRzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -1883,9 +1878,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfdG9waWNNZXNzYWdlQWdncmVnYXRvclw+</last-search>
+      <last-search encoding="base64">XDxfbWFpbFByb2Nlc3Nvclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfdG9waWNNZXNzYWdlQWdncmVnYXRvclw+</last-pattern>
+      <last-pattern encoding="base64">XDxfbWFpbFByb2Nlc3Nvclw+</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>\\&quot;</last-substitute>
       <last-dir>-1</last-dir>
