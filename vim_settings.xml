@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxDcmVhdGVGb3Jtc091dHB1dFRvcGljTWVzc2FnZVw+</entry>
         <entry encoding="base64">XDxTdWJtaXNzaW9uQXBwcm92YWxNZXNzYWdlVHlwZXNcPg==</entry>
         <entry encoding="base64">XDxTdWJtaXNzaW9uQXBwcm92YWxTdGF0dXNCZWNhbWVBcHByb3ZlZFw+</entry>
         <entry>_context</entry>
@@ -25,6 +24,7 @@
         <entry>Newton</entry>
         <entry>Core</entry>
         <entry>Student</entry>
+        <entry>Cancel</entry>
       </history-search>
       <history-cmd>
         <entry>45</entry>
@@ -88,7 +88,7 @@
         <mark key="]" line="605" column="29" />
         <mark key="." line="605" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593605427845">
+      <file name="/Dummy.txt" timestamp="1593606645008">
         <mark key="p" line="0" column="40" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -134,8 +134,13 @@
         <mark key="]" line="1639" column="73" />
         <mark key="." line="1639" column="73" />
       </file>
-      <file name="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Controllers/CalendarController.cs" timestamp="1593565457844">
-        <mark key="'" line="53" column="49" />
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Controllers/EventsController.cs" timestamp="1593606285764">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
+      </file>
+      <file name="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Controllers/CalendarController.cs" timestamp="1593606206827">
+        <mark key="'" line="159" column="17" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -180,7 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="16" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
       <jump line="215" column="30" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
       <jump line="220" column="33" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
       <jump line="224" column="63" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/Areas/Organization/Controllers/EventSubmissionController.cs" />
@@ -280,6 +284,7 @@
       <jump line="75" column="40" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/packages.config" />
       <jump line="95" column="28" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/packages.config" />
       <jump line="177" column="38" filename="$USER_HOME$/source/repos/App.Submitter/App.Submitter/packages.config" />
+      <jump line="159" column="17" filename="$USER_HOME$/source/repos/App.CC.Org.Events/App.CC.Org.Events/Areas/Organization/Controllers/CalendarController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -325,7 +330,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPFByaXZhdGU+VHJ1ZTwvUHJpdmF0ZT4K</text>
+        <text>remove code that was causing double message sending on delete from the events list... I think</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -364,22 +369,22 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>Student</text>
+        <text>Cancel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPFByaXZhdGU+VHJ1ZTwvUHJpdmF0ZT4K</text>
       </register>
       <register name="1" type="2">
-        <text>reformat to figure out wtf is going on with the build</text>
+        <text>remove code that was causing double message sending on delete from the events list... I think</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>update CLL Nuget v2</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBldmVudFN0YXRlVXBkYXRlU3VjY2VlZGVkTWVzc2FnZSA9IF9jb250ZXh0LkJ1aWxkTWVzc2FnZTxFdmVudFN0YXRlVXBkYXRlU3VjY2VlZGVkTWVzc2FnZT4oCiAgICAgICAgICAgICAgICAgICAgbWVzc2FnZSA9PgogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZS5QYXlsb2FkID0gbmV3IEV2ZW50U3RhdGUKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgRXZlbnRJZCA9IG1vZGVsLklkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RhdHVzID0gRXZlbnRTdGF0dXMuQ2FuY2VsZWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb21tZW50cyA9IG1vZGVsLkNvbW1lbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBVcGRhdGVkQnlBY2NvdW50SWQgPSBHdWlkLlBhcnNlKF9jb250ZXh0LkN1cnJlbnRNZW1iZXIuQWNjb3VudElkKQogICAgICAgICAgICAgICAgICAgICAgICB9OwogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgZXZlbnRTdGF0ZVVwZGF0ZVN1Y2NlZWRlZE1lc3NhZ2UuSGVhZGVyc1siSW5zdGl0dXRpb25JZCJdID0KICAgICAgICAgICAgICAgICAgICAoX2NvbnRleHQuQ29tbXVuaXR5Lkluc3RpdHV0aW9uSWQgPz8gMCkuVG9TdHJpbmcoKTsKCiAgICAgICAgICAgICAgICBfdG9waWNNZXNzYWdlQWdncmVnYXRvci5BZGRNZXNzYWdlKGV2ZW50U3RhdGVVcGRhdGVTdWNjZWVkZWRNZXNzYWdlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgUGlsbGFyLkZvcm1zLkNvbnRyYWN0cy5NZXNzYWdlczsK</text>
+        <text>reformat to figure out wtf is going on with the build</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1805,7 +1810,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgUGlsbGFyLkZvcm1zLkNvbnRyYWN0cy5NZXNzYWdlczsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1858,9 +1863,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Student</last-search>
+      <last-search>Cancel</last-search>
       <last-offset />
-      <last-pattern>Student</last-pattern>
+      <last-pattern>Cancel</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>\\&quot;</last-substitute>
       <last-dir>1</last-dir>
